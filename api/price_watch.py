@@ -37,29 +37,40 @@ def get_google_sheet():
     print("--- [LOG] Successfully connected to Google Sheet ---")
     return worksheet
 
-def search_google_shopping(upc):
-    """Searches Google Shopping for a specific UPC and returns results."""
-    print(f"--- [LOG] Inside search_google_shopping() for UPC: {upc} ---")
+def search_google_shopping(mpn):
+    """Searches Google Shopping for a specific MPN."""
+    print(f"--- [LOG] Inside search_google_shopping() for MPN: {mpn} ---")
     if not SERPAPI_KEY:
         print("[ERROR] SERPAPI_KEY env var not set")
         raise ValueError("SERPAPI_KEY env var not set")
         
-    search = GoogleSearch({
+    # --- THIS IS THE FIX ---
+    # We are now using 'q' (query) with the MPN.
+    # This is a strong search signal and more reliable than a GTIN filter
+    # if the number isn't a valid GTIN.
+    params = {
         "engine": "google_shopping",
-        "q": upc,
-        "api_key": SERPAPI_KEY
-    })
+        "api_key": SERPAPI_KEY,
+        "q": mpn
+    }
     
-    print("[LOG] Sending request to SerpApi...")
+    print(f"[LOG] Sending request to SerpApi with query: {mpn}")
+    search = GoogleSearch(params)
     results = search.get_dict()
     
     if "error" in results:
         print(f"[ERROR] SerpApi returned an error: {results['error']}")
         return []
         
+    # Combine all possible result types to find offers
     shopping_results = results.get("shopping_results", [])
-    print(f"[LOG] SerpApi returned {len(shopping_results)} shopping results.")
-    return shopping_results
+    product_results = results.get("product_results", {}).get("offers", [])
+    sellers_results = results.get("sellers_results", {}).get("online_sellers", [])
+    
+    all_offers = shopping_results + product_results + sellers_results
+    
+    print(f"[LOG] SerpApi returned {len(all_offers)} total offers.")
+    return all_offers
 
 def find_competitor_price(results, competitor_name):
     """Finds a specific competitor's price from the search results."""
@@ -109,23 +120,25 @@ class handler(BaseHTTPRequestHandler):
                 sheet_row_index = index + 2 # +1 for header, +1 for 0-index
                 print(f"\n--- Processing Sheet Row {sheet_row_index} ---")
                 
-                upc = row.get('UPC')
+                # --- THIS IS THE CHANGE ---
+                # Look for 'MPN' column instead of 'UPC'
+                mpn = row.get('MPN') 
                 my_price = row.get('My_Price')
                 compA_name = row.get('CompetitorA_Name')
                 compB_name = row.get('CompetitorB_Name')
 
-                if not upc:
-                    print(f"[LOG] Skipping row {sheet_row_index}: no UPC")
+                if not mpn:
+                    print(f"[LOG] Skipping row {sheet_row_index}: no MPN")
                     continue
                 
                 if not my_price:
                     print(f"[LOG] Skipping row {sheet_row_index}: no 'My_Price' for comparison")
                     continue
 
-                print(f"[LOG] Row Data: UPC={upc}, MyPrice={my_price}, CompA={compA_name}, CompB={compB_name}")
+                print(f"[LOG] Row Data: MPN={mpn}, MyPrice={my_price}, CompA={compA_name}, CompB={compB_name}")
                 
                 # --- This is the core logic ---
-                shopping_results = search_google_shopping(str(upc))
+                shopping_results = search_google_shopping(str(mpn))
                 
                 price_A_str = find_competitor_price(shopping_results, compA_name)
                 price_B_str = find_competitor_price(shopping_results, compB_name)
