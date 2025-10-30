@@ -29,7 +29,7 @@ INCLUDE_PARTIALS            = True
 QUERY_EXTRA_FILTERS         = "-financial_status:voided -financial_status:refunded -status:cancelled"
 
 # NEW: Google Sheet settings
-GOOGLE_SHEET_URL = os.environ.get('GOOGLE_SHEET_URL')
+GOOGLE_SHEET_URL = os.environ.get('UNFULFILLED_SHEET_URL')
 SHEET_TAB_NAME = '_MasterOrderList'
 
 # ──────────────────────────────────────────────────────────────

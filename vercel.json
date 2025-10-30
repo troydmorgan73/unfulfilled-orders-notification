@@ -1,6 +1,9 @@
 {
   "functions": {
-    "api/index.py": {
+    "api/unfulfilled.py": {
+      "maxDuration": 300
+    },
+    "api/price_watch.py": {
       "maxDuration": 300
     }
   }
