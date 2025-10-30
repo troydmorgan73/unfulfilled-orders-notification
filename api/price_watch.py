@@ -4,107 +4,165 @@ import gspread
 from http.server import BaseHTTPRequestHandler
 from serpapi import GoogleSearch
 from datetime import datetime
+import traceback # Import traceback for detailed error logging
 
 # --- Config ---
-GOOGLE_SHEET_URL = os.environ.get('PRICE_WATCH_SHEET_URL')
+PRICE_WATCH_SHEET_URL = os.environ.get('PRICE_WATCH_SHEET_URL')
 SHEET_TAB_NAME = 'Price_Watch'
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
+GOOGLE_CREDENTIALS_JSON = os.environ.get('GOOGLE_CREDENTIALS_JSON')
 
 def get_google_sheet():
     """Connects to Google Sheets using Vercel Env Vars."""
-    creds_json_str = os.environ.get('GOOGLE_CREDENTIALS_JSON')
-    if not creds_json_str:
+    print("--- [LOG] Inside get_google_sheet() ---")
+    if not GOOGLE_CREDENTIALS_JSON:
+        print("[ERROR] GOOGLE_CREDENTIALS_JSON env var not set")
         raise ValueError("GOOGLE_CREDENTIALS_JSON env var not set")
-    if not GOOGLE_SHEET_URL:
-        raise ValueError("GOOGLE_SHEET_URL env var not set")
-
-    creds_dict = json.loads(creds_json_str)
+    if not PRICE_WATCH_SHEET_URL:
+        print("[ERROR] PRICE_WATCH_SHEET_URL env var not set")
+        raise ValueError("PRICE_WATCH_SHEET_URL env var not set")
+        
+    print("[LOG] Env vars found. Loading JSON credentials...")
+    creds_dict = json.loads(GOOGLE_CREDENTIALS_JSON)
+    
+    print("[LOG] Authenticating with Google Service Account...")
     gc = gspread.service_account_from_dict(creds_dict)
-    sheet = gc.open_by_url(GOOGLE_SHEET_URL)
-    return sheet.worksheet(SHEET_TAB_NAME)
+    
+    print(f"[LOG] Opening Google Sheet by URL: {PRICE_WATCH_SHEET_URL}")
+    sheet = gc.open_by_url(PRICE_WATCH_SHEET_URL)
+    
+    print(f"[LOG] Accessing worksheet: {SHEET_TAB_NAME}")
+    worksheet = sheet.worksheet(SHEET_TAB_NAME)
+    
+    print("--- [LOG] Successfully connected to Google Sheet ---")
+    return worksheet
 
 def search_google_shopping(upc):
     """Searches Google Shopping for a specific UPC and returns results."""
-    print(f"Searching for UPC: {upc}")
+    print(f"--- [LOG] Inside search_google_shopping() for UPC: {upc} ---")
+    if not SERPAPI_KEY:
+        print("[ERROR] SERPAPI_KEY env var not set")
+        raise ValueError("SERPAPI_KEY env var not set")
+        
     search = GoogleSearch({
         "engine": "google_shopping",
         "q": upc,
         "api_key": SERPAPI_KEY
     })
+    
+    print("[LOG] Sending request to SerpApi...")
     results = search.get_dict()
-    return results.get("shopping_results", [])
+    
+    if "error" in results:
+        print(f"[ERROR] SerpApi returned an error: {results['error']}")
+        return []
+        
+    shopping_results = results.get("shopping_results", [])
+    print(f"[LOG] SerpApi returned {len(shopping_results)} shopping results.")
+    return shopping_results
 
 def find_competitor_price(results, competitor_name):
     """Finds a specific competitor's price from the search results."""
     if not competitor_name:
         return None # Skip if no competitor name is in the sheet
-
+        
     for item in results:
         source = item.get("source", "").lower()
-        # Check if competitor name is in the 'source' (e.g., "Competitive Cyclist")
         if competitor_name.lower() in source:
-            return item.get("price")
+            price_str = item.get("price", "0") # Get price as string
+            print(f"[LOG] Found match for '{competitor_name}'. Price: {price_str}")
+            
+            # Clean the price string (remove $, commas)
+            price_cleaned = price_str.replace('$', '').replace(',', '')
+            
+            try:
+                # Convert to float to ensure it's a valid number
+                float_price = float(price_cleaned)
+                return price_cleaned # Return the cleaned string for the sheet
+            except ValueError:
+                print(f"[WARN] Could not convert price '{price_str}' to a number. Skipping.")
+                return None
+                
+    print(f"[LOG] No match found for '{competitor_name}' in results.")
     return None # Not found
 
 # This is the Vercel Serverless Function handler
 class handler(BaseHTTPRequestHandler):
     def do_GET(self):
+        print("\n" + "="*50)
+        print(f"▶ Vercel function handler started at {datetime.now()}")
+        print("="*50)
+        
         try:
-            print("▶ Starting Price Watch script...")
+            print("▶ [STEP 1] Connecting to Google Sheet...")
             worksheet = get_google_sheet()
-
-            # Get all rows from sheet as a list of dictionaries
+            
+            print("▶ [STEP 2] Fetching all records from sheet...")
             rows_to_check = worksheet.get_all_records()
-
-            # This list will hold all the updates we need to make
+            print(f"[LOG] Found {len(rows_to_check)} rows to process.")
+            
             cell_updates = []
-
-            # Get the current time
             now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
 
             # Loop over each row from the Google Sheet
             for index, row in enumerate(rows_to_check):
                 sheet_row_index = index + 2 # +1 for header, +1 for 0-index
-
+                print(f"\n--- Processing Sheet Row {sheet_row_index} ---")
+                
                 upc = row.get('UPC')
                 my_price = row.get('My_Price')
                 compA_name = row.get('CompetitorA_Name')
                 compB_name = row.get('CompetitorB_Name')
 
                 if not upc:
-                    print(f"Skipping row {sheet_row_index}: no UPC")
+                    print(f"[LOG] Skipping row {sheet_row_index}: no UPC")
+                    continue
+                
+                if not my_price:
+                    print(f"[LOG] Skipping row {sheet_row_index}: no 'My_Price' for comparison")
                     continue
 
+                print(f"[LOG] Row Data: UPC={upc}, MyPrice={my_price}, CompA={compA_name}, CompB={compB_name}")
+                
                 # --- This is the core logic ---
-                shopping_results = search_google_shopping(upc)
-
-                price_A = find_competitor_price(shopping_results, compA_name)
-                price_B = find_competitor_price(shopping_results, compB_name)
-
+                shopping_results = search_google_shopping(str(upc))
+                
+                price_A_str = find_competitor_price(shopping_results, compA_name)
+                price_B_str = find_competitor_price(shopping_results, compB_name)
+                
                 # Prep cell updates for this row
-                if price_A:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 5, price_A)) # Col E
-
-                if price_B:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 7, price_B)) # Col G
-
+                if price_A_str:
+                    cell_updates.append(gspread.Cell(sheet_row_index, 5, price_A_str)) # Col E
+                
+                if price_B_str:
+                    cell_updates.append(gspread.Cell(sheet_row_index, 7, price_B_str)) # Col G
+                
                 # Update status
                 status = "Match"
-                if price_A and float(price_A.replace('$', '').replace(',', '')) < float(my_price):
-                    status = "ALERT - A Low"
-                elif price_B and float(price_B.replace('$', '').replace(',', '')) < float(my_price):
-                    status = "ALERT - B Low"
+                try:
+                    my_price_float = float(str(my_price).replace(',', '')) # Clean My_Price
+                    if price_A_str and float(price_A_str) < my_price_float:
+                        status = "ALERT - A Low"
+                    elif price_B_str and float(price_B_str) < my_price_float:
+                        status = "ALERT - B Low"
+                except ValueError as e:
+                    print(f"[WARN] Could not compare prices for row {sheet_row_index}. MyPrice '{my_price}' is not a valid number. Error: {e}")
+                    status = "ERROR - Check My_Price"
 
                 cell_updates.append(gspread.Cell(sheet_row_index, 8, status)) # Col H
                 cell_updates.append(gspread.Cell(sheet_row_index, 9, now_str)) # Col I
+                print(f"--- Finished Processing Row {sheet_row_index} ---")
 
             # Write all updates to the Google Sheet in one batch
             if cell_updates:
-                print(f"Batch updating {len(cell_updates)} cells...")
+                print(f"\n▶ [STEP 3] Batch updating {len(cell_updates)} cells in Google Sheet...")
                 worksheet.update_cells(cell_updates, value_input_option='USER_ENTERED')
-
-            print("✅ Price Watch script finished.")
-
+                print("[LOG] Batch update complete.")
+            else:
+                print("\n▶ [STEP 3] No cell updates to perform.")
+            
+            print("✅ Price Watch script finished successfully.")
+            
             # Send Vercel Response
             self.send_response(200)
             self.send_header('Content-type', 'application/json')
@@ -113,11 +171,21 @@ class handler(BaseHTTPRequestHandler):
             self.wfile.write(response_body.encode('utf-8'))
 
         except Exception as e:
-            print(f"Unhandled exception: {repr(e)}")
+            # THIS IS THE MOST IMPORTANT PART
+            print("="*50)
+            print(f"🔥🔥🔥 UNHANDLED EXCEPTION! SCRIPT CRASHED. 🔥🔥🔥")
+            print(f"Error Type: {type(e).__name__}")
+            print(f"Error Message: {e}")
+            print("--- Full Traceback ---")
+            # Print the full traceback to the Vercel log
+            traceback.print_exc()
+            print("="*50)
+            
+            # Send Vercel Response
             self.send_response(500)
             self.send_header('Content-type', 'application/json')
             self.end_headers()
-            response_body = json.dumps({"status": "error", "message": str(e)})
+            response_body = json.dumps({"status": "error", "message": str(e), "traceback": traceback.format_exc()})
             self.wfile.write(response_body.encode('utf-8'))
-
+        
         return
