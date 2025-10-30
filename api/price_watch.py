@@ -44,10 +44,6 @@ def search_google_shopping(mpn):
         print("[ERROR] SERPAPI_KEY env var not set")
         raise ValueError("SERPAPI_KEY env var not set")
         
-    # --- THIS IS THE FIX ---
-    # We are now using 'q' (query) with the MPN.
-    # This is a strong search signal and more reliable than a GTIN filter
-    # if the number isn't a valid GTIN.
     params = {
         "engine": "google_shopping",
         "api_key": SERPAPI_KEY,
@@ -62,7 +58,6 @@ def search_google_shopping(mpn):
         print(f"[ERROR] SerpApi returned an error: {results['error']}")
         return []
         
-    # Combine all possible result types to find offers
     shopping_results = results.get("shopping_results", [])
     product_results = results.get("product_results", {}).get("offers", [])
     sellers_results = results.get("sellers_results", {}).get("online_sellers", [])
@@ -72,24 +67,31 @@ def search_google_shopping(mpn):
     print(f"[LOG] SerpApi returned {len(all_offers)} total offers.")
     return all_offers
 
-def find_competitor_price(results, competitor_name):
-    """Finds a specific competitor's price from the search results."""
+def find_competitor_offer(results, competitor_name):
+    """
+    Finds a specific competitor's offer and returns a dict with title and price.
+    """
     if not competitor_name:
         return None # Skip if no competitor name is in the sheet
         
     for item in results:
         source = item.get("source", "").lower()
         if competitor_name.lower() in source:
-            price_str = item.get("price", "0") # Get price as string
-            print(f"[LOG] Found match for '{competitor_name}'. Price: {price_str}")
+            price_str = item.get("price", "0")
+            title_str = item.get("title", "No Title Found")
             
-            # Clean the price string (remove $, commas)
+            print(f"[LOG] Found match for '{competitor_name}'. Title: {title_str}, Price: {price_str}")
+            
             price_cleaned = price_str.replace('$', '').replace(',', '')
             
             try:
-                # Convert to float to ensure it's a valid number
-                float_price = float(price_cleaned)
-                return price_cleaned # Return the cleaned string for the sheet
+                # Test conversion to float
+                float(price_cleaned) 
+                # Return the full offer details
+                return {
+                    "title": title_str,
+                    "price": price_cleaned
+                }
             except ValueError:
                 print(f"[WARN] Could not convert price '{price_str}' to a number. Skipping.")
                 return None
@@ -115,13 +117,10 @@ class handler(BaseHTTPRequestHandler):
             cell_updates = []
             now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
 
-            # Loop over each row from the Google Sheet
             for index, row in enumerate(rows_to_check):
                 sheet_row_index = index + 2 # +1 for header, +1 for 0-index
                 print(f"\n--- Processing Sheet Row {sheet_row_index} ---")
                 
-                # --- THIS IS THE CHANGE ---
-                # Look for 'MPN' column instead of 'UPC'
                 mpn = row.get('MPN') 
                 my_price = row.get('My_Price')
                 compA_name = row.get('CompetitorA_Name')
@@ -130,40 +129,50 @@ class handler(BaseHTTPRequestHandler):
                 if not mpn:
                     print(f"[LOG] Skipping row {sheet_row_index}: no MPN")
                     continue
-                
                 if not my_price:
                     print(f"[LOG] Skipping row {sheet_row_index}: no 'My_Price' for comparison")
                     continue
 
                 print(f"[LOG] Row Data: MPN={mpn}, MyPrice={my_price}, CompA={compA_name}, CompB={compB_name}")
                 
-                # --- This is the core logic ---
                 shopping_results = search_google_shopping(str(mpn))
                 
-                price_A_str = find_competitor_price(shopping_results, compA_name)
-                price_B_str = find_competitor_price(shopping_results, compB_name)
+                # --- THIS IS THE CHANGE ---
+                # We now get a dict {'title': '...', 'price': '...'} or None
+                offer_A = find_competitor_offer(shopping_results, compA_name)
+                offer_B = find_competitor_offer(shopping_results, compB_name)
                 
                 # Prep cell updates for this row
-                if price_A_str:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 5, price_A_str)) # Col E
+                if offer_A:
+                    cell_updates.append(gspread.Cell(sheet_row_index, 5, offer_A['title'])) # Col E (Title)
+                    cell_updates.append(gspread.Cell(sheet_row_index, 6, offer_A['price'])) # Col F (Price)
                 
-                if price_B_str:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 7, price_B_str)) # Col G
+                if offer_B:
+                    cell_updates.append(gspread.Cell(sheet_row_index, 8, offer_B['title'])) # Col H (Title)
+                    cell_updates.append(gspread.Cell(sheet_row_index, 9, offer_B['price'])) # Col I (Price)
                 
                 # Update status
                 status = "Match"
                 try:
-                    my_price_float = float(str(my_price).replace(',', '')) # Clean My_Price
-                    if price_A_str and float(price_A_str) < my_price_float:
-                        status = "ALERT - A Low"
-                    elif price_B_str and float(price_B_str) < my_price_float:
-                        status = "ALERT - B Low"
+                    my_price_float = float(str(my_price).replace(',', ''))
+                    
+                    # Check offer A's price
+                    if offer_A and offer_A.get('price'):
+                        if float(offer_A['price']) < my_price_float:
+                            status = "ALERT - A Low"
+                    
+                    # Check offer B's price
+                    if offer_B and offer_B.get('price'):
+                        if float(offer_B['price']) < my_price_float:
+                            # If A was also low, just say "ALERT"
+                            status = "ALERT - B Low" if status == "Match" else "ALERT - Both Low"
+
                 except ValueError as e:
                     print(f"[WARN] Could not compare prices for row {sheet_row_index}. MyPrice '{my_price}' is not a valid number. Error: {e}")
                     status = "ERROR - Check My_Price"
 
-                cell_updates.append(gspread.Cell(sheet_row_index, 8, status)) # Col H
-                cell_updates.append(gspread.Cell(sheet_row_index, 9, now_str)) # Col I
+                cell_updates.append(gspread.Cell(sheet_row_index, 10, status)) # Col J (Status)
+                cell_updates.append(gspread.Cell(sheet_row_index, 11, now_str)) # Col K (Last_Checked)
                 print(f"--- Finished Processing Row {sheet_row_index} ---")
 
             # Write all updates to the Google Sheet in one batch
@@ -184,13 +193,11 @@ class handler(BaseHTTPRequestHandler):
             self.wfile.write(response_body.encode('utf-8'))
 
         except Exception as e:
-            # THIS IS THE MOST IMPORTANT PART
             print("="*50)
             print(f"🔥🔥🔥 UNHANDLED EXCEPTION! SCRIPT CRASHED. 🔥🔥🔥")
             print(f"Error Type: {type(e).__name__}")
             print(f"Error Message: {e}")
             print("--- Full Traceback ---")
-            # Print the full traceback to the Vercel log
             traceback.print_exc()
             print("="*50)
             
