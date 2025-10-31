@@ -11,7 +11,6 @@ PRICE_WATCH_SHEET_URL = os.environ.get('PRICE_WATCH_SHEET_URL')
 SHEET_TAB_NAME = 'Price_Watch'
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 GOOGLE_CREDENTIALS_JSON = os.environ.get('GOOGLE_CREDENTIALS_JSON')
-# --- NEW: Add your store name to exclude it from "Best Market Offer" ---
 MY_STORE_NAME = "R&A Cycles" # The script will ignore any results from this source
 
 def get_google_sheet():
@@ -31,15 +30,15 @@ def get_google_sheet():
     print("--- [LOG] Successfully connected to Google Sheet ---")
     return worksheet
 
-def search_google_shopping(product_name, brand, mpn, gtin, variant):
-    """Searches Google Shopping using the ultimate hyper-specific query."""
+# --- THIS FUNCTION IS UPDATED ---
+def search_google_shopping(product_name, gtin, model_attributes):
+    """Searches Google Shopping using a combined Name + GTIN + Model query."""
     
+    # Build the "Ultimate Query"
     query_parts = [
         product_name,
-        brand,
-        (variant or ''),
-        f"\"{mpn}\"",
-        f"\"{gtin}\""
+        (model_attributes or ''), # Your new compiled column F
+        f"\"{gtin}\""            # GTIN in quotes for exact match
     ]
     search_query = " ".join(part for part in query_parts if part) 
     
@@ -52,7 +51,7 @@ def search_google_shopping(product_name, brand, mpn, gtin, variant):
     params = {
         "engine": "google_shopping",
         "api_key": SERPAPI_KEY,
-        "q": search_query
+        "q": search_query # Use the new combined query
     }
     
     print(f"[LOG] Sending request to SerpApi with query: {search_query}")
@@ -70,45 +69,23 @@ def search_google_shopping(product_name, brand, mpn, gtin, variant):
     print(f"[LOG] SerpApi returned {len(all_offers)} total offers.")
     return all_offers
 
-def find_competitor_offer(results, competitor_name, brand):
-    """Finds a specific competitor's offer."""
-    if not competitor_name or not brand:
-        return None
-        
-    brand_keyword = brand.lower()
-    print(f"[LOG] Matching for SPECIFIC store: '{competitor_name}', brand: '{brand_keyword}'")
-
-    for item in results:
-        source = item.get("source", "").lower()
-        title_str = item.get("title", "")
-        
-        if competitor_name.lower() in source and brand_keyword in title_str.lower():
-            price_str = item.get("price", "0")
-            print(f"[LOG] Found specific match! Title: {title_str}, Price: {price_str}")
-            price_cleaned = price_str.replace('$', '').replace(',', '')
-            try:
-                float(price_cleaned) 
-                return {"title": title_str, "price": price_cleaned}
-            except ValueError:
-                continue # Price was invalid
-            
-    print(f"[LOG] No specific match found for {competitor_name}.")
-    return None
-
-# --- NEW FUNCTION ---
-def find_best_market_offer(results, brand, exclude_stores):
+def find_offer(results, store_name, brand):
     """
-    Finds the LOWEST price offer from ANY store that is not in the exclude_list.
+    Finds an offer by matching Store and Brand.
+    If store_name is None, it finds the best market offer.
     """
     if not brand:
+        print(f"[WARN] Skipping find, missing brand.")
         return None
         
     brand_keyword = brand.lower()
-    # Create a list of lowercase store names to exclude
-    exclude_list = [store.lower() for store in exclude_stores if store]
-
-    print(f"[LOG] Matching for BEST MARKET offer, brand: '{brand_keyword}', excluding: {exclude_list}")
+    is_wildcard = store_name is None
     
+    if is_wildcard:
+        print(f"[LOG] Matching for BEST MARKET, brand: '{brand_keyword}'")
+    else:
+        print(f"[LOG] Matching for SPECIFIC store: '{store_name}', brand: '{brand_keyword}'")
+
     best_offer = None
     lowest_price = float('inf')
 
@@ -116,36 +93,42 @@ def find_best_market_offer(results, brand, exclude_stores):
         source_str = item.get("source", "")
         title_str = item.get("title", "")
         
-        # Check if the source is in our exclusion list
-        is_excluded = False
-        for ex_store in exclude_list:
-            if ex_store in source_str.lower():
-                is_excluded = True
-                break
-        
-        # If it's not excluded AND the brand matches...
-        if not is_excluded and brand_keyword in title_str.lower():
+        # 1. Check Store
+        store_match = False
+        if is_wildcard:
+            if MY_STORE_NAME.lower() not in source_str.lower():
+                 store_match = True
+        elif store_name.lower() in source_str.lower():
+            store_match = True
+
+        # 2. Check Brand
+        brand_match = brand_keyword in title_str.lower()
+
+        if store_match and brand_match:
             price_str = item.get("price", "0")
             price_cleaned = price_str.replace('$', '').replace(',', '')
             try:
                 price_float = float(price_cleaned)
-                # If this is the new lowest price, save it
-                if price_float < lowest_price:
-                    lowest_price = price_float
-                    best_offer = {
-                        "title": title_str,
-                        "price": price_cleaned,
-                        "source": source_str # We need to save the source name!
-                    }
+                
+                if is_wildcard:
+                    if price_float < lowest_price:
+                        lowest_price = price_float
+                        best_offer = { "title": title_str, "price": price_cleaned, "source": source_str }
+                else:
+                    print(f"[LOG] Found specific match! Title: {title_str}, Price: {price_str}")
+                    return { "title": title_str, "price": price_cleaned, "source": source_str }
             except ValueError:
-                continue # Price was invalid
-
-    if best_offer:
-        print(f"[LOG] Found best market offer! Store: {best_offer['source']}, Price: {best_offer['price']}")
+                continue
+    
+    if is_wildcard:
+        if best_offer:
+            print(f"[LOG] Found best market offer! Store: {best_offer['source']}, Price: {best_offer['price']}")
+        else:
+            print(f"[LOG] No other market offers found.")
+        return best_offer
     else:
-        print(f"[LOG] No other market offers found.")
-        
-    return best_offer
+        print(f"[LOG] No specific match found.")
+        return None
 
 # This is the Vercel Serverless Function handler
 class handler(BaseHTTPRequestHandler):
@@ -159,8 +142,16 @@ class handler(BaseHTTPRequestHandler):
             worksheet = get_google_sheet()
             
             print("▶ [STEP 2] Fetching all records from sheet...")
-            rows_to_check = worksheet.get_all_records()
+            all_data = worksheet.get_all_values()
+            if not all_data:
+                print("[LOG] Sheet is empty.")
+                return
+
+            headers = all_data[0]
+            rows_to_check = all_data[1:]
             print(f"[LOG] Found {len(rows_to_check)} rows to process.")
+            
+            header_map = {name: i for i, name in enumerate(headers)}
             
             cell_updates = []
             now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -169,86 +160,90 @@ class handler(BaseHTTPRequestHandler):
                 sheet_row_index = index + 2
                 print(f"\n--- Processing Sheet Row {sheet_row_index} ---")
                 
-                # Read all data from the sheet
-                product_name = row.get('Product_Name')
-                gtin = row.get('GTIN')
-                mpn = row.get('MPN')
-                brand = row.get('Brand')
-                variant = row.get('Variant_Options')
-                my_price = row.get('My_Price')
-                compA_name = row.get('CompetitorA_Name') # Specific competitor
+                def get_row_data(col_name):
+                    try: return row[header_map[col_name]]
+                    except (KeyError, IndexError): return None
                 
-                if not (gtin and mpn and product_name and brand and my_price):
+                # --- THIS SECTION IS UPDATED TO MATCH YOUR CSV ---
+                product_name = get_row_data('Product_Name')
+                gtin = get_row_data('GTIN')
+                brand = get_row_data('Brand')
+                model_attrs = get_row_data('Model') # This is your new Column F
+                my_price = get_row_data('My_Price')
+                compA_name = get_row_data('CompetitorA_Name')
+                
+                if not (gtin and product_name and brand and my_price and model_attrs):
                     print(f"[LOG] Skipping row {sheet_row_index}: missing required data.")
                     continue
 
-                print(f"[LOG] Row Data: Name={product_name}, GTIN={gtin}, MPN={mpn}, Brand={brand}")
+                print(f"[LOG] Row Data: GTIN={gtin}, Brand={brand}, Model={model_attrs}")
                 
-                # --- THIS IS THE CORE LOGIC ---
-                shopping_results = search_google_shopping(product_name, brand, str(mpn), str(gtin), variant)
+                # --- THIS CALL IS UPDATED ---
+                shopping_results = search_google_shopping(product_name, str(gtin), model_attrs)
                 
-                # 1. Find the specific Competitor A
-                offer_A = find_competitor_offer(shopping_results, compA_name, brand)
+                offer_A = find_offer(shopping_results, compA_name, brand)
                 
-                # 2. Find the "wildcard" best market offer
-                best_market_offer = find_best_market_offer(
-                    shopping_results, 
-                    brand, 
-                    exclude_stores=[compA_name, MY_STORE_NAME] # Exclude Comp A and ourselves
-                )
+                filtered_results = [
+                    item for item in shopping_results 
+                    if compA_name.lower() not in item.get("source", "").lower()
+                ]
+                best_market_offer = find_offer(filtered_results, None, brand) # None = Wildcard
                 
                 # --- This logic clears stale data ---
                 
                 price_A_float = None
-                price_B_float = None # This now represents the "best market" price
+                price_B_float = None
 
-                # Competitor A (Title: H, Price: I)
+                # Competitor A (Title: J, Price: K in your CSV)
+                col_A_Title = header_map['CompetitorA_Title'] + 1
+                col_A_Price = header_map['CompetitorA_Price'] + 1
                 if offer_A:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 8, offer_A['title'])) # Col H
-                    cell_updates.append(gspread.Cell(sheet_row_index, 9, offer_A['price'])) # Col I
+                    cell_updates.append(gspread.Cell(sheet_row_index, col_A_Title, offer_A['title']))
+                    cell_updates.append(gspread.Cell(sheet_row_index, col_A_Price, offer_A['price']))
                     try: price_A_float = float(offer_A['price'])
                     except ValueError: pass
                 else:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 8, "")) # Clear Title
-                    cell_updates.append(gspread.Cell(sheet_row_index, 9, "")) # Clear Price
+                    cell_updates.append(gspread.Cell(sheet_row_index, col_A_Title, ""))
+                    cell_updates.append(gspread.Cell(sheet_row_index, col_A_Price, ""))
 
-                # Best Market Offer (Source: J, Title: K, Price: L)
+                # Best Market Offer (Source: L, Title: M, Price: N in your CSV)
+                col_B_Source = header_map['Best_Offer_Source'] + 1
+                col_B_Title = header_map['Best_Offer_Title'] + 1
+                col_B_Price = header_map['Best_Offer_Price'] + 1
                 if best_market_offer:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 10, best_market_offer['source'])) # Col J
-                    cell_updates.append(gspread.Cell(sheet_row_index, 11, best_market_offer['title']))  # Col K
-                    cell_updates.append(gspread.Cell(sheet_row_index, 12, best_market_offer['price']))  # Col L
+                    cell_updates.append(gspread.Cell(sheet_row_index, col_B_Source, best_market_offer['source']))
+                    cell_updates.append(gspread.Cell(sheet_row_index, col_B_Title, best_market_offer['title']))
+                    cell_updates.append(gspread.Cell(sheet_row_index, col_B_Price, best_market_offer['price']))
                     try: price_B_float = float(best_market_offer['price'])
                     except ValueError: pass
                 else:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 10, "")) # Clear Source
-                    cell_updates.append(gspread.Cell(sheet_row_index, 11, "")) # Clear Title
-                    cell_updates.append(gspread.Cell(sheet_row_index, 12, "")) # Clear Price
+                    cell_updates.append(gspread.Cell(sheet_row_index, col_B_Source, ""))
+                    cell_updates.append(gspread.Cell(sheet_row_index, col_B_Title, ""))
+                    cell_updates.append(gspread.Cell(sheet_row_index, col_B_Price, ""))
                 
-                # Update status logic (Col M)
+                # Update status logic (Col O)
                 status = "Match"
+                col_Status = header_map['Status'] + 1
+                col_Last_Check = header_map['Last_Checked'] + 1
+                
                 try:
                     my_price_float = float(str(my_price).replace(',', ''))
                     
                     a_low = price_A_float is not None and price_A_float < my_price_float
                     b_low = price_B_float is not None and price_B_float < my_price_float
 
-                    if a_low and b_low:
-                        status = "ALERT - Both Low"
-                    elif a_low:
-                        status = "ALERT - A Low"
-                    elif b_low:
-                        status = "ALERT - Market Low" # Renamed for clarity
-                    elif (price_A_float is not None or price_B_float is not None):
-                        status = "Match"
-                    else:
-                        status = "Not Found"
+                    if a_low and b_low: status = "ALERT - Both Low"
+                    elif a_low: status = "ALERT - A Low"
+                    elif b_low: status = "ALERT - Market Low"
+                    elif (price_A_float is not None or price_B_float is not None): status = "Match"
+                    else: status = "Not Found"
                         
                 except ValueError as e:
                     print(f"[WARN] Could not compare prices... Error: {e}")
                     status = "ERROR - Check My_Price"
 
-                cell_updates.append(gspread.Cell(sheet_row_index, 13, status)) # Col M (Status)
-                cell_updates.append(gspread.Cell(sheet_row_index, 14, now_str)) # Col N (Last_Checked)
+                cell_updates.append(gspread.Cell(sheet_row_index, col_Status, status))
+                cell_updates.append(gspread.Cell(sheet_row_index, col_Last_Check, now_str))
                 print(f"--- Finished Processing Row {sheet_row_index} ---")
 
             if cell_updates:
