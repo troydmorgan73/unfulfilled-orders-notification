@@ -13,6 +13,8 @@ SHEET_TAB_NAME = 'Price_Watch'
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 GOOGLE_CREDENTIALS_JSON = os.environ.get('GOOGLE_CREDENTIALS_JSON')
 MY_STORE_NAME = "R&A Cycles"
+# --- THIS IS THE NEW, STRICTER FILTER ---
+MIN_TOKEN_MATCH = 3 # A result must match Brand + at least 3 other key tokens
 
 def get_google_sheet():
     """Connects to Google Sheets using Vercel Env Vars."""
@@ -28,47 +30,42 @@ def get_google_sheet():
     print("--- [LOG] Successfully connected to Google Sheet ---")
     return worksheet
 
-def search_google_shopping(gtin, product_name, brand, mpn):
+# --- NEW: TOKENIZER HELPER ---
+def tokenize(text):
+    """Splits text into a set of unique, lowercase keywords."""
+    if not text: return set()
+    text = text.lower().replace('/', ' ').replace('-', ' ')
+    words = re.findall(r'\b\w+\b', text)
+    stop_words = {'and', 'or', 'the', 'a', 'to', 'with', 'for', 'in', 'on', 'of'}
+    return {w for w in words if w not in stop_words and len(w) > 1}
+
+# --- THIS FUNCTION IS THE FIX ---
+def search_google_shopping(product_name, brand, mpn):
     """
-    Tries a GTIN search first. If it fails, falls back to a query search.
+    Uses the "Golden Query" (Name + Brand + MPN) that was
+    proven to work in the SerpApi playground.
     """
-    print(f"--- [LOG] Inside search_google_shopping() ---")
-    print(f"[LOG] Pass 1: Searching for exact GTIN: {gtin}")
     
+    print(f"--- [LOG] Inside search_google_shopping() ---")
     if not SERPAPI_KEY:
         raise ValueError("SERPAPI_KEY env var not set")
         
-    params_gtin = {
+    # Build the query you proved works
+    query = f"{product_name} {brand} \"{mpn}\""
+    print(f"[LOG] Using Golden Query: {query}")
+    
+    params_query = {
         "engine": "google_shopping",
         "api_key": SERPAPI_KEY,
-        "tbs": f"gts:1,gtin:{gtin}"
+        "q": query
     }
     
-    search = GoogleSearch(params_gtin)
+    search = GoogleSearch(params_query)
     results_dict = search.get_dict()
     
     all_offers = results_dict.get("shopping_results", []) + \
                  results_dict.get("product_results", {}).get("offers", []) + \
                  results_dict.get("sellers_results", {}).get("online_sellers", [])
-    
-    # --- FALLBACK LOGIC ---
-    if not all_offers:
-        print(f"[LOG] GTIN search returned 0 results. Falling back to query search.")
-        query = f"{product_name} {brand} \"{mpn}\""
-        print(f"[LOG] Pass 2: Searching for query: {query}")
-        
-        params_query = {
-            "engine": "google_shopping",
-            "api_key": SERPAPI_KEY,
-            "q": query
-        }
-        
-        search = GoogleSearch(params_query)
-        results_dict = search.get_dict()
-        
-        all_offers = results_dict.get("shopping_results", []) + \
-                     results_dict.get("product_results", {}).get("offers", []) + \
-                     results_dict.get("sellers_results", {}).get("online_sellers", [])
 
     if "error" in results_dict:
         print(f"[ERROR] SerpApi returned an error: {results_dict['error']}")
@@ -77,24 +74,29 @@ def search_google_shopping(gtin, product_name, brand, mpn):
     print(f"[LOG] SerpApi returned {len(all_offers)} total offers.")
     return all_offers
 
-# --- THIS FUNCTION IS THE FIX ---
-def find_offer(results, store_name, brand, mpn):
+# --- THIS FUNCTION IS THE OTHER HALF OF THE FIX ---
+def find_offer(results, store_name, brand, product_name, model_attrs):
     """
-    Finds an offer by matching Store, Brand, AND MPN.
-    If store_name is None, it finds the best market offer.
+    Finds an offer by matching Store, Brand, AND scoring Model tokens.
     """
-    if not brand or not mpn:
-        print(f"[WARN] Skipping find, missing brand or MPN.")
+    if not brand or not (product_name or model_attrs):
+        print(f"[WARN] Skipping find, missing brand, product name, or model attributes.")
         return None
         
     brand_keyword = brand.lower()
-    mpn_keyword = mpn.lower() # Get the MPN
+    
+    # 1. Create the master set of required tokens from ALL our data
+    required_tokens = set()
+    required_tokens.update(tokenize(product_name))
+    required_tokens.update(tokenize(model_attrs))
+    required_tokens.discard(brand_keyword) # Remove brand, we check it separately
+    
     is_wildcard = store_name is None
     
     if is_wildcard:
-        print(f"[LOG] Matching for BEST MARKET, brand: '{brand_keyword}', MPN: '{mpn_keyword}'")
+        print(f"[LOG] Matching for BEST MARKET, brand: '{brand_keyword}', must match {MIN_TOKEN_MATCH} of {required_tokens}")
     else:
-        print(f"[LOG] Matching for SPECIFIC store: '{store_name}', brand: '{brand_keyword}', MPN: '{mpn_keyword}'")
+        print(f"[LOG] Matching for SPECIFIC store: '{store_name}', brand: '{brand_keyword}', must match {MIN_TOKEN_MATCH} of {required_tokens}")
 
     best_offer = None
     lowest_price = float('inf')
@@ -112,25 +114,33 @@ def find_offer(results, store_name, brand, mpn):
         elif store_name.lower() in source_str.lower():
             store_match = True
 
-        # 2. Check Brand and MPN (MUST match)
+        # 2. Check Brand (MUST match)
         brand_match = brand_keyword in title_lower
-        mpn_match = mpn_keyword in title_lower # Check if MPN is in the title
-
-        if store_match and brand_match and mpn_match:
-            price_str = item.get("price", "0")
-            price_cleaned = price_str.replace('$', '').replace(',', '')
-            try:
-                price_float = float(price_cleaned)
-                
-                if is_wildcard:
-                    if price_float < lowest_price:
-                        lowest_price = price_float
-                        best_offer = { "title": title_str, "price": price_cleaned, "source": source_str }
-                else:
-                    print(f"[LOG] Found specific match! Title: {title_str}, Price: {price_str}")
-                    return { "title": title_str, "price": price_cleaned, "source": source_str }
-            except ValueError:
-                continue
+        
+        if store_match and brand_match:
+            # 3. Score the match based on our tokens
+            title_tokens = tokenize(title_str)
+            matched_tokens = required_tokens.intersection(title_tokens)
+            score = len(matched_tokens)
+            
+            # This is our new, stricter filter
+            if score >= MIN_TOKEN_MATCH:
+                price_str = item.get("price", "0")
+                price_cleaned = price_str.replace('$', '').replace(',', '')
+                try:
+                    price_float = float(price_cleaned)
+                    
+                    if is_wildcard:
+                        if price_float < lowest_price:
+                            lowest_price = price_float
+                            best_offer = { "title": title_str, "price": price_cleaned, "source": source_str }
+                    else:
+                        print(f"[LOG] Found specific match! Title: {title_str}, Price: {price_str}, Score: {score}")
+                        return { "title": title_str, "price": price_cleaned, "source": source_str }
+                except ValueError:
+                    continue
+            else:
+               print(f"[DEBUG] Found {source_str} & {brand_keyword}, but score {score} < {MIN_TOKEN_MATCH}. Title: '{title_lower}' Tokens: {matched_tokens}")
     
     if is_wildcard:
         if best_offer:
@@ -179,27 +189,28 @@ class handler(BaseHTTPRequestHandler):
                 # --- THIS SECTION MATCHES YOUR CSV ---
                 product_name = get_row_data('Product_Name')
                 gtin = get_row_data('GTIN')
-                mpn = get_row_data('MPN') # We need this for the filter
+                mpn = get_row_data('MPN')
                 brand = get_row_data('Brand')
+                model_attrs = get_row_data('Model') # Your compiled Column F
                 my_price = get_row_data('My_Price')
                 compA_name = get_row_data('CompetitorA_Name')
                 
-                if not (gtin and product_name and brand and my_price and mpn):
-                    print(f"[LOG] Skipping row {sheet_row_index}: missing required data (GTIN, MPN, Name, Brand, or Price).")
+                if not (gtin and product_name and brand and my_price and model_attrs):
+                    print(f"[LOG] Skipping row {sheet_row_index}: missing required data.")
                     continue
 
-                print(f"[LOG] Row Data: GTIN={gtin}, Brand={brand}, MPN={mpn}")
+                print(f"[LOG] Row Data: Brand={brand}, Model={model_attrs}")
                 
                 # --- THIS CALL IS UPDATED ---
-                shopping_results = search_google_shopping(str(gtin), product_name, brand, str(mpn))
+                shopping_results = search_google_shopping(product_name, brand, str(mpn))
                 
-                offer_A = find_offer(shopping_results, compA_name, brand, str(mpn))
+                offer_A = find_offer(shopping_results, compA_name, brand, product_name, model_attrs)
                 
                 filtered_results = [
                     item for item in shopping_results 
                     if compA_name.lower() not in item.get("source", "").lower()
                 ]
-                best_market_offer = find_offer(filtered_results, None, brand, str(mpn)) # None = Wildcard
+                best_market_offer = find_offer(filtered_results, None, brand, product_name, model_attrs) # None = Wildcard
                 
                 # --- This logic clears stale data ---
                 
