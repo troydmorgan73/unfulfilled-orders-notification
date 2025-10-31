@@ -80,26 +80,18 @@ def find_competitor_offer(results, competitor_name, brand):
         print("[WARN] Skipping, missing competitor name or brand.")
         return None
         
-    # Use the explicit brand from the sheet
     brand_keyword = brand.lower()
-        
     print(f"[LOG] Matching for: store='{competitor_name}', brand='{brand_keyword}'")
 
     for item in results:
         source = item.get("source", "").lower()
         title_str = item.get("title", "")
         
-        # 1. Check if the store name matches
         if competitor_name.lower() in source:
-            
-            # 2. Check if the Brand matches the result title
             if brand_keyword in title_str.lower():
                 price_str = item.get("price", "0")
-                
                 print(f"[LOG] Found match! Title: {title_str}, Price: {price_str}")
-                
                 price_cleaned = price_str.replace('$', '').replace(',', '')
-                
                 try:
                     float(price_cleaned) 
                     return {
@@ -135,11 +127,10 @@ class handler(BaseHTTPRequestHandler):
                 sheet_row_index = index + 2
                 print(f"\n--- Processing Sheet Row {sheet_row_index} ---")
                 
-                # --- THIS SECTION IS UPDATED ---
                 product_name = row.get('Product_Name')
                 mpn = row.get('MPN') 
                 my_price = row.get('My_Price')
-                brand = row.get('Brand') # Get the new Brand data
+                brand = row.get('Brand')
                 compA_name = row.get('CompetitorA_Name')
                 compB_name = row.get('CompetitorB_Name')
 
@@ -154,31 +145,58 @@ class handler(BaseHTTPRequestHandler):
                 
                 shopping_results = search_google_shopping(product_name, str(mpn))
                 
-                # --- THIS CALL IS UPDATED ---
                 offer_A = find_competitor_offer(shopping_results, compA_name, brand)
                 offer_B = find_competitor_offer(shopping_results, compB_name, brand)
                 
-                # --- ALL COLUMN NUMBERS ARE UPDATED ---
+                # --- THIS IS THE FIX ---
+                # We will now update every cell, every time, to clear stale data.
+                
+                price_A_float = None
+                price_B_float = None
+
+                # Competitor A
                 if offer_A:
                     cell_updates.append(gspread.Cell(sheet_row_index, 6, offer_A['title'])) # Col F (Title)
                     cell_updates.append(gspread.Cell(sheet_row_index, 7, offer_A['price'])) # Col G (Price)
-                
+                    try: price_A_float = float(offer_A['price'])
+                    except ValueError: pass # Keep it None if price is weird
+                else:
+                    cell_updates.append(gspread.Cell(sheet_row_index, 6, "")) # Clear Title
+                    cell_updates.append(gspread.Cell(sheet_row_index, 7, "")) # Clear Price
+
+                # Competitor B
                 if offer_B:
                     cell_updates.append(gspread.Cell(sheet_row_index, 9, offer_B['title'])) # Col I (Title)
                     cell_updates.append(gspread.Cell(sheet_row_index, 10, offer_B['price'])) # Col J (Price)
+                    try: price_B_float = float(offer_B['price'])
+                    except ValueError: pass # Keep it None if price is weird
+                else:
+                    cell_updates.append(gspread.Cell(sheet_row_index, 9, "")) # Clear Title
+                    cell_updates.append(gspread.Cell(sheet_row_index, 10, "")) # Clear Price
                 
-                status = "Match"
+                # Update status logic
+                status = "Match" # Default status
                 try:
                     my_price_float = float(str(my_price).replace(',', ''))
                     
-                    if offer_A and offer_A.get('price'):
-                        if float(offer_A['price']) < my_price_float:
-                            status = "ALERT - A Low"
-                    
-                    if offer_B and offer_B.get('price'):
-                        if float(offer_B['price']) < my_price_float:
-                            status = "ALERT - B Low" if status == "Match" else "ALERT - Both Low"
+                    # Check for alerts
+                    a_low = price_A_float is not None and price_A_float < my_price_float
+                    b_low = price_B_float is not None and price_B_float < my_price_float
 
+                    if a_low and b_low:
+                        status = "ALERT - Both Low"
+                    elif a_low:
+                        status = "ALERT - A Low"
+                    elif b_low:
+                        status = "ALERT - B Low"
+                    
+                    # Check if at least one was found and not low
+                    elif (price_A_float is not None or price_B_float is not None):
+                        status = "Match"
+                    else:
+                        # Neither was found
+                        status = "Not Found"
+                        
                 except ValueError as e:
                     print(f"[WARN] Could not compare prices for row {sheet_row_index}. MyPrice '{my_price}' is not a valid number. Error: {e}")
                     status = "ERROR - Check My_Price"
@@ -209,8 +227,7 @@ class handler(BaseHTTPRequestHandler):
             print(f"Error Message: {e}")
             print("--- Full Traceback ---")
             traceback.print_exc()
-            # --- THIS IS THE FIX ---
-            print("="*50) # Was: print("="*5Both Low")
+            print("="*50) 
             
             self.send_response(500)
             self.send_header('Content-type', 'application/json')
