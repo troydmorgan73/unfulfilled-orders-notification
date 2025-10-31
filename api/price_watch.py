@@ -31,19 +31,11 @@ def get_google_sheet():
     return worksheet
 
 # --- THIS FUNCTION IS UPDATED ---
-def search_google_shopping(product_name, gtin, model_attributes):
-    """Searches Google Shopping using a combined Name + GTIN + Model query."""
-    
-    # Build the "Ultimate Query"
-    query_parts = [
-        product_name,
-        (model_attributes or ''), # Your new compiled column F
-        f"\"{gtin}\""            # GTIN in quotes for exact match
-    ]
-    search_query = " ".join(part for part in query_parts if part) 
+def search_google_shopping(gtin):
+    """Searches Google Shopping using a direct GTIN filter."""
     
     print(f"--- [LOG] Inside search_google_shopping() ---")
-    print(f"[LOG] Ultimate Query: {search_query}")
+    print(f"[LOG] Searching for exact GTIN: {gtin}")
     
     if not SERPAPI_KEY:
         raise ValueError("SERPAPI_KEY env var not set")
@@ -51,10 +43,12 @@ def search_google_shopping(product_name, gtin, model_attributes):
     params = {
         "engine": "google_shopping",
         "api_key": SERPAPI_KEY,
-        "q": search_query # Use the new combined query
+        # This is the direct GTIN lookup. This is the most accurate search.
+        # We are no longer using 'q='
+        "tbs": f"gts:1,gtin:{gtin}"
     }
     
-    print(f"[LOG] Sending request to SerpApi with query: {search_query}")
+    print(f"[LOG] Sending request to SerpApi with GTIN filter: {gtin}")
     search = GoogleSearch(params)
     results = search.get_dict()
     
@@ -69,22 +63,30 @@ def search_google_shopping(product_name, gtin, model_attributes):
     print(f"[LOG] SerpApi returned {len(all_offers)} total offers.")
     return all_offers
 
-def find_offer(results, store_name, brand):
+# --- THIS FUNCTION IS UPDATED ---
+def find_offer(results, store_name, brand, model_attrs):
     """
-    Finds an offer by matching Store and Brand.
+    Finds an offer by matching Store, Brand, AND Model Attributes.
     If store_name is None, it finds the best market offer.
     """
-    if not brand:
-        print(f"[WARN] Skipping find, missing brand.")
+    if not brand or not model_attrs:
+        print(f"[WARN] Skipping find, missing brand or model attributes.")
         return None
         
     brand_keyword = brand.lower()
+    # We will check for the first attribute in the model list
+    # e.g., "Wahoo" from "Wahoo, Smart Trainers, Bike Trainers / Rollers"
+    try:
+        model_keyword = model_attrs.split(',')[0].strip().lower()
+    except Exception:
+        model_keyword = model_attrs.lower()
+
     is_wildcard = store_name is None
     
     if is_wildcard:
-        print(f"[LOG] Matching for BEST MARKET, brand: '{brand_keyword}'")
+        print(f"[LOG] Matching for BEST MARKET, brand: '{brand_keyword}', model: '{model_keyword}'")
     else:
-        print(f"[LOG] Matching for SPECIFIC store: '{store_name}', brand: '{brand_keyword}'")
+        print(f"[LOG] Matching for SPECIFIC store: '{store_name}', brand: '{brand_keyword}', model: '{model_keyword}'")
 
     best_offer = None
     lowest_price = float('inf')
@@ -96,15 +98,17 @@ def find_offer(results, store_name, brand):
         # 1. Check Store
         store_match = False
         if is_wildcard:
+            # For wildcard, just make sure it's not our own store
             if MY_STORE_NAME.lower() not in source_str.lower():
                  store_match = True
         elif store_name.lower() in source_str.lower():
             store_match = True
 
-        # 2. Check Brand
+        # 2. Check Brand and Model
         brand_match = brand_keyword in title_str.lower()
+        model_match = model_keyword in title_str.lower()
 
-        if store_match and brand_match:
+        if store_match and brand_match and model_match:
             price_str = item.get("price", "0")
             price_cleaned = price_str.replace('$', '').replace(',', '')
             try:
@@ -164,11 +168,11 @@ class handler(BaseHTTPRequestHandler):
                     try: return row[header_map[col_name]]
                     except (KeyError, IndexError): return None
                 
-                # --- THIS SECTION IS UPDATED TO MATCH YOUR CSV ---
+                # --- THIS SECTION MATCHES YOUR CSV ---
                 product_name = get_row_data('Product_Name')
                 gtin = get_row_data('GTIN')
                 brand = get_row_data('Brand')
-                model_attrs = get_row_data('Model') # This is your new Column F
+                model_attrs = get_row_data('Model') # Your compiled Column F
                 my_price = get_row_data('My_Price')
                 compA_name = get_row_data('CompetitorA_Name')
                 
@@ -176,18 +180,18 @@ class handler(BaseHTTPRequestHandler):
                     print(f"[LOG] Skipping row {sheet_row_index}: missing required data.")
                     continue
 
-                print(f"[LOG] Row Data: GTIN={gtin}, Brand={brand}, Model={model_attrs}")
+                print(f"[LOG] Row Data: GTIN={gtin}, Brand={brand}, Model={model_attrs.split(',')[0]}")
                 
                 # --- THIS CALL IS UPDATED ---
-                shopping_results = search_google_shopping(product_name, str(gtin), model_attrs)
+                shopping_results = search_google_shopping(str(gtin))
                 
-                offer_A = find_offer(shopping_results, compA_name, brand)
+                offer_A = find_offer(shopping_results, compA_name, brand, model_attrs)
                 
                 filtered_results = [
                     item for item in shopping_results 
                     if compA_name.lower() not in item.get("source", "").lower()
                 ]
-                best_market_offer = find_offer(filtered_results, None, brand) # None = Wildcard
+                best_market_offer = find_offer(filtered_results, None, brand, model_attrs) # None = Wildcard
                 
                 # --- This logic clears stale data ---
                 
