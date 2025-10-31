@@ -37,13 +37,24 @@ def get_google_sheet():
     print("--- [LOG] Successfully connected to Google Sheet ---")
     return worksheet
 
-def search_google_shopping(product_name, mpn):
-    """Searches Google Shopping using a combined Product Name + "MPN" query."""
+# --- THIS FUNCTION IS UPDATED ---
+def search_google_shopping(product_name, brand, mpn, gtin, variant):
+    """Searches Google Shopping using the ultimate hyper-specific query."""
     
-    search_query = f"{product_name} \"{mpn}\""
+    # Build the "Ultimate Query" from all parts
+    # We put MPN and GTIN in quotes to force an exact match
+    query_parts = [
+        product_name,
+        brand,
+        (variant or ''),
+        f"\"{mpn}\"",
+        f"\"{gtin}\""
+    ]
+    # Joins only non-empty parts, separated by a space
+    search_query = " ".join(part for part in query_parts if part) 
     
     print(f"--- [LOG] Inside search_google_shopping() ---")
-    print(f"[LOG] Golden Query (with quotes): {search_query}")
+    print(f"[LOG] Ultimate Query: {search_query}")
     
     if not SERPAPI_KEY:
         print("[ERROR] SERPAPI_KEY env var not set")
@@ -127,59 +138,59 @@ class handler(BaseHTTPRequestHandler):
                 sheet_row_index = index + 2
                 print(f"\n--- Processing Sheet Row {sheet_row_index} ---")
                 
+                # --- THIS SECTION IS UPDATED ---
                 product_name = row.get('Product_Name')
-                mpn = row.get('MPN') 
-                my_price = row.get('My_Price')
+                gtin = row.get('GTIN')
+                mpn = row.get('MPN')
                 brand = row.get('Brand')
+                variant = row.get('Variant_Options')
+                my_price = row.get('My_Price')
                 compA_name = row.get('CompetitorA_Name')
                 compB_name = row.get('CompetitorB_Name')
 
-                if not mpn or not product_name or not brand:
-                    print(f"[LOG] Skipping row {sheet_row_index}: missing MPN, Product_Name, or Brand")
-                    continue
-                if not my_price:
-                    print(f"[LOG] Skipping row {sheet_row_index}: no 'My_Price' for comparison")
+                # Check for all required data points
+                if not (gtin and mpn and product_name and brand and my_price):
+                    print(f"[LOG] Skipping row {sheet_row_index}: missing required data.")
                     continue
 
-                print(f"[LOG] Row Data: Name={product_name}, MPN={mpn}, Brand={brand}")
+                print(f"[LOG] Row Data: Name={product_name}, GTIN={gtin}, MPN={mpn}, Brand={brand}, Variant={variant}")
                 
-                shopping_results = search_google_shopping(product_name, str(mpn))
+                # --- THIS CALL IS UPDATED ---
+                shopping_results = search_google_shopping(product_name, brand, str(mpn), str(gtin), variant)
                 
                 offer_A = find_competitor_offer(shopping_results, compA_name, brand)
                 offer_B = find_competitor_offer(shopping_results, compB_name, brand)
                 
-                # --- THIS IS THE FIX ---
-                # We will now update every cell, every time, to clear stale data.
+                # --- This logic clears stale data ---
                 
                 price_A_float = None
                 price_B_float = None
 
-                # Competitor A
+                # Competitor A (Title: H, Price: I)
                 if offer_A:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 6, offer_A['title'])) # Col F (Title)
-                    cell_updates.append(gspread.Cell(sheet_row_index, 7, offer_A['price'])) # Col G (Price)
+                    cell_updates.append(gspread.Cell(sheet_row_index, 8, offer_A['title'])) # Col H
+                    cell_updates.append(gspread.Cell(sheet_row_index, 9, offer_A['price'])) # Col I
                     try: price_A_float = float(offer_A['price'])
-                    except ValueError: pass # Keep it None if price is weird
+                    except ValueError: pass
                 else:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 6, "")) # Clear Title
-                    cell_updates.append(gspread.Cell(sheet_row_index, 7, "")) # Clear Price
+                    cell_updates.append(gspread.Cell(sheet_row_index, 8, "")) # Clear Title
+                    cell_updates.append(gspread.Cell(sheet_row_index, 9, "")) # Clear Price
 
-                # Competitor B
+                # Competitor B (Title: K, Price: L)
                 if offer_B:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 9, offer_B['title'])) # Col I (Title)
-                    cell_updates.append(gspread.Cell(sheet_row_index, 10, offer_B['price'])) # Col J (Price)
+                    cell_updates.append(gspread.Cell(sheet_row_index, 11, offer_B['title'])) # Col K
+                    cell_updates.append(gspread.Cell(sheet_row_index, 12, offer_B['price'])) # Col L
                     try: price_B_float = float(offer_B['price'])
-                    except ValueError: pass # Keep it None if price is weird
+                    except ValueError: pass
                 else:
-                    cell_updates.append(gspread.Cell(sheet_row_index, 9, "")) # Clear Title
-                    cell_updates.append(gspread.Cell(sheet_row_index, 10, "")) # Clear Price
+                    cell_updates.append(gspread.Cell(sheet_row_index, 11, "")) # Clear Title
+                    cell_updates.append(gspread.Cell(sheet_row_index, 12, "")) # Clear Price
                 
-                # Update status logic
-                status = "Match" # Default status
+                # Update status logic (Col M)
+                status = "Match"
                 try:
                     my_price_float = float(str(my_price).replace(',', ''))
                     
-                    # Check for alerts
                     a_low = price_A_float is not None and price_A_float < my_price_float
                     b_low = price_B_float is not None and price_B_float < my_price_float
 
@@ -189,20 +200,17 @@ class handler(BaseHTTPRequestHandler):
                         status = "ALERT - A Low"
                     elif b_low:
                         status = "ALERT - B Low"
-                    
-                    # Check if at least one was found and not low
                     elif (price_A_float is not None or price_B_float is not None):
                         status = "Match"
                     else:
-                        # Neither was found
                         status = "Not Found"
                         
                 except ValueError as e:
                     print(f"[WARN] Could not compare prices for row {sheet_row_index}. MyPrice '{my_price}' is not a valid number. Error: {e}")
                     status = "ERROR - Check My_Price"
 
-                cell_updates.append(gspread.Cell(sheet_row_index, 11, status)) # Col K (Status)
-                cell_updates.append(gspread.Cell(sheet_row_index, 12, now_str)) # Col L (Last_Checked)
+                cell_updates.append(gspread.Cell(sheet_row_index, 13, status)) # Col M (Status)
+                cell_updates.append(gspread.Cell(sheet_row_index, 14, now_str)) # Col N (Last_Checked)
                 print(f"--- Finished Processing Row {sheet_row_index} ---")
 
             if cell_updates:
