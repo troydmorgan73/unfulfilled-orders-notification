@@ -248,7 +248,7 @@ class handler(BaseHTTPRequestHandler):
                 
                 # 1. Read existing
                 try:
-                    all_values = ws.get_all_values()
+                    all_values = ws.get_all_values(value_render_option='FORMULA')
                     if all_values:
                         header = all_values[0]
                         existing_data = all_values[1:]
