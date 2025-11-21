@@ -1,0 +1,1204 @@
+{
+  "search_metadata": {
+    "id": "690570a2392e0b5a707602ca",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cb57a527b92644ac/690570a2392e0b5a707602ca.json",
+    "created_at": "2025-11-01 02:29:54 UTC",
+    "processed_at": "2025-11-01 02:29:54 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=Garmin+Edge+1050+Cycling+Computer&num=40&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/cb57a527b92644ac/690570a2392e0b5a707602ca.html",
+    "total_time_taken": 1.85
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "Garmin Edge 1050 Cycling Computer",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "40",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Garmin Edge 1050 Cycling Computer",
+    "shopping_results_state": "Results for exact spelling"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Garmin Edge 1050 Computer",
+      "product_id": "5859877330509123640",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5859877330509123640",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:5859877330509123640,headlineOfferDocid:15076965064149994254,imageDocid:11084151907530794452,rds:PC_9720433616383348180|PROD_PC_9720433616383348180,gpcid:9720433616383348180,mid:576462783922972407,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTg1OTg3NzMzMDUwOTEyMzY0MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MDc2OTY1MDY0MTQ5OTk0MjU0IiwiaW1hZ2VEb2NpZCI6IjExMDg0MTUxOTA3NTMwNzk0NDUyIiwicmRzIjoiUENfOTcyMDQzMzYxNjM4MzM0ODE4MHxQUk9EX1BDXzk3MjA0MzM2MTYzODMzNDgxODAiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiOTcyMDQzMzYxNjM4MzM0ODE4MCIsIm1pZCI6IjU3NjQ2Mjc4MzkyMjk3MjQwNyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTg1OTg3NzMzMDUwOTEyMzY0MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MDc2OTY1MDY0MTQ5OTk0MjU0IiwiaW1hZ2VEb2NpZCI6IjExMDg0MTUxOTA3NTMwNzk0NDUyIiwicmRzIjoiUENfOTcyMDQzMzYxNjM4MzM0ODE4MHxQUk9EX1BDXzk3MjA0MzM2MTYzODMzNDgxODAiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiOTcyMDQzMzYxNjM4MzM0ODE4MCIsIm1pZCI6IjU3NjQ2Mjc4MzkyMjk3MjQwNyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Garmin - United States",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632bacc843ff1a4df2704d37a114dc46d980b.png",
+      "multiple_sources": true,
+      "price": "$699.99",
+      "extracted_price": 699.99,
+      "rating": 4.5,
+      "reviews": 1000,
+      "snippet": "Quality display (171 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQe4ytLPILfWO5yKfXBZrrCJZswH_zbC2pHplgUfe9veSzvM9t1cCyDPJRvvKCeEPsGHtxLgJXLkG5tKGs5RexFVCRvqXP0",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/E-KBo3icDclRDoIgGADgE6XW8kG31ooKUyqyVc6XlojoKkX5R-JBulu3qe_1-35KAKl82-Y164wEno8gqx1LKLhDxSzWvGxVNlJWtZi3s__5i33uYXbkUwOEbklxPbgmKpJl2nUoTNU7uA0ZmshAPsW54J7mp0HvPBgzZFY0jLWOEF9ThQPoiQgT8sAuRFi5Me83FxTrNqHOD-D_NsM",
+      "delivery": "Free delivery by Wed"
+    },
+    {
+      "position": 2,
+      "title": "Garmin Edge MTB Bike Computer",
+      "product_id": "9158842605612445840",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9158842605612445840",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:9158842605612445840,headlineOfferDocid:2903845739603264872,imageDocid:11180663692543794099,rds:PC_16989424666745428772|PROD_PC_16989424666745428772,gpcid:16989424666745428772,mid:576462832914131567,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTE1ODg0MjYwNTYxMjQ0NTg0MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI5MDM4NDU3Mzk2MDMyNjQ4NzIiLCJpbWFnZURvY2lkIjoiMTExODA2NjM2OTI1NDM3OTQwOTkiLCJyZHMiOiJQQ18xNjk4OTQyNDY2Njc0NTQyODc3MnxQUk9EX1BDXzE2OTg5NDI0NjY2NzQ1NDI4NzcyIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjE2OTg5NDI0NjY2NzQ1NDI4NzcyIiwibWlkIjoiNTc2NDYyODMyOTE0MTMxNTY3IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTE1ODg0MjYwNTYxMjQ0NTg0MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI5MDM4NDU3Mzk2MDMyNjQ4NzIiLCJpbWFnZURvY2lkIjoiMTExODA2NjM2OTI1NDM3OTQwOTkiLCJyZHMiOiJQQ18xNjk4OTQyNDY2Njc0NTQyODc3MnxQUk9EX1BDXzE2OTg5NDI0NjY2NzQ1NDI4NzcyIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjE2OTg5NDI0NjY2NzQ1NDI4NzcyIiwibWlkIjoiNTc2NDYyODMyOTE0MTMxNTY3IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Garmin - United States",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632bab8df89de8bfbcaa9640dd3b004e2ebb5.png",
+      "multiple_sources": true,
+      "price": "$399.99",
+      "extracted_price": 399.99,
+      "rating": 3.8,
+      "reviews": 35,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRrf-jYcG_AUGkgTPxTNTAxV0Nqc5bAw1u437HhGGAn5HOA3TyMCsjdeh3hBWoRCWZzP_2AvRdHTnZ5K7Ed3-SNC5JrF7Ec",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-6xqOnicDclRCoIwAADQE6nVGpIQscQmRUtsKfkjuZnTaE63SjtId-s29X7f9yOMUdpznFKyflSm5JYpJLArbS6mZjZr744WrVK1rFbd8n8eInyBWdxfrebMcI5O-FbRaKCEoiGZkI7BAr2mjzlwQ4ExkjA8IEDHva8bXgog1mkb-2n2jvIZesY8pDKDOzfgwDoSH277jRuwH3-HNE4",
+      "delivery": "Free delivery by Wed"
+    },
+    {
+      "position": 3,
+      "title": "Garmin Computer Edge 1040",
+      "product_id": "4405077344090392155",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4405077344090392155",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:4405077344090392155,headlineOfferDocid:186983430624000354,imageDocid:10896066953167897174,rds:PC_466731783210856853|PROD_PC_466731783210856853,gpcid:466731783210856853,mid:576462852576819217,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDQwNTA3NzM0NDA5MDM5MjE1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4Njk4MzQzMDYyNDAwMDM1NCIsImltYWdlRG9jaWQiOiIxMDg5NjA2Njk1MzE2Nzg5NzE3NCIsInJkcyI6IlBDXzQ2NjczMTc4MzIxMDg1Njg1M3xQUk9EX1BDXzQ2NjczMTc4MzIxMDg1Njg1MyIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiI0NjY3MzE3ODMyMTA4NTY4NTMiLCJtaWQiOiI1NzY0NjI4NTI1NzY4MTkyMTciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDQwNTA3NzM0NDA5MDM5MjE1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4Njk4MzQzMDYyNDAwMDM1NCIsImltYWdlRG9jaWQiOiIxMDg5NjA2Njk1MzE2Nzg5NzE3NCIsInJkcyI6IlBDXzQ2NjczMTc4MzIxMDg1Njg1M3xQUk9EX1BDXzQ2NjczMTc4MzIxMDg1Njg1MyIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiI0NjY3MzE3ODMyMTA4NTY4NTMiLCJtaWQiOiI1NzY0NjI4NTI1NzY4MTkyMTciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Target",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632badfd93eac4bd962c363d7b0617bedad7a.png",
+      "multiple_sources": true,
+      "price": "$450.99",
+      "extracted_price": 450.99,
+      "old_price": "Usually $575",
+      "extracted_old_price": 575,
+      "rating": 4.7,
+      "reviews": 3300,
+      "snippet": "Long battery life (301 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSGEzIf_hXLp_ZcMrdPWfj2oE1Lbq_gHfWZnaWn5JjbE2d2diLsLtA1K6CPpScwKbBApDcybkYnn2-nvfXAVieiAcqALk-X",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8YeZ-XicDcnRCoIwFADQL1JxUKAQsUqsXCEIab6Iu3M6pet0o7AP6d_6mzqv5_vprNUm9LwGYV60bYRjORK3Nba2ClwYH57pRq0Vtttp87-QXkUQQxZH75OsuoLpqoTLLNJc9mSMfManqj3KvMQ6x9W55xERRChmmKV-st6nOoNXwndUH2Dhwx2ROPiUBb2pRlGYKBuc4gfPjjaA",
+      "tag": "LOW PRICE",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 4,
+      "title": "Garmin Edge 850 GPS Computer",
+      "product_id": "15052171260471256930",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15052171260471256930",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:15052171260471256930,headlineOfferDocid:17111505464964623647,imageDocid:17519435220690308937,rds:PC_9126418234295175438|PROD_PC_9126418234295175438,gpcid:9126418234295175438,mid:576462845554608627,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNTIxNzEyNjA0NzEyNTY5MzAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzExMTUwNTQ2NDk2NDYyMzY0NyIsImltYWdlRG9jaWQiOiIxNzUxOTQzNTIyMDY5MDMwODkzNyIsInJkcyI6IlBDXzkxMjY0MTgyMzQyOTUxNzU0Mzh8UFJPRF9QQ185MTI2NDE4MjM0Mjk1MTc1NDM4IiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjkxMjY0MTgyMzQyOTUxNzU0MzgiLCJtaWQiOiI1NzY0NjI4NDU1NTQ2MDg2MjciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUwNTIxNzEyNjA0NzEyNTY5MzAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzExMTUwNTQ2NDk2NDYyMzY0NyIsImltYWdlRG9jaWQiOiIxNzUxOTQzNTIyMDY5MDMwODkzNyIsInJkcyI6IlBDXzkxMjY0MTgyMzQyOTUxNzU0Mzh8UFJPRF9QQ185MTI2NDE4MjM0Mjk1MTc1NDM4IiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjkxMjY0MTgyMzQyOTUxNzU0MzgiLCJtaWQiOiI1NzY0NjI4NDU1NTQ2MDg2MjciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Garmin - United States",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632bad1d5441c445d0a8680d41bf626a70a03.png",
+      "multiple_sources": true,
+      "price": "$599.99",
+      "extracted_price": 599.99,
+      "rating": 4.8,
+      "reviews": 109,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvKJ_EFfLkaaNNXXjzwk49Go_d5aeyektOKYAdmZIicgP-sPqSxPePWJPqe0aj5gfu6v4roug_ISksBNFulVU-AlcE0fYq",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xUBcS3icDcltCoIwAADQE_kRaKAQYZCixhpIpf2Rtc2pUzfdtOwg3a3b1Pv7vp9aa6l8y6IDnlapKTH0Y9iYTGmkG2xi0VuqFlI2A9uPu__5ASBehLMlTcpjWJ04QgDkeft-cseLRElcRFfK9TktAtLf4wYzaCg4Zi9I4S2BI7VR67Jq3i7OJGZWxhlXBxDO3fViBB0-2lUx_gDvIDcz",
+      "delivery": "Free delivery by Wed"
+    },
+    {
+      "position": 5,
+      "title": "Garmin Edge 550 Computer",
+      "product_id": "9242880928469327141",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9242880928469327141",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:9242880928469327141,headlineOfferDocid:5479899354489547225,imageDocid:18370829754989860740,rds:PC_16205980020168026232|PROD_PC_16205980020168026232,gpcid:16205980020168026232,mid:576462866962995303,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTI0Mjg4MDkyODQ2OTMyNzE0MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU0Nzk4OTkzNTQ0ODk1NDcyMjUiLCJpbWFnZURvY2lkIjoiMTgzNzA4Mjk3NTQ5ODk4NjA3NDAiLCJyZHMiOiJQQ18xNjIwNTk4MDAyMDE2ODAyNjIzMnxQUk9EX1BDXzE2MjA1OTgwMDIwMTY4MDI2MjMyIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjE2MjA1OTgwMDIwMTY4MDI2MjMyIiwibWlkIjoiNTc2NDYyODY2OTYyOTk1MzAzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTI0Mjg4MDkyODQ2OTMyNzE0MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU0Nzk4OTkzNTQ0ODk1NDcyMjUiLCJpbWFnZURvY2lkIjoiMTgzNzA4Mjk3NTQ5ODk4NjA3NDAiLCJyZHMiOiJQQ18xNjIwNTk4MDAyMDE2ODAyNjIzMnxQUk9EX1BDXzE2MjA1OTgwMDIwMTY4MDI2MjMyIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjE2MjA1OTgwMDIwMTY4MDI2MjMyIiwibWlkIjoiNTc2NDYyODY2OTYyOTk1MzAzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Garmin - United States",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba2e61472df1922d7e8bcb05f962ff7d28.png",
+      "multiple_sources": true,
+      "price": "$499.99",
+      "extracted_price": 499.99,
+      "rating": 4.8,
+      "reviews": 64,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcScQjlJPTRJr56Ht6QxzceaKv1iQ8YOLxSCpGUPFctMFLp_JMxTRCNH1939i1GRQLIMzauyVTRekk8XF7eAxCBKfAPJIaZF",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6YIJ-nicDcltDoIgAADQE6W5lqlba-aGih8JWav-NEJSspSUGnqQ7tZt6v19308lpegdXWcN7QYhWTGRl2aqlb0kklONtg-9r1oheFOunsv_OW5a2D7dUnS7wyzHsJubgTSRGikj0dvgyDpuYrX1hL_LAJUJiMUZJirHXhoY9szmho9RHCYjeQ37HLO6tg5gwVzlraOrm8GQnMAPlkA1Cw",
+      "delivery": "Free delivery by Wed"
+    },
+    {
+      "position": 6,
+      "title": "Garmin Edge Explore 2 Computer",
+      "product_id": "18418417047498226586",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18418417047498226586",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:18418417047498226586,headlineOfferDocid:13229862949988857438,imageDocid:8142222463571844579,rds:PC_14779020562769827355|PROD_PC_14779020562769827355,gpcid:14779020562769827355,mid:576462794651915335,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTg0MTg0MTcwNDc0OTgyMjY1ODYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzIyOTg2Mjk0OTk4ODg1NzQzOCIsImltYWdlRG9jaWQiOiI4MTQyMjIyNDYzNTcxODQ0NTc5IiwicmRzIjoiUENfMTQ3NzkwMjA1NjI3Njk4MjczNTV8UFJPRF9QQ18xNDc3OTAyMDU2Mjc2OTgyNzM1NSIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIxNDc3OTAyMDU2Mjc2OTgyNzM1NSIsIm1pZCI6IjU3NjQ2Mjc5NDY1MTkxNTMzNSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTg0MTg0MTcwNDc0OTgyMjY1ODYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzIyOTg2Mjk0OTk4ODg1NzQzOCIsImltYWdlRG9jaWQiOiI4MTQyMjIyNDYzNTcxODQ0NTc5IiwicmRzIjoiUENfMTQ3NzkwMjA1NjI3Njk4MjczNTV8UFJPRF9QQ18xNDc3OTAyMDU2Mjc2OTgyNzM1NSIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIxNDc3OTAyMDU2Mjc2OTgyNzM1NSIsIm1pZCI6IjU3NjQ2Mjc5NDY1MTkxNTMzNSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Garmin - United States",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba25f542721af37a70e35b383105d06fb5.png",
+      "multiple_sources": true,
+      "price": "$299.99",
+      "extracted_price": 299.99,
+      "rating": 4.5,
+      "reviews": 1400,
+      "snippet": "Easy to use (70 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQhWHljNXkiXr_wQ7MQtilxOCcIddYHNaB9HoeedLJOaLjIQheQ3QxE5N1hUC5NrP0dOHxQOjX8DHGK8DYD4yvBcYkEtPXQ",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eqlmHHicDclLDoIwFADAEwkaJAKJMfIJRbG1C2NZGWwbWkCo8KJwEe_mbXS28_0oADMGti07PswGpFjAvXOsaoQSNLd4_7BH1Ruju2r33P4v2GPhp5yqK2przBrNhtubbk4UdDuRiGdCFAiXoY96KUV-IGVeZ1RJ6tApcfFKXSIXD-elIGiipGZejNKjFxfxen6FvGgSODP6A8LlNZQ",
+      "delivery": "Free delivery by Wed"
+    },
+    {
+      "position": 7,
+      "title": "100% FAST SHIPPING SALES ON Garmin Edge 1050 GPS Premium Cycling Computer - Vivid Color Display",
+      "product_id": "10381361856223810884",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10381361856223810884",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:10381361856223810884,headlineOfferDocid:10381361856223810884,imageDocid:5756514026724998133,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTAzODEzNjE4NTYyMjM4MTA4ODQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDM4MTM2MTg1NjIyMzgxMDg4NCIsImltYWdlRG9jaWQiOiI1NzU2NTE0MDI2NzI0OTk4MTMzIiwicmRzIjoiIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTAzODEzNjE4NTYyMjM4MTA4ODQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDM4MTM2MTg1NjIyMzgxMDg4NCIsImltYWdlRG9jaWQiOiI1NzU2NTE0MDI2NzI0OTk4MTMzIiwicmRzIjoiIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "AliExpress",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba400e6d0506a53b480f4d2e6000e778dc.png",
+      "price": "$760.38",
+      "extracted_price": 760.38,
+      "old_price": "$1,423",
+      "extracted_old_price": 1423,
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRbmvzFPwVg7GDdQQOB8TGIvr6GXhtpJaPyOH8ZOHk-TyombFU3YnIWfUFVdkgzcCjGbHzlTgTCa7oNsgIPYLGdjDmesTHg_qAnPFEz2Bd",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UrfYh3icDcnbCoIwAADQL1KpIE2I8NKmEV5iWvYSutm85JxuGPo5_VV_U-f1fD-VlFyYmlYyPM5clkSRBVupVMhc1ljFfaeJque8ZvQw7P9nWgHZQYwuRTctIHqnVIcuiePQNhD0p3ELb5XkpzyaQ8-4h16roLnvCpBsMuZfnwlISUsX7DSw8JYXosjJ9T4Q1I-yMySN25UCefQxWCwCx2Vtkx96NDrM",
+      "tag": "46% OFF",
+      "extensions": [
+        "46% OFF"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 8,
+      "title": "Computer Garmin Edge 540",
+      "product_id": "14756627377166872927",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14756627377166872927",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:14756627377166872927,headlineOfferDocid:7243940751301019779,imageDocid:10960780258934445142,rds:PC_7040953572497249212|PROD_PC_7040953572497249212,gpcid:7040953572497249212,mid:576462704450469259,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ3NTY2MjczNzcxNjY4NzI5MjciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3MjQzOTQwNzUxMzAxMDE5Nzc5IiwiaW1hZ2VEb2NpZCI6IjEwOTYwNzgwMjU4OTM0NDQ1MTQyIiwicmRzIjoiUENfNzA0MDk1MzU3MjQ5NzI0OTIxMnxQUk9EX1BDXzcwNDA5NTM1NzI0OTcyNDkyMTIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiNzA0MDk1MzU3MjQ5NzI0OTIxMiIsIm1pZCI6IjU3NjQ2MjcwNDQ1MDQ2OTI1OSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ3NTY2MjczNzcxNjY4NzI5MjciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3MjQzOTQwNzUxMzAxMDE5Nzc5IiwiaW1hZ2VEb2NpZCI6IjEwOTYwNzgwMjU4OTM0NDQ1MTQyIiwicmRzIjoiUENfNzA0MDk1MzU3MjQ5NzI0OTIxMnxQUk9EX1BDXzcwNDA5NTM1NzI0OTcyNDkyMTIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiNzA0MDk1MzU3MjQ5NzI0OTIxMiIsIm1pZCI6IjU3NjQ2MjcwNDQ1MDQ2OTI1OSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Best Buy",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba190215976b03ce41a0637350d7be2131.png",
+      "multiple_sources": true,
+      "price": "$349.99",
+      "extracted_price": 349.99,
+      "rating": 4.5,
+      "reviews": 1600,
+      "snippet": "Long battery life (99 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHQAIkBULisx9MqA_M7BXW2HsxIQl7yzYffX-CnTnW2eGPSVVBzYUsGgp4h3w_C6W9XU3yL6VKTwNAyPkRytSVHOhGRDzozPzlQOog0iAPqUrQfHCrX8gn",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oMl8JXicDcnbCoIwAADQL0pDQzOImAZOstwqLz1FedmGNacb1PZR_U9_U-f1fD9UKSFXtt3yetJCtc1M3bljEaluitVWPTxtSQchGCebcf2_FTg0QVxjiEHSh3nK5DvYj-C698OqdKB8J_jha3PpumoW8TMvnTZGp6IIzSWXMREL6r6ukVcGVe7q1Ct259cBaNQftToVMKPxcWsGg8wDZwOZM4DGfMIdjKZqSfgPH4s-fw",
+      "delivery": "Free delivery by Thu"
+    },
+    {
+      "position": 9,
+      "title": "Garmin Edge 130 Plus",
+      "product_id": "1647663964814348964",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1647663964814348964",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:1647663964814348964,headlineOfferDocid:10905898861731390431,imageDocid:7354466750462507470,rds:PC_9942885132558460563|PROD_PC_9942885132558460563,gpcid:9942885132558460563,mid:576462736353767392,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0NzY2Mzk2NDgxNDM0ODk2NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwOTA1ODk4ODYxNzMxMzkwNDMxIiwiaW1hZ2VEb2NpZCI6IjczNTQ0NjY3NTA0NjI1MDc0NzAiLCJyZHMiOiJQQ185OTQyODg1MTMyNTU4NDYwNTYzfFBST0RfUENfOTk0Mjg4NTEzMjU1ODQ2MDU2MyIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiI5OTQyODg1MTMyNTU4NDYwNTYzIiwibWlkIjoiNTc2NDYyNzM2MzUzNzY3MzkyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0NzY2Mzk2NDgxNDM0ODk2NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwOTA1ODk4ODYxNzMxMzkwNDMxIiwiaW1hZ2VEb2NpZCI6IjczNTQ0NjY3NTA0NjI1MDc0NzAiLCJyZHMiOiJQQ185OTQyODg1MTMyNTU4NDYwNTYzfFBST0RfUENfOTk0Mjg4NTEzMjU1ODQ2MDU2MyIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiI5OTQyODg1MTMyNTU4NDYwNTYzIiwibWlkIjoiNTc2NDYyNzM2MzUzNzY3MzkyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Garmin - United States",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba1f5a8b5e4a55c36d28fbf26ad6848c2f.png",
+      "multiple_sources": true,
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "rating": 4.5,
+      "reviews": 393,
+      "snippet": "Quality display (34 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPJKXLQGnDabqxL2jdvSO6b1VV1mVi7XViJHnz55ZQB36Z-i4urWpURRgLLL2wiuep7GBzEWpXmD-IEBDFPbsibJeh4Pz_",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g2qnsnicDcndCoIwGADQJ1LRUkmISDTLRqnRFG_CzaELnJ9u9uOD9G69TZ3b8_20SoH0DIMJOr5BsVpTRFh6I1WlONVp3xmy7QG4aDbD-n_e9lSvIpom8bFAaSSCigwvZN3rx-XsEBNjs8PcLTCP92K27TL1F06p8eU05nDNsgYhZD35xMCN_DnMoegC7RD6wS4hkpOYtctkvv0AhMo1SA",
+      "delivery": "Free delivery by Wed"
+    },
+    {
+      "position": 10,
+      "title": "Garmin Edge 1050 Bundle",
+      "product_id": "14619721500517422834",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14619721500517422834",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:14619721500517422834,headlineOfferDocid:14619721500517422834,imageDocid:17748305095967669239,rds:PC_9720433616383348180|PROD_PC_9720433616383348180,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTQ2MTk3MjE1MDA1MTc0MjI4MzQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDYxOTcyMTUwMDUxNzQyMjgzNCIsImltYWdlRG9jaWQiOiIxNzc0ODMwNTA5NTk2NzY2OTIzOSIsInJkcyI6IlBDXzk3MjA0MzM2MTYzODMzNDgxODB8UFJPRF9QQ185NzIwNDMzNjE2MzgzMzQ4MTgwIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTQ2MTk3MjE1MDA1MTc0MjI4MzQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDYxOTcyMTUwMDUxNzQyMjgzNCIsImltYWdlRG9jaWQiOiIxNzc0ODMwNTA5NTk2NzY2OTIzOSIsInJkcyI6IlBDXzk3MjA0MzM2MTYzODMzNDgxODB8UFJPRF9QQ185NzIwNDMzNjE2MzgzMzQ4MTgwIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Cicli Varsalona",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632bac5b380b991bb009c6d2d48dfbb04089f.jpeg",
+      "price": "$694.00",
+      "extracted_price": 694.0,
+      "alternative_price": {
+        "price": "\u20ac592",
+        "extracted_price": 592,
+        "currency": "\u20ac"
+      },
+      "rating": 4.5,
+      "reviews": 1000,
+      "snippet": "Quality display (171 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtCacueJFYmE-SnH8boOERiL3dUQW2cs3rubj31Y3fzrBk1-0mN3ONisPpVleJ-cMjXACMcolX9UODrXig9ceTkw3HYLSbKTVkpOmt3UNLrDdlyiSZfqY0gg",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SZbfR3icDclJDoIwFADQEzFoN0JiDApKlEFFkLqDTy2VqbQ1Bk_ldbyNvu37fmqluLQNg_QgJq5IpamyRzqVqlAMdBg6Q9YD56ynq3H5P9uJKmsHJ7Up4En2W9x5WtL7i3KIvTMLUJWernOQSDzLB5phdH-LdTPTzC5CccTkkWct2WsQPnJnE8LQ5lYauyJn1AJyaV7Ix0FSHi5Zw-NOoTQKhFu1E0tu9xGblP4AmCs_DQ"
+    },
+    {
+      "position": 11,
+      "title": "Edge 1050 Bike GPS",
+      "product_id": "8434522945727957674",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8434522945727957674",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:8434522945727957674,headlineOfferDocid:8434522945727957674,imageDocid:10252456047065323856,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiODQzNDUyMjk0NTcyNzk1NzY3NCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg0MzQ1MjI5NDU3Mjc5NTc2NzQiLCJpbWFnZURvY2lkIjoiMTAyNTI0NTYwNDcwNjUzMjM4NTYiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiODQzNDUyMjk0NTcyNzk1NzY3NCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg0MzQ1MjI5NDU3Mjc5NTc2NzQiLCJpbWFnZURvY2lkIjoiMTAyNTI0NTYwNDcwNjUzMjM4NTYiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Temu",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba0193d30cf04782f1c0f01d0a581c5bda.png",
+      "price": "$691.04",
+      "extracted_price": 691.04,
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ4RuWqhLUIzlbfGsVdriWQ4IN-Gqpf4N6MT5MpOHJWNWyi2fQPh3-c1WDjMKZVQ3A9skzBGX6qQkMtUBJeaTrDGaB0NeYm7gR_EVwZ_BM8rstrWtU4gt9K",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HPEm1HicDclJDoIwFADQEyEoiEJijI2mTq3WAFU2BMvogKX9xuChvI-30bd9308FILVvmnkjVCchzww4N1av1JBCLXricTd19ZCybsppO_mfP6OZhwVzDk_eVttw9b6dC6yjTNWcOStq4FYWDnVJMCRyt1xzyrt6ULB9ZRuiz-cXsokjZs88fX0jfHRbdiUQonWeBmqOU2TR_HQflYdkEb3iBJGx0qA4hE4J3uYHC3o9nw",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 12,
+      "title": "Garmin Edge 840 Computer",
+      "product_id": "1990289501188973135",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1990289501188973135",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:1990289501188973135,headlineOfferDocid:3909230008498447066,imageDocid:1877803777805121618,rds:PC_3884963843537043020|PROD_PC_3884963843537043020,gpcid:3884963843537043020,mid:576462703015150575,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTk5MDI4OTUwMTE4ODk3MzEzNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM5MDkyMzAwMDg0OTg0NDcwNjYiLCJpbWFnZURvY2lkIjoiMTg3NzgwMzc3NzgwNTEyMTYxOCIsInJkcyI6IlBDXzM4ODQ5NjM4NDM1MzcwNDMwMjB8UFJPRF9QQ18zODg0OTYzODQzNTM3MDQzMDIwIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjM4ODQ5NjM4NDM1MzcwNDMwMjAiLCJtaWQiOiI1NzY0NjI3MDMwMTUxNTA1NzUiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTk5MDI4OTUwMTE4ODk3MzEzNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM5MDkyMzAwMDg0OTg0NDcwNjYiLCJpbWFnZURvY2lkIjoiMTg3NzgwMzc3NzgwNTEyMTYxOCIsInJkcyI6IlBDXzM4ODQ5NjM4NDM1MzcwNDMwMjB8UFJPRF9QQ18zODg0OTYzODQzNTM3MDQzMDIwIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjM4ODQ5NjM4NDM1MzcwNDMwMjAiLCJtaWQiOiI1NzY0NjI3MDMwMTUxNTA1NzUiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "DICK'S Sporting Goods",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba9f15e6c1a661473f5a95e2d1f1dc77d6.png",
+      "multiple_sources": true,
+      "price": "$449.99",
+      "extracted_price": 449.99,
+      "rating": 4.4,
+      "reviews": 1500,
+      "snippet": "Long battery life (106 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRy1BNLWuhPsSSb6XRr27YrOxCMvB3cKvv0XxQ5V5cefE-1Iee5X3FJWWHDcdo6OcOTX7FynMb5_0g8KBNYLI1dzyg2XEdBng",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zmCrxnicDclJDoIwAADAF7GnoCTGWAVFNhUj5WSkrYWDpdJKwJf4NX-jc53vp1FKSN8wKMf9JBQlmqq5rTOpbqrFOu4ehmw6IVrOls_F__xVRuZbfJosmCXlqznIoqhddOptr-rzcZ0O0MHxMJhoPIILwPQeaFZEKUBOuC_L3QaTzs1xfkZeOPG0BleTzWKYVUlkkffEbBQQyNkP5Fo1WQ",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 13,
+      "title": "Garmin Edge 1050, Premium Bicycle Computer, Advanced Bicycle Training and Group Ride Features & Messaging, Built-in Speaker, Roa",
+      "product_id": "17349705936451909017",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17349705936451909017",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:17349705936451909017,headlineOfferDocid:17349705936451909017,imageDocid:5359371889208693740,rds:PC_9720433616383348180|PROD_PC_9720433616383348180,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTczNDk3MDU5MzY0NTE5MDkwMTciLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzM0OTcwNTkzNjQ1MTkwOTAxNyIsImltYWdlRG9jaWQiOiI1MzU5MzcxODg5MjA4NjkzNzQwIiwicmRzIjoiUENfOTcyMDQzMzYxNjM4MzM0ODE4MHxQUk9EX1BDXzk3MjA0MzM2MTYzODMzNDgxODAiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTczNDk3MDU5MzY0NTE5MDkwMTciLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzM0OTcwNTkzNjQ1MTkwOTAxNyIsImltYWdlRG9jaWQiOiI1MzU5MzcxODg5MjA4NjkzNzQwIiwicmRzIjoiUENfOTcyMDQzMzYxNjM4MzM0ODE4MHxQUk9EX1BDXzk3MjA0MzM2MTYzODMzNDgxODAiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Sears - FastMedia",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba76aaafac5a18685673fd72100264f006.png",
+      "price": "$947.65",
+      "extracted_price": 947.65,
+      "old_price": "$1,579",
+      "extracted_old_price": 1579,
+      "rating": 4.5,
+      "reviews": 1000,
+      "snippet": "Quality display (171 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQoV4vl10vkPLxTX-2DKGNzsaNW0NXfkQpraceIhVOv9KXalHEnqHXdw9PRUHOZhP6Z4DF4NJz6cKj5HKGUIFGD6sTR88IpkY73TM6ml4EISMtxX7XNNr59Xg",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZG2sv3icDcltEkJAAADQE_mohDXTNM0ou6lFoa1_WkLEsjtSp-o63abe3_f9FEIwbilK1tD-xUSWSuLaqHLORSJKKtP2ofCiZaxs8mW3-J-1wilwaNDG2lBP1KHyd2NIpKntOvjNE3xSMblVAesTmqEi9gbgkqSG66aDJH0C_xBB71L4-kWzNxrevnXq3ufQdSK0cWydhwfTRKw6G7Nwrz9qbY2OezESg2DczwHJf3b_PSg",
+      "tag": "40% OFF",
+      "extensions": [
+        "40% OFF"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 14,
+      "title": "Garmin Edge 1050 Silicone Case",
+      "product_id": "8627301422217210515",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8627301422217210515",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:8627301422217210515,headlineOfferDocid:9954664939617985268,imageDocid:11207785616711091058,rds:PC_2413518132561146855|PROD_PC_2413518132561146855,gpcid:2413518132561146855,mid:576462484154558309,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODYyNzMwMTQyMjIxNzIxMDUxNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk5NTQ2NjQ5Mzk2MTc5ODUyNjgiLCJpbWFnZURvY2lkIjoiMTEyMDc3ODU2MTY3MTEwOTEwNTgiLCJyZHMiOiJQQ18yNDEzNTE4MTMyNTYxMTQ2ODU1fFBST0RfUENfMjQxMzUxODEzMjU2MTE0Njg1NSIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIyNDEzNTE4MTMyNTYxMTQ2ODU1IiwibWlkIjoiNTc2NDYyNDg0MTU0NTU4MzA5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODYyNzMwMTQyMjIxNzIxMDUxNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk5NTQ2NjQ5Mzk2MTc5ODUyNjgiLCJpbWFnZURvY2lkIjoiMTEyMDc3ODU2MTY3MTEwOTEwNTgiLCJyZHMiOiJQQ18yNDEzNTE4MTMyNTYxMTQ2ODU1fFBST0RfUENfMjQxMzUxODEzMjU2MTE0Njg1NSIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIyNDEzNTE4MTMyNTYxMTQ2ODU1IiwibWlkIjoiNTc2NDYyNDg0MTU0NTU4MzA5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Garmin - United States",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba22cd4d608f21db7ce228440a110a4e0f.png",
+      "multiple_sources": true,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "rating": 4.7,
+      "reviews": 108,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQyULIEREvN8lLnq25Z0P7rhfIT2J8ki595cYaabtojFA9ejAtXC4hEg6SYBA-Im_EWsqg_6_bRp8gb6Jg_tWfwJi92TWRkUQ",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kpXDCXicDclhCoIwGADQE6kx0pwQsWKFIpKmmP0RnbqpqdN9FN6kq3Wben_f9yMApHIMox7ZskqoKw3KEelcQQEt09k0GEpMUrYjP8z7_zkkqPCFhWviuzSir8B--uOMzMfmultE48bIs_vWxCbLiqKEqTsTXHcE7qetoNy6ZUeiuUNOUzXz3MrLSNq8tDyeQ9q8vRajOI36JPwB4Kg1yA",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 15,
+      "title": "Garmin Edge 1030 Plus",
+      "product_id": "12675775036311235998",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12675775036311235998",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:12675775036311235998,headlineOfferDocid:14082998150201573509,imageDocid:10523578772883773102,rds:PC_12645702155765765553|PROD_PC_12645702155765765553,gpcid:12645702155765765553,mid:576462775328387195,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI2NzU3NzUwMzYzMTEyMzU5OTgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDA4Mjk5ODE1MDIwMTU3MzUwOSIsImltYWdlRG9jaWQiOiIxMDUyMzU3ODc3Mjg4Mzc3MzEwMiIsInJkcyI6IlBDXzEyNjQ1NzAyMTU1NzY1NzY1NTUzfFBST0RfUENfMTI2NDU3MDIxNTU3NjU3NjU1NTMiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiMTI2NDU3MDIxNTU3NjU3NjU1NTMiLCJtaWQiOiI1NzY0NjI3NzUzMjgzODcxOTUiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI2NzU3NzUwMzYzMTEyMzU5OTgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDA4Mjk5ODE1MDIwMTU3MzUwOSIsImltYWdlRG9jaWQiOiIxMDUyMzU3ODc3Mjg4Mzc3MzEwMiIsInJkcyI6IlBDXzEyNjQ1NzAyMTU1NzY1NzY1NTUzfFBST0RfUENfMTI2NDU3MDIxNTU3NjU3NjU1NTMiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiMTI2NDU3MDIxNTU3NjU3NjU1NTMiLCJtaWQiOiI1NzY0NjI3NzUzMjgzODcxOTUiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Unclaimed Baggage",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba6aff23b92d33bd7edde014980c5262f3.png",
+      "multiple_sources": true,
+      "price": "$319.99",
+      "extracted_price": 319.99,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.6,
+      "reviews": 813,
+      "snippet": "Easy to use (47 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSwbhK1FB7W6TgmDGUwmJNucwE3NbTZV8Sw0kmlVDOyofdY321z81ZrJGVd-z03oevnIkjbel3DYq1dkrbvuKL5QQ7o1EMQrjK9MTPDc6JlygTOYL-U8cmtYw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hAiivHicDcnbEkJAAADQL5KWSZhpmhoyuWZCw1u7K8Jal2WHr-p3-ps6r-f7KRnrRl0U8xYNS8dyLDDYSptiZE_2RhtEiTiWtOvebXHsD__TTz7WLHTnsHTA5bx_KFFBDCvmxPYnxE3Zh1GWqHe-rUmTGMFCXziVJbCqIBtsK8HCupVpPrfXuoJ5IxtpD3A9wHly3F0Y7ikwvXCoHM2LbgZS7GYpoiB1hVhFhKX8B5gMPpI",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 16,
+      "title": "Garmin Edge 1030",
+      "product_id": "2152452468915459860",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2152452468915459860",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:2152452468915459860,headlineOfferDocid:12177006947449614645,imageDocid:12875663330664226250,rds:PC_2699345780486791755|PROD_PC_2699345780486791755,gpcid:2699345780486791755,mid:576462768564117496,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjE1MjQ1MjQ2ODkxNTQ1OTg2MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTc3MDA2OTQ3NDQ5NjE0NjQ1IiwiaW1hZ2VEb2NpZCI6IjEyODc1NjYzMzMwNjY0MjI2MjUwIiwicmRzIjoiUENfMjY5OTM0NTc4MDQ4Njc5MTc1NXxQUk9EX1BDXzI2OTkzNDU3ODA0ODY3OTE3NTUiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiMjY5OTM0NTc4MDQ4Njc5MTc1NSIsIm1pZCI6IjU3NjQ2Mjc2ODU2NDExNzQ5NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjE1MjQ1MjQ2ODkxNTQ1OTg2MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTc3MDA2OTQ3NDQ5NjE0NjQ1IiwiaW1hZ2VEb2NpZCI6IjEyODc1NjYzMzMwNjY0MjI2MjUwIiwicmRzIjoiUENfMjY5OTM0NTc4MDQ4Njc5MTc1NXxQUk9EX1BDXzI2OTkzNDU3ODA0ODY3OTE3NTUiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiMjY5OTM0NTc4MDQ4Njc5MTc1NSIsIm1pZCI6IjU3NjQ2Mjc2ODU2NDExNzQ5NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Jax Bicycle Center",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba170a253a75aaeb09621d2a7592f7cd68.png",
+      "multiple_sources": true,
+      "price": "$599.99",
+      "extracted_price": 599.99,
+      "rating": 4.2,
+      "reviews": 735,
+      "snippet": "Long battery life (40 user reviews)",
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVrDvSdvxwS_HKM7dIjkaHU3equYEf_vb20UN4jd-_GNCUN1ifay5-oEjKe5EAFLkqrdAg5nAxUM0cIcpqhayFev6XIOzXJzW6vcKVLSvPdjDR7KmIPBlU9w",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JsxfznicDcltEkJAAADQE6GUTGaaZgsRqUlb-mXYXV-FxbbhVF2n29T7-76fjDHaaZJEKtQOlBEssLiSxbRjEcuRiOpS6rKa0rxK183qfxrw8HKHLtdW5z7m_dsPLeegYrt4RBackeZ1N5KQx_IEevMCC-HO20JvmifRoAi1UThEMYDpPpoWg1SpQA8PE2Qj2mTRYBK-COzjGOzH24Ij5-r6_IQL_aw6pX3aPOHy_QPLmz8j"
+    },
+    {
+      "position": 17,
+      "title": "Garmin Edge Explore Touring Bike Computer",
+      "product_id": "6022504186876225730",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6022504186876225730",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:6022504186876225730,headlineOfferDocid:6022504186876225730,imageDocid:8664069266432262025,rds:PC_10477649650136962579|PROD_PC_10477649650136962579,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiNjAyMjUwNDE4Njg3NjIyNTczMCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwMjI1MDQxODY4NzYyMjU3MzAiLCJpbWFnZURvY2lkIjoiODY2NDA2OTI2NjQzMjI2MjAyNSIsInJkcyI6IlBDXzEwNDc3NjQ5NjUwMTM2OTYyNTc5fFBST0RfUENfMTA0Nzc2NDk2NTAxMzY5NjI1NzkiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiNjAyMjUwNDE4Njg3NjIyNTczMCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwMjI1MDQxODY4NzYyMjU3MzAiLCJpbWFnZURvY2lkIjoiODY2NDA2OTI2NjQzMjI2MjAyNSIsInJkcyI6IlBDXzEwNDc3NjQ5NjUwMTM2OTYyNTc5fFBST0RfUENfMTA0Nzc2NDk2NTAxMzY5NjI1NzkiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "eBay - gpscity",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCSoeiwwKkumV2aNvhjSlaa0ZcuAjm4JjDQLWyS_eDqznJjKil6DM7NxnTU4M5jkB0dGlwhR2voLnxXgQ6vVdpDpU-flw",
+      "price": "$149.99",
+      "extracted_price": 149.99,
+      "second_hand_condition": "refurbished",
+      "rating": 4.1,
+      "reviews": 1200,
+      "snippet": "Easy to use (96 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRUgqG9qD-N3_NLs0BfZ86m2Ymnn-i6rMBxou2ocuHFEfDZO5QR7SGotdKXz1BvNBCHioCHywJ1tIU0z7MLoqqroY6B9zaQYIxCWAEU173dGk1ALgKnpCP-rA",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QJP_hXicDcnbEoFAAADQL-qyGiUzxuyGikRMQ72YbNSOae9ufZXf8Tec1_P9tFpzNbasC8XyzfWlNvSZArNRutIEm5h1lmoZ54Q2UzH53ximtR_iXd6I0BczI3VOaaJsdC1HbjcoOkoN4so1erH7gOF7tJhfZ-VmmO28fch0vTr2AD1SFESEBdH7uQQ6zu3eWydMCMkKF_l9lRXxKzjAeQ48pw5vACbNivJga0j4A2O8PXI",
+      "tag": "40% OFF",
+      "extensions": [
+        "40% OFF"
+      ],
+      "delivery": "Free delivery by Thu"
+    },
+    {
+      "position": 18,
+      "title": "Garmin Edge 1040 Solar",
+      "product_id": "1913335654985650985",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1913335654985650985",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:1913335654985650985,headlineOfferDocid:1913335654985650985,imageDocid:18308045936410556865,rds:PC_7040953572497249212|PROD_PC_7040953572497249212,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTkxMzMzNTY1NDk4NTY1MDk4NSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE5MTMzMzU2NTQ5ODU2NTA5ODUiLCJpbWFnZURvY2lkIjoiMTgzMDgwNDU5MzY0MTA1NTY4NjUiLCJyZHMiOiJQQ183MDQwOTUzNTcyNDk3MjQ5MjEyfFBST0RfUENfNzA0MDk1MzU3MjQ5NzI0OTIxMiIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTkxMzMzNTY1NDk4NTY1MDk4NSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE5MTMzMzU2NTQ5ODU2NTA5ODUiLCJpbWFnZURvY2lkIjoiMTgzMDgwNDU5MzY0MTA1NTY4NjUiLCJyZHMiOiJQQ183MDQwOTUzNTcyNDk3MjQ5MjEyfFBST0RfUENfNzA0MDk1MzU3MjQ5NzI0OTIxMiIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Ari Bikes",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba174f7a3ab097dea5c03f37d8f96457ad.png",
+      "price": "$749.00",
+      "extracted_price": 749.0,
+      "rating": 4.5,
+      "reviews": 1600,
+      "snippet": "Long battery life (99 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRS1AGx39x3Krl7htoi7q8WdMVXwAfulldhLEPvFPom_Ojzv6C_0putu9SKIyLVMQCv-GmyfoSCBQy6DOMPL7IzCiHrJPzi2NVCDB5pQGsuusB4nfN2xeYtiMA",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UtfrunicDclJDoIwFADQEyEqKkJiDBTFgVES1BVRBqkBWukvUm7lcbyNvu37fkoAynRZzpu0FRTyTIJ7Mxk9GNwAp6OU1DIrCaW4eaxfq__phpdpdnqKJobdK1qvHNtKLYFg9bU8Z258eRsFr6qsdDZBtw1InfjPoVugZEw5cC067oUTuyHqJLsWBYmQGYqF5buBo-4HhHftIRjw1IuRZc5paDPOmTlrCm_a51fArvEDD8A_pg",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 19,
+      "title": "Garmin Edge 1040 Bike Computer",
+      "product_id": "16208326089344218713",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16208326089344218713",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:16208326089344218713,headlineOfferDocid:16208326089344218713,imageDocid:2204175684118786568,rds:PC_466731783210856853|PROD_PC_466731783210856853,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTYyMDgzMjYwODkzNDQyMTg3MTMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjIwODMyNjA4OTM0NDIxODcxMyIsImltYWdlRG9jaWQiOiIyMjA0MTc1Njg0MTE4Nzg2NTY4IiwicmRzIjoiUENfNDY2NzMxNzgzMjEwODU2ODUzfFBST0RfUENfNDY2NzMxNzgzMjEwODU2ODUzIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTYyMDgzMjYwODkzNDQyMTg3MTMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjIwODMyNjA4OTM0NDIxODcxMyIsImltYWdlRG9jaWQiOiIyMjA0MTc1Njg0MTE4Nzg2NTY4IiwicmRzIjoiUENfNDY2NzMxNzgzMjEwODU2ODUzfFBST0RfUENfNDY2NzMxNzgzMjEwODU2ODUzIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Tailor Fit Cycles",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba983a35c6c17ea2dd293fa193de5a0377.png",
+      "price": "$699.99",
+      "extracted_price": 699.99,
+      "rating": 4.7,
+      "reviews": 3300,
+      "snippet": "Long battery life (301 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS6l8r5bvWUZXdplbejXTJihcLJ5TEb8LYPe82W1Iu_DsYvmdjcoIL-7VWQP_qV4hydUMIULk3e42rmauuXpyG-Bx_g_V4B",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GzkY0XicDcnbCoIwAADQL1LLtEyISApRVhip016Gu-A0L9NNyR_p3_qbOq_n--FKCekaBuvIuAjFqKZwt9JLqQpVEZ30rSF5L0TVlcfh8D_3dKN7nzy2jTPaeIbJM6OiwazO4rDiBIR2fMEOyCPmmHAdTOgs87mlNekDoO1SeI_QkFp8ock1SMBrwyxzbItpysTia94blSi1vB-0izYQ",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 20,
+      "title": "Garmin Edge Explore 2",
+      "product_id": "16242349008263312193",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16242349008263312193",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:16242349008263312193,headlineOfferDocid:16242349008263312193,imageDocid:15900257582208048054,rds:PC_14779020562769827355|PROD_PC_14779020562769827355,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTYyNDIzNDkwMDgyNjMzMTIxOTMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjI0MjM0OTAwODI2MzMxMjE5MyIsImltYWdlRG9jaWQiOiIxNTkwMDI1NzU4MjIwODA0ODA1NCIsInJkcyI6IlBDXzE0Nzc5MDIwNTYyNzY5ODI3MzU1fFBST0RfUENfMTQ3NzkwMjA1NjI3Njk4MjczNTUiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTYyNDIzNDkwMDgyNjMzMTIxOTMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjI0MjM0OTAwODI2MzMxMjE5MyIsImltYWdlRG9jaWQiOiIxNTkwMDI1NzU4MjIwODA0ODA1NCIsInJkcyI6IlBDXzE0Nzc5MDIwNTYyNzY5ODI3MzU1fFBST0RfUENfMTQ3NzkwMjA1NjI3Njk4MjczNTUiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Recovery for Athletes",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba33e9d4bdcc944674a38a9b94fa3bd9f0.png",
+      "price": "$449.98",
+      "extracted_price": 449.98,
+      "rating": 4.5,
+      "reviews": 1400,
+      "snippet": "Easy to use (70 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSsDqG8lU7uRk5VSO8MMkiD2ZrpQ3alBSU5kWxhVzvOLq4W4X0G26IpVgZMKWGkMkjEzlJPZEblw5L4odGeQDyUSDESJcSnPeq47poJVQuOuuuK7L6Tqxb7",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ec_kwHicDclJDoIwAADAFwkG2SQxRgNpZBGwAoYbFALYCi20Cj7K__gbnet8Py3ndLJkue7RuFBeVyte9orUTLzgHZLQ8JCndqC065s92_3POpyrLUBwshkwSWKIC9ZSGJpBgDtbyUcabwpyhImGs7lN38_QZ2qm3tZA0U80bfLAywAO8N15EzfKnZK8NF8dKlDH9pJA24Eugn1UM9Wgg5vGIhRCeIavX9lcGj8RNz33",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 21,
+      "title": "Framesandgear Replacement Mount for Garmin Edge 1050",
+      "product_id": "15494695562638148768",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15494695562638148768",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:15494695562638148768,headlineOfferDocid:5923378593347531221,imageDocid:8011652952433982096,gpcid:17376240331486738301,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0OTQ2OTU1NjI2MzgxNDg3NjgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1OTIzMzc4NTkzMzQ3NTMxMjIxIiwiaW1hZ2VEb2NpZCI6IjgwMTE2NTI5NTI0MzM5ODIwOTYiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiMTczNzYyNDAzMzE0ODY3MzgzMDEiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0OTQ2OTU1NjI2MzgxNDg3NjgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1OTIzMzc4NTkzMzQ3NTMxMjIxIiwiaW1hZ2VEb2NpZCI6IjgwMTE2NTI5NTI0MzM5ODIwOTYiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiMTczNzYyNDAzMzE0ODY3MzgzMDEiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "FramesAndGear ApS",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba29889f2ecde6fd9f6fb01c64dc6115b6.png",
+      "price": "$41.00",
+      "extracted_price": 41.0,
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-I5pKbwSDzihkP11-6WELhngqbvJYRhTZeVzsKdrJlSJK-6gS37R9b6K3KHgw34CQabJTcy72lp48G2gaCk5tl3D6LuCCxrrLHJQJIbuqMLqWiLH_CIxYN_s",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mjx1uXicDcltDoIgAADQE5klfmRbaw1bCtQqXc7-OEEHTjMUKutWHafb1Pv7vh-htVQL06w6NrykrkpD02464UoXumYTdruaStykrDu-6pf_W6z3pb9liRE5EtNnHLxr0RxmM8NNN0R0vKcPlJ1EcqnOb4XLAbUxwobLY-CdfOpigEP-BDY8FhQl7OVZrbTnW4sXsHF0CwKX3CEch4GE6Igieu93pE9rEuYwGrN9rn6ehD4W",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 22,
+      "title": "GPS Cycling/ Bike Computer",
+      "product_id": "8782289598836073653",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8782289598836073653",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:8782289598836073653,headlineOfferDocid:8782289598836073653,imageDocid:15158914869241226627,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiODc4MjI4OTU5ODgzNjA3MzY1MyIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg3ODIyODk1OTg4MzYwNzM2NTMiLCJpbWFnZURvY2lkIjoiMTUxNTg5MTQ4NjkyNDEyMjY2MjciLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiODc4MjI4OTU5ODgzNjA3MzY1MyIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg3ODIyODk1OTg4MzYwNzM2NTMiLCJpbWFnZURvY2lkIjoiMTUxNTg5MTQ4NjkyNDEyMjY2MjciLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Newegg.com - Halo Electronics",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632bac2a592adfb63e7987f4c572ff76d3475.png",
+      "price": "$699.98",
+      "extracted_price": 699.98,
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS10uvapFRxyx3o8JtMRlJGyrsCyZPrx4L3sXEm1DckcDCSrZh_UvmLat8Bxlk9c0ufEpOS1KRiJD_2Z2tgf2o_XE61pEqiAQ",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sOM8VHicDcnbCoIwGADgJ0qdRqgQUboEs5MSiDdi84iHze1Xtjfp1Xqb-m6_76cFYMLV9WoiXDGoyg28J0trBBTQEY3QURctZaybmsO8_597vJVOQBJkLGvBzrFU0qJ2CNd4CAPFhaeyB5fbyBIpHpFPeuJ7Cc_a_LWOUQH2SQ69Q4ylxuyeoEvchX5uZiY0tUnzFO8Qw3N3fP4AT_g3Dw",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 23,
+      "title": "Garmin Edge Mtb/1050/840 Cycling Computer Speedometer",
+      "product_id": "6556573115458064026",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6556573115458064026",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:6556573115458064026,headlineOfferDocid:6556573115458064026,imageDocid:3793133841897513058,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiNjU1NjU3MzExNTQ1ODA2NDAyNiIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY1NTY1NzMxMTU0NTgwNjQwMjYiLCJpbWFnZURvY2lkIjoiMzc5MzEzMzg0MTg5NzUxMzA1OCIsInJkcyI6IiIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiNjU1NjU3MzExNTQ1ODA2NDAyNiIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY1NTY1NzMxMTU0NTgwNjQwMjYiLCJpbWFnZURvY2lkIjoiMzc5MzEzMzg0MTg5NzUxMzA1OCIsInJkcyI6IiIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "eBay - limocartoyshop",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba16e2cd5fddc09aab7f705cce0690a4cc.png",
+      "price": "$10.29",
+      "extracted_price": 10.29,
+      "old_price": "$12",
+      "extracted_old_price": 12,
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS3PrT_-nZAeOv1AqNPl8R46pYz9ORfF9J7LrTepqM9ndE9L3hOS7FlTSXpXmmGIVXhmFAzGe9cgYDIJn5Oq9J9kaDLFBw-nDV2K_RmSFo1JFfkVXsDNqy2ng",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MljROXicDcltDkMwAADQEyHYZpUsi8UqzBBE2B-xqo_Qamm2cKpdZ7fZ3t_3_XRCsMVUFEzRvDKBa0k8qSa3i6hEj2Q0EWXpJsZ62p756X-mFdTAQYkezWkp0YeFw5dq8SAaj_HuwIoNhHEDgWf4c4oZvwNaX4Gvd2FiwDFNcpYT4rhZ3hFobQ4GqC1s16P7kAMPDJXtw8tbonam3cqYJHBSPdgMWb7YAV812v4AUqk9ow",
+      "tag": "11% OFF",
+      "extensions": [
+        "11% OFF"
+      ]
+    },
+    {
+      "position": 24,
+      "title": "Garmin Edge 830 Computer Mountain Bike",
+      "product_id": "18191926572048252460",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18191926572048252460",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:18191926572048252460,headlineOfferDocid:18191926572048252460,imageDocid:16232013080548001474,rds:PC_12672281133773021823|PROD_PC_12672281133773021823,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTgxOTE5MjY1NzIwNDgyNTI0NjAiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODE5MTkyNjU3MjA0ODI1MjQ2MCIsImltYWdlRG9jaWQiOiIxNjIzMjAxMzA4MDU0ODAwMTQ3NCIsInJkcyI6IlBDXzEyNjcyMjgxMTMzNzczMDIxODIzfFBST0RfUENfMTI2NzIyODExMzM3NzMwMjE4MjMiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTgxOTE5MjY1NzIwNDgyNTI0NjAiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODE5MTkyNjU3MjA0ODI1MjQ2MCIsImltYWdlRG9jaWQiOiIxNjIzMjAxMzA4MDU0ODAwMTQ3NCIsInJkcyI6IlBDXzEyNjcyMjgxMTMzNzczMDIxODIzfFBST0RfUENfMTI2NzIyODExMzM3NzMwMjE4MjMiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "AntiGravityGear.com",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba77e6293e75c9a6737aa8ba1c8fe89724.png",
+      "price": "$469.99",
+      "extracted_price": 469.99,
+      "rating": 4.5,
+      "reviews": 2300,
+      "snippet": "Easy to use (176 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4aKHhtp5XatYnxHO1iSbHegU3rn-Bhi3bCDwEbWYnhCcslYZFqeWrg0gLX6OtVOnF_5tD5iGfkrPxuzrgeOxslilActa5tcyAWj9tzqr8o00q3ijqKnVbRw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/198HLnicDclJDoIwFADQEzEoYpTEGMSBRCMOkcGNobW2RSwdvhE5ldfxNvq27_thANIEjkME1m8J5GoBEn2bGiiBYxs3D8ewRkou6FRN_heE2-t4hfeDch0zkH5eQiHaOOnxI4oJPXlaWDPGPRTNXwuUFYJF2NTFealIpqlLN_kwgTQRy4sPc5-vbne9a5-dpiRpTc3rEEPpA36HWTWGTulR47rK45VaixQdXj8LGkEY",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 25,
+      "title": "Garmin Edge Explore 2",
+      "product_id": "12195397737636193424",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12195397737636193424",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:12195397737636193424,headlineOfferDocid:12195397737636193424,imageDocid:841608125382519218,rds:PC_14779020562769827355|PROD_PC_14779020562769827355,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTIxOTUzOTc3Mzc2MzYxOTM0MjQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjE5NTM5NzczNzYzNjE5MzQyNCIsImltYWdlRG9jaWQiOiI4NDE2MDgxMjUzODI1MTkyMTgiLCJyZHMiOiJQQ18xNDc3OTAyMDU2Mjc2OTgyNzM1NXxQUk9EX1BDXzE0Nzc5MDIwNTYyNzY5ODI3MzU1IiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTIxOTUzOTc3Mzc2MzYxOTM0MjQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjE5NTM5NzczNzYzNjE5MzQyNCIsImltYWdlRG9jaWQiOiI4NDE2MDgxMjUzODI1MTkyMTgiLCJyZHMiOiJQQ18xNDc3OTAyMDU2Mjc2OTgyNzM1NXxQUk9EX1BDXzE0Nzc5MDIwNTYyNzY5ODI3MzU1IiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "mynavyexchange.com",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba1ac2cb658ea141101bbc89b886a3a791.png",
+      "price": "$399.99",
+      "extracted_price": 399.99,
+      "rating": 4.5,
+      "reviews": 1400,
+      "snippet": "Easy to use (70 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTFRqv0fOXEIVH5cWw5smJFz9pqrCXCxj7yK3HsyB9c27zsTq-U82pbCsMM86eUjnUW6hkHoA33D6GB52pAloJ2DI7j0bCr7BvZUHTJfi-d_JOWOzIpmkyK",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Gl3eL3icDclZCoJAAADQE7kw4goRLrliQmhKP5Hjbo4zzmDpobpPt6n3-76fjjFMDUGoEVw2zOqKYyUCfEvZg_WQh_Mk0G7GuEftkRz-Z5jnSvdg6l7IKjZJcQquvgzzl0yn0N11TBa7sN-DukWSTzdLh0DdaUq4TAO4tGkca0qdDSjLlW70Z1OSHMWzZIDN5xwCJ1AHsbQX1VpvmZ-GTc9V9zDJkz3A07hFP-6iPOc",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 26,
+      "title": "Garmin Edge 830 Computer",
+      "product_id": "1908877420927010111",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1908877420927010111",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:1908877420927010111,headlineOfferDocid:1936314626992429956,imageDocid:17216100904431737750,rds:PC_12672281133773021823|PROD_PC_12672281133773021823,gpcid:12672281133773021823,mid:576462777710589559,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTkwODg3NzQyMDkyNzAxMDExMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE5MzYzMTQ2MjY5OTI0Mjk5NTYiLCJpbWFnZURvY2lkIjoiMTcyMTYxMDA5MDQ0MzE3Mzc3NTAiLCJyZHMiOiJQQ18xMjY3MjI4MTEzMzc3MzAyMTgyM3xQUk9EX1BDXzEyNjcyMjgxMTMzNzczMDIxODIzIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjEyNjcyMjgxMTMzNzczMDIxODIzIiwibWlkIjoiNTc2NDYyNzc3NzEwNTg5NTU5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTkwODg3NzQyMDkyNzAxMDExMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE5MzYzMTQ2MjY5OTI0Mjk5NTYiLCJpbWFnZURvY2lkIjoiMTcyMTYxMDA5MDQ0MzE3Mzc3NTAiLCJyZHMiOiJQQ18xMjY3MjI4MTEzMzc3MzAyMTgyM3xQUk9EX1BDXzEyNjcyMjgxMTMzNzczMDIxODIzIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjEyNjcyMjgxMTMzNzczMDIxODIzIiwibWlkIjoiNTc2NDYyNzc3NzEwNTg5NTU5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Upshift Cycles",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632babf5262cd9f45b5954f580873ec7cd1d9.png",
+      "multiple_sources": true,
+      "price": "$499.99",
+      "extracted_price": 499.99,
+      "rating": 4.5,
+      "reviews": 2300,
+      "snippet": "Easy to use (176 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXRHF8jym7_KRHA6K9rSOwKfBunkpZ3tstxunSrs9gtO_fMCcryAgq4IBWQCGpL74bSzGr-487wQ9vyrshFbQxk0zgm2o3DdMqhFClMSw1DQg5AObmscQ5",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tgget3icDcxLDoIwFADAEynKR8DEGD4BDCKpXWjcEClQUCmlfYh4KO_jbXQ9yXw_NQCXa0UpGRETh7KYQc7UOZVwhYbMSdcqsu44bxjd9pu_rZ1DYYcEn49RYN2m1sziY-SsYlvgdIwrd2B3ftFAwmtgWEibQppVifffHdrrO_eEvJDvTT3H71DMdMsckf2chKyDHL3uizdt1U7zi6SvA--R4HHpI2o4ad5KgowfYKg-tw"
+    },
+    {
+      "position": 27,
+      "title": "Garmin Edge 840 Bike Computer",
+      "product_id": "13686591412145051184",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13686591412145051184",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:13686591412145051184,headlineOfferDocid:13686591412145051184,imageDocid:5994844711878742947,rds:PC_3884963843537043020|PROD_PC_3884963843537043020,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTM2ODY1OTE0MTIxNDUwNTExODQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzY4NjU5MTQxMjE0NTA1MTE4NCIsImltYWdlRG9jaWQiOiI1OTk0ODQ0NzExODc4NzQyOTQ3IiwicmRzIjoiUENfMzg4NDk2Mzg0MzUzNzA0MzAyMHxQUk9EX1BDXzM4ODQ5NjM4NDM1MzcwNDMwMjAiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTM2ODY1OTE0MTIxNDUwNTExODQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzY4NjU5MTQxMjE0NTA1MTE4NCIsImltYWdlRG9jaWQiOiI1OTk0ODQ0NzExODc4NzQyOTQ3IiwicmRzIjoiUENfMzg4NDk2Mzg0MzUzNzA0MzAyMHxQUk9EX1BDXzM4ODQ5NjM4NDM1MzcwNDMwMjAiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Ben's Cycle",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba76ab24b691331d0d5317319ee9019737.png",
+      "price": "$449.99",
+      "extracted_price": 449.99,
+      "rating": 4.4,
+      "reviews": 1500,
+      "snippet": "Long battery life (106 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcReNaOj7oBmUuzmma1isGDbVUclnYiMQBehoKoC2Ef7Zl8BUfmc3FGsTLAc4QywGrw1XFYF8UAG4XdYZcMERoKcN32QRoCLPd9UpzQmetuV",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/B7cByXicDcndCoIwGADQJ0pRAzWIUNNdWJbSQr3Tb1MX7Sc3iXqc3qq3qXN7vp_JGKU3tk0FzC9lKFmZXnjWqE1nGFggua0nqRQT4-6x_d8mKkiIoKJFd7r5MuZ4eXPeOUyjfX_FcBcNO5YxnWQuEzcd_PYexHjg4GVIXw4RrMvXE81Pp86aLMARWtekaeGYVjKHwnPLSiaHMwmxepecmuX6A3M3OjI",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 28,
+      "title": "Garmin Edge 510 Cycling Computer with GPS",
+      "product_id": "13653392394789693866",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13653392394789693866",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:13653392394789693866,headlineOfferDocid:8132021846624945867,imageDocid:5305384402559622488,rds:PC_14816331428473834650|PROD_PC_14816331428473834650,gpcid:14816331428473834650,mid:576460824695719017,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM2NTMzOTIzOTQ3ODk2OTM4NjYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4MTMyMDIxODQ2NjI0OTQ1ODY3IiwiaW1hZ2VEb2NpZCI6IjUzMDUzODQ0MDI1NTk2MjI0ODgiLCJyZHMiOiJQQ18xNDgxNjMzMTQyODQ3MzgzNDY1MHxQUk9EX1BDXzE0ODE2MzMxNDI4NDczODM0NjUwIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjE0ODE2MzMxNDI4NDczODM0NjUwIiwibWlkIjoiNTc2NDYwODI0Njk1NzE5MDE3IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM2NTMzOTIzOTQ3ODk2OTM4NjYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4MTMyMDIxODQ2NjI0OTQ1ODY3IiwiaW1hZ2VEb2NpZCI6IjUzMDUzODQ0MDI1NTk2MjI0ODgiLCJyZHMiOiJQQ18xNDgxNjMzMTQyODQ3MzgzNDY1MHxQUk9EX1BDXzE0ODE2MzMxNDI4NDczODM0NjUwIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjE0ODE2MzMxNDI4NDczODM0NjUwIiwibWlkIjoiNTc2NDYwODI0Njk1NzE5MDE3IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "eBay",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba3d3e41af70a48596058ba191042f0397.png",
+      "multiple_sources": true,
+      "price": "$80.00",
+      "extracted_price": 80.0,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.7,
+      "reviews": 28,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSgVCsT1aGLfCPrN4isduRO2oHe7YazLMZ3WQb4NXwhXmwGIww2W4OzFZqjCYeKDFmQ0yP-R2AjtdlPhR083bFRM8NR-f1z0uZtFgEqbV8",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/E9v8iXicDclJDoIwAADAF7GTiCTGELRoZK2G7Qa0FIisLWngNz7L3-hc5_tpGJuoKUl4qJZtYhgJrBxkkVBWsLYSq7GXaDNOUzuQ83z6n2n56OhUTxLb9KUUjlvb4eLrLUUrDNTxhg9ZsbteriVRqfspb9KeO3fO1UQPdpDPnZ3hxwX0kbyFAlStjqF32EDZ0EoAPcOHQq3s8pozQK5zGRs_B6g46w"
+    },
+    {
+      "position": 29,
+      "title": "Edge 530",
+      "product_id": "11581659879184570558",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11581659879184570558",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:11581659879184570558,headlineOfferDocid:654465939973287188,imageDocid:12141397591851187913,rds:PC_14733052088650091292|PROD_PC_14733052088650091292,gpcid:5761708397594602369,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1ODE2NTk4NzkxODQ1NzA1NTgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2NTQ0NjU5Mzk5NzMyODcxODgiLCJpbWFnZURvY2lkIjoiMTIxNDEzOTc1OTE4NTExODc5MTMiLCJyZHMiOiJQQ18xNDczMzA1MjA4ODY1MDA5MTI5MnxQUk9EX1BDXzE0NzMzMDUyMDg4NjUwMDkxMjkyIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjU3NjE3MDgzOTc1OTQ2MDIzNjkiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1ODE2NTk4NzkxODQ1NzA1NTgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2NTQ0NjU5Mzk5NzMyODcxODgiLCJpbWFnZURvY2lkIjoiMTIxNDEzOTc1OTE4NTExODc5MTMiLCJyZHMiOiJQQ18xNDczMzA1MjA4ODY1MDA5MTI5MnxQUk9EX1BDXzE0NzMzMDUyMDg4NjUwMDkxMjkyIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IjU3NjE3MDgzOTc1OTQ2MDIzNjkiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Tailor Fit Cycles",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba645e960dd33e5a22eba2cc336d15ed76.png",
+      "multiple_sources": true,
+      "price": "$299.99",
+      "extracted_price": 299.99,
+      "rating": 4.5,
+      "reviews": 4200,
+      "snippet": "Long battery life (252 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRiECL2r15gHsN1BL0Q8ED2squD5S7Cfi_kxJ_H0Ojo_R3s55Hr3CQB-JAYATHA0-St_I3xvv8XMPVfwwRw7zUM5rIEDz2r",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WOeEhHicDclJDoIwAADAF7GnAUmMKUssBFBAjZ4aLVs1srQVkIf4N3-jc53vpxGi57ailC1h716UhSRurSbXXFwFJTLpngpvur6nbb0Z1v-zYVKstiSjvhvpTAM14onmRGpq-Z7Oh5cHctOtKH7MIUbq7t7hzOAAIGa4qSOF8AIPCKpSLnBgzONoneP9qZqmbDKXYwxY4HuLzn4pSDPi",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 30,
+      "title": "Framesandgear Integrated Handlebar Mount for Garmin Edge 1050",
+      "product_id": "6174961923269455127",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6174961923269455127",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:6174961923269455127,headlineOfferDocid:15957075980954140542,imageDocid:4507862720797766342,gpcid:7172715248288475283,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjE3NDk2MTkyMzI2OTQ1NTEyNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1OTU3MDc1OTgwOTU0MTQwNTQyIiwiaW1hZ2VEb2NpZCI6IjQ1MDc4NjI3MjA3OTc3NjYzNDIiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiNzE3MjcxNTI0ODI4ODQ3NTI4MyIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjE3NDk2MTkyMzI2OTQ1NTEyNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1OTU3MDc1OTgwOTU0MTQwNTQyIiwiaW1hZ2VEb2NpZCI6IjQ1MDc4NjI3MjA3OTc3NjYzNDIiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiNzE3MjcxNTI0ODI4ODQ3NTI4MyIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "FramesAndGear ApS",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632bac914332c294acd5b8448b1a095f9c5b3.png",
+      "price": "$97.00",
+      "extracted_price": 97.0,
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRM_bQ4w20z2Yk8db408Jazo6VHLuAWJIYiNMz5fWQDu45S4rOmnalNH69VJLP2vj25fGlcq_t5qP1KXo2cCqjo82YR_jJCj2wpDWqHFlha0T8FYVmaMemGrXM9",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JGsWN3icDcltD0JAAADgX1R0w7C11hiS0-twn-wcQtwLVy0_q3_Tv6nn6_P9NFLyyVaUipLxzWVVLmRBwfI2SSxbsiRsUKaGcd7S20as_2dv49LyyRnmxUl7AXUG6G6WhaaaIZ6ZkQTRY5uGO9TGcNbr9OQ-NP2ijYeB4j4ODCsJoyN4dkCv_Z6IXOriuNpnDBBHdMwE6Jx3odOBF3dTEXh9g9Wr6aFkwLAa_DGD1g_Bkj45",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 31,
+      "title": "Garden Furniture Edge 1040 GPS Bike Computer",
+      "product_id": "51530563441800644",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=51530563441800644",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:51530563441800644,headlineOfferDocid:51530563441800644,imageDocid:2623616580135866827,rds:PC_466731783210856853|PROD_PC_466731783210856853,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiNTE1MzA1NjM0NDE4MDA2NDQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1MTUzMDU2MzQ0MTgwMDY0NCIsImltYWdlRG9jaWQiOiIyNjIzNjE2NTgwMTM1ODY2ODI3IiwicmRzIjoiUENfNDY2NzMxNzgzMjEwODU2ODUzfFBST0RfUENfNDY2NzMxNzgzMjEwODU2ODUzIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiNTE1MzA1NjM0NDE4MDA2NDQiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1MTUzMDU2MzQ0MTgwMDY0NCIsImltYWdlRG9jaWQiOiIyNjIzNjE2NTgwMTM1ODY2ODI3IiwicmRzIjoiUENfNDY2NzMxNzgzMjEwODU2ODUzfFBST0RfUENfNDY2NzMxNzgzMjEwODU2ODUzIiwicXVlcnkiOiJHYXJtaW4rRWRnZSsxMDUwK0N5Y2xpbmcrQ29tcHV0ZXIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "AliExpress",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632baa117bc106d2bd2ef9895425eb65fa8f4.png",
+      "price": "$361.38",
+      "extracted_price": 361.38,
+      "old_price": "$406",
+      "extracted_old_price": 406,
+      "rating": 4.7,
+      "reviews": 3300,
+      "snippet": "Long battery life (301 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTylPG9XnCpxlt01jWh2qXjVO1KHZaaYq11FgH87lcI6iRsHc4Qi8z91ku8pt3qXMU4mRN7HlcGtl9QTY8fCkqwzv41qs9uid2RDogCDxgC",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/reJNmnicDcndDoIgGADQJyqjXEJbaw2XtNafs9LuDA0xUojPSh-nt-pt6tye76cA0HbiOHnFH62GPOvBpRr1hYUUJO_z-u7YotZaVmJmpv-bzDcZCXjUql1A4orqt4IBKk_F0MTlcYtW7JymiUFoIRj2FF-OZWgZd_cSdwTdGqxhZOL1wb2HG48pHoAi-yjBV3ozr-7pImNJI7Nh6NeC-m9Bf0O7OeA",
+      "tag": "11% OFF",
+      "extensions": [
+        "11% OFF"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 32,
+      "title": "Garmin Edge 810",
+      "product_id": "8598910131785684591",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8598910131785684591",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:8598910131785684591,headlineOfferDocid:15243988188926555822,imageDocid:5905112377677551504,rds:PC_3011054769459483115|PROD_PC_3011054769459483115,gpcid:3011054769459483115,mid:576462233595071612,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU5ODkxMDEzMTc4NTY4NDU5MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MjQzOTg4MTg4OTI2NTU1ODIyIiwiaW1hZ2VEb2NpZCI6IjU5MDUxMTIzNzc2Nzc1NTE1MDQiLCJyZHMiOiJQQ18zMDExMDU0NzY5NDU5NDgzMTE1fFBST0RfUENfMzAxMTA1NDc2OTQ1OTQ4MzExNSIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIzMDExMDU0NzY5NDU5NDgzMTE1IiwibWlkIjoiNTc2NDYyMjMzNTk1MDcxNjEyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODU5ODkxMDEzMTc4NTY4NDU5MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MjQzOTg4MTg4OTI2NTU1ODIyIiwiaW1hZ2VEb2NpZCI6IjU5MDUxMTIzNzc2Nzc1NTE1MDQiLCJyZHMiOiJQQ18zMDExMDU0NzY5NDU5NDgzMTE1fFBST0RfUENfMzAxMTA1NDc2OTQ1OTQ4MzExNSIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIzMDExMDU0NzY5NDU5NDgzMTE1IiwibWlkIjoiNTc2NDYyMjMzNTk1MDcxNjEyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Jax Bicycle Center",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba86d202fd44996abb8a9c37d5c1e6e99f.png",
+      "multiple_sources": true,
+      "price": "$499.99",
+      "extracted_price": 499.99,
+      "rating": 4.4,
+      "reviews": 149,
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTKZsjp0CbSCXzpG93giKtPvk4MDe67ieRA5rE0wSCxiQyT1ZN0QOpuxMk4UDurC6MrcESgr-ksg2fQ8JIZfycOfIte1oBk0Q",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/29-Vs3icDclRCoIwAADQE6mzzFKIsCliomYahH8551wjXdss7SRdrdvU-33fT6cUl65h4B6JmSvcaKrugU6kuiqKdDTcDdkNnNOe7B7b_7le2jghKuNK3jiAdQEvbx46S0JjdXwyK_Gxvab45K1EAF4FnGg-l2aVgjzj45Qw6-yPAtqJQEFBhMYkWbT55hBV7YyyNlLYHPYM5D8RoDZ5"
+    },
+    {
+      "position": 33,
+      "title": "Garmin Edge1050 Smart Code Gps Cycling Computer Silicone Protector",
+      "product_id": "9723422770534642690",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9723422770534642690",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:9723422770534642690,headlineOfferDocid:9723422770534642690,imageDocid:11413315848454857029,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiOTcyMzQyMjc3MDUzNDY0MjY5MCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk3MjM0MjI3NzA1MzQ2NDI2OTAiLCJpbWFnZURvY2lkIjoiMTE0MTMzMTU4NDg0NTQ4NTcwMjkiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiOTcyMzQyMjc3MDUzNDY0MjY5MCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk3MjM0MjI3NzA1MzQ2NDI2OTAiLCJpbWFnZURvY2lkIjoiMTE0MTMzMTU4NDg0NTQ4NTcwMjkiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "eBay - eshopus1",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba612b4b77139af4c1077f825243fdfef0.png",
+      "price": "$11.21",
+      "extracted_price": 11.21,
+      "old_price": "$12",
+      "extracted_old_price": 12,
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQNumjyc8LSWmfvzXglbKUVBDJmmlpa_4-tWc8aQRMsljlJvxd9ee_mddquwPLmzYuO3e27RI2JHiU547-T55-stJg5yvpyDhpLQu3f1lKm9ZRZjUhdgNtB",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RoCBg3icDcnxDkJAHADgJ8IiE1trNVuFFCXVP6a7c9gdp_tReqjep7ep79_v-ykBhHQ0jTToMQogWIF7M1GphBwqpKKWa7Jshagauujm_3OWIbbXKAp7Xo9oFhxTXgzvC2V3PzmvXI9zJvJsqkCKZnkU7ySrmTe8sE1IxjHu-uch4O9rvzeIbsVb3dtUiTm1lJNpKhI8ao6DGN1SBFFvFBPmc_sW3-qkxDSE1Q-rZD9v",
+      "tag": "5% OFF",
+      "extensions": [
+        "5% OFF"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 34,
+      "title": "Garmin Edge 530 GPS Computer",
+      "product_id": "15465625002206843420",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15465625002206843420",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:15465625002206843420,headlineOfferDocid:15900702999842091710,imageDocid:8669462604101798486,rds:PC_14733052088650091292|PROD_PC_14733052088650091292,gpcid:14733052088650091292,mid:576462375428940863,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NjU2MjUwMDIyMDY4NDM0MjAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTkwMDcwMjk5OTg0MjA5MTcxMCIsImltYWdlRG9jaWQiOiI4NjY5NDYyNjA0MTAxNzk4NDg2IiwicmRzIjoiUENfMTQ3MzMwNTIwODg2NTAwOTEyOTJ8UFJPRF9QQ18xNDczMzA1MjA4ODY1MDA5MTI5MiIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIxNDczMzA1MjA4ODY1MDA5MTI5MiIsIm1pZCI6IjU3NjQ2MjM3NTQyODk0MDg2MyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NjU2MjUwMDIyMDY4NDM0MjAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTkwMDcwMjk5OTg0MjA5MTcxMCIsImltYWdlRG9jaWQiOiI4NjY5NDYyNjA0MTAxNzk4NDg2IiwicmRzIjoiUENfMTQ3MzMwNTIwODg2NTAwOTEyOTJ8UFJPRF9QQ18xNDczMzA1MjA4ODY1MDA5MTI5MiIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIxNDczMzA1MjA4ODY1MDA5MTI5MiIsIm1pZCI6IjU3NjQ2MjM3NTQyODk0MDg2MyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Cyclerie",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba590cfb26051f4e84653cb31310f3d16c.png",
+      "multiple_sources": true,
+      "price": "$249.99",
+      "extracted_price": 249.99,
+      "old_price": "$300",
+      "extracted_old_price": 300,
+      "rating": 4.5,
+      "reviews": 4200,
+      "snippet": "Long battery life (252 user reviews)",
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR2NfejGYrl1Inv5P8jFcS_yzj_io0i0JYcPGVaVS1w3ZvCkHJcXHLo46FtYumMsofWTh1wjyUZTh2Meh06orO3BO30PTpQ0P3GJYFgoO4EKD-Ji04Roi7k",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-MDbsXicDcntFoEwAADQJ6LVEjrHcXxVIg35yJ9O1rQt2tRw8lDex9tw_97vhyola1vTSImrRiqStdS5NNp5rVLFcBuLm1ZTISUr8-F98D97tMr6Lt4Yqwvhblxd9Xn57KAed_A2ad48YQIw4McYuft0v9Vf8PScFJ6Pj95SmJaj4sctqMXlEFH9xZvdKaJGQCiwRBXCcQgBiuQaIOj6sZOL0Jwtpi2fAXMjWLf4ATAHPRk",
+      "tag": "16% OFF",
+      "extensions": [
+        "16% OFF"
+      ]
+    },
+    {
+      "position": 35,
+      "title": "Garmin Edge Explorer 2",
+      "product_id": "10259395946007700100",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10259395946007700100",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:10259395946007700100,headlineOfferDocid:10259395946007700100,imageDocid:7258959212535622458,rds:PC_14779020562769827355|PROD_PC_14779020562769827355,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTAyNTkzOTU5NDYwMDc3MDAxMDAiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDI1OTM5NTk0NjAwNzcwMDEwMCIsImltYWdlRG9jaWQiOiI3MjU4OTU5MjEyNTM1NjIyNDU4IiwicmRzIjoiUENfMTQ3NzkwMjA1NjI3Njk4MjczNTV8UFJPRF9QQ18xNDc3OTAyMDU2Mjc2OTgyNzM1NSIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTAyNTkzOTU5NDYwMDc3MDAxMDAiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDI1OTM5NTk0NjAwNzcwMDEwMCIsImltYWdlRG9jaWQiOiI3MjU4OTU5MjEyNTM1NjIyNDU4IiwicmRzIjoiUENfMTQ3NzkwMjA1NjI3Njk4MjczNTV8UFJPRF9QQ18xNDc3OTAyMDU2Mjc2OTgyNzM1NSIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Quanta Vici",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632bac5235c8d4f5d42a011b9ddc17542f4e2.png",
+      "price": "$399.99",
+      "extracted_price": 399.99,
+      "rating": 4.5,
+      "reviews": 1400,
+      "snippet": "Easy to use (70 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTr5_xglf5Coni5RAvfUW4kGIT2FSWsdurR0FsJRg_GJ-yYl0RazD7suZbr_BZ4YsnngiF5nBtoEFQ_1UvEXgJwHISMTPEJf3Tgj8M47pNLsDTTbUhFDfFbVA",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XhJ2HnicDcnhEkIwAADgJyolTrnrOmLi4kqT8mfHMEqzbCo9Va_T29T39_t-KiEY1yWpoLgbmCjykcioPCZcpKLGY9zeJF61jNWUrO7L_-lGkC8cDDsVvUhTquuW1mpoPMooVq6OC2VwiHned-EEcC8kyPFGw7mZhOnb0nifZB0yE-XMKSU1UKkpWhvs0TR62CfiPTfuwYc72ytnkFzmvqKxYMstCLOoAlYJsqPxA8gBPqU"
+    },
+    {
+      "position": 36,
+      "title": "Framesandgear Integrated Mount for Canyon CP0018 for Garmin Edge 1050",
+      "product_id": "7088054986951059127",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7088054986951059127",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:7088054986951059127,headlineOfferDocid:10877725172862242479,imageDocid:5313273229445636891,gpcid:2709573830652317838,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzA4ODA1NDk4Njk1MTA1OTEyNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwODc3NzI1MTcyODYyMjQyNDc5IiwiaW1hZ2VEb2NpZCI6IjUzMTMyNzMyMjk0NDU2MzY4OTEiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiMjcwOTU3MzgzMDY1MjMxNzgzOCIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzA4ODA1NDk4Njk1MTA1OTEyNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwODc3NzI1MTcyODYyMjQyNDc5IiwiaW1hZ2VEb2NpZCI6IjUzMTMyNzMyMjk0NDU2MzY4OTEiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiMjcwOTU3MzgzMDY1MjMxNzgzOCIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "FramesAndGear ApS",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba75df35141844f46cde10892243cf7cb0.png",
+      "price": "$97.00",
+      "extracted_price": 97.0,
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQA8HlUO4xybdUrXNm0PV3imeHHS_ig8SCDT9jcb4Jr3jaQ9cMxGlDFXMsjMbZ4bvYd70yosk2rnXs_QiUqJK1Kkqoji7goAuNRU1TUJsh_q3rP8CKfkW6tQ2s",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Z1upk3icDcnhDkJAAADgJyrEQltrxmKMUq7UH3N34og7d1fjsXqc3qa-v9_300jJxEZRqgHxmckKLyQc9GUtZCkJWiLaK6KhjJGh3o3b_22cBNs-Sh0reIKDMc0QA54nvXq86KSvguBckNo6u15mtwgaIdfbMrVRPPlPb5_Hoo3h3YDvGzbVmYpuxYdcFCkBYxhpUTfSlpg1dV7JCWgZCEVTjDo_Wm706K5rma7ED_OmP4g",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 37,
+      "title": "Garmin Edge Touring",
+      "product_id": "18145506246157304393",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18145506246157304393",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:18145506246157304393,headlineOfferDocid:18145506246157304393,imageDocid:14496678206074375958,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTgxNDU1MDYyNDYxNTczMDQzOTMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODE0NTUwNjI0NjE1NzMwNDM5MyIsImltYWdlRG9jaWQiOiIxNDQ5NjY3ODIwNjA3NDM3NTk1OCIsInJkcyI6IiIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMTgxNDU1MDYyNDYxNTczMDQzOTMiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODE0NTUwNjI0NjE1NzMwNDM5MyIsImltYWdlRG9jaWQiOiIxNDQ5NjY3ODIwNjA3NDM3NTk1OCIsInJkcyI6IiIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "eBay - evalueexpo",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCSoeiwwKkumV2aNvhjSlaa0ZcuAjm4JjDQLWyS_eDqznJjKil6DM7NxnTU4M5jkB0dGlwhR2voLnxXgQ6vVdpDpU-flw",
+      "price": "$88.19",
+      "extracted_price": 88.19,
+      "second_hand_condition": "pre-owned",
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQtWm1rq7rkGmvN9FQ1wXkmTyJxn5guS3j0fXyzuj1WrwrOHduB_jKlopOLrvDDqNZEYEtzGZHqHrQaocy86wS29g2b_YtMHvl2f5aKHPNLhyb6fGTHi6ef",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/el_C4XicDcntDkJQGADgKyrRUmyt1ZSziIwN_TGO78_jeNFxUd1Pd1PP3-f7yQHIIHNc0mLKCCTxCqJWWGcDhFDgNe4absg7Qoo2O_XH_8lnI5ZUbIHb8LTf00ptJkO6WfzsVY3D7u92l432ttykHlvGknfpTE0Uj5eg1OqOmDqdFKU3Xlf_Cov6Qj2iVthhdhBnW5AyIQp8eKCpFtJdqKGnoecsElPVQYWYpD-9xz_H",
+      "tag": "10% OFF",
+      "extensions": [
+        "10% OFF"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 38,
+      "title": "Garmin Edge 130 GPS Bike Computer",
+      "product_id": "6768706113769605451",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6768706113769605451",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:6768706113769605451,headlineOfferDocid:7099720293287341550,imageDocid:981208939189702801,rds:PC_4011911918894281055|PROD_PC_4011911918894281055,gpcid:4011911918894281055,mid:576462349611140879,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjc2ODcwNjExMzc2OTYwNTQ1MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjcwOTk3MjAyOTMyODczNDE1NTAiLCJpbWFnZURvY2lkIjoiOTgxMjA4OTM5MTg5NzAyODAxIiwicmRzIjoiUENfNDAxMTkxMTkxODg5NDI4MTA1NXxQUk9EX1BDXzQwMTE5MTE5MTg4OTQyODEwNTUiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiNDAxMTkxMTkxODg5NDI4MTA1NSIsIm1pZCI6IjU3NjQ2MjM0OTYxMTE0MDg3OSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjc2ODcwNjExMzc2OTYwNTQ1MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjcwOTk3MjAyOTMyODczNDE1NTAiLCJpbWFnZURvY2lkIjoiOTgxMjA4OTM5MTg5NzAyODAxIiwicmRzIjoiUENfNDAxMTkxMTkxODg5NDI4MTA1NXxQUk9EX1BDXzQwMTE5MTE5MTg4OTQyODEwNTUiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiNDAxMTkxMTkxODg5NDI4MTA1NSIsIm1pZCI6IjU3NjQ2MjM0OTYxMTE0MDg3OSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Durango Bikes",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632badeb39ad2203f24b3a6c2bb468e96e286.png",
+      "multiple_sources": true,
+      "price": "$249.99",
+      "extracted_price": 249.99,
+      "rating": 4.6,
+      "reviews": 394,
+      "snippet": "Easy to use (35 user reviews)",
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRvlCoq5Ov2YXUC95Q2hZFnQMBdndtY5i55SJpCeRVQ6gh0nQsH7IjhTXa5N1dWTFeQs83Jjzk5tJY_-Mz0Ewyf0HsgQNvN",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ECc7s3icDcndCoIwGADQJ8q_WKUQUZKZ4GJmpd2EbbZpNWf7MPRBerfeps7t-X4EgNKeaZaSvnoFJRvBVdoG11BARQ3aPE0tGqUqyRft_H_eEjN3Q5Pu4Tct2nVOnh18FxFHnANJ4hWTDHJUIbSPlF8mRzLhwpJEh9NtLdKsQNhmpzQoiZ6No3q4I4jyyygerPW7v1mh5gR3-AeCMTU8",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 39,
+      "title": "BMC ICs Garmin Mount for Edge 1050",
+      "product_id": "3572474104092356564",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3572474104092356564",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=catalogid:3572474104092356564,headlineOfferDocid:10493926625563718930,imageDocid:5854487152914575542,gpcid:2626857068758040380,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzU3MjQ3NDEwNDA5MjM1NjU2NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNDkzOTI2NjI1NTYzNzE4OTMwIiwiaW1hZ2VEb2NpZCI6IjU4NTQ0ODcxNTI5MTQ1NzU1NDIiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiMjYyNjg1NzA2ODc1ODA0MDM4MCIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzU3MjQ3NDEwNDA5MjM1NjU2NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNDkzOTI2NjI1NTYzNzE4OTMwIiwiaW1hZ2VEb2NpZCI6IjU4NTQ0ODcxNTI5MTQ1NzU1NDIiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitFZGdlKzEwNTArQ3ljbGluZytDb21wdXRlciIsImdwY2lkIjoiMjYyNjg1NzA2ODc1ODA0MDM4MCIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Triton Cycles",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba18b4548013891de03712167224d32e01.png",
+      "price": "$76.49",
+      "extracted_price": 76.49,
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_tRJyaipDjjaRpS_hk3xAn_p7l_tRlOqZ3lmMOxiGX-PvwZt0oV0ET9j3vG3ttCrlpW1oFJWeofu_d-v6VfXcn5dbBTYO3ZkFEXoLtg-7h6BSLxmPAYU6Vw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_oP57nicDclbCoJAFADQFZnWkJIQoaWCVIaZrx_R8Z3OjHrzsau2027y_J7ftwRgg8zzGcH9wiBLOUjIblMMEEOFN5i2_FBSxipSnLrjerJyTw8GtiOwzSWu2KWuY5s9o_KNZoVETGrWaawuRE17s-bK8LnHOIUgUFfQnEONRgMBnPuGeVuqm15G80-UcqPo5j4m-zRRncBC4VvXfHqFgpNKUX1e5_ahBC_Rnf4w4T_y"
+    },
+    {
+      "position": 40,
+      "title": "Edge 840 Device Only",
+      "product_id": "3002898846325177885",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3002898846325177885",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Garmin Edge 1050 Cycling Computer&prds=productid:3002898846325177885,headlineOfferDocid:3002898846325177885,imageDocid:17889025201314819507,rds:PC_3884963843537043020|PROD_PC_3884963843537043020,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMzAwMjg5ODg0NjMyNTE3Nzg4NSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMwMDI4OTg4NDYzMjUxNzc4ODUiLCJpbWFnZURvY2lkIjoiMTc4ODkwMjUyMDEzMTQ4MTk1MDciLCJyZHMiOiJQQ18zODg0OTYzODQzNTM3MDQzMDIwfFBST0RfUENfMzg4NDk2Mzg0MzUzNzA0MzAyMCIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im8zQUZhWUg5SzlfY3hjOFBtLWkyb1FFIiwicHJvZHVjdGlkIjoiMzAwMjg5ODg0NjMyNTE3Nzg4NSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMwMDI4OTg4NDYzMjUxNzc4ODUiLCJpbWFnZURvY2lkIjoiMTc4ODkwMjUyMDEzMTQ4MTk1MDciLCJyZHMiOiJQQ18zODg0OTYzODQzNTM3MDQzMDIwfFBST0RfUENfMzg4NDk2Mzg0MzUzNzA0MzAyMCIsInF1ZXJ5IjoiR2FybWluK0VkZ2UrMTA1MCtDeWNsaW5nK0NvbXB1dGVyIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Wyoming Wind Tunnel",
+      "source_icon": "https://serpapi.com/searches/690570a2392e0b5a707602ca/images/532441e53cc82a8037fc10fac6a632ba916d1b5e360e926dafbc7e75f883dad1.png",
+      "price": "$449.99",
+      "extracted_price": 449.99,
+      "rating": 4.4,
+      "reviews": 1500,
+      "snippet": "Long battery life (106 user reviews)",
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOxIoUhlr25elFN4ybrEDbRt7Hvt8YA6_Wt7RkwePg1nINotJ91GRJCi0ICcQsdURvo6MtSzceSIV6UnSJQ-tFCCq1qcjlA2FlkloWRPW637VhKS7R60_ivQ",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/imsGN3icDclJDoIwFADQE8ng0KqJMQQFwYhQAsQVkdJQtLYMPyieyut4G33b9_1wgKZf6zqTtBsbYOUECjnTqh6uUFONqofec9U0tay27eZ_aysoVy6Nzi9PJVx00wUTTjAfi26_KwjgwwDLi4XyDDC5P1lYmdILFPgr0yW-XRueTaO-TMig0AniN2Wxl6JExn40Ace2W7OlN2FNHXEXKiNhhmY45ccYE2Tk9RD9AKzZPjY",
+      "delivery": "Free delivery"
+    }
+  ],
+  "filters": [
+    {
+      "type": "Refine results",
+      "input_type": "link_with_icon",
+      "options": [
+        {
+          "text": "On sale",
+          "shoprs": "CAESBEoCGAEYBiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhMIBhIHT24gc2FsZRgCIgRKAhgBWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=Garmin+Edge+1050+Cycling+Computer+sale&shoprs=CAESBEoCGAEYBiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhMIBhIHT24gc2FsZRgCIgRKAhgBWP-9IGAC"
+        },
+        {
+          "text": "New",
+          "shoprs": "CAEYCiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMgcIChIDTmV3WP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=new+Garmin+Edge+1050+Cycling+Computer&shoprs=CAEYCiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMgcIChIDTmV3WP-9IGAC"
+        },
+        {
+          "text": "Used",
+          "shoprs": "CAEYCiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMggIChIEVXNlZFj_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=used+Garmin+Edge+1050+Cycling+Computer&shoprs=CAEYCiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMggIChIEVXNlZFj_vSBgAg"
+        },
+        {
+          "text": "Small business",
+          "shoprs": "CAESAmoAGBYqIWdhcm1pbiBlZGdlIDEwNTAgY3ljbGluZyBjb21wdXRlcjIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=garmin+edge+1050+cycling+computer&shoprs=CAESAmoAGBYqIWdhcm1pbiBlZGdlIDEwNTAgY3ljbGluZyBjb21wdXRlcjIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAC"
+        }
+      ]
+    },
+    {
+      "type": "Features",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "With GPS",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhwIARIIV2l0aCBHUFMYAjoMCIK3jQIQ8uGNAjADWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=garmin+edge+1050+cycling+computer+with+gps&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhwIARIIV2l0aCBHUFMYAjoMCIK3jQIQ8uGNAjADWP-9IGAC"
+        },
+        {
+          "text": "With Touchscreen",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiQIARIQV2l0aCBUb3VjaHNjcmVlbhgCOgwIg7eNAhD04Y0CMANY_70gYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=garmin+edge+1050+cycling+computer+with+touchscreen&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiQIARIQV2l0aCBUb3VjaHNjcmVlbhgCOgwIg7eNAhD04Y0CMANY_70gYAI"
+        },
+        {
+          "text": "With Color Display",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiYIARISV2l0aCBDb2xvciBEaXNwbGF5GAI6DAiFt40CEPjhjQIwA1j_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=garmin+edge+1050+cycling+computer+with+color+display&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiYIARISV2l0aCBDb2xvciBEaXNwbGF5GAI6DAiFt40CEPjhjQIwA1j_vSBgAg"
+        },
+        {
+          "text": "Weather Resistant",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiMIARIRV2VhdGhlciBSZXNpc3RhbnQ6DAiEt40CEPbhjQIwA1j_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=weather+resistant+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiMIARIRV2VhdGhlciBSZXNpc3RhbnQ6DAiEt40CEPbhjQIwA1j_vSBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Connectivity",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "ANT+",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhYIARIEQU5UKzoMCPy2jQIQ_baNAjACWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=ant%2B+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhYIARIEQU5UKzoMCPy2jQIQ_baNAjACWP-9IGAC"
+        },
+        {
+          "text": "Bluetooth",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhsIARIJQmx1ZXRvb3RoOgwI_LaNAhD-to0CMAJY_70gYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=bluetooth+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhsIARIJQmx1ZXRvb3RoOgwI_LaNAhD-to0CMAJY_70gYAI"
+        }
+      ]
+    },
+    {
+      "type": "Category",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Heart Rate Monitors",
+          "shoprs": "CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhcICRITSGVhcnQgUmF0ZSBNb25pdG9yc2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=heart+rate+monitors+garmin+edge+1050+cycling+computer&shoprs=CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhcICRITSGVhcnQgUmF0ZSBNb25pdG9yc2AC"
+        },
+        {
+          "text": "GPS Navigators",
+          "shoprs": "CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhIICRIOR1BTIE5hdmlnYXRvcnNgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=gps+navigators+garmin+edge+1050+cycling+computer&shoprs=CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhIICRIOR1BTIE5hdmlnYXRvcnNgAg"
+        },
+        {
+          "text": "Fitness Trackers",
+          "shoprs": "CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhQICRIQRml0bmVzcyBUcmFja2Vyc2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=fitness+trackers+garmin+edge+1050+cycling+computer&shoprs=CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhQICRIQRml0bmVzcyBUcmFja2Vyc2AC"
+        },
+        {
+          "text": "GPS Watches",
+          "shoprs": "CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMg8ICRILR1BTIFdhdGNoZXNgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=gps+watches+garmin+edge+1050+cycling+computer&shoprs=CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMg8ICRILR1BTIFdhdGNoZXNgAg"
+        }
+      ]
+    },
+    {
+      "type": "Product Rating",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "4 and up",
+          "shoprs": "CAESBWIDCJADGB4qIWdhcm1pbiBlZGdlIDEwNTAgY3ljbGluZyBjb21wdXRlcjIVCB4SCDQgYW5kIHVwIgViAwiQA0AEYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=Garmin+Edge+1050+Cycling+Computer&shoprs=CAESBWIDCJADGB4qIWdhcm1pbiBlZGdlIDEwNTAgY3ljbGluZyBjb21wdXRlcjIVCB4SCDQgYW5kIHVwIgViAwiQA0AEYAI"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Automotive",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhoIARIKQXV0b21vdGl2ZToKCOyHLBDthywwAlj_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=automotive+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhoIARIKQXV0b21vdGl2ZToKCOyHLBDthywwAlj_vSBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Display Size",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Under 1.8 in screen",
+          "shoprs": "CAESEioQCIi3jQISCREAAABgukkSQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyOggBEhNVbmRlciAxLjggaW4gc2NyZWVuIhIqEAiIt40CEgkRAAAAYLpJEkAqAhgBOgkIiLeNAhAAMAZY_70gYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=under+1.8+in+screen+garmin+edge+1050+cycling+computer&shoprs=CAESEioQCIi3jQISCREAAABgukkSQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyOggBEhNVbmRlciAxLjggaW4gc2NyZWVuIhIqEAiIt40CEgkRAAAAYLpJEkAqAhgBOgkIiLeNAhAAMAZY_70gYAI"
+        },
+        {
+          "text": "1.8 \u2013 2.2 in screen",
+          "shoprs": "CAESGyoZCIi3jQISEgkAAABgukkSQBEAAACgHFoWQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyZQgBEhUxLjgg4oCTIDIuMiBpbiBzY3JlZW4iGyoZCIi3jQISEgkAAABgukkSQBEAAACgHFoWQCoiCh4xLjggaW4gc2NyZWVuIHRvIDIuMiBpbiBzY3JlZW4YAToJCIi3jQIQADAGWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=1.8+in+screen+to+2.2+in+screen+garmin+edge+1050+cycling+computer&shoprs=CAESGyoZCIi3jQISEgkAAABgukkSQBEAAACgHFoWQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyZQgBEhUxLjgg4oCTIDIuMiBpbiBzY3JlZW4iGyoZCIi3jQISEgkAAABgukkSQBEAAACgHFoWQCoiCh4xLjggaW4gc2NyZWVuIHRvIDIuMiBpbiBzY3JlZW4YAToJCIi3jQIQADAGWP-9IGAC"
+        },
+        {
+          "text": "2.2 \u2013 2.6 in screen",
+          "shoprs": "CAESGyoZCIi3jQISEgkAAACgHFoWQBEAAAAAf2oaQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyZQgBEhUyLjIg4oCTIDIuNiBpbiBzY3JlZW4iGyoZCIi3jQISEgkAAACgHFoWQBEAAAAAf2oaQCoiCh4yLjIgaW4gc2NyZWVuIHRvIDIuNiBpbiBzY3JlZW4YAToJCIi3jQIQADAGWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=2.2+in+screen+to+2.6+in+screen+garmin+edge+1050+cycling+computer&shoprs=CAESGyoZCIi3jQISEgkAAACgHFoWQBEAAAAAf2oaQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyZQgBEhUyLjIg4oCTIDIuNiBpbiBzY3JlZW4iGyoZCIi3jQISEgkAAACgHFoWQBEAAAAAf2oaQCoiCh4yLjIgaW4gc2NyZWVuIHRvIDIuNiBpbiBzY3JlZW4YAToJCIi3jQIQADAGWP-9IGAC"
+        },
+        {
+          "text": "2.6 \u2013 3 in screen",
+          "shoprs": "CAESGyoZCIi3jQISEgkAAAAAf2oaQBEAAABA4XoeQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyYQgBEhMyLjYg4oCTIDMgaW4gc2NyZWVuIhsqGQiIt40CEhIJAAAAAH9qGkARAAAAQOF6HkAqIAocMi42IGluIHNjcmVlbiB0byAzIGluIHNjcmVlbhgBOgkIiLeNAhAAMAZY_70gYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=2.6+in+screen+to+3+in+screen+garmin+edge+1050+cycling+computer&shoprs=CAESGyoZCIi3jQISEgkAAAAAf2oaQBEAAABA4XoeQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyYQgBEhMyLjYg4oCTIDMgaW4gc2NyZWVuIhsqGQiIt40CEhIJAAAAAH9qGkARAAAAQOF6HkAqIAocMi42IGluIHNjcmVlbiB0byAzIGluIHNjcmVlbhgBOgkIiLeNAhAAMAZY_70gYAI"
+        },
+        {
+          "text": "Over 3 in screen",
+          "shoprs": "CAESEioQCIi3jQISCQkAAABA4XoeQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyNwgBEhBPdmVyIDMgaW4gc2NyZWVuIhIqEAiIt40CEgkJAAAAQOF6HkAqAhgBOgkIiLeNAhAAMAZY_70gYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=over+3+in+screen+garmin+edge+1050+cycling+computer&shoprs=CAESEioQCIi3jQISCQkAAABA4XoeQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyNwgBEhBPdmVyIDMgaW4gc2NyZWVuIhIqEAiIt40CEgkJAAAAQOF6HkAqAhgBOgkIiLeNAhAAMAZY_70gYAI"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "input_type": "price_range",
+      "options": [
+        {
+          "text": "Under $250",
+          "shoprs": "CAESDRILEQAAAABlza1BGAEYBSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiMIBRIKVW5kZXIgJDI1MBgCIg0SCxEAAAAAZc2tQRgBKgIYAVj_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=Garmin+Edge+1050+Cycling+Computer+under+%24250&shoprs=CAESDRILEQAAAABlza1BGAEYBSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiMIBRIKVW5kZXIgJDI1MBgCIg0SCxEAAAAAZc2tQRgBKgIYAVj_vSBgAg"
+        },
+        {
+          "text": "Over $250",
+          "shoprs": "CAESDRILCQAAAABlza1BGAEYBSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiIIBRIJT3ZlciAkMjUwGAIiDRILCQAAAABlza1BGAEqAhgBWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=Garmin+Edge+1050+Cycling+Computer+over+%24250&shoprs=CAESDRILCQAAAABlza1BGAEYBSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiIIBRIJT3ZlciAkMjUwGAIiDRILCQAAAABlza1BGAEqAhgBWP-9IGAC"
+        }
+      ]
+    },
+    {
+      "type": "Stores",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Best Buy",
+          "shoprs": "CAEYAiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMgwIAhIIQmVzdCBCdXlY_70gYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=best+buy+garmin+edge+1050+cycling+computer&shoprs=CAEYAiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMgwIAhIIQmVzdCBCdXlY_70gYAI"
+        },
+        {
+          "text": "Target",
+          "shoprs": "CAEYAiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMgoIAhIGVGFyZ2V0WP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=target+garmin+edge+1050+cycling+computer&shoprs=CAEYAiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMgoIAhIGVGFyZ2V0WP-9IGAC"
+        },
+        {
+          "text": "eBay",
+          "shoprs": "CAEYAiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMggIAhIEZUJheVj_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=ebay+garmin+edge+1050+cycling+computer&shoprs=CAEYAiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMggIAhIEZUJheVj_vSBgAg"
+        },
+        {
+          "text": "Backcountry.com",
+          "shoprs": "CAEYAiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhMIAhIPQmFja2NvdW50cnkuY29tWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=backcountry.com+garmin+edge+1050+cycling+computer&shoprs=CAEYAiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhMIAhIPQmFja2NvdW50cnkuY29tWP-9IGAC"
+        }
+      ]
+    },
+    {
+      "type": "Speed Function",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Max Speed",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhsIARIJTWF4IFNwZWVkOgwI9LaNAhD3to0CMAJY_70gYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=max+speed+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhsIARIJTWF4IFNwZWVkOgwI9LaNAhD3to0CMAJY_70gYAI"
+        },
+        {
+          "text": "Average Speed",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMh8IARINQXZlcmFnZSBTcGVlZDoMCPS2jQIQ9baNAjACWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=average+speed+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMh8IARINQXZlcmFnZSBTcGVlZDoMCPS2jQIQ9baNAjACWP-9IGAC"
+        }
+      ]
+    },
+    {
+      "type": "Free shipping",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Free shipping",
+          "shoprs": "CAESBFICEAEYGSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=Garmin+Edge+1050+Cycling+Computer+free+shipping&shoprs=CAESBFICEAEYGSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAC"
+        }
+      ]
+    },
+    {
+      "type": "Carousel Filters",
+      "options": [
+        {
+          "text": "With GPS",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhwIARIIV2l0aCBHUFMYAjoMCIK3jQIQ8uGNAjADWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=garmin+edge+1050+cycling+computer+with+gps&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhwIARIIV2l0aCBHUFMYAjoMCIK3jQIQ8uGNAjADWP-9IGAB",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "With Touchscreen",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiQIARIQV2l0aCBUb3VjaHNjcmVlbhgCOgwIg7eNAhD04Y0CMANY_70gYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=garmin+edge+1050+cycling+computer+with+touchscreen&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiQIARIQV2l0aCBUb3VjaHNjcmVlbhgCOgwIg7eNAhD04Y0CMANY_70gYAE",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "ANT+",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhYIARIEQU5UKzoMCPy2jQIQ_baNAjACWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=ant%2B+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhYIARIEQU5UKzoMCPy2jQIQ_baNAjACWP-9IGAB",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "On sale",
+          "shoprs": "CAESBEoCGAEYBiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhMIBhIHT24gc2FsZRgCIgRKAhgBWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=Garmin+Edge+1050+Cycling+Computer+sale&shoprs=CAESBEoCGAEYBiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhMIBhIHT24gc2FsZRgCIgRKAhgBWP-9IGAB",
+          "input_type": "link_with_icon"
+        },
+        {
+          "text": "Bluetooth",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhsIARIJQmx1ZXRvb3RoOgwI_LaNAhD-to0CMAJY_70gYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=bluetooth+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhsIARIJQmx1ZXRvb3RoOgwI_LaNAhD-to0CMAJY_70gYAE",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "Wireless",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhoIARIIV2lyZWxlc3M6DAjsto0CEO-2jQIwAlj_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=wireless+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhoIARIIV2lyZWxlc3M6DAjsto0CEO-2jQIwAlj_vSBgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Heart Rate Monitors",
+          "shoprs": "CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhcICRITSGVhcnQgUmF0ZSBNb25pdG9yc2AB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=heart+rate+monitors+garmin+edge+1050+cycling+computer&shoprs=CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhcICRITSGVhcnQgUmF0ZSBNb25pdG9yc2AB",
+          "input_type": "link"
+        },
+        {
+          "text": "GPS Navigators",
+          "shoprs": "CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhIICRIOR1BTIE5hdmlnYXRvcnNgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=gps+navigators+garmin+edge+1050+cycling+computer&shoprs=CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhIICRIOR1BTIE5hdmlnYXRvcnNgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "New",
+          "shoprs": "CAEYCiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMgcIChIDTmV3WP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=new+Garmin+Edge+1050+Cycling+Computer&shoprs=CAEYCiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMgcIChIDTmV3WP-9IGAB",
+          "input_type": "link_with_icon"
+        },
+        {
+          "text": "Used",
+          "shoprs": "CAEYCiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMggIChIEVXNlZFj_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=used+Garmin+Edge+1050+Cycling+Computer&shoprs=CAEYCiohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMggIChIEVXNlZFj_vSBgAQ",
+          "input_type": "link_with_icon"
+        },
+        {
+          "text": "Fitness Trackers",
+          "shoprs": "CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhQICRIQRml0bmVzcyBUcmFja2Vyc2AB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=fitness+trackers+garmin+edge+1050+cycling+computer&shoprs=CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhQICRIQRml0bmVzcyBUcmFja2Vyc2AB",
+          "input_type": "link"
+        },
+        {
+          "text": "GPS Watches",
+          "shoprs": "CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMg8ICRILR1BTIFdhdGNoZXNgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=gps+watches+garmin+edge+1050+cycling+computer&shoprs=CAEYCSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMg8ICRILR1BTIFdhdGNoZXNgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Over 3 in screen",
+          "shoprs": "CAESEioQCIi3jQISCQkAAABA4XoeQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyNwgBEhBPdmVyIDMgaW4gc2NyZWVuIhIqEAiIt40CEgkJAAAAQOF6HkAqAhgBOgkIiLeNAhAAMAZY_70gYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=over+3+in+screen+garmin+edge+1050+cycling+computer&shoprs=CAESEioQCIi3jQISCQkAAABA4XoeQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyNwgBEhBPdmVyIDMgaW4gc2NyZWVuIhIqEAiIt40CEgkJAAAAQOF6HkAqAhgBOgkIiLeNAhAAMAZY_70gYAE",
+          "input_type": "link"
+        },
+        {
+          "text": "With Color Display",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiYIARISV2l0aCBDb2xvciBEaXNwbGF5GAI6DAiFt40CEPjhjQIwA1j_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=garmin+edge+1050+cycling+computer+with+color+display&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiYIARISV2l0aCBDb2xvciBEaXNwbGF5GAI6DAiFt40CEPjhjQIwA1j_vSBgAQ",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "Under $250",
+          "shoprs": "CAESDRILEQAAAABlza1BGAEYBSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiMIBRIKVW5kZXIgJDI1MBgCIg0SCxEAAAAAZc2tQRgBKgIYAVj_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=Garmin+Edge+1050+Cycling+Computer+under+%24250&shoprs=CAESDRILEQAAAABlza1BGAEYBSohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiMIBRIKVW5kZXIgJDI1MBgCIg0SCxEAAAAAZc2tQRgBKgIYAVj_vSBgAQ",
+          "input_type": "price_range"
+        },
+        {
+          "text": "Weather Resistant",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiMIARIRV2VhdGhlciBSZXNpc3RhbnQ6DAiEt40CEPbhjQIwA1j_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=weather+resistant+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiMIARIRV2VhdGhlciBSZXNpc3RhbnQ6DAiEt40CEPbhjQIwA1j_vSBgAQ",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "Garmin Edge",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhsIARILR2FybWluIEVkZ2U6CgiDjDUQ4tI8MARY_70gYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhsIARILR2FybWluIEVkZ2U6CgiDjDUQ4tI8MARY_70gYAE",
+          "input_type": "link"
+        },
+        {
+          "text": "2.6 \u2013 3 in screen",
+          "shoprs": "CAESGyoZCIi3jQISEgkAAAAAf2oaQBEAAABA4XoeQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyYQgBEhMyLjYg4oCTIDMgaW4gc2NyZWVuIhsqGQiIt40CEhIJAAAAAH9qGkARAAAAQOF6HkAqIAocMi42IGluIHNjcmVlbiB0byAzIGluIHNjcmVlbhgBOgkIiLeNAhAAMAZY_70gYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=2.6+in+screen+to+3+in+screen+garmin+edge+1050+cycling+computer&shoprs=CAESGyoZCIi3jQISEgkAAAAAf2oaQBEAAABA4XoeQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyYQgBEhMyLjYg4oCTIDMgaW4gc2NyZWVuIhsqGQiIt40CEhIJAAAAAH9qGkARAAAAQOF6HkAqIAocMi42IGluIHNjcmVlbiB0byAzIGluIHNjcmVlbhgBOgkIiLeNAhAAMAZY_70gYAE",
+          "input_type": "link"
+        },
+        {
+          "text": "With Calorie Burn",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiUIARIRV2l0aCBDYWxvcmllIEJ1cm4YAjoMCPu2jQIQ7uGNAjADWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=garmin+edge+1050+cycling+computer+with+calorie+burn&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMiUIARIRV2l0aCBDYWxvcmllIEJ1cm4YAjoMCPu2jQIQ7uGNAjADWP-9IGAB",
+          "input_type": "link"
+        },
+        {
+          "text": "1.8 \u2013 2.2 in screen",
+          "shoprs": "CAESGyoZCIi3jQISEgkAAABgukkSQBEAAACgHFoWQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyZQgBEhUxLjgg4oCTIDIuMiBpbiBzY3JlZW4iGyoZCIi3jQISEgkAAABgukkSQBEAAACgHFoWQCoiCh4xLjggaW4gc2NyZWVuIHRvIDIuMiBpbiBzY3JlZW4YAToJCIi3jQIQADAGWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=1.8+in+screen+to+2.2+in+screen+garmin+edge+1050+cycling+computer&shoprs=CAESGyoZCIi3jQISEgkAAABgukkSQBEAAACgHFoWQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyZQgBEhUxLjgg4oCTIDIuMiBpbiBzY3JlZW4iGyoZCIi3jQISEgkAAABgukkSQBEAAACgHFoWQCoiCh4xLjggaW4gc2NyZWVuIHRvIDIuMiBpbiBzY3JlZW4YAToJCIi3jQIQADAGWP-9IGAB",
+          "input_type": "link"
+        },
+        {
+          "text": "Max Speed",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhsIARIJTWF4IFNwZWVkOgwI9LaNAhD3to0CMAJY_70gYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=max+speed+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMhsIARIJTWF4IFNwZWVkOgwI9LaNAhD3to0CMAJY_70gYAE",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "Average Speed",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMh8IARINQXZlcmFnZSBTcGVlZDoMCPS2jQIQ9baNAjACWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=average+speed+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMh8IARINQXZlcmFnZSBTcGVlZDoMCPS2jQIQ9baNAjACWP-9IGAB",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "Riding Time",
+          "shoprs": "CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMh0IARILUmlkaW5nIFRpbWU6DAj4to0CEPq2jQIwAlj_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=riding+time+garmin+edge+1050+cycling+computer&shoprs=CAEYASohZ2FybWluIGVkZ2UgMTA1MCBjeWNsaW5nIGNvbXB1dGVyMh0IARILUmlkaW5nIFRpbWU6DAj4to0CEPq2jQIwAlj_vSBgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "2.2 \u2013 2.6 in screen",
+          "shoprs": "CAESGyoZCIi3jQISEgkAAACgHFoWQBEAAAAAf2oaQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyZQgBEhUyLjIg4oCTIDIuNiBpbiBzY3JlZW4iGyoZCIi3jQISEgkAAACgHFoWQBEAAAAAf2oaQCoiCh4yLjIgaW4gc2NyZWVuIHRvIDIuNiBpbiBzY3JlZW4YAToJCIi3jQIQADAGWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=2.2+in+screen+to+2.6+in+screen+garmin+edge+1050+cycling+computer&shoprs=CAESGyoZCIi3jQISEgkAAACgHFoWQBEAAAAAf2oaQBgBKiFnYXJtaW4gZWRnZSAxMDUwIGN5Y2xpbmcgY29tcHV0ZXIyZQgBEhUyLjIg4oCTIDIuNiBpbiBzY3JlZW4iGyoZCIi3jQISEgkAAACgHFoWQBEAAAAAf2oaQCoiCh4yLjIgaW4gc2NyZWVuIHRvIDIuNiBpbiBzY3JlZW4YAToJCIi3jQIQADAGWP-9IGAB",
+          "input_type": "link"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&num=40&q=Garmin+Edge+1050+Cycling+Computer&start=10"
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "search_metadata": {
+    "id": "6905708bae678cc28595f89f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8489b955139b69e8/6905708bae678cc28595f89f.json",
+    "created_at": "2025-11-01 02:29:31 UTC",
+    "processed_at": "2025-11-01 02:29:31 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=iXAFaafDDIOIwbkP0ZWDkA8&q=Continental+1507310000&gl=us&hl=en&cs=1&async=catalogid:6960727367985924708,gpcid:5170021608282386597,headlineOfferDocid:18416368211174957559,rds:PC_5170021608282386597|PROD_PC_5170021608282386597,imageDocid:13589285006039192106,isp:true,query:Continental%201507310000,mid:576462461106505366,pvt:hg,_fmt:jspb",
+    "raw_html_file": "https://serpapi.com/searches/8489b955139b69e8/6905708bae678cc28595f89f.html",
+    "prettify_html_file": "https://serpapi.com/searches/8489b955139b69e8/6905708bae678cc28595f89f.prettify",
+    "total_time_taken": 1.07
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "eyJlaSI6ImlYQUZhYWZERElPSXdia1AwWldEa0E4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjk2MDcyNzM2Nzk4NTkyNDcwOCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4NDE2MzY4MjExMTc0OTU3NTU5IiwiaW1hZ2VEb2NpZCI6IjEzNTg5Mjg1MDA2MDM5MTkyMTA2IiwicmRzIjoiUENfNTE3MDAyMTYwODI4MjM4NjU5N3xQUk9EX1BDXzUxNzAwMjE2MDgyODIzODY1OTciLCJxdWVyeSI6IkNvbnRpbmVudGFsKzE1MDczMTAwMDAiLCJncGNpZCI6IjUxNzAwMjE2MDgyODIzODY1OTciLCJtaWQiOiI1NzY0NjI0NjExMDY1MDUzNjYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0="
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8FJfHGU9LeMN8irMgYC_mZS6pQyM6CSlgqwm0fGsTYj9ezLQh18zPiCir_TweTKG-hu30_p1rZzszDeKgnKDJZJgwTTvUqR-YmnJIHUg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRnfpFgdl0XlEYztM4UgblbBMkpE6GBP2ab0247bxqYfOEouVh2ErGpmqaIXlPt-y4pXhia7P9zFO1gY1Tcb0vJy9A-FEBuGTBxfgKq0m7pFTAoe1FwqwbRmw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQMfrfDE1rV6Vx-K8jSd5C0qkLsj0NNfiVXlVwI-NyqPAWmXC3mD4H56GMut2AalLPxhD7H7NSBiMrTwAjWcVqy9Qq4VkjL4A",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrsla9Gh2OC6HWKxW2XWD69LsXhrdtBY3x5G4HOVvX8Q-PrFjA34A8SPk5fzT5MDE-eqoKzIh7e3G0o-a-ETfmfl2EQmNctnbmQjxYhNgYISYB2ijKleGx",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGhAoRx9gvl_5U5siuP8_1gROMSQf0yB7ygmSiGR93qRJrktORSbRvK4FF46K6XdKCjyvOpFEf0I45H0Hw1OBf8gGnIthLG5QgjtJx3QddnoPrmFLfXQNI2w"
+    ],
+    "title": "Continental Touring Plus Tire",
+    "brand": "Continental",
+    "reviews": 105,
+    "rating": 3.9,
+    "price_range": "$62-$65",
+    "stores": [
+      {
+        "name": "Ben's Cycle",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.benscycle.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.benscycle.com/continental-contact-plus-tire---700-x-32--clincher--wire--black-reflex--safetyplus-breaker--e50-c484-continental-k6764-tr6076/p?idsku=781813&srsltid=AfmBOoqA5CRqDKGniJpDaPJqs4vXhMPUJ6BqYRk9bOHYKzG1zzSTFxfBGEg",
+        "title": "Continental Contact Plus Tire - 700 x 32, Clincher, Wire, Black/Reflex, SafetyPlus Breaker, E50 TR6076",
+        "payment_methods": "PayPal accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Nov 6\u2009\u2013\u200912",
+          "30-day returns"
+        ],
+        "price": "$61.95",
+        "extracted_price": 61.95,
+        "shipping": "Free",
+        "total": "$61.95",
+        "extracted_total": 61.95
+      },
+      {
+        "name": "Bike Bling",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bikebling.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.bikebling.com/Continental-Ride-Tour-700c-Tires-p/Conti-TopContact2-700C-0004.htm?srsltid=AfmBOoodTRJmuzd3h-eC3Goi_rZUlbOttIFq6FN7v9qOLIOe-Kz4Zz-FSZU",
+        "title": "Continental Top Contact II 700c Tires - 700 x 42c",
+        "rating": 3.6,
+        "reviews": 15,
+        "payment_methods": "PayPal, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery by Nov 7 $79.90",
+          "30-day returns"
+        ],
+        "price": "$64.95",
+        "extracted_price": 64.95,
+        "shipping": "+ $79.90",
+        "shipping_extracted": 79.9,
+        "total": "$144.85",
+        "extracted_total": 144.85
+      },
+      {
+        "name": "eBay",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ebay.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.ebay.com/itm/136606731325",
+        "title": "Continental Contact Plus Reflex Tyre Wire Bead Black/Black Reflex 650X50C",
+        "rating": 4.6,
+        "reviews": 3021,
+        "payment_methods": "PayPal, Google Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "price": "$68.70",
+        "extracted_price": 68.7,
+        "shipping": "Free",
+        "total": "$68.70",
+        "extracted_total": 68.7
+      }
+    ],
+    "stores_next_page_token": "lECzdHica15aklmSk7rXOT-vJDMvNa8kMUchJL-0KDMvXSEgp7RYISSzKHVJcX5RJvPi3Lx8LgDxLRNi",
+    "about_the_product": {
+      "description": "Sticks and stones and other sharp, pointy objects won't stop Continental's Touring Plus tire. It's armed with Continental's stalwart Plus flat protection system, a tough sub-tread that prevents punctures. This layer is highly elastic as well, so that the ride remains light and lively. And, nighttime rides just got safer, with Continental's Reflex sidewall striping for high visibility when the sun goes down.",
+      "features": [
+        {
+          "title": "Vehicle Type",
+          "value": "Bicycle"
+        },
+        {
+          "title": "Rim Diameter",
+          "value": "700c"
+        },
+        {
+          "title": "Tire Size",
+          "value": "700 x 32"
+        },
+        {
+          "title": "Tires Included",
+          "value": "Yes"
+        },
+        {
+          "title": "Wheels Included",
+          "value": "No"
+        },
+        {
+          "title": "Quantity",
+          "value": "1"
+        },
+        {
+          "title": "Tire Diameter",
+          "value": "700 mm (700c)"
+        },
+        {
+          "title": "Tire Type",
+          "value": "Touring"
+        },
+        {
+          "title": "Tire Width",
+          "value": "32 mm"
+        },
+        {
+          "title": "Tubeless",
+          "value": "No"
+        },
+        {
+          "title": "Construction Type",
+          "value": "Clincher"
+        },
+        {
+          "title": "Puncture Resistance",
+          "value": "Yes"
+        },
+        {
+          "title": "Tire Texture",
+          "value": "Smooth"
+        },
+        {
+          "title": "Tire Highlights",
+          "value": "Puncture Resistant"
+        },
+        {
+          "title": "Top Use Cases",
+          "value": "Daily commuting, Weekend rides"
+        },
+        {
+          "title": "Typical Users",
+          "value": "Casual riders"
+        },
+        {
+          "title": "Alloy",
+          "value": "No"
+        },
+        {
+          "title": "Material",
+          "value": "Rubber"
+        },
+        {
+          "title": "Package Components",
+          "value": "Tires"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "items": [
+          {
+            "pros": [
+              "Fantastically tough tyre",
+              "Remains very comfortable"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/172419-continental-touring-plus-tyre",
+            "date": "9y",
+            "source": "Road.cc",
+            "title": "Review: Continental Touring Plus tyre | road.cc"
+          },
+          {
+            "pros": [
+              "Really good handling",
+              "Silky smooth on the asphalt",
+              "Easy to install"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.biketiresdirect.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.biketiresdirect.com/reviews/continental-contact-plus-travel-tire-26",
+            "date": "3w",
+            "source": "Bike Tires Direct",
+            "title": "Continental Contact Plus Travel Tire 26 at BikeTiresDirect"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 5
+      },
+      {
+        "stars": 2,
+        "amount": 15
+      },
+      {
+        "stars": 3,
+        "amount": 6
+      },
+      {
+        "stars": 4,
+        "amount": 35
+      },
+      {
+        "stars": 5,
+        "amount": 44
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRC8GwQhdXfMj2CPU-Ege1w--Dn6yKyj1DawJm0zSZovU3n6_FMtB9fnV6lZ_1eJBMWsar7hHQQxnpEwwiHtldG_B71NWbYQw",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTMZK7sMu6fyDq1kaJB0tg1Z975ZyEnsWjuM89PyKlZLfPx8KcmpvWl2kXLag2mKJ0yCp0mSLlajdVmfCxhggyTtdCZJrLbkg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTEzVQq-3OlhwUvVWvbeoVLP6aze6Nbh0u0OFQtERhyxzA9Lg5JFdFxW7UEf1V5aP4H6jGFBwuxhzMZtm-0FDk1a8ENLRQK",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS70JgQlLrTTSDyugiW-lpzRCi6g5dWSLFNpHp5F9csGz2a9lInY6CQFrPPfZIj4y7s_VwvfZ0vD09VVUjGHN5LRAXUfBvoXw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgQMaLHGWKuA-sgB7r-69NSdYNJh5oFQCwAvZRnsFLii4usgnQldi9tDC6lBmcPWAvCC2P2nVypdyqX6ABMF7jWzKSb3j5-w",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQjA04g6G055WgT4TzTuVnEFyFiMN84wOOAOr4Kjk9vJQDunk7OOWprm76JYTUONaL4vYmVRjLjrRVeICrMTu8RyyopKH0",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGb_yvnIIlWr7jgyjlNpLo2xok9YPQZNdaQWqQFSGF67aDXtQDdIZudugwEeSgOp0sKCdMoOXIC3_Vp_zUUnKTIh0eNAZwGA",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSOPIjKceCNGWqzsOHNzs3gwCu5cFkAyjJJGYaiTn9Wd0AwUnMQ5u0lwE95eA3D0uN06_WZ4UmfWgShMfhCPfdMSABcAXWc",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTHEZivoUGVe5Uv7S4tWxl8hHUvGvZFwXA336ruBkluuHCKcN1BkytOAC7sFP1K0rur-GI06_Sh1fXq-Ve7isKUyCWgJ-G5g"
+    ],
+    "user_reviews": [
+      {
+        "title": "Bad",
+        "text": "After 9 months and approx. 4,500 km on asphalt roads only, the tire is gone. Although the tread is still visible, which is very flat anyway, it shows clear cracks, as does the carcass on the side. The tire was actually always ridden with sufficient pressure between 4 and 5 bar in the 37-622 version. Even if it costs about 10 ? less than the competitor from Schwalbe (Marathon Plus), I can only recommend it for occasional riders.",
+        "source": "bike24.be",
+        "rating": 2,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2wKi0DcKD7YpTlSRbBiaua05IhiJWtvWHBo-dMKxHH9oc79QzH0EzAqOREwrTj8xOGUA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "A good Edmonton tire",
+        "text": "I am running these on a DeVinci Milano hybrid, which I've used with fairly smooth 700x32's of a different brand for years. Most of my riding is commuting, and I put these on just after the snowmelt, just in time for Edmonton's roads to turn into a mess of potholes, sand, kitty litter, winter detritus and more snow.\n\nThey do make my bicycle feel a little slower and heavier. I'm not hitting top gear as easily as I used to. But, given that I'm not racing, it's not so big a deal. This is more than offset by how sure-footed these tires feel, which is a real boon to me given how irregular Edmonton's roads and trails can be. Not only are they grippy, but they really reduce the horrific pounding that one can get riding over cracks and potholes and the like, so I find I have to slow down less to negotiate potentially treacherous situations. I also find that they don't spray anywhere near as much when riding on wet surfaces as many tires that I've ridden with.\n\nPros:\n\n* good value for price\n\n* a good compromise between traction and rolling resistance\n\n* rugged\n\n* good wet weather performance\n\nCons:\n\n* a bit on the heavy/slow side\n\nVerdict: ideal for riding conditions which are less than kind to road bikes.",
+        "user_name": "Coprolite",
+        "source": "mec.ca",
+        "rating": 4,
+        "date": "8 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1wyjV62kejSKHJ5fmDEJu5whaEFnJ2BA1DuJjEKuUR4kVYtHvnqFUs4UaeE_fe01uLRg=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "great touring tire",
+        "text": "I have used these and the 700x32's for the past 7 years. I average 2500km on a set of tires (though rears of course are the determining wear factor) and most of that moderate to fully loaded touring on various surfaces, Never had a flat, touch wood. Also I over inflate the tire by 10-15 psi to reduce rolling resistance, again no problems, but do not go over rim recommended inflation limits.\nDependable grip and cornering. very puncture resistant. The reflective safety stripe is an added bonus and very bright for the first 300km.",
+        "user_name": "touringmike",
+        "source": "mec.ca",
+        "rating": 5,
+        "date": "13 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3sYvB-F_xFRYzZs7lCykQzNRgj_zwVQwJ_CPNw8HkYJs_zcksFoZm9nFIJ3aS80qdBmQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRC8GwQhdXfMj2CPU-Ege1w--Dn6yKyj1DawJm0zSZovU3n6_FMtB9fnV6lZ_1eJBMWsar7hHQQxnpEwwiHtldG_B71NWbYQw"
+        ]
+      },
+      {
+        "title": "Side wall issues",
+        "text": "I logged 2800km on these tires this summer. They worked well against flats (4 flats over 2800km), but the side walls on the tires have worn rapidly. I am unsure of the integrity of the tires sidewalls.\n\nI have had issues with other Continental tires where side walls have blown out mid ride. I feel this is a manufacturing problem, which is hopefully addressed soon.\n\nThe reflective stripe also delaminated quickly (see photo)",
+        "user_name": "Wildman27",
+        "source": "mec.ca",
+        "rating": 2,
+        "date": "10 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1kd2sF_VAdX_0ov6C-pW-VSPb9BqtPI_HbelAmAokwGllRwbLhJubvpYHCEivKJRnkqw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTMZK7sMu6fyDq1kaJB0tg1Z975ZyEnsWjuM89PyKlZLfPx8KcmpvWl2kXLag2mKJ0yCp0mSLlajdVmfCxhggyTtdCZJrLbkg",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTEzVQq-3OlhwUvVWvbeoVLP6aze6Nbh0u0OFQtERhyxzA9Lg5JFdFxW7UEf1V5aP4H6jGFBwuxhzMZtm-0FDk1a8ENLRQK"
+        ]
+      },
+      {
+        "title": "Wonderful tires for touring",
+        "text": "I took a pair of these Continental Touring Plus tires on a long, unsupported tour last summer of about 2,800 km. The rear tire wore through to the orange layer by the end of the tour, but no flats! The front tire is now on the rear of the bike I ride through the snow in the winter, right now. There is good traction in the snow. These were wonderful tires for touring last summer and improve my rides this winter. I'll probably buy another pair of these tires for my next tour.",
+        "user_name": "bikenthusiast",
+        "source": "mec.ca",
+        "rating": 5,
+        "date": "14 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3LUeokozmgt5IB0722uHYqqhFT_GbpPgjhluToxWLBRWXUlBPGkxJeJXmNfoJ2Sw1QtA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS70JgQlLrTTSDyugiW-lpzRCi6g5dWSLFNpHp5F9csGz2a9lInY6CQFrPPfZIj4y7s_VwvfZ0vD09VVUjGHN5LRAXUfBvoXw",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgQMaLHGWKuA-sgB7r-69NSdYNJh5oFQCwAvZRnsFLii4usgnQldi9tDC6lBmcPWAvCC2P2nVypdyqX6ABMF7jWzKSb3j5-w"
+        ]
+      },
+      {
+        "title": "Great Buy!",
+        "text": "I bought these tires two years ago for my cyclocross bike and have no regrets thus far. They've easily got a couple thousand kilometers on them and still look great. I use the bike for commuting and some light road riding. Part of my commute is on dirt trails and I have never had a flat or any other issue.",
+        "user_name": "Fango",
+        "source": "mec.ca",
+        "rating": 5,
+        "date": "14 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3s2eHj1ZeWeI7e7DxqVzP8Zcf9K7iUbZ_o07FZXsf9SyppT6s8Unfpcuod2ZhAcDxbGw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQjA04g6G055WgT4TzTuVnEFyFiMN84wOOAOr4Kjk9vJQDunk7OOWprm76JYTUONaL4vYmVRjLjrRVeICrMTu8RyyopKH0",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGb_yvnIIlWr7jgyjlNpLo2xok9YPQZNdaQWqQFSGF67aDXtQDdIZudugwEeSgOp0sKCdMoOXIC3_Vp_zUUnKTIh0eNAZwGA"
+        ]
+      },
+      {
+        "title": "Great Tires",
+        "text": "These tires are great, I purchased these for my wife who is an avid cyclist, the bike these are for is her everyday hybrid that she takes to work about 8km (5 Miles) one way, and other rides in town and short rides into the country near home. The refective sidewalls are great and make her and bike more visible from the side. So far they are holding up very well and have good tread for road and trail.",
+        "user_name": "fotoman",
+        "source": "mec.ca",
+        "rating": 5,
+        "date": "15 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1kNRNR-ODMRVscEOI_FbCkR34Nqn3_ufQRZZILJOWt3F7EphQCx0ljHl8LTaxuLpx8cw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSOPIjKceCNGWqzsOHNzs3gwCu5cFkAyjJJGYaiTn9Wd0AwUnMQ5u0lwE95eA3D0uN06_WZ4UmfWgShMfhCPfdMSABcAXWc",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTHEZivoUGVe5Uv7S4tWxl8hHUvGvZFwXA336ruBkluuHCKcN1BkytOAC7sFP1K0rur-GI06_Sh1fXq-Ve7isKUyCWgJ-G5g"
+        ]
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Continental touring plus or Contact tires : r/bicycletouring",
+        "link": "https://www.reddit.com/r/bicycletouring/comments/4powbw/continental_touring_plus_or_contact_tires/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "9 years ago",
+        "items": [
+          {
+            "snippet": "Super-durable and much easier to pry off the rim than Marathons.",
+            "link": "https://www.reddit.com/r/bicycletouring/comments/4powbw/continental_touring_plus_or_contact_tires/#:~:text=Super%2Ddurable%20and%20much%20easier%20to%20pry%20off%20the%20rim%20than%20Marathons."
+          }
+        ]
+      },
+      {
+        "title": "Continental Touring Plus...Impressions",
+        "link": "https://www.bikeforums.net/commuting/1098487-continental-touring-plus-impressions.html",
+        "source": "Bike Forums",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bikeforums.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "8 years ago"
+      },
+      {
+        "title": "Anyone using Continental Touring Plus Tires for Bicycle Touring???",
+        "link": "https://www.bikeforums.net/touring/1039133-anyone-using-continental-touring-plus-tires-bicycle-touring-2.html",
+        "source": "Bike Forums",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bikeforums.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "9 years ago"
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Continental Grand Prix 5000",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTL7M2FQo0lHV5OIDSL1ue_Sj5_gzI5ZZrl_zv0VdKg43TCQmQv2AxxmiPkGMlUJtaayhwml9Z1rWD9Sj50o8v0JIkOoHqMRlDNN1rdko8",
+        "price": "$41.61",
+        "extracted_price": 41.61,
+        "original_price": "$74",
+        "extracted_original_price": 74,
+        "reviews": 9000,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImlYQUZhYWZERElPSXdia1AwWldEa0E4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc2ODQ2MDk3OTQyODgwMzYyODAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5NjY5MTg2MTQzMDk1OTMwMDE4IiwiaW1hZ2VEb2NpZCI6IjE2MzAzNDI4NDg2NjY1NDgyNzgxIiwicmRzIjoiUENfMTcyMzIyMDU0MjkyOTA5MjU2MTB8UFJPRF9QQ18xNzIzMjIwNTQyOTI5MDkyNTYxMCIsInF1ZXJ5IjoiQ29udGluZW50YWwrMTUwNzMxMDAwMCIsImdwY2lkIjoiMTcyMzIyMDU0MjkyOTA5MjU2MTAiLCJtaWQiOiI1NzY0NjIzMTY4MDk3MDgyNTAiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Continental ContiProContact",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQOC0PSOBOcEh7JU13fc3d1MhsL-GW2spad_ZNUwXH23zpBG2Y8iLz7zJ_ndp40t2zQXO10MytCpDIkyLcXtsB05_GvF4TJvWNAx9l4LLq86kry-cKnsoNU",
+        "price": "$109.00",
+        "extracted_price": 109.0,
+        "original_price": "$124",
+        "extracted_original_price": 124,
+        "reviews": 1000,
+        "rating": 4.3,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImlYQUZhYWZERElPSXdia1AwWldEa0E4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTk3Nzk3MjgyMzgyMjUxMTQxNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NzYwOTkxNTI1MTkwMjIyNzg2IiwiaW1hZ2VEb2NpZCI6Ijg3NTI5MDM3MjExMzY3OTE2NzQiLCJyZHMiOiJQQ180NjkwNTk2NDMzMjgxMzgyNTk1fFBST0RfUENfNDY5MDU5NjQzMzI4MTM4MjU5NSIsInF1ZXJ5IjoiQ29udGluZW50YWwrMTUwNzMxMDAwMCIsImdwY2lkIjoiMTA0MTgwMjM4NDgzMTAyMjAxMyIsIm1pZCI6IjU3NjQ2Mjg0OTM5MTM4MDY5MCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Continental Grand Prix 5000 S TR Tire",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQGB59zI4Vt3-UCxn4bf6sNrDMwWlaEZJtj1vKDqg4TzXrQTuEMo9PRALbHnu6AaYn_bR5aDDDdk3IkBEx4kJ8YJdUiGYFJ6rufKoBtakrSqb2pU_u82Lta",
+        "price": "$49.10",
+        "extracted_price": 49.1,
+        "original_price": "$77",
+        "extracted_original_price": 77,
+        "reviews": 2000,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImlYQUZhYWZERElPSXdia1AwWldEa0E4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTgxODY0OTQzNDMyNzE5OTg5OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMjI2ODA2MDM2NTM3ODIxMjkzIiwiaW1hZ2VEb2NpZCI6IjUwNzk3MTk4MDQ0MjI2NTg2NzUiLCJyZHMiOiJQQ185MjI2MjQyMDk5NjEzMzcxNTEwfFBST0RfUENfOTIyNjI0MjA5OTYxMzM3MTUxMCIsInF1ZXJ5IjoiQ29udGluZW50YWwrMTUwNzMxMDAwMCIsImdwY2lkIjoiOTIyNjI0MjA5OTYxMzM3MTUxMCIsIm1pZCI6IjU3NjQ2MjY3NjI2MDI1NzY1MSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Continental ProContact TX",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQq4ADs7n28PR9GzT65GYuorP-4-kortC_mt8-SKOGLw3c3x_A-dtnX5m0fx9ofOboIt0bAvGEmGZCg4BVxwMSayIVZczDo5rVuAzzF1fIfxdX0ea-ZSLqL",
+        "price": "$130.91",
+        "extracted_price": 130.91,
+        "original_price": "$164",
+        "extracted_original_price": 164,
+        "reviews": 536,
+        "rating": 4.3,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImlYQUZhYWZERElPSXdia1AwWldEa0E4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODA3NTkwMTAzMTYyNzcyMTc3OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MDMwMzI3MjMxODUyMDcwOTk0IiwiaW1hZ2VEb2NpZCI6IjkzODA5MTA1Nzg4NDEyNjQxMDIiLCJyZHMiOiJQQ18xMTgxNzkyMTU1MDU2MTUzNzkwOHxQUk9EX1BDXzExODE3OTIxNTUwNTYxNTM3OTA4IiwicXVlcnkiOiJDb250aW5lbnRhbCsxNTA3MzEwMDAwIiwiZ3BjaWQiOiIxMTgxNzkyMTU1MDU2MTUzNzkwOCIsIm1pZCI6IjU3NjQ2Mjc4MjY0Nzg0MzM3MiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Continental Grand Prix TR Tire",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAm5w2nNGgCG-ooHV_JQ2ZOMg6P_Hv1A7dfFwK4GzbOBSRV0F8ZkOKZ7lvWvGH0hhsd3UN4Z2Yeoqt9jiyCcMG2pbUbOxSRsHFNOycCfx0",
+        "price": "$79.95",
+        "extracted_price": 79.95,
+        "reviews": 245,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImlYQUZhYWZERElPSXdia1AwWldEa0E4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTk5MTMzOTY3ODAxMzMyMTU2OSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNjY1MTcyODUzMzg4MjkwNDIiLCJpbWFnZURvY2lkIjoiMTM3NzI3NzAzNTgwNzI1NTIwMTAiLCJyZHMiOiJQQ18zNDIwNDU4Mzk4MTYyOTMxNjMyfFBST0RfUENfMzQyMDQ1ODM5ODE2MjkzMTYzMiIsInF1ZXJ5IjoiQ29udGluZW50YWwrMTUwNzMxMDAwMCIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Continental Contact 700C",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQeaARD7CX8fMtrrBpRIxuGG7ECrCI8ynxJX2jD_bnocyx5uMlsL-Qf31DO6Q4iRQ3wkzB_SUt9UaL0oaTQWKqpqsHmEL5cO-CSQ9OJ6kVVgHuuMn978oqk",
+        "price": "$39.00",
+        "extracted_price": 39.0,
+        "reviews": 296,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImlYQUZhYWZERElPSXdia1AwWldEa0E4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyMzM5OTU4Njk1MDEwODQ4MTEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5MTgzMjM0Nzk5ODMxOTU3NDEzIiwiaW1hZ2VEb2NpZCI6IjE3NDAwNTA0MjY3OTc4NTI2MzUiLCJyZHMiOiJQQ185NzAxODExNDkyNDE3MzA2NDM4fFBST0RfUENfOTcwMTgxMTQ5MjQxNzMwNjQzOCIsInF1ZXJ5IjoiQ29udGluZW50YWwrMTUwNzMxMDAwMCIsImdwY2lkIjoiOTcwMTgxMTQ5MjQxNzMwNjQzOCIsIm1pZCI6IjU3NjQ2MjkwMDYzMzQ2MzUwOSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Size",
+        "items": [
+          {
+            "name": "Any Size",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImlYQUZhYWZERElPSXdia1AwWldEa0E4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjk2MDcyNzM2Nzk4NTkyNDcwOCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4NDE2MzY4MjExMTc0OTU3NTU5IiwiaW1hZ2VEb2NpZCI6IjEzNTg5Mjg1MDA2MDM5MTkyMTA2IiwicmRzIjoiUENfNTE3MDAyMTYwODI4MjM4NjU5N3xQUk9EX1BDXzUxNzAwMjE2MDgyODIzODY1OTciLCJxdWVyeSI6IkNvbnRpbmVudGFsKzE1MDczMTAwMDAiLCJncGNpZCI6IjUxNzAwMjE2MDgyODIzODY1OTciLCJtaWQiOiI1NzY0NjI0NjExMDY1MDUzNjYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiIn0%3D"
+          },
+          {
+            "name": "26x1.75",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImlYQUZhYWZERElPSXdia1AwWldEa0E4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjk2MDcyNzM2Nzk4NTkyNDcwOCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4NDE2MzY4MjExMTc0OTU3NTU5IiwiaW1hZ2VEb2NpZCI6IjEzNTg5Mjg1MDA2MDM5MTkyMTA2IiwicmRzIjoiUENfNTE3MDAyMTYwODI4MjM4NjU5N3xQUk9EX1BDXzUxNzAwMjE2MDgyODIzODY1OTciLCJxdWVyeSI6IkNvbnRpbmVudGFsKzE1MDczMTAwMDAiLCJncGNpZCI6IjUxNzAwMjE2MDgyODIzODY1OTciLCJtaWQiOiI1NzY0NjI0NjExMDY1MDUzNjYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWs5SDVBUkQ3czhia0F3In0%3D"
+          },
+          {
+            "name": "700x32",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImlYQUZhYWZERElPSXdia1AwWldEa0E4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjk2MDcyNzM2Nzk4NTkyNDcwOCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4NDE2MzY4MjExMTc0OTU3NTU5IiwiaW1hZ2VEb2NpZCI6IjEzNTg5Mjg1MDA2MDM5MTkyMTA2IiwicmRzIjoiUENfNTE3MDAyMTYwODI4MjM4NjU5N3xQUk9EX1BDXzUxNzAwMjE2MDgyODIzODY1OTciLCJxdWVyeSI6IkNvbnRpbmVudGFsKzE1MDczMTAwMDAiLCJncGNpZCI6IjUxNzAwMjE2MDgyODIzODY1OTciLCJtaWQiOiI1NzY0NjI0NjExMDY1MDUzNjYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWs5SDVBUkRlcWJua0F3In0%3D"
+          }
+        ]
+      }
+    ]
+  }
+}

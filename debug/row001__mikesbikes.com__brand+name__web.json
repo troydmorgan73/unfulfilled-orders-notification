@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "690579610d0b29a317dedec5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0a22aeebcfe664f3/690579610d0b29a317dedec5.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0a22aeebcfe664f3/690579610d0b29a317dedec5.json_with_pixel_position",
+    "created_at": "2025-11-01 03:07:13 UTC",
+    "processed_at": "2025-11-01 03:07:13 UTC",
+    "google_url": "https://www.google.com/search?q=%22Zipp+Zipp+858+NSW+Tubeless+Disc+Rear+Wheel%22+site%3Amikesbikes.com&oq=%22Zipp+Zipp+858+NSW+Tubeless+Disc+Rear+Wheel%22+site%3Amikesbikes.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0a22aeebcfe664f3/690579610d0b29a317dedec5.html",
+    "total_time_taken": 1.26
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Zipp Zipp 858 NSW Tubeless Disc Rear Wheel\" site:mikesbikes.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Zipp Zipp 858 NSW Tubeless Disc Rear Wheel\" site:mikesbikes.com",
+    "total_results": 0,
+    "time_taken_displayed": 0.13,
+    "organic_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query."
+}

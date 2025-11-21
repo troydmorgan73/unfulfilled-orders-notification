@@ -1,0 +1,6 @@
+Product_Name,GTIN,MPN,Brand,My_Price,Match_Source,Match_URL,Match_Price,Match_By,Confidence,Price_Diff
+Zipp 858 NSW Tubeless Disc Rear Wheel,710845892523,00.1918.773.000,Zipp,2300.00,mikesbikes.com,https://mikesbikes.com/products/zipp-858-nsw-disc-brake-wheels?srsltid=AfmBOopgVmbOZWHumFLI_kJxtWZcyaiSo4kAN6ZCj1D181fH2HgrrgAF,1900.00,shopify_json,4,-400.0
+Garmin Rally RK110 Power Meter Pedals,753759349578,010-02875-01,Garmin,749.99,www.backcountry.com,https://www.backcountry.com/garmin-rally-rk110-power-clipless-pedals?srsltid=AfmBOortPCY08QWK_UKkEsY0XV1UlQ1MNh4occd9tzbbZfhem4WuFtaO,749.99,regex,0,0.0
+Wahoo KICKR MOVE Power Trainer,850048106017,WFBKTR123,Wahoo,1349.99,NO_MATCH,-,,NO_MATCH,,
+Continental Grand Prix TR Tubeless Tire,4019238098068,1507310000,Continental,67.95,www.excelsports.com,https://www.excelsports.com/continental-grand-prix-tr-tubeless-tire?srsltid=AfmBOopr1waPFNXY4_dyK_MKRlb0OaJ4GP7n8PfDzg6ztBcMtpk1mxyQ,79.95,regex,0,12.0
+Garmin Edge 1050 Cycling Computer,753759336288,010-02890-00,Garmin,699.99,NO_MATCH,-,,NO_MATCH,,

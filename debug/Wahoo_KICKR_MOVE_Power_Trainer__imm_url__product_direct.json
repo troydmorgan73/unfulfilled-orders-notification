@@ -1,0 +1,1371 @@
+{
+  "search_metadata": {
+    "id": "69056e93f607a96c58e53d8f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a986dfdc5f4661bb/69056e93f607a96c58e53d8f.json",
+    "created_at": "2025-11-01 02:21:07 UTC",
+    "processed_at": "2025-11-01 02:21:07 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=FGYFafPyHfu_0PEP5avSqQk&q=Wahoo+KICKR+MOVE+Power+Trainer&gl=us&hl=en&cs=1&async=catalogid:479729542769584570,gpcid:7654672653937271208,headlineOfferDocid:10655642371851607631,rds:PC_7654672653937271208|PROD_PC_7654672653937271208,imageDocid:16396941025488777824,isp:true,query:Wahoo%20KICKR%20MOVE%20Power%20Trainer,mid:576462758975438354,pvt:hg,_fmt:jspb",
+    "raw_html_file": "https://serpapi.com/searches/a986dfdc5f4661bb/69056e93f607a96c58e53d8f.html",
+    "prettify_html_file": "https://serpapi.com/searches/a986dfdc5f4661bb/69056e93f607a96c58e53d8f.prettify",
+    "total_time_taken": 0.85
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "eyJlaSI6IkZHWUZhZlB5SGZ1XzBQRVA1YXZTcVFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDc5NzI5NTQyNzY5NTg0NTcwIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTA2NTU2NDIzNzE4NTE2MDc2MzEiLCJpbWFnZURvY2lkIjoiMTYzOTY5NDEwMjU0ODg3Nzc4MjQiLCJyZHMiOiJQQ183NjU0NjcyNjUzOTM3MjcxMjA4fFBST0RfUENfNzY1NDY3MjY1MzkzNzI3MTIwOCIsInF1ZXJ5IjoiV2Fob28rS0lDS1IrTU9WRStQb3dlcitUcmFpbmVyIiwiZ3BjaWQiOiI3NjU0NjcyNjUzOTM3MjcxMjA4IiwibWlkIjoiNTc2NDYyNzU4OTc1NDM4MzU0IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRRb5dsOcoRQN9zKBYIqzxCV2gnTtbpPwigusUs2_Sa4W9V2zqeTD0GrxPdYsgbp0Zn48A9dpHkDX2SOqljvk_kSYJF6KZB_4w5zQ-sV9LMbdnMnA4YSQQjdQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS0ZBYl9uTeBnbUfp6ePFy3P3nAMwVWBviz8i-LI2skKZAt2ut29THFVta1eNryRYqWSc5VWa1Qu1A-PX5YTMzacfsFgUQOM5vq_Xf9UmvoS8gJRg8bU6SkWA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKuPFKJwXOS7bU3kipR3FfjNQgWQZvKquj6KRbnIj1NtTFFtT4_vXGEAKKUcXctOeyMc5nsNY2mpBSKzxiT2-OSf1IyCGavnawhsDhAiiUn-YwZBZtDtDo",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmpcYtNjU_hqqB827COwqHrxAZukZxOKBw5Ap36trHVJvA4dWupKb0slZIKyEA_M1ND5TzIHXc77nrynEnw2JEv_y9zriaUyiq2vVAOLihqnY8-BeiUe7xA10",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSF6ltr7LABtzjq6b-z-uictts3KvJDG1KXvaUiXlWY7OIF4RmTacXGRaU4fEixCp56Jwx3iNqagenrfV16FF1NimB00C3J4JrsG6pKx-L5IkTIOqjv6Ph0",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLCYEe7nv5-Y-B_WfR4pAOXn45rEaQACU8GkG9MHNx7-t5JqhIgBzIXkfEUZHGQ6tYPaQplBnKErXwJ5D97e7KyOsRF3aDCp5kLWZutbCgpAmXCxiSptgF",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTof8w1ZxoZiD9A61LJWV3D-NNQGDmdnoB072OUXLrEfKuhb8NDXGkpwJhDueYG8hF_BmeZi5Meqezd39pGd-HHwMqTVrnmnqV72yt13XWlMbSg2fXvHfy7",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT3cTQQ3Njou6JayWcXgpNyL887upFGDy0-vZu0ati-IL7GOIGqVWcpsWLdykZMBlvaHTXPAJZWF7fMn4cZ3xVywXvTeGK5XmEFvwEJwALn2hiMUxz9WZEn",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRjfvzQ5RVQapbGEavDVvr5M7KF_hy8XIxn3eLqRQGXZlALLv9MZySWmHhxhIIqGmEZtfynwn0odJXucuZ868wQ3g6T6zvnq5ezRkWDp5nnNLn4bYYn4HHp",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxIEGLFEkfyuP36q7wauAycFKSGTY7n5Mw7lzB8Bw1C4zJkR8u7pAQ5iJ5iuHbdF8cuTVw0iuZXwlrG4zWDc1-xKzpRjCp7w9njm9H6iAK"
+    ],
+    "title": "Trainer Wahoo KICKR Move",
+    "brand": "Wahoo Fitness",
+    "reviews": 180,
+    "rating": 4.4,
+    "price_range": "$1,350-$1,359",
+    "stores": [
+      {
+        "name": "REI",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.rei.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.rei.com/product/230069/wahoo-fitness-kickr-move-smart-trainer?sku=2300690001&CAWELAID=120217890017196988",
+        "title": "Wahoo Fitness KICKR MOVE Smart Trainer Black",
+        "rating": 4.8,
+        "reviews": 2226,
+        "payment_methods": "PayPal, Klarna accepted",
+        "tag": "Most popular",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $30",
+          "90-day returns"
+        ],
+        "price": "$1,350.00",
+        "extracted_price": 1350.0,
+        "shipping": "+ $30.00",
+        "shipping_extracted": 30.0,
+        "total": "$1,380.00",
+        "extracted_total": 1380.0
+      },
+      {
+        "name": "Sports Basement",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://shop.sportsbasement.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://shop.sportsbasement.com/products/kickr-move-power-trainer",
+        "title": "KICKR MOVE Indoor Smart Trainer",
+        "rating": 4.7,
+        "reviews": 2211,
+        "payment_methods": "Google Pay, Affirm accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Mon - Wed",
+          "Lifetime returns"
+        ],
+        "price": "$1,349.99",
+        "extracted_price": 1349.99,
+        "shipping": "Free",
+        "total": "$1,349.99",
+        "extracted_total": 1349.99
+      },
+      {
+        "name": "Condor Cycles",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.condorcycles.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.condorcycles.com/en-us/products/wahoo-kickr-move-smart-trainer-with-wifi?variant=46627335307585&srsltid=AfmBOoqNpLJGyiYul_MCPqfyMVZEkweEbWmbNHVMH_sbn9mv4qPKfcUeNJ0",
+        "title": "Wahoo Kickr Move Smart Trainer",
+        "rating": 4.9,
+        "reviews": 303,
+        "payment_methods": "PayPal, Google Pay, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "discount": "11% off",
+        "price": "$1,600.00",
+        "extracted_price": 1600.0,
+        "original_price": "$1,800.00",
+        "extracted_original_price": 1800.0,
+        "shipping": "Free",
+        "total": "$1,600.00",
+        "extracted_total": 1600.0
+      },
+      {
+        "name": "Trek Bicycle",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.trekbikes.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.trekbikes.com/us/en_US/equipment/bike-accessories/bike-trainers-rollers/wahoo-kickr-move-smart-trainer/p/5319263/?srsltid=AfmBOooGrXLNdFOTQjg6E_-PV_31lL-cpGI4hk6DXIPJj6Cu3bI63ZqPpJM",
+        "title": "Wahoo KICKR MOVE Smart Trainer",
+        "rating": 4.6,
+        "reviews": 340,
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Nov 3 – 8",
+          "30-day returns"
+        ],
+        "price": "$1,349.99",
+        "extracted_price": 1349.99,
+        "shipping": "Free",
+        "total": "$1,349.99",
+        "extracted_total": 1349.99
+      }
+    ],
+    "stores_next_page_token": "nhkHAnica15aklmSk7ojpCgxMy-1SCE8MSM_X8Hb09k7SME3vyx1SXF-USbL4ty8fC4AgIEQnQ",
+    "about_the_product": {
+      "title": "KICKR MOVE Smart Trainer",
+      "link": "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-move-buy",
+      "displayed_link": "wahoofitness.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wahoofitness.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+      "description": "The Wahoo Kick'r Move Smart Trainer delivers an entirely new dimension of ride feel to the KICKR family. With built-in, dual axis movement and KICKR's legendary flywheel technology, it allows your bike to travel freely when powering through indoor rides and workouts. The result is a more engaging, more comfortable, and more realistic riding experience. Enhanced ride feel is achieved with true fore and aft and side-to-side movement, while the AXIS cushioned feet respond to tempo and body shifts, mimicking the side-to-side movement of riding outdoors. The trainer accurately measures power with up to 2200 Watts of resistance and reports metrics such as speed, distance, power, and cadence. It also features an ERG mode that gets you back in action and a max grade simulation up to 20% incline. The trainer wirelessly connects to smartphones and computers to report metrics and set/adjust resistance, and it is compatible with various bike types, including QRx130, QRx135, 12x142, and 12x148, with adapters and spacers included. The trainer comes with an 11-speed 11-28T HG cassette.",
+      "features": [
+        {
+          "title": "Flywheel Weight",
+          "value": "7.25 kg (16 lb)"
+        },
+        {
+          "title": "Flywheel Inertia",
+          "value": "125 kg (simulated)"
+        },
+        {
+          "title": "Resistance Level",
+          "value": "Low-High"
+        },
+        {
+          "title": "Resistance Type",
+          "value": "Electromagnetic"
+        },
+        {
+          "title": "Adjustment Method",
+          "value": "App controlled, Electronic"
+        },
+        {
+          "title": "Resistance Unit",
+          "value": "Watts"
+        },
+        {
+          "title": "Power Source",
+          "value": "Plug-in"
+        },
+        {
+          "title": "Wattage",
+          "value": "2200 W"
+        },
+        {
+          "title": "Supported Apps",
+          "value": "Zwift, TrainerRoad, Tacx, Peloton"
+        },
+        {
+          "title": "ANT+ FE-C",
+          "value": "Yes"
+        },
+        {
+          "title": "Bluetooth",
+          "value": "Yes"
+        },
+        {
+          "title": "ANT+",
+          "value": "Yes"
+        },
+        {
+          "title": "Wi-Fi",
+          "value": "Yes"
+        },
+        {
+          "title": "Other Connectivity",
+          "value": "WiFi"
+        },
+        {
+          "title": "Power Measurement",
+          "value": "Yes"
+        },
+        {
+          "title": "Quiet Operation",
+          "value": "Very Quiet"
+        },
+        {
+          "title": "Gradient Simulation",
+          "value": "Yes"
+        },
+        {
+          "title": "Cadence Measurement",
+          "value": "Yes"
+        },
+        {
+          "title": "Interactive Training Programs",
+          "value": "Yes"
+        },
+        {
+          "title": "Realistic Road Feel",
+          "value": "Realistic"
+        },
+        {
+          "title": "Heart Rate Monitoring",
+          "value": "No"
+        },
+        {
+          "title": "Highlighted Features",
+          "value": "Automatic Resistance Adjustment, Power Meter, Quiet operation"
+        },
+        {
+          "title": "Smart Trainer Features",
+          "value": "Automatic resistance adjustment, Virtual courses"
+        },
+        {
+          "title": "Bike Type",
+          "value": "Road bike, Mountain bike, Hybrid bike, Gravel bike"
+        },
+        {
+          "title": "Rider Weight Capacity",
+          "value": "113 kg (250 lb)"
+        },
+        {
+          "title": "Fitness Level",
+          "value": "Beginner, Intermediate, Advanced"
+        },
+        {
+          "title": "Riding Style",
+          "value": "Road"
+        },
+        {
+          "title": "Skill Level",
+          "value": "Beginner, Intermediate, Advanced"
+        },
+        {
+          "title": "Training Goals",
+          "value": "Endurance, Interval Training, Speed"
+        },
+        {
+          "title": "Dimensions",
+          "value": "68 × 88 × 50 cm"
+        },
+        {
+          "title": "Weight",
+          "value": "29 kg (64 lb)"
+        },
+        {
+          "title": "Foldable",
+          "value": "No"
+        },
+        {
+          "title": "Frame Type",
+          "value": "Floor-standing"
+        },
+        {
+          "title": "Material",
+          "value": "Steel"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Resistance (Max Power, Unit)",
+        "items": [
+          {
+            "snippet": "As noted, Wahoo claims up to 2,200w of resistance at 40KPH.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dcrainmaker.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.dcrainmaker.com/2023/09/wahoo-trainer-review.html",
+            "source": "DC Rainmaker",
+            "title": "Wahoo KICKR Move Smart Trainer In-Depth Review"
+          },
+          {
+            "snippet": "Resistance feels slow to respond for very short, hard sprints in low gears",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://the5krunner.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://the5krunner.com/2024/06/01/wahoo-kickr-move-review/",
+            "source": "the5krunner",
+            "title": "Wahoo KICKR MOVE Review - 19 cons❌ and 9 pros✔️"
+          },
+          {
+            "snippet": "Ride experience of the resistance unit is excellent, but lateral motion lets down the overall package.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/wahoo-kickr-move-smart-trainer-305527",
+            "source": "Road.cc",
+            "title": "Review: Wahoo Kickr Move Smart Trainer | road.cc"
+          },
+          {
+            "snippet": "The heavier flywheel installed on Kickr and Kickr Move gives a great feel of inertia as you ride along, particularly in how",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://velo.outsideonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velo.outsideonline.com/road/road-gear/wahoo-kickr-move-trainer-first-ride-review/",
+            "source": "Outside Magazine",
+            "title": "Wahoo Kickr Move trainer first ride review: Rocking out"
+          },
+          {
+            "pros": [
+              "Excellent power accuracy and max power",
+              "Subtle and natural movement riding in the saddle"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/reviews/wahoo-kickr-move-review-comfort-boosting-potential-but-its-not-for-everyone",
+            "date": "1y",
+            "source": "Cycling Weekly",
+            "title": "Wahoo Kickr Move review - comfort boosting potential, but it's not for everyone"
+          },
+          {
+            "snippet": "way the resistance adjusts depending on terrain for a more realistic.",
+            "timestamp": "From 3:18",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRMh4WwwUxmWJBBxWCF9wnQv64hDchCvQ4bZGQWE3ksR5yN6laodCVSYHiE7f2MeKjw1JGjuETTDFsf_W8pvDA-rDYlvZIhX7Zwj1ZguQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=qrVrOkwCtZs&t=198",
+            "user": "The Radavist",
+            "date": "Dec 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "and has a maximum power output of 2,200 W unless you're Mark minutes or something you're not hitting those power.",
+            "timestamp": "From 1:26",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-Ihzu0_BAcfo9LKxWMrzvoQAcaOXv021ebHyT8PFn2wENEnpTpDU-4-E122Gs4U-XvTzFpmsGVeRl6ob_r4wlGWc7zh2NowQh29e8tsU",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=OR1NciOZB9k&t=86",
+            "user": "ZRace Central",
+            "date": "May 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "it's got plus or - 1% claimed accuracy.",
+            "timestamp": "From 0:41",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS52t4Ci2yUvpLX91ixLHbLJaFA8krOTuw_TM0H4Jif8Cts3ThArTfhYy0iudoCsudpWFzpzPmRoZDHxXtJ_zv7xSq6ZMxBo_yKIIsHkw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=tQ6R2sN9KPo&t=41",
+            "user": "DC Rainmaker",
+            "date": "Sep 2023",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Fast adaptation of power increase",
+              "Low latency"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gravgrav.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://gravgrav.cc/en/article/wahoo-kickr-move-bike-shift",
+            "date": "2y",
+            "source": "gravgrav",
+            "title": "Wahoo release KICKR MOVE and KICKR BIKE SHIFT"
+          },
+          {
+            "pros": [
+              "Excellent accuracy and road feel",
+              "Accurate and powerful",
+              "Easy to set up"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outdoorgearlab.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.outdoorgearlab.com/reviews/biking/bike-trainer/wahoo-fitness-kickr-move",
+            "date": "1y",
+            "source": "GearLab",
+            "title": "Wahoo Fitness Kickr Move Review | Tested & Rated"
+          },
+          {
+            "pros": [
+              "Perfectly balanced",
+              "Balance is very good"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.balfesbikes.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.balfesbikes.co.uk/blog/wahoo-kickr-move-review/",
+            "date": "2y",
+            "source": "Balfe's Bikes",
+            "title": "Wahoo KICKR MOVE Review – Balfes Bikes Blog"
+          },
+          {
+            "snippet": "This means that it leverages your body weight as mass to keep the movement 'realistic' for your body weight.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dcrainmaker.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.dcrainmaker.com/2023/09/wahoo-trainer-review.html",
+            "source": "DC Rainmaker",
+            "title": "Wahoo KICKR Move Smart Trainer In-Depth Review"
+          },
+          {
+            "snippet": "Can electronically control resistance (i.e. 200w)",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dcrainmaker.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.dcrainmaker.com/2023/09/wahoo-trainer-review.html",
+            "source": "DC Rainmaker",
+            "title": "Wahoo KICKR Move Smart Trainer In-Depth Review"
+          }
+        ]
+      },
+      {
+        "title": "Features (Power, Calibration)",
+        "items": [
+          {
+            "snippet": "The KICKR MOVE also features a lockout switch to disengage the movement, making it easier to mount bikes, move the trainer",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bikehub.co.za&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://bikehub.co.za/news/wahoo-announce-all-new-kickr-move-kickr-bike-shift/",
+            "source": "Bike Hub",
+            "title": "WAHOO announce all new KICKR Move & KICKR Bike Shift"
+          },
+          {
+            "snippet": "As our previous analysis of power readings from the Kickr v6, readings from the Move support Wahoo's claim of +/- 1% accuracy",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/reviews/wahoo-kickr-move-review-comfort-boosting-potential-but-its-not-for-everyone",
+            "source": "Cycling Weekly",
+            "title": "Wahoo Kickr Move review - comfort boosting potential, but it's not for everyone"
+          },
+          {
+            "snippet": "The trainer's auto calibration setting makes starting a ride far easier than the days of Computrainers and frequent trainer",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://velo.outsideonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velo.outsideonline.com/road/road-gear/wahoo-kickr-move-trainer-first-ride-review/",
+            "source": "Outside Magazine",
+            "title": "Wahoo Kickr Move trainer first ride review: Rocking out"
+          },
+          {
+            "snippet": "In ERG mode, the accuracy is solid, just like on the Kickr v6 (which makes sense, given it's the same unit but on a movement",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outdoorgearlab.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.outdoorgearlab.com/reviews/biking/bike-trainer/wahoo-fitness-kickr-move",
+            "source": "GearLab",
+            "title": "Wahoo Fitness Kickr Move Review | Tested & Rated"
+          },
+          {
+            "snippet": "another thing to talk about with power accuracy is the 10 herz um power transmission which basically makes your power update just a bit quicker.",
+            "timestamp": "From 6:18",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-Ihzu0_BAcfo9LKxWMrzvoQAcaOXv021ebHyT8PFn2wENEnpTpDU-4-E122Gs4U-XvTzFpmsGVeRl6ob_r4wlGWc7zh2NowQh29e8tsU",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=OR1NciOZB9k&t=378",
+            "user": "ZRace Central",
+            "date": "May 2024",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Race mode"
+            ],
+            "cons": [
+              "Can't simulate riding downhill (freewheeling)"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cyclistshub.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclistshub.com/wahoo-kickr-move-vs-tacx-neo-3m/",
+            "date": "10mo",
+            "source": "Cyclists Hub",
+            "title": "Wahoo KICKR Move vs. Tacx NEO 3M: Which One to Buy?"
+          },
+          {
+            "snippet": "Can electronically control resistance (i.e. 200w)",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dcrainmaker.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.dcrainmaker.com/2023/09/wahoo-trainer-review.html",
+            "source": "DC Rainmaker",
+            "title": "Wahoo KICKR Move Smart Trainer In-Depth Review"
+          },
+          {
+            "snippet": "Robust steel construction ensures the KICKR stays in place while you crank out the watts and stands up to years of heavy use",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/wahoo-kickr-move-smart-trainer-305527",
+            "source": "Road.cc",
+            "title": "Review: Wahoo Kickr Move Smart Trainer | road.cc"
+          }
+        ]
+      },
+      {
+        "title": "Connectivity (App, ANT, Power)",
+        "items": [
+          {
+            "snippet": "You'll likely see it listed as both a Bluetooth Smart trainer as well as a WiFi trainer, and then if you've got an ANT+",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dcrainmaker.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.dcrainmaker.com/2023/09/wahoo-trainer-review.html",
+            "source": "DC Rainmaker",
+            "title": "Wahoo KICKR Move Smart Trainer In-Depth Review"
+          },
+          {
+            "snippet": "Using the Kickr Move on Zwift is seamless, and we didn't experience any issues with connectivity or accuracy across",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outdoorgearlab.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.outdoorgearlab.com/reviews/biking/bike-trainer/wahoo-fitness-kickr-move",
+            "source": "GearLab",
+            "title": "Wahoo Fitness Kickr Move Review | Tested & Rated"
+          },
+          {
+            "snippet": "Connectivity: ANT+, ANT+ FE-C, WiFi, Bluetooth, Direct Connect",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/wahoo-kickr-move-review/",
+            "source": "Cyclingnews",
+            "title": "Wahoo Kickr Move review: Added realism, but also added instability"
+          },
+          {
+            "snippet": "(The MOVE, of course, supports ANT and Bluetooth connectivity as well as Wahoo's Direct Connect dongle.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zwiftinsider.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://zwiftinsider.com/wahoo-kickr-move/",
+            "source": "Zwift Insider",
+            "title": "Wahoo’s New KICKR MOVE Smart Trainer: Details and Full Review"
+          },
+          {
+            "pros": [
+              "Zwift integration",
+              "Includes 1-year Zwift membership"
+            ],
+            "cons": [
+              "Virtual shifting not compatible with other apps"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.smartbiketrainers.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.smartbiketrainers.com/best-smart-trainer-for-zwift-in-2023-24275",
+            "date": "1y",
+            "source": "SMART Bike Trainers",
+            "title": "Best Smart Trainer For Zwift In 2023"
+          },
+          {
+            "snippet": "allows you to connect your Wi-Fi network and apps like Zift.",
+            "timestamp": "From 1:14",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS52t4Ci2yUvpLX91ixLHbLJaFA8krOTuw_TM0H4Jif8Cts3ThArTfhYy0iudoCsudpWFzpzPmRoZDHxXtJ_zv7xSq6ZMxBo_yKIIsHkw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=tQ6R2sN9KPo&t=74",
+            "user": "DC Rainmaker",
+            "date": "Sep 2023",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "In-built WiFi and Direct Connect"
+            ],
+            "cons": [
+              "Can't operate without power"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cyclistshub.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclistshub.com/wahoo-kickr-move-vs-tacx-neo-3m/",
+            "date": "10mo",
+            "source": "Cyclists Hub",
+            "title": "Wahoo KICKR Move vs. Tacx NEO 3M: Which One to Buy?"
+          },
+          {
+            "snippet": "and has a maximum power output of 2,200 W unless you're Mark minutes or something you're not hitting those power.",
+            "timestamp": "From 1:26",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-Ihzu0_BAcfo9LKxWMrzvoQAcaOXv021ebHyT8PFn2wENEnpTpDU-4-E122Gs4U-XvTzFpmsGVeRl6ob_r4wlGWc7zh2NowQh29e8tsU",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=OR1NciOZB9k&t=86",
+            "user": "ZRace Central",
+            "date": "May 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "The Kickr Move had no serious issues with connectivity, though my Wi-Fi did drop out one time.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://velo.outsideonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velo.outsideonline.com/road/road-gear/wahoo-kickr-move-trainer-first-ride-review/",
+            "source": "Outside Magazine",
+            "title": "Wahoo Kickr Move trainer first ride review: Rocking out"
+          },
+          {
+            "snippet": "It connected up to my Google Nest mesh WiFi network just fine.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dcrainmaker.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.dcrainmaker.com/2023/09/wahoo-trainer-review.html",
+            "source": "DC Rainmaker",
+            "title": "Wahoo KICKR Move Smart Trainer In-Depth Review"
+          },
+          {
+            "pros": [
+              "In-built WiFi and Direct Connect"
+            ],
+            "cons": [
+              "Can't operate without power"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cyclistshub.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclistshub.com/wahoo-kickr-move-vs-tacx-neo-3m/",
+            "date": "10mo",
+            "source": "Cyclists Hub",
+            "title": "Wahoo KICKR Move vs. Tacx NEO 3M: Which One to Buy?"
+          }
+        ]
+      },
+      {
+        "title": "Noise",
+        "items": [
+          {
+            "snippet": "sounds get drowned out by the sound of your drivetrain, though, so we would still describe the MOVE as a very quiet trainer",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zwiftinsider.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://zwiftinsider.com/wahoo-kickr-move/",
+            "source": "Zwift Insider",
+            "title": "Wahoo’s New KICKR MOVE Smart Trainer: Details and Full Review"
+          },
+          {
+            "key_point": "Quiet",
+            "snippet": "So smooth, quiet and easy to set up. Vatious different modes and settings in the cx wahoo fitness app but I've also been using with Rouvy. Very impressed, puts",
+            "user": "Mark J.",
+            "date": "4y",
+            "source": "hargrovescycles.co.uk"
+          },
+          {
+            "snippet": "and really the only noise that you're hearing is from your drivetrain.",
+            "timestamp": "From 7:21",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-Ihzu0_BAcfo9LKxWMrzvoQAcaOXv021ebHyT8PFn2wENEnpTpDU-4-E122Gs4U-XvTzFpmsGVeRl6ob_r4wlGWc7zh2NowQh29e8tsU",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=OR1NciOZB9k&t=441",
+            "user": "ZRace Central",
+            "date": "May 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "The only noise you're going to hear from the unit is your bike's own drivetrain.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dcrainmaker.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.dcrainmaker.com/2023/09/wahoo-trainer-review.html",
+            "source": "DC Rainmaker",
+            "title": "Wahoo KICKR Move Smart Trainer In-Depth Review"
+          },
+          {
+            "snippet": "like the standard Kickr, the Move is nearly silent in use, with only the bike's drivetrain itself being the primary driver",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://velo.outsideonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velo.outsideonline.com/road/road-gear/wahoo-kickr-move-trainer-first-ride-review/",
+            "source": "Outside Magazine",
+            "title": "Wahoo Kickr Move trainer first ride review: Rocking out"
+          },
+          {
+            "snippet": "The only noise that can be heard from the MOVE when locked is from the drive and the bicycle's derailleur.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bikeboard.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://bikeboard.cc/eng/wahoo-kickr-move-review-th10699",
+            "source": "Bikeboard.cc",
+            "title": "Mountain Bike, Road Bike, e-Bike - News and Magazine"
+          },
+          {
+            "snippet": "We found the Kickr MOVE to be effectively silent in testing, with the only noticeable noise coming from our drivetrains.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outdoorgearlab.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.outdoorgearlab.com/reviews/biking/bike-trainer/wahoo-fitness-kickr-move",
+            "source": "GearLab",
+            "title": "Wahoo Fitness Kickr Move Review | Tested & Rated"
+          }
+        ]
+      },
+      {
+        "title": "Size (Weight, Legs, Footprint)",
+        "items": [
+          {
+            "snippet": "Then again, the Kickr Move is easier to store than a full sized rocker plate - plus the fore/aft movement is much greater",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/reviews/wahoo-kickr-move-review-comfort-boosting-potential-but-its-not-for-everyone",
+            "source": "Cycling Weekly",
+            "title": "Wahoo Kickr Move review - comfort boosting potential, but it's not for everyone"
+          },
+          {
+            "snippet": "It's about 17 pounds (7.7 kg) heavier at 64 pounds vs. 47 pounds (29 kg vs. 22 kg).",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://velo.outsideonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velo.outsideonline.com/road/road-gear/wahoo-kickr-move-trainer-first-ride-review/",
+            "source": "Outside Magazine",
+            "title": "Wahoo Kickr Move trainer first ride review: Rocking out"
+          },
+          {
+            "snippet": "Leg retention release pin can be hard to press",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://the5krunner.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://the5krunner.com/2024/06/01/wahoo-kickr-move-review/",
+            "source": "the5krunner",
+            "title": "Wahoo KICKR MOVE Review - 19 cons❌ and 9 pros✔️"
+          },
+          {
+            "pros": [
+              "Easy set-up"
+            ],
+            "cons": [
+              "No folding option for storage"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.smartbiketrainers.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.smartbiketrainers.com/best-smart-trainer-for-zwift-in-2023-24275",
+            "date": "1y",
+            "source": "SMART Bike Trainers",
+            "title": "Best Smart Trainer For Zwift In 2023"
+          },
+          {
+            "snippet": "I get around 4 in of lateral movement at the saddle i ride a size 56 frame with a pretty long seat post.",
+            "timestamp": "From 2:33",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcREOgTN47o859p_2o9QNzwSCQmF40h95hrVRzVa7cmLLSl3HRMULSDMblnbKTTziovCCle3t2HkoaLBxzGq3G5-an83gDDotZperH4hJQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=8QZbsNOaapQ&t=153",
+            "user": "Troy On Trails",
+            "date": "Jun 2024",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "really easy just to like slide out and pop it up cuz it is pretty heavy.",
+            "timestamp": "From 3:00",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSyewp0BqQyzWYh8NmhLYoCC3SsU3fj9ijTrRL3LQ4Mm8PlOMiqTqgd81SkO_nlOR_HxrM4LXNANlwsE-BCX9PuYK3bh04GhYMxwUXiTw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=oVQdJO1jqvg&t=180",
+            "user": "TTL [Multi]Sport",
+            "date": "Sep 2023",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Very solid and dependable",
+              "Increased comfort"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://granfondo-cycling.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://granfondo-cycling.com/wahoo-kickr-move-review/",
+            "date": "1y",
+            "source": "GRAN FONDO Cycling Magazine",
+            "title": "THE LAB – Wahoo KICKR MOVE smart trainer - You like to move it move it?"
+          },
+          {
+            "snippet": "but it requires an extra climb accessory basically a little they call it a boot to put on the bottom of the kicker climb.",
+            "timestamp": "From 5:58",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS52t4Ci2yUvpLX91ixLHbLJaFA8krOTuw_TM0H4Jif8Cts3ThArTfhYy0iudoCsudpWFzpzPmRoZDHxXtJ_zv7xSq6ZMxBo_yKIIsHkw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=tQ6R2sN9KPo&t=358",
+            "user": "DC Rainmaker",
+            "date": "Sep 2023",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "This means that it leverages your body weight as mass to keep the movement 'realistic' for your body weight.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dcrainmaker.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.dcrainmaker.com/2023/09/wahoo-trainer-review.html",
+            "source": "DC Rainmaker",
+            "title": "Wahoo KICKR Move Smart Trainer In-Depth Review"
+          },
+          {
+            "snippet": "Ride experience of the resistance unit is excellent, but lateral motion lets down the overall package.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/wahoo-kickr-move-smart-trainer-305527",
+            "source": "Road.cc",
+            "title": "Review: Wahoo Kickr Move Smart Trainer | road.cc"
+          },
+          {
+            "snippet": "Robust steel construction ensures the KICKR stays in place while you crank out the watts and stands up to years of heavy use",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/wahoo-kickr-move-smart-trainer-305527",
+            "source": "Road.cc",
+            "title": "Review: Wahoo Kickr Move Smart Trainer | road.cc"
+          }
+        ]
+      },
+      {
+        "title": "Durability",
+        "items": [
+          {
+            "snippet": "Robust steel construction ensures the KICKR stays in place while you crank out the watts and stands up to years of heavy use",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/wahoo-kickr-move-smart-trainer-305527",
+            "source": "Road.cc",
+            "title": "Review: Wahoo Kickr Move Smart Trainer | road.cc"
+          },
+          {
+            "snippet": "really easy just to like slide out and pop it up cuz it is pretty heavy.",
+            "timestamp": "From 3:00",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSyewp0BqQyzWYh8NmhLYoCC3SsU3fj9ijTrRL3LQ4Mm8PlOMiqTqgd81SkO_nlOR_HxrM4LXNANlwsE-BCX9PuYK3bh04GhYMxwUXiTw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=oVQdJO1jqvg&t=180",
+            "user": "TTL [Multi]Sport",
+            "date": "Sep 2023",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "It weighs in at a hefty 30 kg, which is due to the sturdy steel construction.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://granfondo-cycling.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://granfondo-cycling.com/wahoo-kickr-move-review/",
+            "source": "GRAN FONDO Cycling Magazine",
+            "title": "THE LAB – Wahoo KICKR MOVE smart trainer - You like to move it move it?"
+          },
+          {
+            "pros": [
+              "Very solid and dependable",
+              "Increased comfort"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://granfondo-cycling.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://granfondo-cycling.com/wahoo-kickr-move-review/",
+            "date": "1y",
+            "source": "GRAN FONDO Cycling Magazine",
+            "title": "THE LAB – Wahoo KICKR MOVE smart trainer - You like to move it move it?"
+          }
+        ]
+      },
+      {
+        "title": "Design",
+        "items": [
+          {
+            "snippet": "if the changes are humble, the new Kickr Move marks the first major change to the design of indoor bike training equipment in",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.independent.co.uk/tech/wahoo-kickr-move-new-price-details-explained-turbo-trainer-b2409894.html",
+            "source": "The Independent",
+            "title": "Wahoo has launched a new indoor cycling trainer after a ‘horrible’ period for bikes"
+          },
+          {
+            "snippet": "However, the lateral movement due to the design of the rail takes some getting used to, and remains even when you activate",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://granfondo-cycling.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://granfondo-cycling.com/wahoo-kickr-move-review/",
+            "source": "GRAN FONDO Cycling Magazine",
+            "title": "THE LAB – Wahoo KICKR MOVE smart trainer - You like to move it move it?"
+          },
+          {
+            "snippet": "above the flywheel which helps with portability, but there is no getting around the extra weight of the movement hardware",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://velo.outsideonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velo.outsideonline.com/road/road-gear/wahoo-kickr-move-trainer-first-ride-review/",
+            "source": "Outside Magazine",
+            "title": "Wahoo Kickr Move trainer first ride review: Rocking out"
+          },
+          {
+            "snippet": "This design allows the trainer to move forward and backward when the rider changes the output, adjusts the seating position",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bikeboard.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://bikeboard.cc/eng/wahoo-kickr-move-review-th10699",
+            "source": "Bikeboard.cc",
+            "title": "Mountain Bike, Road Bike, e-Bike - News and Magazine"
+          },
+          {
+            "snippet": "but the KICKR MOVE retains the KICKR AXIS feet design, which means you get a little bit of tilting left/right via these feet",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dcrainmaker.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.dcrainmaker.com/2023/09/wahoo-trainer-review.html",
+            "source": "DC Rainmaker",
+            "title": "Wahoo KICKR Move Smart Trainer In-Depth Review"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "snippet": "The Wahoo KICKR Move is a high-quality trainer based around the excellent KICKR V6 but adding in two axes of movement via a",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/wahoo-kickr-move-smart-trainer-305527",
+            "source": "road.cc",
+            "title": "Review: Wahoo Kickr Move Smart Trainer"
+          },
+          {
+            "cons": [
+              "Lack of a Wahoo steering option",
+              "Lack of an assisted motor for realistic descents"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://the5krunner.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://the5krunner.com/2024/06/01/wahoo-kickr-move-review/",
+            "date": "1y",
+            "source": "the5krunner",
+            "title": "Wahoo KICKR MOVE Review - 19 cons❌ and 9 pros✔️"
+          },
+          {
+            "snippet": "And on the noise level front the Kicker has been a benchmark for quiet operations for years and the Kicker Move doesn't stray from that legacy.",
+            "timestamp": "From 5:47",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4D0Mpnj5PoHg3CBCc19IWK-8y9EurgTKmkixx_xdShTErSs2upkvm-SWKEAdMxKilfRRg2qjrkOlIqb5qhWADznUBrTkVGUja9vtHPQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=_KhakPWyt1M&t=347",
+            "user": "SMART Bike Trainers",
+            "date": "Sep 2023",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Realistic",
+            "snippet": "More realistic sensation of pedaling. More stable on the ground. Feels much heavier than my prior version which makes it more stable. Nice underside pads for",
+            "user": "Richard S.",
+            "date": "1y",
+            "source": "wahoofitness.com"
+          },
+          {
+            "snippet": "It received high scores in almost each major cateogry of our test.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outdoorgearlab.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.outdoorgearlab.com/reviews/biking/bike-trainer/wahoo-fitness-kickr-move",
+            "source": "GearLab",
+            "title": "Wahoo Fitness Kickr Move Review | Tested & Rated"
+          },
+          {
+            "pros": [
+              "More affordable"
+            ],
+            "cons": [
+              "Can't simulate various road surfaces"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cyclistshub.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclistshub.com/wahoo-kickr-move-vs-tacx-neo-3m/",
+            "date": "10mo",
+            "source": "Cyclists Hub",
+            "title": "Wahoo KICKR Move vs. Tacx NEO 3M: Which One to Buy?"
+          },
+          {
+            "snippet": "The KICKR MOVE gives athletes the comfort, motivation and enjoyment to get the most out of their indoor rides and workouts.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bikehub.co.za&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://bikehub.co.za/news/wahoo-announce-all-new-kickr-move-kickr-bike-shift/",
+            "source": "Bike Hub",
+            "title": "WAHOO announce all new KICKR Move & KICKR Bike Shift"
+          },
+          {
+            "snippet": "The MOVE performed like a champ across a range of flywheel speeds, wattages, and cadences.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zwiftinsider.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://zwiftinsider.com/wahoo-kickr-move/",
+            "source": "Zwift Insider",
+            "title": "Wahoo’s New KICKR MOVE Smart Trainer: Details and Full Review"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 12
+      },
+      {
+        "stars": 2,
+        "amount": 5
+      },
+      {
+        "stars": 3,
+        "amount": 8
+      },
+      {
+        "stars": 4,
+        "amount": 21
+      },
+      {
+        "stars": 5,
+        "amount": 134
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMkKJOUlORuvhojoZWzGt2p6OTetNmTbtUtA_ayYqjY23PR76WcI2OdERDFQ_6VGlEdgz3ZEOdlyJg5przJd7dVI3V3eKr",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTN2SLSrPXSvNZ1KjyBvofSyvVQwz3UDzr8zQJ4q2tsG-0lt1OxBg5DpN2rzNCL5g3tbRKX-5Niq88xWxhU3BGV8p-VzKZ9CA",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRHDmQtLAI06g9fqpDBoBdOtRl9n8Xe6rFI-eFh9A51M3XcSw5h0ecbaIQ0uBERtysetvzwRs4nxUT7o23dBOl6JJz7eiGD",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQbrbVFgoMIK1SvJ5-vAyT03CrPVhwYxYijSYwhq5cq3o9ukuJeJUBGUFA2uYXh262Wo1whg_Q0057cFVXV1r2GUdL_Vk86nw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8j_VXEXGQ-hsmLO3hzgIAJ_7pZ8dYH0bqaWk2TjiaoAUOOMdUW_fOe06uB7vI8lhMWfUKV8mDiTFtMZHuj3Edf11tXpU0",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRa9X_NlxnFO7rcygRbZ53STNIg7c-EQhtZoz8ldaVtYDUGSHD48dJ8DTArRPctYjjiVJkNKwd2moIJBPZYGDyKnJIqctxg",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSBN3E4tozv4TGpgmk80EEuGq8vc0HAwhS987AD4YJwGPVS5YG3Tnc2oavSz9ggTGp79bQGo2D5fVTz766v-U4mOMH3Ng-nAA",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRvh6t2NY1svxynGas4-629elhYzu4UkpGEg2Z_8kRB4W-MlEGj5JFJTZeQd1gaqJwZS0-8dtifh--P8-wlxihA-Dyu7g09A",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-fsedvUKjCxkkBUaK-eoX1S_PnDhrRZBGEe2QbwwvvEfHJtk"
+    ],
+    "user_reviews": [
+      {
+        "title": "Certified recon. Kickr Move.",
+        "text": "My Kickr move arrived a couple of weeks ago. I'd done quite a lot of research before deciding on the Kickr Move and after watching numerous videos and reviews of various indoor trainers decided to invest in the Wahoo Kickr. The delivery was quick and easily tracked. Unboxing was simple as was the setup with videos provided on the Wahoo app. I soon had a third party app downloaded, I decidided to go with Rouvy which is very compatible with my Wahoo equipment. I have since added a Wahoo Tickr and a Kickr Climb, my Headwind fan is next on the list. I honestly can't believe just how fantastic the Wahoo Kickr equipment and the indoor cycle training experience actually is. At 67 years old it was getting a bit intimidating out on the roads of Manchester UK, but now I'm getting every bit as good a workout without the car fumes and close passes. I am encouraging my three sons to invest in a Wahoo Kickr so we can all meet up on cycling adventures in the safety of our own homes! PS it would be amazing if Wahoo could add road surface sensation to the riding experience.",
+        "user_name": "Kevin S.",
+        "source": "wahoofitness.com",
+        "rating": 4,
+        "date": "11 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2vie61O_N4dkTD7Tu0TtNiXVHaehZSuv46GIqGf_KiyBLMy_4_gkVAosNdgZwqfnKgkQ=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "On the fence with this...",
+        "text": "Bought this has my 4 year old directo x would no longer read resistance, what a faff getting the bike on for a start, it was leaning to one side, weight of flywheel! Had to wind one of the leg out to compensate, wahoo fairly easy to put together, plugged in paired to bkool ok! The resistance his good and very passive, the data suppose to be %1+- accuracy? Now the floating cradle.. I locked it out but there's still a lot of side to side movement. You're nearly failing off the bike. If you suddenly lunge, the cradle makes a clanking noise. The trainer his smooth and fairly quiet, theres no calibration, has they say it's not required. It updated easy once I joined wahoo. I think for the money they need to sort the side to side play out, there trying to mimic a rocker board, which I have tried and did not like. Needs some sort of plastic buffer strips on in sides.",
+        "user_name": "Paul",
+        "source": "sigmasports.com",
+        "rating": 4,
+        "date": "11 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2metJ2y2LxkD5Vcbjg9i8eSJLspbRsat-Jgqy0Ae4KDt5_dCNHeq9uQPJEej87YZLmSg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMkKJOUlORuvhojoZWzGt2p6OTetNmTbtUtA_ayYqjY23PR76WcI2OdERDFQ_6VGlEdgz3ZEOdlyJg5przJd7dVI3V3eKr",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTN2SLSrPXSvNZ1KjyBvofSyvVQwz3UDzr8zQJ4q2tsG-0lt1OxBg5DpN2rzNCL5g3tbRKX-5Niq88xWxhU3BGV8p-VzKZ9CA",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRHDmQtLAI06g9fqpDBoBdOtRl9n8Xe6rFI-eFh9A51M3XcSw5h0ecbaIQ0uBERtysetvzwRs4nxUT7o23dBOl6JJz7eiGD"
+        ]
+      },
+      {
+        "title": "On the fence with this...",
+        "text": "Bought this has my 4 year old directo x would no longer read resistance, what a faff getting the bike on for a start, it was leaning to one side, weight of flywheel! Had to wind one of the leg out to compensate, wahoo fairly easy to put together, plugged in paired to bkool ok! The resistance his good and very passive, the data suppose to be %1+- accuracy? Now the floating cradle.. I locked it out but there's still a lot of side to side movement. You're nearly failing off the bike. If you suddenly lunge, the cradle makes a clanking noise. The trainer his smooth and fairly quiet, theres no calibration, has they say it's not required. It updated easy once I joined wahoo. I think for the money they need to sort the side to side play out, there trying to mimic a rocker board, which I have tried and did not like. Needs some sort of plastic buffer strips on in sides.",
+        "user_name": "Paul",
+        "source": "sigmasports.com",
+        "rating": 4,
+        "date": "11 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2metJ2y2LxkD5Vcbjg9i8eSJLspbRsat-Jgqy0Ae4KDt5_dCNHeq9uQPJEej87YZLmSg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMkKJOUlORuvhojoZWzGt2p6OTetNmTbtUtA_ayYqjY23PR76WcI2OdERDFQ_6VGlEdgz3ZEOdlyJg5przJd7dVI3V3eKr",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTN2SLSrPXSvNZ1KjyBvofSyvVQwz3UDzr8zQJ4q2tsG-0lt1OxBg5DpN2rzNCL5g3tbRKX-5Niq88xWxhU3BGV8p-VzKZ9CA",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRHDmQtLAI06g9fqpDBoBdOtRl9n8Xe6rFI-eFh9A51M3XcSw5h0ecbaIQ0uBERtysetvzwRs4nxUT7o23dBOl6JJz7eiGD"
+        ]
+      },
+      {
+        "title": "Can’t be levelled.",
+        "text": "Unfortunately, I had to return this unit. I’ve been battling with alignment issue for a few months however I believe the product is defective. It is significantly leaning to the left especially when the bike is installed. Making it uncomfortable to ride.\nAnd that after proper alignment per instructions levelling the base .",
+        "user_name": "AlexB",
+        "source": "REI",
+        "rating": 2,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1ZyijTXEawNQtS-HJ-BnApXNY9AaHbf79xkdaiKmtfyqFnZtHaPhPrz0cEczOKIAVZrg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQbrbVFgoMIK1SvJ5-vAyT03CrPVhwYxYijSYwhq5cq3o9ukuJeJUBGUFA2uYXh262Wo1whg_Q0057cFVXV1r2GUdL_Vk86nw",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8j_VXEXGQ-hsmLO3hzgIAJ_7pZ8dYH0bqaWk2TjiaoAUOOMdUW_fOe06uB7vI8lhMWfUKV8mDiTFtMZHuj3Edf11tXpU0",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRa9X_NlxnFO7rcygRbZ53STNIg7c-EQhtZoz8ldaVtYDUGSHD48dJ8DTArRPctYjjiVJkNKwd2moIJBPZYGDyKnJIqctxg"
+        ]
+      },
+      {
+        "text": "I'm a SRAM user so i need to change from quick release to thru axle but lock nut was over tightened from the manufacturer. So, I can't remove it out. Seller connected me the wahoo sales in Thailand, Then I need to ship to them to investigate first. Finally, they remove it for me and I need to paid 800.- for new locknut(the first one that can't remove). So, I took up to 14 days(Working days) from purchase date to make it useable.\nAfter that I saw the warranty condition not support on this case.\n\nHowever things to concerns\n- Warranty not the same as Global\n- If you not stays in BKK or Greater BKK how long does it take to send back to Thailand warehouse.\n- With product prices like this I hope they will improve their service.",
+        "source": "shopee.co.th",
+        "rating": 3,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1_rWasqmDl_TpIQJGnFzYFRkK8efWGz6Jl75Gnvbug3DBN7tfnpgy1O9ENnv57kDtJ3Q=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSBN3E4tozv4TGpgmk80EEuGq8vc0HAwhS987AD4YJwGPVS5YG3Tnc2oavSz9ggTGp79bQGo2D5fVTz766v-U4mOMH3Ng-nAA"
+        ]
+      },
+      {
+        "title": "don't buy this from REI",
+        "text": "This is a review of REI, not the product itself. It took 2 weeks for REI to ship this product to my store, and I received an apparently returned or open-box item that was poorly-packaged. It was broken out of the box as a result, so I had to ship the item back to the manufacturer and wait another week for a replacement (kudos to Wahoo support).",
+        "user_name": "dfgd3",
+        "source": "REI",
+        "rating": 1,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1TdTyfZSxUevURzM3SoBLc1Yq36AGAYt_1WhRjuxc5xYIrmTr-p8DeBrJQ2Qvt4awUEw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRvh6t2NY1svxynGas4-629elhYzu4UkpGEg2Z_8kRB4W-MlEGj5JFJTZeQd1gaqJwZS0-8dtifh--P8-wlxihA-Dyu7g09A"
+        ]
+      },
+      {
+        "title": "Just perfect.",
+        "text": "Excellent product. I've been using Tacx NEO 2T as my primary trainer for 3 years. The Kickr Move is going to temporarily replace it for the next 12 months. Compared to Tacx N2T this trainer provides way more movement. There is plenty fore-aft movemnt but also more side to side swing than on N2T. I have not seen any significant loss of power while sprinting with unlocked movement. The WiFi connection is fantastic - zero dropouts and very fast and reliable pairing. So far I'm impressed.",
+        "source": "99bikes.co.nz/",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1JTx6BDSjjDln1IDR8TUJ7jBJ8yEeW9T_8ZayhGmvyGUJ3yBN6cCDyfyuLsMNsX2ke=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-fsedvUKjCxkkBUaK-eoX1S_PnDhrRZBGEe2QbwwvvEfHJtk"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Wahoo Kickr Move and Zwift Review",
+        "link": "https://www.youtube.com/watch?v=qrVrOkwCtZs",
+        "source": "YouTube",
+        "channel": "The Radavist",
+        "duration": "6:53",
+        "thumbnail": "https://i.ytimg.com/vi/qrVrOkwCtZs/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kqLMs0BP7HOBZBzVKOnmlw8fGVGw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcThaxr9-xKJ4sOEzFa-v7wJintU7rIItl5Nxg"
+      },
+      {
+        "title": "I Tested the Wahoo Kickr Move and It CHANGED My Ride!",
+        "link": "https://www.youtube.com/watch?v=8QZbsNOaapQ",
+        "source": "YouTube",
+        "channel": "Troy On Trails",
+        "duration": "7:40",
+        "thumbnail": "https://i.ytimg.com/vi/8QZbsNOaapQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3l3V5779_F-d2kmBMKscihlyDA78A"
+      },
+      {
+        "title": "Wahoo KICKR MOVE In-Depth Review: What’s Actually Different?",
+        "link": "https://www.youtube.com/watch?v=tQ6R2sN9KPo",
+        "source": "YouTube",
+        "channel": "DC Rainmaker",
+        "duration": "11:20",
+        "thumbnail": "https://i.ytimg.com/vi/tQ6R2sN9KPo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kcfzBbWuxSdSvcgOj28-cjAMy7Qw"
+      },
+      {
+        "title": "Wahoo KICKR MOVE + KICKR CLIMB // The Ultimate Pain Cave ...",
+        "link": "https://www.youtube.com/watch?v=TmvLrQzYec4",
+        "source": "YouTube",
+        "channel": "DesFit",
+        "duration": "6:00",
+        "thumbnail": "https://i.ytimg.com/vi/TmvLrQzYec4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nqsZVyP3f6Dz_UL9UhgW6wOuCvsQ"
+      },
+      {
+        "title": "Wahoo KICKR MOVE Review [2024] // Gamechanger?",
+        "link": "https://www.youtube.com/watch?v=OR1NciOZB9k",
+        "source": "YouTube",
+        "channel": "ZRace Central",
+        "duration": "13:56",
+        "thumbnail": "https://i.ytimg.com/vi/OR1NciOZB9k/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kNzZoWW28eKjz_ScdULXIIwd_bdQ"
+      },
+      {
+        "title": "Wahoo KICKR MOVE In-Depth Review // More Movement = Better ...",
+        "link": "https://www.youtube.com/watch?v=PumUcs3fmHw",
+        "source": "YouTube",
+        "channel": "DesFit",
+        "duration": "11:54",
+        "thumbnail": "https://i.ytimg.com/vi/PumUcs3fmHw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kGGr1lrmNOEKkl870H9amDx7n-Zw"
+      },
+      {
+        "title": "Wahoo KICKR Move vs Tacx NEO 3M: Best Smart Trainer King?",
+        "link": "https://www.youtube.com/watch?v=yk_0XHmjBQQ",
+        "source": "YouTube",
+        "channel": "DC Rainmaker",
+        "duration": "18:09",
+        "thumbnail": "https://i.ytimg.com/vi/yk_0XHmjBQQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3ncH3bGeLBv_OWfPxygkPU1JTDe9w"
+      },
+      {
+        "title": "Wahoo KICKR MOVE - Real You Can Feel",
+        "link": "https://www.youtube.com/watch?v=nQTFVBKAjBE",
+        "source": "YouTube",
+        "channel": "Wahoo Fitness",
+        "duration": "0:31",
+        "thumbnail": "https://i.ytimg.com/vi/nQTFVBKAjBE/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mxNxZnb0UZH8piiu4Nz1D6lYtG2A",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTvbee902E21wIgl0hd_qWx7bGjVRHFKZ9QhA"
+      },
+      {
+        "title": "Average Cyclist Attempts 500 KM on the Wahoo Kickr Move",
+        "link": "https://www.youtube.com/watch?v=mCfMyGJzdzs",
+        "source": "YouTube",
+        "channel": "Dan Escapes",
+        "duration": "24:39",
+        "thumbnail": "https://i.ytimg.com/vi/mCfMyGJzdzs/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mILxbEKcJ00G4ieT30gamDa09P7g",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRgIP0qZlmTQE8P9FhTCjgxpGT61IRnyR6ROg"
+      },
+      {
+        "title": "Wahoo Kickr CLIMB Adapter Review // Kickr MOVE with Gradient ...",
+        "link": "https://www.youtube.com/watch?v=gQG7QZAuddc",
+        "source": "YouTube",
+        "channel": "Shane Miller - GPLama",
+        "duration": "8:30",
+        "thumbnail": "https://i.ytimg.com/vi/gQG7QZAuddc/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kb2sIXXCJJvqZH2dmLrazideYzJw"
+      },
+      {
+        "title": "Wahoo KICKR Firmware Updates: V6 | MOVE | CORE | BIKE V2 ...",
+        "link": "https://www.youtube.com/watch?v=SVYNeciS544",
+        "source": "YouTube",
+        "channel": "Shane Miller - GPLama",
+        "duration": "10:00",
+        "thumbnail": "https://i.ytimg.com/vi/SVYNeciS544/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nVR7I-D9KbKa55DDsVbjPaMkedqA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTrgmiC8gAUefKgmdS7LN80zWbLHdWrsxADlA"
+      },
+      {
+        "title": "Wahoo KICKR MOVE",
+        "link": "https://www.youtube.com/watch?v=CpSQm-wCTHk",
+        "source": "YouTube",
+        "channel": "CyclingClaude - Onlinemagazin, Blog und Podcast",
+        "duration": "11:45",
+        "thumbnail": "https://i.ytimg.com/vi/CpSQm-wCTHk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nIYJYg1iO82M-8_4hTamWneUXftg"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Inside Ride E-Flex Plus vs Wahoo KICKR MOVE? : r/cycling",
+        "link": "https://www.reddit.com/r/cycling/comments/1913uct/inside_ride_eflex_plus_vs_wahoo_kickr_move/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a year ago",
+        "comments": 3,
+        "items": [
+          {
+            "snippet": "E-Flex Plus is practical, but full movement on KICKR MOVE — worth it!",
+            "link": "https://www.reddit.com/r/cycling/comments/1913uct/comment/kpyhqdk/",
+            "top_answer": true,
+            "votes": 3
+          },
+          {
+            "snippet": "You do need both the front and rear. I was researching it recently and someone me mentioned that in a review. Might have been DC rainmaker. I ultimately decided not to get it cause I don't like how unstable it looks. Don't really feel like crashing on a zwift ride 😂",
+            "link": "https://www.reddit.com/r/cycling/comments/1913uct/comment/kgttaeq/",
+            "votes": 1
+          },
+          {
+            "snippet": "Overall, I like the fore/aft and side to side motions.",
+            "link": "https://www.reddit.com/r/cycling/comments/1913uct/inside_ride_eflex_plus_vs_wahoo_kickr_move/#:~:text=Overall%2C%20I%20like%20the%20fore/aft%20and%20side%20to%20side%20motions."
+          },
+          {
+            "snippet": "I really like it and keep wanting to get the upgraded 'plus' front unit.",
+            "link": "https://www.reddit.com/r/cycling/comments/1913uct/inside_ride_eflex_plus_vs_wahoo_kickr_move/#:~:text=I%20really%20like%20it%20and%20keep%20wanting%20to%20get%20the%20upgraded%20'plus'%20front%20unit."
+          },
+          {
+            "snippet": "It is possible to tip the whole unit over while riding.",
+            "link": "https://www.reddit.com/r/cycling/comments/1913uct/inside_ride_eflex_plus_vs_wahoo_kickr_move/#:~:text=It%20is%20possible%20to%20tip%20the%20whole%20unit%20over%20while%20riding."
+          }
+        ]
+      },
+      {
+        "title": "Disappointed by Wahoo Kickr Move. How was your experience? : r/wahoofitness",
+        "link": "https://www.reddit.com/r/wahoofitness/comments/1m96ls7/disappointed_by_wahoo_kickr_move_how_was_your/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "3 months ago",
+        "comments": 7,
+        "items": [
+          {
+            "snippet": "I just find it odd that no reviewers mentioned this. That very topic takes up 6% of my YouTube review of the Move.",
+            "link": "https://www.reddit.com/r/wahoofitness/comments/1m96ls7/comment/n55ub49/",
+            "top_answer": true,
+            "votes": 5
+          },
+          {
+            "snippet": "The side to side play is desirable for most. I don’t mind it. I don’t really notice a tilt to mine once I’m pedaling. You’re rarely truly straight up and down on the road, anyway",
+            "link": "https://www.reddit.com/r/wahoofitness/comments/1m96ls7/comment/n54pu8o/",
+            "votes": 1
+          },
+          {
+            "snippet": "I like riding on my Move, but it is a poorly designed device.",
+            "link": "https://www.reddit.com/r/wahoofitness/comments/1m96ls7/disappointed_by_wahoo_kickr_move_how_was_your/#:~:text=I%20like%20riding%20on%20my%20Move%2C%20but%20it%20is%20a%20poorly%20designed%20device."
+          },
+          {
+            "snippet": "And because of it + the weight of the flywheel, everything is tilting left no matter how I adjust the foot heights.",
+            "link": "https://www.reddit.com/r/wahoofitness/comments/1m96ls7/disappointed_by_wahoo_kickr_move_how_was_your/#:~:text=And%20because%20of%20it%20+%20the%20weight,matter%20how%20I%20adjust%20the%20foot%20heights."
+          },
+          {
+            "snippet": "In general, I think all these Wahoo trainers are wildly overpriced and not that high quality.",
+            "link": "https://www.reddit.com/r/wahoofitness/comments/1m96ls7/disappointed_by_wahoo_kickr_move_how_was_your/#:~:text=In%20general%2C%20I%20think%20all%20these%20Wahoo,wildly%20overpriced%20and%20not%20that%20high%20quality."
+          }
+        ]
+      },
+      {
+        "title": "New Wahoo Kickr Move trainer (2023) - Page 6 - Equipment",
+        "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757?page=6",
+        "source": "TrainerRoad",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trainerroad.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago",
+        "items": [
+          {
+            "snippet": "By far the best upgrade however is the WiFi connection and race mode.",
+            "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757?page=6#:~:text=By%20far%20the%20best%20upgrade%20however%20is%20the%20WiFi%20connection%20and%20race%20mode."
+          },
+          {
+            "snippet": "So if fore-aft movement is great for comfort on indoor rides, and the new Kickr Move features this but the new Kickr Bike Shift doesn't (as far as I can tell) i",
+            "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757?page=6#:~:text=So%20if%20fore%2Daft%20movement%20is%20great%20for,(as%20far%20as%20I%20can%20tell)%20i"
+          },
+          {
+            "snippet": "For hard, self paced intervals, and sprints/ racing etc. I'd definitely lock out the front to back movement, as it makes it a little more difficult to get the p",
+            "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757?page=6#:~:text=For%20hard%2C%20self%20paced%20intervals%2C%20and%20sprints/,little%20more%20difficult%20to%20get%20the%20p"
+          }
+        ]
+      },
+      {
+        "title": "New Wahoo Kickr Move trainer (2023) - Page 2 - Equipment",
+        "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757?page=2",
+        "source": "TrainerRoad",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trainerroad.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago",
+        "items": [
+          {
+            "snippet": "With the introduction of fore-aft motion, the KICKR MOVE bike trainer allows your bike to move naturally for a more comfortable and realistic riding experience ",
+            "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757?page=2#:~:text=With%20the%20introduction%20of%20fore%2Daft%20motion%2C%20the,a%20more%20comfortable%20and%20realistic%20riding%20experience"
+          },
+          {
+            "snippet": "NEW - Fore-aft motion responds to changes in riding tempo",
+            "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757?page=2#:~:text=NEW%20%2D%20Fore%2Daft%20motion%20responds%20to%20changes%20in%20riding%20tempo"
+          },
+          {
+            "snippet": "MOVE adds additional side-to-side adjustable via AXIS feet",
+            "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757?page=2#:~:text=MOVE%20adds%20additional%20side%2Dto%2Dside%20adjustable%20via%20AXIS%20feet"
+          }
+        ]
+      },
+      {
+        "title": "My experience upgrading kickr core to kickr move : r/wahoofitness",
+        "link": "https://www.reddit.com/r/wahoofitness/comments/1grxywm/my_experience_upgrading_kickr_core_to_kickr_move/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "11 months ago",
+        "items": [
+          {
+            "snippet": "To my surprise the kickr move was defective, with a loud engine-like sound while pedaling (see attached video).",
+            "link": "https://www.reddit.com/r/wahoofitness/comments/1grxywm/my_experience_upgrading_kickr_core_to_kickr_move/#:~:text=To%20my%20surprise%20the%20kickr%20move%20was,engine%2Dlike%20sound%20while%20pedaling%20(see%20attached%20video)."
+          },
+          {
+            "snippet": "This unit is just bad designed, the weight is not balanced, the guide for the unit to slide has a mark in the middle clicking every time it slides over.",
+            "link": "https://www.reddit.com/r/wahoofitness/comments/1grxywm/my_experience_upgrading_kickr_core_to_kickr_move/#:~:text=This%20unit%20is%20just%20bad%20designed%2C%20the,middle%20clicking%20every%20time%20it%20slides%20over."
+          },
+          {
+            "snippet": "Also, the side to side movement has once more another clack sound, so when you work on high cadence intervals then the rocking sounds and you feel it on your sa",
+            "link": "https://www.reddit.com/r/wahoofitness/comments/1grxywm/my_experience_upgrading_kickr_core_to_kickr_move/#:~:text=Also%2C%20the%20side%20to%20side%20movement%20has,and%20you%20feel%20it%20on%20your%20sa"
+          }
+        ]
+      },
+      {
+        "title": "Wahoo Kicker connected via Bluetooth, but no Power and No Movement of rider",
+        "link": "https://forums.zwift.com/t/wahoo-kicker-connected-via-bluetooth-but-no-power-and-no-movement-of-rider/601059?page=4",
+        "source": "Zwift",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://forums.zwift.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago",
+        "items": [
+          {
+            "snippet": "I have the same issue, innitially the Kicker starts but after few spins, it lost connection, no power, no speed, rider on screen stay put",
+            "link": "https://forums.zwift.com/t/wahoo-kicker-connected-via-bluetooth-but-no-power-and-no-movement-of-rider/601059?page=4#:~:text=I%20have%20the%20same%20issue%2C%20innitially%20the,no%20speed%2C%20rider%20on%20screen%20stay%20put"
+          },
+          {
+            "snippet": "Wahoo kicker connected via bluetooth, but no power and no movement of rider - page 4 - bugs and Support - zwift forums",
+            "link": "https://forums.zwift.com/t/wahoo-kicker-connected-via-bluetooth-but-no-power-and-no-movement-of-rider/601059?page=4#:~:text=Wahoo%20kicker%20connected%20via%20bluetooth%2C%20but%20no,%2D%20bugs%20and%20Support%20%2D%20zwift%20forums"
+          },
+          {
+            "snippet": "Bought Wahoo through Zwift sale with 1 year sub, out of the box it wasn't working, it's crazy",
+            "link": "https://forums.zwift.com/t/wahoo-kicker-connected-via-bluetooth-but-no-power-and-no-movement-of-rider/601059?page=4#:~:text=Bought%20Wahoo%20through%20Zwift%20sale%20with%201,the%20box%20it%20wasn't%20working%2C%20it's%20crazy"
+          }
+        ]
+      },
+      {
+        "title": "Talk Me Out of a Kickr Move?",
+        "link": "https://www.trainerroad.com/forum/t/talk-me-out-of-a-kickr-move/103408",
+        "source": "TrainerRoad",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trainerroad.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "5 months ago",
+        "items": [
+          {
+            "snippet": "It's added a lot of comfort to my setup.",
+            "link": "https://www.trainerroad.com/forum/t/talk-me-out-of-a-kickr-move/103408#:~:text=It's%20added%20a%20lot%20of%20comfort%20to%20my%20setup."
+          },
+          {
+            "snippet": "I've since put nearly 9K miles on the unit, which has worked flawlessly.",
+            "link": "https://www.trainerroad.com/forum/t/talk-me-out-of-a-kickr-move/103408#:~:text=I've%20since%20put%20nearly%209K%20miles%20on%20the%20unit%2C%20which%20has%20worked%20flawlessly."
+          },
+          {
+            "snippet": "Touch points match closely to my road and gravel bikes.",
+            "link": "https://www.trainerroad.com/forum/t/talk-me-out-of-a-kickr-move/103408#:~:text=Touch%20points%20match%20closely%20to%20my%20road%20and%20gravel%20bikes."
+          }
+        ]
+      },
+      {
+        "title": "Kickr Move gone to a dark place - Equipment - Wahoo X Forum",
+        "link": "https://wahoox.forum.wahoofitness.com/t/kickr-move-gone-to-a-dark-place/27513",
+        "source": "Wahoo Fitness",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://wahoox.forum.wahoofitness.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "9 months ago",
+        "comments": 1,
+        "items": [
+          {
+            "snippet": "Yesterday the exchange unit arrived. It does look like it’s a refurbed one. As long as it’s working, I don’t mind. On the other hand, having purchased a brand new one that died after just two weeks, getting a replacement that is not as new doesn’t feel entirely right. Especially when noticing that t…",
+            "link": "https://wahoox.forum.wahoofitness.com/t/kickr-move-gone-to-a-dark-place/27513/26",
+            "top_answer": true,
+            "votes": 3
+          },
+          {
+            "snippet": "And in just under 2 weeks the device stops working.",
+            "link": "https://wahoox.forum.wahoofitness.com/t/kickr-move-gone-to-a-dark-place/27513#:~:text=And%20in%20just%20under%202%20weeks%20the%20device%20stops%20working."
+          },
+          {
+            "snippet": "You certainly could have received a dud unit, but that would be VERY odd for it to just go completely dead this quickly.",
+            "link": "https://wahoox.forum.wahoofitness.com/t/kickr-move-gone-to-a-dark-place/27513#:~:text=You%20certainly%20could%20have%20received%20a%20dud,to%20just%20go%20completely%20dead%20this%20quickly."
+          }
+        ]
+      },
+      {
+        "title": "New Wahoo Kickr Move trainer (2023) - Equipment",
+        "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757",
+        "source": "TrainerRoad",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trainerroad.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago",
+        "items": [
+          {
+            "snippet": "The KICKR MOVE indoor bike trainer adds fore-aft motion for a more comfortable and more realistic riding experience than ever before.",
+            "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757#:~:text=The%20KICKR%20MOVE%20indoor%20bike%20trainer%20adds,more%20realistic%20riding%20experience%20than%20ever%20before."
+          },
+          {
+            "snippet": "Helps with fatigue a bit but people have reported loosing power when you jump into an interval and i can kind'f feel it a bit, but minor.",
+            "link": "https://www.trainerroad.com/forum/t/new-wahoo-kickr-move-trainer-2023/86757#:~:text=Helps%20with%20fatigue%20a%20bit%20but%20people,kind'f%20feel%20it%20a%20bit%2C%20but%20minor."
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Wahoo KICKR Smart Trainer",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQj9fIYxe1ET_v_Rmeie3Jq1vw7H7WHQyI2WNrdfCt6uy7-bi8TSUHLAEJ9asrRciYyr17mIr83lTXWl1pEf9AQdzvXMBYubLg8rezwA28Jfk5XvZLDTnlY",
+        "price": "$999.99",
+        "extracted_price": 999.99,
+        "reviews": 2000,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkZHWUZhZlB5SGZ1XzBQRVA1YXZTcVFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjU1NTE5ODQxNjkzNjk3NTU0MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0NTE5MTMxOTY5NjQ0NzU1NjIyIiwiaW1hZ2VEb2NpZCI6IjMwNDA3ODI5OTkyMzI2MDg4MzEiLCJyZHMiOiJQQ18xNTI1MzY0MDMxOTI4MzI1MDAxNHxQUk9EX1BDXzE1MjUzNjQwMzE5MjgzMjUwMDE0IiwicXVlcnkiOiJXYWhvbytLSUNLUitNT1ZFK1Bvd2VyK1RyYWluZXIiLCJncGNpZCI6IjE1MjUzNjQwMzE5MjgzMjUwMDE0IiwibWlkIjoiNTc2NDYyNzI4MjU1NzkyMDMxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Wahoo KICKR CORE 2 Trainer",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRU_bOQApejFq_9N8JdpmFy4IREFs5cjxhgynEYu1lhfF1M0bbsTKsU6vhFyxt7NPQTARMtEAhwYame5ueu0D6C45d022tWi2QC_XbeB4I",
+        "price": "$549.99",
+        "extracted_price": 549.99,
+        "reviews": 235,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkZHWUZhZlB5SGZ1XzBQRVA1YXZTcVFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc4NzQ2OTQxMzEzNjg4NjAyMzUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1MjI2MjI0NjQ0MjE4MTQwNjMwIiwiaW1hZ2VEb2NpZCI6IjEzMDEzMzgwOTI0NDE5NzMzMjIwIiwicmRzIjoiUENfMTY2MTM3OTU5NDkyMzYzOTk2OTd8UFJPRF9QQ18xNjYxMzc5NTk0OTIzNjM5OTY5NyIsInF1ZXJ5IjoiV2Fob28rS0lDS1IrTU9WRStQb3dlcitUcmFpbmVyIiwiZ3BjaWQiOiIxMDc3OTE3NTk5NTM5OTk3NzI4NSIsIm1pZCI6IjU3NjQ2Mjg2Njc3MTc0MDk2OSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Wahoo KICKR V6 Smart Trainer",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ0qItOrd4NBZ1yvjRpakYIMPll4BYWOMUZNcK5j9RaRd0eWmv4tNPyWurzr9eNUxXDSR_sTPdhcCpuFEnEjGa7_aHn8kQXVFuSKJuDEeEJphrwZG205osG",
+        "price": "$1,050.00",
+        "extracted_price": 1050.0,
+        "reviews": 505,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkZHWUZhZlB5SGZ1XzBQRVA1YXZTcVFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM0MTYzMzgxOTc0MjkwNDExMTUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5ODE1MTU0MzU3ODQ3NDYwMjgiLCJpbWFnZURvY2lkIjoiMzE2NTUzMDI4MjU5OTExNjQ0MyIsInJkcyI6IlBDXzk1MDkxMzA0NDIwOTQ4NTk2MjN8UFJPRF9QQ185NTA5MTMwNDQyMDk0ODU5NjIzIiwicXVlcnkiOiJXYWhvbytLSUNLUitNT1ZFK1Bvd2VyK1RyYWluZXIiLCJncGNpZCI6Ijk1MDkxMzA0NDIwOTQ4NTk2MjMiLCJtaWQiOiI1NzY0NjI0NjEyODc5NTM1ODciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Wahoo KICKR Power Trainer",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTm5mG-_1eg4lCuadPVrnWUFGO0AIjBDCnyHmSyiiKjWMt_ENDalzs3XJsm92F44mgIhopr7hVmi04_ywsmipp1EMCfxljKHX_3VOtkah7njH5cvX4gfllC",
+        "price": "$3,899.99",
+        "extracted_price": 3899.99,
+        "reviews": 4,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkZHWUZhZlB5SGZ1XzBQRVA1YXZTcVFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc5MTgwNzUzMjI2NTE5Mzg4MDkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NzI4NDMyMDYzMTA4NzUxNCIsImltYWdlRG9jaWQiOiIxNTYwMzUxMTc2OTQyMDc5MzY4MCIsInJkcyI6IlBDXzE0MzczNzg1NTM1MTgxNTU3MzUzfFBST0RfUENfMTQzNzM3ODU1MzUxODE1NTczNTMiLCJxdWVyeSI6IldhaG9vK0tJQ0tSK01PVkUrUG93ZXIrVHJhaW5lciIsImdwY2lkIjoiMTQzNzM3ODU1MzUxODE1NTczNTMiLCJtaWQiOiI1NzY0NjI4NDU4ODU2MTIzOTQiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Wahoo Fitness KICKR Power Trainer",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQHTRBAfGMFYeUwZN0sILV59bfbIgLsDPVZPrblDu9Nb9ovDTQdFDJi-VxnWX_5xdFV6CGWRllst9TeJQhl3kwCt4eHRfonOg",
+        "price": "$1,300.00",
+        "extracted_price": 1300.0,
+        "reviews": 369,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkZHWUZhZlB5SGZ1XzBQRVA1YXZTcVFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzg3OTEyMDM1MTMyMTAyMjc2IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgyODA3Njk1MjM3NzMxMzg5NTkiLCJpbWFnZURvY2lkIjoiNTMwNTIxNDM0Mjg5MTAyMjg1IiwicmRzIjoiUENfMTI1MjMyNzQzOTAxNDYwNzE4MzR8UFJPRF9QQ18xMjUyMzI3NDM5MDE0NjA3MTgzNCIsInF1ZXJ5IjoiV2Fob28rS0lDS1IrTU9WRStQb3dlcitUcmFpbmVyIiwiZ3BjaWQiOiIxMDQ2NjgwMjc5ODk4MjIyMzAzNyIsIm1pZCI6IjU3NjQ2Mjc1ODk3NTQzODM1NCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Wahoo KICKR CORE Smart Trainer",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-8dhEIcQcfgKu4TgCHNOKG9J8wLRooHBmubmQaNZwB7v0YVPDnRBzffDtc4jBHvLEXecaNWTmppySwRzhRz1_4p28d6kpUpuNguZcnli7KfP0woF3xkCauw",
+        "price": "$499.00",
+        "extracted_price": 499.0,
+        "original_price": "$535",
+        "extracted_original_price": 535,
+        "reviews": 2000,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkZHWUZhZlB5SGZ1XzBQRVA1YXZTcVFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk5ODk3NzQwMDk5OTAzODYxMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNjM3NDMzNTkwNjU4OTAwNjUwIiwiaW1hZ2VEb2NpZCI6IjE0OTE5NzI4MTM5MjM3ODQ1NDg1IiwicmRzIjoiUENfMzM1MzAxNzE0ODgzOTI4ODA0M3xQUk9EX1BDXzMzNTMwMTcxNDg4MzkyODgwNDMiLCJxdWVyeSI6IldhaG9vK0tJQ0tSK01PVkUrUG93ZXIrVHJhaW5lciIsImdwY2lkIjoiMzM1MzAxNzE0ODgzOTI4ODA0MyIsIm1pZCI6IjU3NjQ2Mjg0ODE3NzMyODQ1OSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      }
+    ]
+  }
+}

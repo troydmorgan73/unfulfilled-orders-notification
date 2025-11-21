@@ -1,0 +1,259 @@
+{
+  "search_metadata": {
+    "id": "69056e89a3882dd9bfb84ed2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ef057d3aa47e85ec/69056e89a3882dd9bfb84ed2.json",
+    "created_at": "2025-11-01 02:20:57 UTC",
+    "processed_at": "2025-11-01 02:20:57 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=72UFaZrxOKTPkPIP9aKagQk&q=Zipp+858+NSW+Tubeless+Disc+Rear+Wheel&gl=us&hl=en&cs=1&async=catalogid:7966482773647126855,gpcid:6736051596973781113,headlineOfferDocid:8763811427505047639,imageDocid:11365018986880193788,isp:true,query:Zipp%20858%20NSW%20Tubeless%20Disc%20Rear%20Wheel,mid:576462867528718829,pvt:hg,_fmt:jspb",
+    "raw_html_file": "https://serpapi.com/searches/ef057d3aa47e85ec/69056e89a3882dd9bfb84ed2.html",
+    "prettify_html_file": "https://serpapi.com/searches/ef057d3aa47e85ec/69056e89a3882dd9bfb84ed2.prettify",
+    "total_time_taken": 1.52
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk2NjQ4Mjc3MzY0NzEyNjg1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg3NjM4MTE0Mjc1MDUwNDc2MzkiLCJpbWFnZURvY2lkIjoiMTEzNjUwMTg5ODY4ODAxOTM3ODgiLCJyZHMiOiIiLCJxdWVyeSI6IlppcHArODU4K05TVytUdWJlbGVzcytEaXNjK1JlYXIrV2hlZWwiLCJncGNpZCI6IjY3MzYwNTE1OTY5NzM3ODExMTMiLCJtaWQiOiI1NzY0NjI4Njc1Mjg3MTg4MjkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0="
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRFsImA79iEW471w_1mTrgS3NeYndndRHJxXjcmljf6V_yGSC4XCtGel3mt9P256HkMmRrwfvb66eXG4bFjK5fd4k73oDglpPL8wBpRPyrp",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSydXF2pLH8Yusujziqd3C1YkHNWMnq9auyZvy6dNEqb0YrGUsnoCSLEz1NMearhR-Nr6RYUyJKA4ut0K7DnatU1G1Q0jnCom72FYabhbiY",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQV5qXm4BFZ2NoJVwXRMeEzm3OJMY5WUbo61yhxJR46WJTl9moLTHNb74J-t0Rjog9-w1MdSrzMNCsoDz2PxY70r9HIFk1U",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSK6hci4XvpHHeji2SukUYgxOTUGNzse8xmAh2XmsjMJUji3stTxmEfDhjP_qyrpkfWu9gLLUkrWH2Nm1PEvfHLeNTKbQMe",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLsLFwKgsbUdppgiCj0EoScwVEd6KIsOoC8NtPh7w6pAjHbmPmSyTz3nj0HfgqrQWMC2HRUzIWYVG3ASxkZjtMnV1U8zBPpw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQCwMf_qQa6bnE9BRM1lLouIIl90kyrcpXxnpcbogia3bCzC0MBrZMBBpYw1v9_hIhAxEg_WHchximuadCti_QbleDHDubwaw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT6puUigVYGQwjitWSjse8PJfeTt0LGsZ23CAGhaPFly5EnghXldofNqmWR2NulNBzQYNgn46LdlxIhY3hO4AQ5mUfE5tbzsVErRAaXKbt_v6adz53EwmwlSw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQl8nqJ4eJaOs5FhMyIb28ueJbVj2KZY2XXOOWF566_RQE70KqHpfmKhlGV81doMNwnaXc2gKy92iiCSjEPB_In5uJlsxvp7L9uRAWJL0Bxin357QmPzqVmQA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTdyJKPp7lDzjv__g2k-NokhbYey7zqaXOaRuvNtrVTWZ8tu0DZQDdj1Je6AAoZdHHDlJzuigEk_o7s66yOosoqEmSHoVFZ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTwq6CtblIJVIgwxROr3lVGgM8mC-Sp3qNeAxtzKWgIR1JAV9U74cnp4yQ_C4p9M8_RJpgDy6EpmqcEGE-KLNFxzZtusiiNiEM4TndxqQ9VXcsZllQhewUe",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSg-Qxd-p5Jyi4ZWiTOqe6JUwRs_HyxdjWt0fui5jz4uCF05B7--t8sMyQV4ttXrLU7JweDR31uc8PtaAtLDqPhsYOK-_tpS9Oter1FKPjN"
+    ],
+    "title": "Zipp 858 NSW Tubeless Disc C1 Wheel",
+    "brand": "Zipp",
+    "price_range": "$1,971-$2,300",
+    "stores": [
+      {
+        "name": "Backcountry.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.backcountry.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.backcountry.com/b/zipp-858-nsw-carbon-disc-brake-wheel-tubeless?CMP_SKU=ZIPZ06I&MER=0406&skid=ZIPZ06I-BLAREA-XDR12X&srsltid=AfmBOoq_RZZ8lLvUjvZVhfCB0FkEejSWU1ZDD_T0xcnmp8s1Dnv3g8hOkUw",
+        "title": "Zipp 858 NSW Carbon Disc Brake Wheel - Tubeless Black, Rear, XDR, 12x142mm",
+        "rating": 4.8,
+        "reviews": 15316,
+        "payment_methods": "PayPal, Sezzle accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Nov 5 – 14",
+          "Free 30-day returns"
+        ],
+        "discount": "17% off",
+        "price": "$1,971.06",
+        "extracted_price": 1971.06,
+        "original_price": "$2,400.00",
+        "extracted_original_price": 2400.0,
+        "shipping": "Free",
+        "total": "$1,971.06",
+        "extracted_total": 1971.06
+      },
+      {
+        "name": "Competitive Cyclist",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.competitivecyclist.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.competitivecyclist.com/b/zipp-858-nsw-carbon-disc-brake-wheel-tubeless?skid=ZIPZ06I-BLAREA-XDR12X&CMP_SKU=ZIPZ06I",
+        "title": "Zipp 858 NSW Carbon Disc Brake Wheel - Tubeless Black, Rear, XDR, 12x142mm",
+        "rating": 4.9,
+        "reviews": 4493,
+        "payment_methods": "PayPal, Sezzle accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $29",
+          "Free 30-day returns"
+        ],
+        "discount": "17% off",
+        "price": "$1,971.06",
+        "extracted_price": 1971.06,
+        "original_price": "$2,400.00",
+        "extracted_original_price": 2400.0,
+        "shipping": "+ $29.00",
+        "shipping_extracted": 29.0,
+        "total": "$2,000.06",
+        "extracted_total": 2000.06
+      },
+      {
+        "name": "R&A Cycles",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://racycles.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://racycles.com/products/zipp-858-nsw-tubeless-disc-rear-wheel-1?variant=44418977824812&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqlm8fHQAwOAhwfXdPviYFJSqtQz77TS2HFFHHuXFTm5pBNszghp-k",
+        "title": "Zipp 858 NSW Tubeless Disc Rear Wheel XDR Driver",
+        "rating": 5.0,
+        "reviews": 45,
+        "payment_methods": "PayPal, Google Pay, Shop Pay & more accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between Nov 11 – 12 $25",
+          "30-day returns"
+        ],
+        "price": "$2,300.00",
+        "extracted_price": 2300.0,
+        "shipping": "+ $25.00",
+        "shipping_extracted": 25.0,
+        "total": "$2,325.00",
+        "extracted_total": 2325.0
+      },
+      {
+        "name": "The Pro's Closet",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theproscloset.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.theproscloset.com/products/8257813971136-zipp-858-nsw-carbon-tubeless-700c-rear-wheel-d1?variant=46452231962816&srsltid=AfmBOorhVR_IzLTGlAWCTQwCOLR7sxzWkXwLe2CeYjwnYNl9a4Ef7kjodNM",
+        "title": "Zipp 858 NSW Carbon Tubeless 700c Rear Wheel - D1",
+        "rating": 4.7,
+        "reviews": 530,
+        "payment_methods": "PayPal, Google Pay, Shop Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between Nov 5 – 10 $25",
+          "30-day returns"
+        ],
+        "price": "$2,300.00",
+        "extracted_price": 2300.0,
+        "shipping": "+ $25.00",
+        "shipping_extracted": 25.0,
+        "total": "$2,325.00",
+        "extracted_total": 2325.0
+      },
+      {
+        "name": "Archer's Bikes",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.archersbikes.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.archersbikes.com/product/zipp-zipp-858-nsw-tubeless-disc-c1-700c-wheel-rear-416328-1.htm?variations=3968848,3968849,3968850,3968852&srsltid=AfmBOooOaNV-DWtafLfYvmijIsRMb4PwyMVfXQ6RauZybLYeVOkfhk0tPHs",
+        "title": "Zipp Zipp 858 NSW Tubeless Disc C1 700c Wheel Rear",
+        "rating": 4.8,
+        "reviews": 525,
+        "payment_methods": "PayPal, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between Nov 1 – 10 $72",
+          "Not eligible for returns"
+        ],
+        "price": "$2,500.00",
+        "extracted_price": 2500.0,
+        "shipping": "+ $72.00",
+        "shipping_extracted": 72.0,
+        "total": "$2,572.00",
+        "extracted_total": 2572.0
+      }
+    ],
+    "stores_next_page_token": "FQwOf3ica15aklmSk3pTOSqzoEDBwtRCwS84XCGkNCk1J7W4WMElszhZwdlQITwjNTVnSXF-USbr4ty8fC4AOWIT1w",
+    "about_the_product": {
+      "description": "Zipp's ultimate aero weapon is faster than ever before thanks to our Total System Efficiency technology. The 858 NSW Carbon Tubeless disc brake wheelset with TSE features a tubeless and hookless rim profile for a seamless tyre transition and massive weight reduction. The 858 gives you the benefits of our tall rims at a weight normally achieved with 20 mm lower rims. The wheel's inner width of 23 mm is ideal for running wider tyres at lower pressures to reduce rolling resistance. Thus, TSE technology helps you overcome the four obstacles that stand in the way of speed: Air resistance, gravity, rolling resistance and vibratory losses. The 858 NSW features Zipp Carbon Internal Reinforcement (CiR), making the rim 10% lighter and just as strong as previous models. The result is pure speed for triathlon, time trial and aggressive road cycling. And although this wheelset is optimised for tubeless tyres, you still have the option of running tubelesscompatible tyres with tubes. The 858 NSW is fastest with a 28 mm tyre. In triathlon, wider tubeless tyres with lower pressure are faster and provide a smoother ride, so your body is fresher for the run. Disc brakes also offer more reliable speed control and stopping power in all weather conditions. At the heart of the 858 NSW is the Cognition V2 hub set, designed with the Axial Clutch V2 mechanism for faster engagement, reduced friction and improved durability.",
+      "features": [
+        {
+          "title": "Brand",
+          "value": "Zipp"
+        },
+        {
+          "title": "Position",
+          "value": "Rear Wheel"
+        },
+        {
+          "title": "Type",
+          "value": "Road"
+        },
+        {
+          "title": "Size",
+          "value": "700"
+        },
+        {
+          "title": "Disc Brake Compatible",
+          "value": "Yes"
+        },
+        {
+          "title": "Style",
+          "value": "Tubeless"
+        },
+        {
+          "title": "Carbon Fiber",
+          "value": "Yes"
+        }
+      ]
+    },
+    "more_options": [
+      {
+        "title": "Zipp Speed Weaponry Zipp 858 NSW Tubeless Disc-Brake Wheelset",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRcttueqWJKCZ3bLu6OzPHALEJFcAGWP2VAbLBXZ6SQWG1BWKnCqnGaq7NFREHbb7TyAkH0rKOi3zJKkXpGvrb3t8c9bK2oPGcVnQeokLTfhm_tOx1as3EA-w",
+        "price": "$4,200.00",
+        "extracted_price": 4200.0,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk2NjQ4Mjc3MzY0NzEyNjg1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExNTI2NzI5NTE2Mzk4MTEwMjQ0IiwiaW1hZ2VEb2NpZCI6IjEyMzcwNjk2OTgzOTcwMDAzOTQ1IiwicmRzIjoiUENfODU0NDA3MzEyOTEzNTQ3NDcyMXxQUk9EX1BDXzg1NDQwNzMxMjkxMzU0NzQ3MjEiLCJxdWVyeSI6IlppcHArODU4K05TVytUdWJlbGVzcytEaXNjK1JlYXIrV2hlZWwiLCJncGNpZCI6IjY3MzYwNTE1OTY5NzM3ODExMTMiLCJtaWQiOiI1NzY0NjI4Njc1Mjg3MTg4MjkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Zipp 858 NSW Tubeless Disc Brake",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSTY3zlQESAkw5YxPQKlcpC7U3m1tvpN4uIvI_-IOyljwgJBY3F5TzXRKmG5-iGmpk7Dm2Jy91as7g7vL6J3am2EVfVSgbkHoTUxd1FBW0Xn_VBzryzHA7I",
+        "price": "$2,300.00",
+        "extracted_price": 2300.0,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk2NjQ4Mjc3MzY0NzEyNjg1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc5Njc3MjU5NDA5NDI0NzkwMSIsImltYWdlRG9jaWQiOiIzNjk0NjAxNzI5MzMyODkzNDYzIiwicmRzIjoiUENfODU0NDA3MzEyOTEzNTQ3NDcyMXxQUk9EX1BDXzg1NDQwNzMxMjkxMzU0NzQ3MjEiLCJxdWVyeSI6IlppcHArODU4K05TVytUdWJlbGVzcytEaXNjK1JlYXIrV2hlZWwiLCJncGNpZCI6IjY3MzYwNTE1OTY5NzM3ODExMTMiLCJtaWQiOiI1NzY0NjI4Njc1Mjg3MTg4MjkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Zipp 858 NSW",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQMt1eGeRxN4uyUQe8In7j6Os4_2KiRMYa1rZCthKCizlYphNFj2AiYqVYb_ygONTDX-lZC5s0uSuhy9azKU_hSe3lIh6Hz1fOwBuLcNkgKmn7lOFI727-2SQ",
+        "price": "$1,688.00",
+        "extracted_price": 1688.0,
+        "original_price": "$2,110",
+        "extracted_original_price": 2110,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyMDExMjU3NDg5MTkxMzk2MjEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzQ4MzIyNTQ3MDU4NDA5Njg2NCIsImltYWdlRG9jaWQiOiIxMjcwMjIyNjIzOTk4ODg0MTU3MiIsInJkcyI6IlBDXzg1NDQwNzMxMjkxMzU0NzQ3MjF8UFJPRF9QQ184NTQ0MDczMTI5MTM1NDc0NzIxIiwicXVlcnkiOiJaaXBwKzg1OCtOU1crVHViZWxlc3MrRGlzYytSZWFyK1doZWVsIiwiZ3BjaWQiOiI4NTQ0MDczMTI5MTM1NDc0NzIxIiwibWlkIjoiNTc2NDYyODY3NTI4NzE4ODI5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Zipp 858 NSW Carbon Disc-Brake Rear Wheel",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpcrBjVcHWeAJJ9b4G3HRZ1rVK6H2taxe_q8q1gK2IZhgBJbiDSva7bbLry6QTsrPMKD9uwaSe7NfaUsCih1GxThehGsMUByknRcwqZsy7HjmBneS6cntq",
+        "price": "$1,500.00",
+        "extracted_price": 1500.0,
+        "original_price": "$2,400",
+        "extracted_original_price": 2400,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTA2MTEzOTkxMzU0MDY1MTY3MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3NDU5NzMxOTQzNzcxNDY2NDU3IiwiaW1hZ2VEb2NpZCI6IjU1MTg0MTYwMzU5ODc0MTQyNjAiLCJyZHMiOiIiLCJxdWVyeSI6IlppcHArODU4K05TVytUdWJlbGVzcytEaXNjK1JlYXIrV2hlZWwiLCJncGNpZCI6IjE2MDEyNTUwMzQyMDY1NDkwNDcwIiwibWlkIjoiNTc2NDYyODQ3NTc2Mjc3MzEwIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Zipp 858 NSW Disc Brake Tubeless Wheelset",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ7tVaV3Kaiv-94k-cLNP3PSfl24w5anyt4rJng_Hf9x2X-7Oi2FtkdpJCx6Aid8evny7gQ-TiqeUwZChjpOcHISrkflxmRYUwk8O925HGXzFMQ_HQKBrEOxw",
+        "price": "$4,600.00",
+        "extracted_price": 4600.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk2NjQ4Mjc3MzY0NzEyNjg1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3NTc3NDY1NjI0NDA1Mzc2NDMyIiwiaW1hZ2VEb2NpZCI6IjY1MTE5MDcwOTA0NzI5MDk1ODYiLCJyZHMiOiIiLCJxdWVyeSI6IlppcHArODU4K05TVytUdWJlbGVzcytEaXNjK1JlYXIrV2hlZWwiLCJncGNpZCI6IjY3MzYwNTE1OTY5NzM3ODExMTMiLCJtaWQiOiI1NzY0NjI4Njc1Mjg3MTg4MjkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Zipp 353 NSW Tubeless Disc Rear Wheel",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkKQmBXPcn2WrFktAGdYL4bbPnYT_7RIHVfn3Sk6xaUVACfz1FgrOkSC2qYY12Kqj3oC63343qV8NRqgzQKraeK1xTkn1n_J3F1MzxFxs",
+        "price": "$2,350.00",
+        "extracted_price": 2350.0,
+        "reviews": 1,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTgwNTE2MDUyODQ2MjYzNTkyIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTYwNjEyMzY5NTgwNDU4NzE5ODIiLCJpbWFnZURvY2lkIjoiNzE4MTIyOTQzNjc4NDE0NTM5NyIsInJkcyI6IlBDXzEyNTg4NTI1NzAzMDkwNDkzMjB8UFJPRF9QQ18xMjU4ODUyNTcwMzA5MDQ5MzIwIiwicXVlcnkiOiJaaXBwKzg1OCtOU1crVHViZWxlc3MrRGlzYytSZWFyK1doZWVsIiwiZ3BjaWQiOiIxNjYxNzE1NjYyMzMyNjI3ODAwNCIsIm1pZCI6IjU3NjQ2Mjg2NzUyODcxODgyOSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Size",
+        "items": [
+          {
+            "name": "Any Size",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk2NjQ4Mjc3MzY0NzEyNjg1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg3NjM4MTE0Mjc1MDUwNDc2MzkiLCJpbWFnZURvY2lkIjoiMTEzNjUwMTg5ODY4ODAxOTM3ODgiLCJyZHMiOnsiMzkiOjB9LCJxdWVyeSI6IlppcHArODU4K05TVytUdWJlbGVzcytEaXNjK1JlYXIrV2hlZWwiLCJncGNpZCI6IjY3MzYwNTE1OTY5NzM3ODExMTMiLCJtaWQiOiI1NzY0NjI4Njc1Mjg3MTg4MjkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiIn0%3D"
+          },
+          {
+            "name": "12x100 mm",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk2NjQ4Mjc3MzY0NzEyNjg1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg3NjM4MTE0Mjc1MDUwNDc2MzkiLCJpbWFnZURvY2lkIjoiMTEzNjUwMTg5ODY4ODAxOTM3ODgiLCJyZHMiOnsiMzkiOjB9LCJxdWVyeSI6IlppcHArODU4K05TVytUdWJlbGVzcytEaXNjK1JlYXIrV2hlZWwiLCJncGNpZCI6IjY3MzYwNTE1OTY5NzM3ODExMTMiLCJtaWQiOiI1NzY0NjI4Njc1Mjg3MTg4MjkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWs5SDVBUkNjNXJ2a0F3In0%3D"
+          },
+          {
+            "name": "Hg11",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk2NjQ4Mjc3MzY0NzEyNjg1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg3NjM4MTE0Mjc1MDUwNDc2MzkiLCJpbWFnZURvY2lkIjoiMTEzNjUwMTg5ODY4ODAxOTM3ODgiLCJyZHMiOnsiMzkiOjB9LCJxdWVyeSI6IlppcHArODU4K05TVytUdWJlbGVzcytEaXNjK1JlYXIrV2hlZWwiLCJncGNpZCI6IjY3MzYwNTE1OTY5NzM3ODExMTMiLCJtaWQiOiI1NzY0NjI4Njc1Mjg3MTg4MjkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWs5SDVBUkRZN2Jfa0F3In0%3D"
+          },
+          {
+            "name": "Xdr",
+            "selected": true,
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjcyVUZhWnJ4T0tUUGtQSVA5YUthZ1FrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzk2NjQ4Mjc3MzY0NzEyNjg1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg3NjM4MTE0Mjc1MDUwNDc2MzkiLCJpbWFnZURvY2lkIjoiMTEzNjUwMTg5ODY4ODAxOTM3ODgiLCJyZHMiOnsiMzkiOjB9LCJxdWVyeSI6IlppcHArODU4K05TVytUdWJlbGVzcytEaXNjK1JlYXIrV2hlZWwiLCJncGNpZCI6IjY3MzYwNTE1OTY5NzM3ODExMTMiLCJtaWQiOiI1NzY0NjI4Njc1Mjg3MTg4MjkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiIn0%3D"
+          }
+        ]
+      }
+    ]
+  }
+}

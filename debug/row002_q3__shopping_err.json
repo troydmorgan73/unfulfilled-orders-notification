@@ -1,0 +1,4 @@
+{
+  "error": "SERPAPI_KEY env var is required",
+  "trace": "Traceback (most recent call last):\n  File \"/Users/troymorgan/Shopify-Projects/Unfulfilled Orders Notification/shopping_immersive_match.py\", line 395, in main\n    sh = serpapi_shopping_search(q)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/troymorgan/Shopify-Projects/Unfulfilled Orders Notification/shopping_immersive_match.py\", line 149, in serpapi_shopping_search\n    return _get({\n           ^^^^^^\n  File \"/Users/troymorgan/Shopify-Projects/Unfulfilled Orders Notification/shopping_immersive_match.py\", line 84, in _get\n    raise RuntimeError(\"SERPAPI_KEY env var is required\")\nRuntimeError: SERPAPI_KEY env var is required\n"
+}

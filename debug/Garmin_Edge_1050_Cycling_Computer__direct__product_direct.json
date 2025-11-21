@@ -1,0 +1,3 @@
+{
+  "error": "Google Product API is not supported at the moment. Google has discontinued the endpoint we are using to fetch the data. We are trying to recover it. You can use SerpApi's Google Immersive Product API as an alternative."
+}

@@ -1,0 +1,709 @@
+{
+  "search_metadata": {
+    "id": "69057093d1a72bef2409fb50",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ee44ba7d813d2ba6/69057093d1a72bef2409fb50.json",
+    "created_at": "2025-11-01 02:29:39 UTC",
+    "processed_at": "2025-11-01 02:29:39 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=knAFabCSHti6qtsPvLjDgAY&q=Continental+Grand+Prix+TR+Tubeless+Tire&gl=us&hl=en&cs=1&async=catalogid:11274542761853517546,gpcid:3420458398162931632,headlineOfferDocid:1166517285338829042,rds:PC_3420458398162931632|PROD_PC_3420458398162931632,imageDocid:12422916462841574512,isp:true,query:Continental%20Grand%20Prix%20TR%20Tubeless%20Tire,mid:576462817211754446,pvt:hg,_fmt:jspb",
+    "raw_html_file": "https://serpapi.com/searches/ee44ba7d813d2ba6/69057093d1a72bef2409fb50.html",
+    "prettify_html_file": "https://serpapi.com/searches/ee44ba7d813d2ba6/69057093d1a72bef2409fb50.prettify",
+    "total_time_taken": 1.23
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY2NTE3Mjg1MzM4ODI5MDQyIiwiaW1hZ2VEb2NpZCI6IjEyNDIyOTE2NDYyODQxNTc0NTEyIiwicmRzIjoiUENfMzQyMDQ1ODM5ODE2MjkzMTYzMnxQUk9EX1BDXzM0MjA0NTgzOTgxNjI5MzE2MzIiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ=="
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSv06aKKUBat4eZABvWG293xQRicTgX3pgGdfuI83OGoozdARa-NoHnWQyVLf_zQtENyuehHt09LjwI5sz9XUcnQ-SDfTaV-WMVptCbgkc",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOqX2YtfRdUxzUFJPTuZeJ7Rl8pC_a8KRCZFl30YnuC0uNk3ApZn7ydQv8i3neeZIMCuQmZfpGBYcgbRY5qE9Cac1qHlIcRTVExcqH18h_qqa2oQQ10rWRqQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdvbYNZq_NGub9ZLeP-w9iR-347CH-j2ycaW9vjDtyGrpp5b0NsavH407XUKpSPfiPudDkhcfnKdXl4pSQIirdmRvEW-mHa0ihm8_fEk20NEZZuVrEY6hwjDg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQcsB0PJpxiOzhqme49u54xDpD6RjkHlzdrLBtyC6r7PJK5Ufp1ZyZaF-Nl5PifVJBaGnnj2TjKtd09giYtdsaMCF7WK9l2RwPfL7seXqhc7G-b6h0BJerFg",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ2wHKq4JIvr289aJvkl8yvY1PeNAtTXGKSahUgvLYytIufAPg1KOwfbNDjOQYrTR13OCDXIQSPrlIhmTg_f13VZckZRPt-dJoAbhnpFRKs8ohzrfj_q1i3ets",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8dVZiMWXsJPMNsN9QduKvvkj90uoivmpflvRNhBdzuK-oJgZpkKvOFFhN9omYj-LKtZKQr55QCW63ZPGC7CP7wf0kqLoCc1oVltl4CBIj9ka8IZqz11o7sw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT_9pGnh78jvdVJ9b7cW9uBaBZmI7qJBOjXlIzqaGXRuts39rA5DHqHVSvgOeenc-hp0at9z1gBrL1pZXHJpHarlpJ7k3xzss3IJABdueZQSh6a9U_xCbhW5hk",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8SQmV1PYNG0KfgBmw1AOCHZePwcH0tmYRGYXzFkxggZaSh3rlVURfjE15RDSunpNfqtAo0WzKsAjae21E8JT9PpIiAizzef9e5ysUZnHQR0FhUoKeDSBtPwtK",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrXSDYG_au7qfpBS5CfglNkaUUEc9xjRjQHRN3Dcka6Ns_tbXLeEwYFHaZRfyLF6pKctVIhvJJinGsN_2ZDybFiUB2jrzz6WqH6bK2Dht3OBcplWEU1ZKsbn2R",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSsDXqHq1NeMkEn_sgYD8Ow2a4AQIUOqUqqCAtYjdk5RLy9hSXeLvON6vP0d0blWYhFiAUs36kyL0L-MqLA43MQVbgBEJ4_UtA-TOrUtwHlsrioqESBYewn",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSc9hvlavOfQNHOOKcZ5yVDIkBcs_GeRn7i4oMq6JtsrSLUZVvxhv60X71noCaT6RSG-8H42DkUKygFwZUhUVvRe9swqy-EYBQfv-F3mWrnHn2FH0T50ElM",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBb4-Wxz5zw5ggSrFaTjgwpTJkg-xNLT0JjmTfiiQrkasag_9GYu1rpDphhc4TLPv4ZmubA-7mpFbFRyJgM212yzw7nR1x7zEAT8yKxPJG",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvBVpo8LC0rQOp3d3EZRf1rAdQ13X1V71kauuA2MQnYDGJP0jMyNiRjFEz7bvVxt1E9rOt4VCCsXLmhABXz26m9jIfujLKOsoie7RmFg8"
+    ],
+    "title": "Continental Grand Prix TR Tire",
+    "brand": "Continental",
+    "reviews": 246,
+    "rating": 4.5,
+    "price_range": "$80-$80",
+    "stores": [
+      {
+        "name": "REI",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.rei.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.rei.com/product/255190/continental-grand-prix-tr-tire?sku=2551900001&CAWELAID=120217890020586505",
+        "title": "Continental Grand Prix TR Tire Black 700C X 25 Mm",
+        "rating": 4.8,
+        "reviews": 2226,
+        "payment_methods": "PayPal, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "90-day returns"
+        ],
+        "price": "$79.95",
+        "extracted_price": 79.95,
+        "shipping": "Free",
+        "total": "$79.95",
+        "extracted_total": 79.95
+      },
+      {
+        "name": "Competitive Cyclist",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.competitivecyclist.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.competitivecyclist.com/b/continental-grand-prix-tr-tire?skid=CONF055-BLABLA-S700&CMP_SKU=CONF055",
+        "title": "Continental Grand Prix TR Tire Black, BlackChili, 700x25",
+        "rating": 4.9,
+        "reviews": 4493,
+        "payment_methods": "PayPal, Sezzle accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Nov 6\u2009\u2013\u200913",
+          "Free 30-day returns"
+        ],
+        "price": "$79.95",
+        "extracted_price": 79.95,
+        "shipping": "Free",
+        "total": "$79.95",
+        "extracted_total": 79.95
+      },
+      {
+        "name": "Backcountry.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.backcountry.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.backcountry.com/b/continental-grand-prix-tr-tire?CMP_SKU=CONF055&MER=0406&skid=CONF055-BLABLA-S700&srsltid=AfmBOor9s3kaWcnLJI_s1lFqNg93j-Mj7iadmHx_YlQvJxvLdD8dKBUTDAQ",
+        "title": "Continental Grand Prix TR Tire Black, BlackChili, 700x25",
+        "rating": 4.8,
+        "reviews": 15316,
+        "payment_methods": "PayPal, Sezzle accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Nov 5\u2009\u2013\u200914",
+          "90-day returns"
+        ],
+        "price": "$79.95",
+        "extracted_price": 79.95,
+        "shipping": "Free",
+        "total": "$79.95",
+        "extracted_total": 79.95
+      }
+    ],
+    "stores_next_page_token": "FSsZuHica15aklmSk7rPOT-vJDMvNa8kMUfBvSgxL0UhoCizQiEkSCEksyh1SXF-USbz4ty8fC4A-CETLA",
+    "about_the_product": {
+      "title": "Grand Prix TR | Continental Bicycle Tires",
+      "link": "https://www.continental-tires.com/products/b2c/bicycle/tires/grand-prix-tr/",
+      "displayed_link": "continental-tires.com",
+      "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.continental-tires.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+      "description": "The Grand Prix TR tire is made for every ride. It's the perfect option for those looking for a great value tire that is tubeless-ready. It comes with BlackChili Compound and has an all-new 4-ply construction, that perfectly balances puncture protection and rolling resistance. Whether training, commuting or going the distance \u2013 the Grand Prix TR has you covered. Tubeless Ready and hookless compatible, designed with versatility in mind. It\u2019s your choice: set up tubeless using Sealant or use an innertube. Black Chili Compound features special synthetic rubbers combined with proven natural rubber to high-performance tread mixtures, to optimize rolling properties and grip. The robust 4-ply construction balances rolling resistance, low weight and puncture resistance. Tread pattern inspired by iconic Lazer Grip. Black Chili Compound features special synthetic rubbers combined with proven natural rubber to high-performance tread mixtures, to optimize rolling properties and grip.",
+      "features": [
+        {
+          "title": "Vehicle Type",
+          "value": "Bicycle"
+        },
+        {
+          "title": "Tubeless",
+          "value": "Yes"
+        },
+        {
+          "title": "Puncture Res",
+          "value": "increased puncture protection"
+        },
+        {
+          "title": "Rim Type",
+          "value": "hookless"
+        },
+        {
+          "title": "Tire Diameter",
+          "value": "700c"
+        },
+        {
+          "title": "Tire Type",
+          "value": "Road, Tubeless"
+        },
+        {
+          "title": "Tire Width",
+          "value": "25 mm, 28 mm, 30 mm, 32 mm"
+        },
+        {
+          "title": "Rim Diameter",
+          "value": "622 mm"
+        },
+        {
+          "title": "Tire Construction",
+          "value": "Tubeless"
+        },
+        {
+          "title": "Tread Pattern",
+          "value": "inspired by iconic Lazer Grip"
+        },
+        {
+          "title": "Tire Compound",
+          "value": "BlackChili"
+        },
+        {
+          "title": "Tire Material",
+          "value": "Rubber"
+        },
+        {
+          "title": "Tire Weight",
+          "value": "lighter"
+        },
+        {
+          "title": "Ply Rating",
+          "value": "4-ply"
+        },
+        {
+          "title": "Tire Highlights",
+          "value": "Puncture Resistant"
+        },
+        {
+          "title": "Tire Texture",
+          "value": "Smooth"
+        },
+        {
+          "title": "Intended Use",
+          "value": "Road"
+        },
+        {
+          "title": "Typical Rider",
+          "value": "Casual Rider"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Tread (Speed, Casing, Grip)",
+        "subtitle": "Slick",
+        "items": [
+          {
+            "snippet": "The Grand Prix TR retails at $67.95 USD, making it around two-thirds the price of Continental's range-topping GP5000 S TR",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://velo.outsideonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velo.outsideonline.com/road/road-gear/is-the-continental-grand-prix-tr-your-new-favorite-workhorse/",
+            "source": "Outside Magazine",
+            "title": "Continental Launches More Robust Grand Prix TR Tire"
+          },
+          {
+            "key_point": "Good traction",
+            "snippet": "in China. Great news for endurance cyclists. Great grip, soupleness, tubeless, low roling resistance. Cannot ask for better tire for a cyclist that rides a lot.",
+            "date": "2mo",
+            "source": "aliexpress.com"
+          },
+          {
+            "pros": [
+              "Minimal rolling resistance",
+              "Outstanding grip",
+              "Better damping and traction"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://velomotion.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velomotion.net/2025/03/continental-grand-prix-tr/",
+            "date": "8mo",
+            "source": "Velomotion",
+            "title": "The new Continental Grand Prix TR Tubeless Ready tire for everyone!"
+          },
+          {
+            "snippet": "The tread is the same BlackChili compound that Continental has used and refined over several iterations of GP4000 and GP5000",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          },
+          {
+            "snippet": "Measured: 28mm claimed, 29.25mm measured",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          },
+          {
+            "snippet": "The Grand Prix TR is the latest road tyre offering from Continental, and aims to provide a more budget friendly option to the",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          },
+          {
+            "snippet": "The tread pattern is similar but subtly different to the GP5000 range of tyres",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          }
+        ]
+      },
+      {
+        "title": "Durability (Casing, Sidewalls)",
+        "items": [
+          {
+            "snippet": "The lifespan of the Grand Prix TR will be excellent, meaning that not only do you pay less for this tire, but you can also",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bicyclerollingresistance.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bicyclerollingresistance.com/road-bike-reviews/continental-grand-prix-tr",
+            "source": "Bicycle Rolling Resistance",
+            "title": "Road Bike Tire Test: Continental Grand Prix TR 28"
+          },
+          {
+            "snippet": "takes performance cues from the GP5000 range and marries that with durability, puncture protection and low rolling resistance",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/continental-grand-prix-tr-314453",
+            "source": "Road.cc",
+            "title": "Review: Continental Grand Prix TR | road.cc"
+          },
+          {
+            "snippet": "the Grand Prix TR, we've brought tubeless-ready technology, strong puncture protection, and excellent rolling resistance to a",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://velo.outsideonline.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velo.outsideonline.com/road/road-gear/is-the-continental-grand-prix-tr-your-new-favorite-workhorse/",
+            "source": "Outside Magazine",
+            "title": "Continental Launches More Robust Grand Prix TR Tire"
+          }
+        ]
+      },
+      {
+        "title": "Size",
+        "subtitle": "700",
+        "items": [
+          {
+            "snippet": "Tire widths: 25-622, 28-622, 30-622, 32-622",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://velomotion.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velomotion.net/2025/03/continental-grand-prix-tr/",
+            "source": "Velomotion",
+            "title": "The new Continental Grand Prix TR Tubeless Ready tire for everyone!"
+          },
+          {
+            "snippet": "above the price of the likes of the new Vittoria Rubino V. Width wise they are available in 25, 28, 30 and 32mm offerings in",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          }
+        ]
+      },
+      {
+        "title": "Weight",
+        "items": [
+          {
+            "snippet": "Examining the specifications, we observe that the Grand Prix TR is significantly heavier than the Grand Prix 5000 S TR, with",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bicyclerollingresistance.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bicyclerollingresistance.com/road-bike-reviews/continental-grand-prix-tr",
+            "source": "Bicycle Rolling Resistance",
+            "title": "Road Bike Tire Test: Continental Grand Prix TR 28"
+          },
+          {
+            "key_point": "Heavy",
+            "snippet": "Good grip on pavement, but the tire is noisy on rough roads. Also, not as light as advertised. \ud83d\udeb4\u200d\u2642\ufe0f\ud83d\udca8",
+            "date": "3mo",
+            "source": "aliexpress.com"
+          },
+          {
+            "snippet": "Advertised weight for the 28mm offering in black is 340g, while actual weight was a close 346g.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          }
+        ]
+      },
+      {
+        "title": "Performance",
+        "items": [
+          {
+            "snippet": "impressive, only just below that of the phenomenal GP5000s, which makes them easy to recommend if you want a performance tyre",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/continental-grand-prix-tr-314453",
+            "source": "Road.cc",
+            "title": "Review: Continental Grand Prix TR | road.cc"
+          },
+          {
+            "snippet": "Subjectively fast feeling",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          },
+          {
+            "snippet": "This puts this tyre in an interesting category, as it features some features more commonly found in all-season tyres, but the",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          }
+        ]
+      },
+      {
+        "title": "Tubeless or Not",
+        "items": [
+          {
+            "snippet": "I found them easy to seal when set up tubeless, and incredibly simple to fit, making them a practical, budget friendly race",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          },
+          {
+            "snippet": "Oddly, the Grand Prix TR does not include a dedicated puncture protection belt, whereas all GP5000 tyres save for the TT",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          }
+        ]
+      },
+      {
+        "title": "Bead",
+        "items": [
+          {
+            "snippet": "To keep costs low, the Grand Prix TR features a simpler 4-layer casing (4 layers under the tread, 3-layer sidewalls) with no",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bicyclerollingresistance.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bicyclerollingresistance.com/road-bike-reviews/continental-grand-prix-tr",
+            "source": "Bicycle Rolling Resistance",
+            "title": "Road Bike Tire Test: Continental Grand Prix TR 28"
+          },
+          {
+            "snippet": "The casing itself is also slightly different, as it used a 60 TPI (threads per inch) construction rather than the 120 TPI",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          },
+          {
+            "snippet": "The 4-layer construction improves puncture resistance, while the optimized tread design ensures high mileage and control on",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://velomotion.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velomotion.net/2025/03/continental-grand-prix-tr/",
+            "source": "Velomotion",
+            "title": "The new Continental Grand Prix TR Tubeless Ready tire for everyone!"
+          },
+          {
+            "snippet": "Oddly, the Grand Prix TR does not include a dedicated puncture protection belt, whereas all GP5000 tyres save for the TT",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/continental-grand-prix-tr-tyre-review/",
+            "source": "Cyclingnews",
+            "title": "Continental Grand Prix TR Review: Most of the legendary GP5000 performance for nearly half the price"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "snippet": "for riders looking for a reliable all-round tire, the Grand Prix TR is ideal for both daily training and long distances",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://velomotion.net&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://velomotion.net/2025/03/continental-grand-prix-tr/",
+            "source": "Velomotion",
+            "title": "The new Continental Grand Prix TR Tubeless Ready tire for everyone!"
+          },
+          {
+            "pros": [
+              "Speed and grip are impressive",
+              "Easy to fit",
+              "Priced well against the competition"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/continental-grand-prix-tr-314453",
+            "date": "4mo",
+            "source": "road.cc",
+            "title": "Review: Continental Grand Prix TR"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 17
+      },
+      {
+        "stars": 2,
+        "amount": 2
+      },
+      {
+        "stars": 3,
+        "amount": 9
+      },
+      {
+        "stars": 4,
+        "amount": 30
+      },
+      {
+        "stars": 5,
+        "amount": 188
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkjhGmpL0kh7J4nnTfomohksbIPWuq_lbJ8LR6tg6YDk2iPZw",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOvgsC6Gnie9vrbOfpzTDOJOzo2m6o5QwdyQIITcKTCFJysPde",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRQgV9hQpynIGs2LfSEevuLA5jB1rxzMutEfhOXcE10HoDlLUqG0tDRxlJTHOAgzHkiPY0JY6Kv0faQ0aHlbBUCS42o1gy49Q",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT4ucbxJMHbD2wisEFrhPchUwtAZ6Rjjl2di5ccXysJvWyHfTIYSGEaKXwR4vszq7noxn3KVGvpZvESJe5MlInuwAb9VpaiIw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-ESwhNKaxKjQp3Zms0O3VkqeOK9kg6lyUm08eZfI3-ZzNDgbs7zJIzZ7Gd39e9vsaFarCBJV0r1C4ftM2b-z09z_NG4Vb",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqxY9dexib4R7Ogugkb-CiFzcY7TF1NbLaM3WMe_tHT9wxN_LrE-nCQWenJSiUUDkZSjljQXFjtzb-deyUCQRG3SEm7MCl",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTo8aLeTmFyxvjAaXEx59ZWOUylYyOJyYguyKOktWDoLohgaH7LGMum6hzL7onC7kNOTCOaKkrfcjMyeA5NRVTi63FFKVL-"
+    ],
+    "user_reviews": [
+      {
+        "title": "Grand Prix 5000 S TR budget alternative",
+        "text": "It was time for new tires, so I started looking around. These tires just came out and ticked many boxes for me and are $20-$30 cheaper than the benchmark Grand Prix 5000 S TR.\nI used the Grand Prix 4000, Grand Prix 5000, 5000 TL and most recently the 5000 S TR.\nCompared to the S TR, these are slightly heavier, the tire bead is thicker and stiffer, have a different tread pattern and are made in China.\nThere is almost no noticeable difference while riding and I had no trouble mounting them.\nI am sure these will be specced standard on many bikes.",
+        "user_name": "Tamas",
+        "source": "jensonusa.com",
+        "rating": 5,
+        "date": "7 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0tORLI2lNFTm4mStYuEyZ5GgWh_c-5XLzUnW6nj_5HjzO7_mGhx6Gpk6cTWiEZXcfngw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkjhGmpL0kh7J4nnTfomohksbIPWuq_lbJ8LR6tg6YDk2iPZw",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOvgsC6Gnie9vrbOfpzTDOJOzo2m6o5QwdyQIITcKTCFJysPde"
+        ]
+      },
+      {
+        "title": "Poor quality: both tires out of round",
+        "text": "Continental does not have the quality of this tire under control at all!\n\nBoth tires are out of round, and not just a little, but so much so that both tires I ordered have a clearly visible lateral deflection of more than 0.5 cm. I tried this on 2 different wheels. So it is not due to the wheels.\n\nI have of course sent both tires back.\n\nIn addition, Continental strangely does not print the tire data with the max. air pressure on the sidewall as usual, but in the tread, so that the tread is only half present on more than 50 cm ... but somehow fits the out-of-round tire.\n\nAnyway, that was my first and last tire from Continental.",
+        "source": "bike24.be",
+        "rating": 1,
+        "date": "4 weeks ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2wKi0DcKD7YpTlSRbBiaua05IhiJWtvWHBo-dMKxHH9oc79QzH0EzAqOREwrTj8xOGUA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Grand Prix 5000 S TR budget alternative",
+        "text": "It was time for new tires, so I started looking around. These tires just came out and ticked many boxes for me and are $20-$30 cheaper than the benchmark Grand Prix 5000 S TR.\nI used the Grand Prix 4000, Grand Prix 5000, 5000 TL and most recently the 5000 S TR.\nCompared to the S TR, these are slightly heavier, the tire bead is thicker and stiffer, have a different tread pattern and are made in China.\nThere is almost no noticeable difference while riding and I had no trouble mounting them.\nI am sure these will be specced standard on many bikes.",
+        "user_name": "Tamas",
+        "source": "jensonusa.com",
+        "rating": 5,
+        "date": "7 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0tORLI2lNFTm4mStYuEyZ5GgWh_c-5XLzUnW6nj_5HjzO7_mGhx6Gpk6cTWiEZXcfngw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkjhGmpL0kh7J4nnTfomohksbIPWuq_lbJ8LR6tg6YDk2iPZw",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOvgsC6Gnie9vrbOfpzTDOJOzo2m6o5QwdyQIITcKTCFJysPde"
+        ]
+      },
+      {
+        "title": "My favorite tires for the rare combo of speed and comfort",
+        "text": "I love these tires! They have such a discernibly better feeling than my previous tires (sworks something). They are like butter. And so sticky. But this doesn't negatively impact the rolling resistance.\nHighly recommend for a comfortable ride that is also a fast ride.",
+        "user_name": "Megan",
+        "source": "jensonusa.com",
+        "rating": 5,
+        "date": "2 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0flvTTAJeXYG_lOUKRMMI0Cp1TNz2aZ-i8w5eokFrUsDKUKWz7x7uy_FQVK42Bz1Nqxw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRQgV9hQpynIGs2LfSEevuLA5jB1rxzMutEfhOXcE10HoDlLUqG0tDRxlJTHOAgzHkiPY0JY6Kv0faQ0aHlbBUCS42o1gy49Q"
+        ]
+      },
+      {
+        "text": "Suitability:32 C, suitable for my frame\nQuality:solid quality\nDurability:it can last more than 5000 KM, based on my previous experience\n\nValue for money, good quality with lower cost",
+        "user_name": "nantha_kumar_84",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "a week ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1xQgirMstFUUN4K_739fuKfgk53iw04wL0dWTWqsUWU9LdviFQ3dUVkIJfCVj2ClcJJA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT4ucbxJMHbD2wisEFrhPchUwtAZ6Rjjl2di5ccXysJvWyHfTIYSGEaKXwR4vszq7noxn3KVGvpZvESJe5MlInuwAb9VpaiIw"
+        ]
+      },
+      {
+        "text": "The tyre feels nice to use although its abit heavy since i use 23 tyres before.",
+        "user_name": "arrazi57",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "2 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3wh4CiPe8x27CXqFkx25-D33VyY1P7XsE6slr4hcAPz2_frkF4da1dGHS1x7DNP5NoYA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-ESwhNKaxKjQp3Zms0O3VkqeOK9kg6lyUm08eZfI3-ZzNDgbs7zJIzZ7Gd39e9vsaFarCBJV0r1C4ftM2b-z09z_NG4Vb"
+        ]
+      },
+      {
+        "text": "fast delivery! tyre looks good which produced in 2025. good deal!",
+        "source": "shopee.com.my",
+        "rating": 5,
+        "date": "a week ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK23eODgJB6wFg7zushC-FvVHaHu-Axf3qJ0bL21AqIqFOc0Tpw8DjZP0PiBfLXmB0nctA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqxY9dexib4R7Ogugkb-CiFzcY7TF1NbLaM3WMe_tHT9wxN_LrE-nCQWenJSiUUDkZSjljQXFjtzb-deyUCQRG3SEm7MCl",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTo8aLeTmFyxvjAaXEx59ZWOUylYyOJyYguyKOktWDoLohgaH7LGMum6hzL7onC7kNOTCOaKkrfcjMyeA5NRVTi63FFKVL-"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "For Every Ride | Continental Grand Prix TR",
+        "link": "https://www.youtube.com/watch?v=ONvL-fiEM-E",
+        "source": "YouTube",
+        "channel": "Continental Bicycle Tires",
+        "duration": "0:29",
+        "thumbnail": "https://i.ytimg.com/vi/ONvL-fiEM-E/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lmCXLSlQnF7rpmAmy7CLGXM-mDrQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTjKwueBDsSI3TCTDvMoUb4LS-N64JI5cW93w"
+      },
+      {
+        "title": "Continental Grand Prix TR 28 mm Rolling Resistance Test (spin up ...",
+        "link": "https://www.youtube.com/watch?v=AT87wxEPeuk",
+        "source": "YouTube",
+        "channel": "Bicycle Rolling Resistance",
+        "duration": "0:45",
+        "thumbnail": "https://i.ytimg.com/vi/AT87wxEPeuk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lxcAQj_JJEHFN7bVdCzoNY9cfYrg"
+      },
+      {
+        "title": "If you\u2019re not a pro, don\u2019t overpay? Continental Grand Prix TR Test",
+        "link": "https://www.youtube.com/watch?v=8VAoecNU2ps",
+        "source": "YouTube",
+        "channel": "bikeshow.cc",
+        "duration": "10:35",
+        "thumbnail": "https://i.ytimg.com/vi/8VAoecNU2ps/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mNVIhcMhHdCexeapG0kIcXKsM0NQ"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Continental Grand Prix TR : r/cycling",
+        "link": "https://www.reddit.com/r/cycling/comments/1mg00iw/continental_grand_prix_tr/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 months ago",
+        "items": [
+          {
+            "snippet": "I was also impressed with the grip on dry surfaces--they never let me down.",
+            "link": "https://www.reddit.com/r/cycling/comments/1mg00iw/continental_grand_prix_tr/#:~:text=I%20was%20also%20impressed%20with%20the%20grip%20on%20dry%20surfaces%2D%2Dthey%20never%20let%20me%20down."
+          },
+          {
+            "snippet": "Now, with 2000 km on them and still showing plenty of life ahead, I can say I truly recommend buying these tires.",
+            "link": "https://www.reddit.com/r/cycling/comments/1mg00iw/continental_grand_prix_tr/#:~:text=Now%2C%20with%202000%20km%20on%20them%20and,say%20I%20truly%20recommend%20buying%20these%20tires."
+          },
+          {
+            "snippet": "Like the other continental road tires (except the gatorskin) They are neither too complicated nor too easy to install, I was able to do it with just a plastic l",
+            "link": "https://www.reddit.com/r/cycling/comments/1mg00iw/continental_grand_prix_tr/#:~:text=Like%20the%20other%20continental%20road%20tires%20(except,do%20it%20with%20just%20a%20plastic%20l"
+          }
+        ]
+      },
+      {
+        "title": "Continental Grand Prix TR - Weight Weenies",
+        "link": "https://weightweenies.starbike.com/forum/viewtopic.php?t=177484",
+        "source": "starbike.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://weightweenies.starbike.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "7 months ago"
+      },
+      {
+        "title": "Continental Grand Prix TR - Page 2 - Weight Weenies",
+        "link": "https://weightweenies.starbike.com/forum/viewtopic.php?t=177484&start=15",
+        "source": "starbike.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://weightweenies.starbike.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "7 months ago"
+      },
+      {
+        "title": "Tubeless roadbike tyres - Page 41 - Australian Cycling Forums",
+        "link": "https://www.bicycles.net.au/forums/viewtopic.php?t=99662&start=1000",
+        "source": "Bicycles Network Australia",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bicycles.net.au&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "6 years ago"
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Continental Grand Prix 5000 S TR Tire",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQGB59zI4Vt3-UCxn4bf6sNrDMwWlaEZJtj1vKDqg4TzXrQTuEMo9PRALbHnu6AaYn_bR5aDDDdk3IkBEx4kJ8YJdUiGYFJ6rufKoBtakrSqb2pU_u82Lta",
+        "price": "$49.10",
+        "extracted_price": 49.1,
+        "original_price": "$77",
+        "extracted_original_price": 77,
+        "reviews": 2000,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTgxODY0OTQzNDMyNzE5OTg5OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMjI2ODA2MDM2NTM3ODIxMjkzIiwiaW1hZ2VEb2NpZCI6IjUwNzk3MTk4MDQ0MjI2NTg2NzUiLCJyZHMiOiJQQ185MjI2MjQyMDk5NjEzMzcxNTEwfFBST0RfUENfOTIyNjI0MjA5OTYxMzM3MTUxMCIsInF1ZXJ5IjoiQ29udGluZW50YWwrR3JhbmQrUHJpeCtUUitUdWJlbGVzcytUaXJlIiwiZ3BjaWQiOiI5MjI2MjQyMDk5NjEzMzcxNTEwIiwibWlkIjoiNTc2NDYyNjc2MjYwMjU3NjUxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Continental Grand Prix 5000 All Season TR Tire",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRU7L-1RBn2SaT5HQ2Tgig_HiEHu5ATZS3Nuucpn5nlLaAQoxDuK0LmSjADnjRXhjfGPlzRNRG4LLO6ExsvXLv5GWSSoXe_tkhtSGu94Lvk",
+        "price": "$98.95",
+        "extracted_price": 98.95,
+        "reviews": 620,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYwNTExNTY2NTIwNzQ2OTU3NjMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4MDkyNDkyMjMxNTU4MzY5OTE2IiwiaW1hZ2VEb2NpZCI6IjQzMDUyNDY3NDI5NjUzMjc3NTciLCJyZHMiOiJQQ180NjYyNzg0NjYzNjI3NzcyMjYzfFBST0RfUENfNDY2Mjc4NDY2MzYyNzc3MjI2MyIsInF1ZXJ5IjoiQ29udGluZW50YWwrR3JhbmQrUHJpeCtUUitUdWJlbGVzcytUaXJlIiwiZ3BjaWQiOiI0NjYyNzg0NjYzNjI3NzcyMjYzIiwibWlkIjoiNTc2NDYyODQ5MTU3NTg5NTc0IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Continental Grand Prix 5000",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQSwAs3b2FqtG784mjOQk7CXEUHt9O-8GMojOyMlk0QPcT1Uq8YBQ7QOmhS2m6N-g30dYZMOASheAaFhiMLT-NMKM9sMSdFF9Jah0MyqOtQ",
+        "price": "$79.95",
+        "extracted_price": 79.95,
+        "original_price": "$93",
+        "extracted_original_price": 93,
+        "reviews": 9000,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjU5NDc4Nzc5NzA1NTIwNjY4MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY2NzQwODAxODQxNzgzNjY4MzIiLCJpbWFnZURvY2lkIjoiMTE0ODM5ODY2MTI4MzI5MTQ0MDMiLCJyZHMiOiJQQ18xNzIzMjIwNTQyOTI5MDkyNTYxMHxQUk9EX1BDXzE3MjMyMjA1NDI5MjkwOTI1NjEwIiwicXVlcnkiOiJDb250aW5lbnRhbCtHcmFuZCtQcml4K1RSK1R1YmVsZXNzK1RpcmUiLCJncGNpZCI6IjE3MjMyMjA1NDI5MjkwOTI1NjEwIiwibWlkIjoiNTc2NDYyMzE2ODA5NzA4MjUwIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Continental Grand Prix Tire",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQqZ6SeqS3eYIUpqLPXoiGqD_oy45sNWtUnN8G9l7wqSfjXTGuHn5jXDnpMsCE0pWcTz-ciOafVaCVupvzK2215s4iI49MyS03MFz_bUTi3bdOZgiC5uhS1Dg",
+        "price": "$61.95",
+        "extracted_price": 61.95,
+        "reviews": 1000,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTYyODE4MTQ2NzUwNjYxMzc3IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjY4MTk2MzMxMTQ0NDM0NTE5MyIsImltYWdlRG9jaWQiOiIxNTM0MzY1Njk1MTQ1MDQxOTc2MyIsInJkcyI6IlBDXzEzOTQ1NDY4OTY2OTU0MDIxMzI2fFBST0RfUENfMTM5NDU0Njg5NjY5NTQwMjEzMjYiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMTM5NDU0Njg5NjY5NTQwMjEzMjYiLCJtaWQiOiI1NzY0NjI4MjkwMzI4NDQxNDciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Continental Grand Prix TR",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRYaiJUVdlDoZo1LmJ-jy6gSPUbTJOk0LtzHzW3pl4LRLocbifwF-o9H2bLvaz5sZSjNYDfgc9GOWqCYd4d2FsbmFIK9wiosYQJYykoQEk",
+        "price": "$79.99",
+        "extracted_price": 79.99,
+        "reviews": 245,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3OTA2NDcxODI3MzE0Mjc1NzMyIiwiaW1hZ2VEb2NpZCI6IjEwMDYzMTU3Njg0MjIyNTMzMTA3IiwicmRzIjoiUENfMzQyMDQ1ODM5ODE2MjkzMTYzMnxQUk9EX1BDXzM0MjA0NTgzOTgxNjI5MzE2MzIiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Continental Grand Prix TR Road Bicycle Tires",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRSL6Qh-b81yd-kn7k-QX7ywnelhjS9CFRZIqjc1_TTwrA6laHsS3uvKcb2gb_9B7fl-NWajZ3kWGIyBRNyXboV6Bo-0neZLUG_v8yB-4WmDO9v_9JDuSEYLg",
+        "price": "$25.04",
+        "extracted_price": 25.04,
+        "original_price": "$39",
+        "extracted_original_price": 39,
+        "reviews": 182,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3MzY0MzI2MjAxNTM1NjkyMjE3IiwiaW1hZ2VEb2NpZCI6IjExMDcwMTE4ODIxMTk2MDcwNDMxIiwicmRzIjoiUENfMTc4MDI5MjEyNTIwMzQwOTcwNjV8UFJPRF9QQ18xNzgwMjkyMTI1MjAzNDA5NzA2NSIsInF1ZXJ5IjoiQ29udGluZW50YWwrR3JhbmQrUHJpeCtUUitUdWJlbGVzcytUaXJlIiwiZ3BjaWQiOiIzNDIwNDU4Mzk4MTYyOTMxNjMyIiwibWlkIjoiNTc2NDYyODE3MjExNzU0NDQ2IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Any Color",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY2NTE3Mjg1MzM4ODI5MDQyIiwiaW1hZ2VEb2NpZCI6IjEyNDIyOTE2NDYyODQxNTc0NTEyIiwicmRzIjoiUENfMzQyMDQ1ODM5ODE2MjkzMTYzMnxQUk9EX1BDXzM0MjA0NTgzOTgxNjI5MzE2MzIiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiJFZ3NJazlINUFSQ0U4cmZrQXcifQ%3D%3D"
+          },
+          {
+            "name": "Black",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY2NTE3Mjg1MzM4ODI5MDQyIiwiaW1hZ2VEb2NpZCI6IjEyNDIyOTE2NDYyODQxNTc0NTEyIiwicmRzIjoiUENfMzQyMDQ1ODM5ODE2MjkzMTYzMnxQUk9EX1BDXzM0MjA0NTgzOTgxNjI5MzE2MzIiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiJFZ3NJazlINUFSQ0U4cmZrQXcifQ%3D%3D"
+          },
+          {
+            "name": "Black/Transparent",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY2NTE3Mjg1MzM4ODI5MDQyIiwiaW1hZ2VEb2NpZCI6IjEyNDIyOTE2NDYyODQxNTc0NTEyIiwicmRzIjoiUENfMzQyMDQ1ODM5ODE2MjkzMTYzMnxQUk9EX1BDXzM0MjA0NTgzOTgxNjI5MzE2MzIiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiJFZ3NJazlINUFSQ0U4cmZrQXhJTENKTFItUUVRczRPOTVBTSJ9"
+          }
+        ]
+      },
+      {
+        "title": "Size",
+        "items": [
+          {
+            "name": "Any Size",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY2NTE3Mjg1MzM4ODI5MDQyIiwiaW1hZ2VEb2NpZCI6IjEyNDIyOTE2NDYyODQxNTc0NTEyIiwicmRzIjoiUENfMzQyMDQ1ODM5ODE2MjkzMTYzMnxQUk9EX1BDXzM0MjA0NTgzOTgxNjI5MzE2MzIiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiJFZ3NJa3RINUFSQ2I1cmZrQXcifQ%3D%3D"
+          },
+          {
+            "name": "700 x 25",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY2NTE3Mjg1MzM4ODI5MDQyIiwiaW1hZ2VEb2NpZCI6IjEyNDIyOTE2NDYyODQxNTc0NTEyIiwicmRzIjoiUENfMzQyMDQ1ODM5ODE2MjkzMTYzMnxQUk9EX1BDXzM0MjA0NTgzOTgxNjI5MzE2MzIiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiJFZ3NJa3RINUFSQ2I1cmZrQXcifQ%3D%3D"
+          },
+          {
+            "name": "700 x 28",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY2NTE3Mjg1MzM4ODI5MDQyIiwiaW1hZ2VEb2NpZCI6IjEyNDIyOTE2NDYyODQxNTc0NTEyIiwicmRzIjoiUENfMzQyMDQ1ODM5ODE2MjkzMTYzMnxQUk9EX1BDXzM0MjA0NTgzOTgxNjI5MzE2MzIiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiJFZ3NJa3RINUFSQ2I1cmZrQXhJTENKUFItUUVRaDVTMjVBTSJ9"
+          },
+          {
+            "name": "700 x 30",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY2NTE3Mjg1MzM4ODI5MDQyIiwiaW1hZ2VEb2NpZCI6IjEyNDIyOTE2NDYyODQxNTc0NTEyIiwicmRzIjoiUENfMzQyMDQ1ODM5ODE2MjkzMTYzMnxQUk9EX1BDXzM0MjA0NTgzOTgxNjI5MzE2MzIiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiJFZ3NJa3RINUFSQ2I1cmZrQXhJTENKUFItUUVRMXRfUjVBTSJ9"
+          },
+          {
+            "name": "700 x 32",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImtuQUZhYkNTSHRpNnF0c1B2TGpEZ0FZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNzQ1NDI3NjE4NTM1MTc1NDYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTY2NTE3Mjg1MzM4ODI5MDQyIiwiaW1hZ2VEb2NpZCI6IjEyNDIyOTE2NDYyODQxNTc0NTEyIiwicmRzIjoiUENfMzQyMDQ1ODM5ODE2MjkzMTYzMnxQUk9EX1BDXzM0MjA0NTgzOTgxNjI5MzE2MzIiLCJxdWVyeSI6IkNvbnRpbmVudGFsK0dyYW5kK1ByaXgrVFIrVHViZWxlc3MrVGlyZSIsImdwY2lkIjoiMzQyMDQ1ODM5ODE2MjkzMTYzMiIsIm1pZCI6IjU3NjQ2MjgxNzIxMTc1NDQ0NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiJFZ3NJa3RINUFSQ2I1cmZrQXhJTENKUFItUUVReEptOTVBTSJ9"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,633 @@
+{
+  "search_metadata": {
+    "id": "6905660fb4ab72ee67aaa4ad",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f406d565d8fb26bb/6905660fb4ab72ee67aaa4ad.json",
+    "created_at": "2025-11-01 01:44:47 UTC",
+    "processed_at": "2025-11-01 01:44:47 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=Wahoo+WFBKTR123&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/f406d565d8fb26bb/6905660fb4ab72ee67aaa4ad.html",
+    "total_time_taken": 1.57
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "Wahoo WFBKTR123",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Wahoo WFBKTR123",
+    "shopping_results_state": "Results for exact spelling"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Trainer Wahoo KICKR Move",
+      "product_id": "479729542769584570",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=479729542769584570",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:479729542769584570,headlineOfferDocid:17585759994458536339,imageDocid:1162518923707268870,rds:PC_7654672653937271208|PROD_PC_7654672653937271208,gpcid:7654672653937271208,mid:576462758975438354,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDc5NzI5NTQyNzY5NTg0NTcwIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1ODU3NTk5OTQ0NTg1MzYzMzkiLCJpbWFnZURvY2lkIjoiMTE2MjUxODkyMzcwNzI2ODg3MCIsInJkcyI6IlBDXzc2NTQ2NzI2NTM5MzcyNzEyMDh8UFJPRF9QQ183NjU0NjcyNjUzOTM3MjcxMjA4IiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6Ijc2NTQ2NzI2NTM5MzcyNzEyMDgiLCJtaWQiOiI1NzY0NjI3NTg5NzU0MzgzNTQiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDc5NzI5NTQyNzY5NTg0NTcwIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1ODU3NTk5OTQ0NTg1MzYzMzkiLCJpbWFnZURvY2lkIjoiMTE2MjUxODkyMzcwNzI2ODg3MCIsInJkcyI6IlBDXzc2NTQ2NzI2NTM5MzcyNzEyMDh8UFJPRF9QQ183NjU0NjcyNjUzOTM3MjcxMjA4IiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6Ijc2NTQ2NzI2NTM5MzcyNzEyMDgiLCJtaWQiOiI1NzY0NjI3NTg5NzU0MzgzNTQiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Brands Cycle & Fitness",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b2de856dae7e10e52a7bbbc8834ee7c29e.png",
+      "multiple_sources": true,
+      "price": "$1,249.00",
+      "extracted_price": 1249.0,
+      "old_price": "$1,349",
+      "extracted_old_price": 1349,
+      "rating": 4.4,
+      "reviews": 179,
+      "snippet": "Realistic (28 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3U8BEgcdbmPwWDqysAFOewUlSd4GEiHxhmjXAtL1o28E_UYp0bOVu1BM-9EpU0BV1uwkRuyhhWq6XCkWIyCHfE-lDlbY5lw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SCb9YXicDclJDoIwAADAF7G6BEiMYalgomI0bCdjW6RIgWJLan_i1_yNznW-HyIE455h1AN6KSZqrAk42HrDxV20SEdjb3AyMtYOzXba_M_zT9iN0WWROQFoEIb9WRbRpLi_S2uZ0StexqBN3qR_lr44WKPtgFtWMROm-WwFR80FLDOD3Jpld5kVIcW0LsOu2KsweQCNRhRWKyp_Fn02hw",
+      "tag": "7% OFF",
+      "extensions": [
+        "7% OFF"
+      ],
+      "delivery": "Free delivery by Tue"
+    },
+    {
+      "position": 2,
+      "title": "Wahoo KICKR V6 Smart Trainer",
+      "product_id": "13416338197429041115",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13416338197429041115",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:13416338197429041115,headlineOfferDocid:14362185614551866005,imageDocid:12109505957654105449,rds:PC_9509130442094859623|PROD_PC_9509130442094859623,gpcid:9509130442094859623,mid:576462461287953587,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM0MTYzMzgxOTc0MjkwNDExMTUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDM2MjE4NTYxNDU1MTg2NjAwNSIsImltYWdlRG9jaWQiOiIxMjEwOTUwNTk1NzY1NDEwNTQ0OSIsInJkcyI6IlBDXzk1MDkxMzA0NDIwOTQ4NTk2MjN8UFJPRF9QQ185NTA5MTMwNDQyMDk0ODU5NjIzIiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6Ijk1MDkxMzA0NDIwOTQ4NTk2MjMiLCJtaWQiOiI1NzY0NjI0NjEyODc5NTM1ODciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM0MTYzMzgxOTc0MjkwNDExMTUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDM2MjE4NTYxNDU1MTg2NjAwNSIsImltYWdlRG9jaWQiOiIxMjEwOTUwNTk1NzY1NDEwNTQ0OSIsInJkcyI6IlBDXzk1MDkxMzA0NDIwOTQ4NTk2MjN8UFJPRF9QQ185NTA5MTMwNDQyMDk0ODU5NjIzIiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6Ijk1MDkxMzA0NDIwOTQ4NTk2MjMiLCJtaWQiOiI1NzY0NjI0NjEyODc5NTM1ODciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Excel Sports",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b2551793cfafb684c066407e67712dfb57.png",
+      "multiple_sources": true,
+      "price": "$1,049.99",
+      "extracted_price": 1049.99,
+      "rating": 4.7,
+      "reviews": 505,
+      "snippet": "Quiet (55 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS9KJBQdjE4lJQQ7nSYZamI41o0P_fC6VeusL39Nu69HLunjFmxOBQsJHrSu4nDbYV0s1YhZf3HcK8AzT5KZ-GXR0ght1x-cxfRDRceopUSqejJeIUc2G7_hw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/svoi1nicDcltEkJAAADQE_kqkWaahhRhFGLij2Etm8ladk3qVF2n29T7-74fxBihG0GAGIwvwmDFsRJLfENZwe6AB30nUNQTcsfNbtj-b6P7lWaBSHMdI6jag_xwgkDFUZoV3UmWevGS13slgRP1lpo_KZrtTbg9dvPZCKhjj9EkY7NME5FKKcrqpQ3ctf6-rtyMs26h2CAmzRyY69AMAexJHA2wdeApBgtLzdHzB0oXPds"
+    },
+    {
+      "position": 3,
+      "title": "Wahoo KICKR Rollr Smart Trainer",
+      "product_id": "12889300054438460286",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12889300054438460286",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:12889300054438460286,headlineOfferDocid:1747118189515873402,imageDocid:6986172411313211568,rds:PC_1771816331275421956|PROD_PC_1771816331275421956,gpcid:1771816331275421956,mid:576462606671731522,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI4ODkzMDAwNTQ0Mzg0NjAyODYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzQ3MTE4MTg5NTE1ODczNDAyIiwiaW1hZ2VEb2NpZCI6IjY5ODYxNzI0MTEzMTMyMTE1NjgiLCJyZHMiOiJQQ18xNzcxODE2MzMxMjc1NDIxOTU2fFBST0RfUENfMTc3MTgxNjMzMTI3NTQyMTk1NiIsInF1ZXJ5IjoiV2Fob28rV0ZCS1RSMTIzIiwiZ3BjaWQiOiIxNzcxODE2MzMxMjc1NDIxOTU2IiwibWlkIjoiNTc2NDYyNjA2NjcxNzMxNTIyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI4ODkzMDAwNTQ0Mzg0NjAyODYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzQ3MTE4MTg5NTE1ODczNDAyIiwiaW1hZ2VEb2NpZCI6IjY5ODYxNzI0MTEzMTMyMTE1NjgiLCJyZHMiOiJQQ18xNzcxODE2MzMxMjc1NDIxOTU2fFBST0RfUENfMTc3MTgxNjMzMTI3NTQyMTk1NiIsInF1ZXJ5IjoiV2Fob28rV0ZCS1RSMTIzIiwiZ3BjaWQiOiIxNzcxODE2MzMxMjc1NDIxOTU2IiwibWlkIjoiNTc2NDYyNjA2NjcxNzMxNTIyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Competitive Cyclist",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b245cf807a00fb422ec7e1de8c5cc4aa6a.png",
+      "multiple_sources": true,
+      "price": "$699.99",
+      "extracted_price": 699.99,
+      "rating": 4.2,
+      "reviews": 211,
+      "snippet": "Easy to set up (37 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQvqhFauShyy-2vvmm94u4EPLrAV30e9J5CVC1sxkF7-TalvQv0N3rymWr-B-0Dm7BgtKa2PxN2C1d1spHzo035yefrVdgmlPP4Ig-V_M8",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OSZvFHicDcnbDoIgAADQL0LxNtOtNbXs7nQ1e2wGhi5RBGTS3_RZ_U2d1_P9NFIyEZpm3SOumawxkI8eGkTISrbIQAM1RTMw1vZkNS7_F0YZDraoUGOTVtOl0RrYSlEauJO7yU88Kh1YBwcvKRNLzK_UB9eqU4WCmcM1vXEQA7imfkzksbLzObMTC1uC7d4DdDxdP3mJCe3y3N0TUN7Pix_7GTip",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 4,
+      "title": "Wahoo KICKR HEADWIND Fan",
+      "product_id": "7513313879769954660",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7513313879769954660",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:7513313879769954660,headlineOfferDocid:12553149801076853470,imageDocid:11358231474479900119,rds:PC_3807339009456225759|PROD_PC_3807339009456225759,gpcid:3807339009456225759,mid:576462321337600319,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzUxMzMxMzg3OTc2OTk1NDY2MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNTUzMTQ5ODAxMDc2ODUzNDcwIiwiaW1hZ2VEb2NpZCI6IjExMzU4MjMxNDc0NDc5OTAwMTE5IiwicmRzIjoiUENfMzgwNzMzOTAwOTQ1NjIyNTc1OXxQUk9EX1BDXzM4MDczMzkwMDk0NTYyMjU3NTkiLCJxdWVyeSI6IldhaG9vK1dGQktUUjEyMyIsImdwY2lkIjoiMzgwNzMzOTAwOTQ1NjIyNTc1OSIsIm1pZCI6IjU3NjQ2MjMyMTMzNzYwMDMxOSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzUxMzMxMzg3OTc2OTk1NDY2MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNTUzMTQ5ODAxMDc2ODUzNDcwIiwiaW1hZ2VEb2NpZCI6IjExMzU4MjMxNDc0NDc5OTAwMTE5IiwicmRzIjoiUENfMzgwNzMzOTAwOTQ1NjIyNTc1OXxQUk9EX1BDXzM4MDczMzkwMDk0NTYyMjU3NTkiLCJxdWVyeSI6IldhaG9vK1dGQktUUjEyMyIsImdwY2lkIjoiMzgwNzMzOTAwOTQ1NjIyNTc1OSIsIm1pZCI6IjU3NjQ2MjMyMTMzNzYwMDMxOSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Zwift US",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b223e6481f3d978206c2006cff8572ab7c.png",
+      "multiple_sources": true,
+      "price": "$319.99",
+      "extracted_price": 319.99,
+      "rating": 4.6,
+      "reviews": 1000,
+      "snippet": "Good airflow (80 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR6B039HFX4ETFb9k5SA4zmzkI3OED1qwhhZ9Yuh5zEAwr3zSJKF7Lm-WwgZVHvxt1O8VFxoVY1UL6hivWlaws9V9RCO3VZo6Ch9T_be79BsGSi5azk0-r3OwU",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eyBgSHicDclJDoIwAADAF7GlAtbEGEAWlUgiUISLYQslyCKtVPsrn-NvdK7z_WBKJ7KRpHoo5_dE60qgxQDEhtCctqVYjr1E8DhN7dDsHtv_bYxzBd3yopkygJ5zXdmRU8BODY0V73l3AIG9Vx4M4wymT6xy22Az4OHx5Oh-LySsyZC3vKgSrJHzGlGqxL6G2yW554xABC9WAFA2ahaG0a2odWgSN2zVnHeyMIOAxT9pdT2c",
+      "delivery": "Free delivery by Thu"
+    },
+    {
+      "position": 5,
+      "title": "Wahoo KICKR Bike V2",
+      "product_id": "5376939632739995847",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5376939632739995847",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:5376939632739995847,headlineOfferDocid:4247084798169341615,imageDocid:8148464749977614964,rds:PC_15678994223578308835|PROD_PC_15678994223578308835,gpcid:15678994223578308835,mid:576462765301501612,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTM3NjkzOTYzMjczOTk5NTg0NyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQyNDcwODQ3OTgxNjkzNDE2MTUiLCJpbWFnZURvY2lkIjoiODE0ODQ2NDc0OTk3NzYxNDk2NCIsInJkcyI6IlBDXzE1Njc4OTk0MjIzNTc4MzA4ODM1fFBST0RfUENfMTU2Nzg5OTQyMjM1NzgzMDg4MzUiLCJxdWVyeSI6IldhaG9vK1dGQktUUjEyMyIsImdwY2lkIjoiMTU2Nzg5OTQyMjM1NzgzMDg4MzUiLCJtaWQiOiI1NzY0NjI3NjUzMDE1MDE2MTIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTM3NjkzOTYzMjczOTk5NTg0NyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQyNDcwODQ3OTgxNjkzNDE2MTUiLCJpbWFnZURvY2lkIjoiODE0ODQ2NDc0OTk3NzYxNDk2NCIsInJkcyI6IlBDXzE1Njc4OTk0MjIzNTc4MzA4ODM1fFBST0RfUENfMTU2Nzg5OTQyMjM1NzgzMDg4MzUiLCJxdWVyeSI6IldhaG9vK1dGQktUUjEyMyIsImdwY2lkIjoiMTU2Nzg5OTQyMjM1NzgzMDg4MzUiLCJtaWQiOiI1NzY0NjI3NjUzMDE1MDE2MTIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Landry's Bicycles",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b25f24586967594f763e402c64383dfc5c.png",
+      "multiple_sources": true,
+      "price": "$3,799.99",
+      "extracted_price": 3799.99,
+      "old_price": "$4,000",
+      "extracted_old_price": 4000,
+      "rating": 4.3,
+      "reviews": 461,
+      "snippet": "Quiet (64 user reviews)",
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJGxdXYesb7AekOZA7bI0r2hYuEvP09Sti5r-f6E3BSbjuqM2TMWlPyn1VlFz3pljN2SSXzkRJN5AueWEEKKJaWeFfH1l-",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8dioe3icDcnbCoIwAADQL_KOiUKEwbQUTVqk9ubmvK45dUb6If1bf1Pn9Xw_jRB8dhSFMDytXJBSEoipcj2LQrRYxsNTmZuB85bVh3H_P8eNS9vHMPDfZZaTGVku6S8P10JnddKbfAGvRLWhaM1JqnbAOELULWOk36KUJivT7tTbDE67WIcw2_prEJvuQlIAwjAoUuJVJ41KP5RDNSc",
+      "tag": "5% OFF",
+      "extensions": [
+        "5% OFF"
+      ]
+    },
+    {
+      "position": 6,
+      "title": "Wahoo KICKR Mat",
+      "product_id": "2169371089778324198",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2169371089778324198",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:2169371089778324198,headlineOfferDocid:4157558184429398411,imageDocid:9891217138903320949,rds:PC_14274871030371971622|PROD_PC_14274871030371971622,gpcid:14274871030371971622,mid:576462597977794140,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjE2OTM3MTA4OTc3ODMyNDE5OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQxNTc1NTgxODQ0MjkzOTg0MTEiLCJpbWFnZURvY2lkIjoiOTg5MTIxNzEzODkwMzMyMDk0OSIsInJkcyI6IlBDXzE0Mjc0ODcxMDMwMzcxOTcxNjIyfFBST0RfUENfMTQyNzQ4NzEwMzAzNzE5NzE2MjIiLCJxdWVyeSI6IldhaG9vK1dGQktUUjEyMyIsImdwY2lkIjoiMTQyNzQ4NzEwMzAzNzE5NzE2MjIiLCJtaWQiOiI1NzY0NjI1OTc5Nzc3OTQxNDAiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjE2OTM3MTA4OTc3ODMyNDE5OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQxNTc1NTgxODQ0MjkzOTg0MTEiLCJpbWFnZURvY2lkIjoiOTg5MTIxNzEzODkwMzMyMDk0OSIsInJkcyI6IlBDXzE0Mjc0ODcxMDMwMzcxOTcxNjIyfFBST0RfUENfMTQyNzQ4NzEwMzAzNzE5NzE2MjIiLCJxdWVyeSI6IldhaG9vK1dGQktUUjEyMyIsImdwY2lkIjoiMTQyNzQ4NzEwMzAzNzE5NzE2MjIiLCJtaWQiOiI1NzY0NjI1OTc5Nzc3OTQxNDAiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "REI",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b229ca3c438905a1a7bbfe2ef38243cb94.png",
+      "multiple_sources": true,
+      "price": "$90.00",
+      "extracted_price": 90.0,
+      "rating": 4.5,
+      "reviews": 909,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRzAjwIvKweoa1Se25XS0PX6pox8D_8gG0m8Z0aCXvuyhbIHhZbgUO3C4LTPtS2suNqp61kipiqWeYXl__aJlg1yhPPkDoyZ0FXeAXqtrE",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6NVXw3icDcltCoIwAADQE6XTSkyIEC2zwiSLln9k6tjMj003NbtNx-o29f6-74dKyYWlqrjJuolLnM9k2mgKERLJIlMyVquCMs6Lhmza9f8sO8hXXnZ528_RH44jZkiLsL6EEQihwdnLdBOTeKA2Y4AcOPQTTf09jVNyO8-dxekaykgXfdByQysLXrR3_IBVkqBDRbSJhmHpsikGO4ht2Mpu-wMqhDp1",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 7,
+      "title": "Wahoo KICKR CORE Zwift Cog/Click",
+      "product_id": "11972783917885915267",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11972783917885915267",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:11972783917885915267,headlineOfferDocid:9520433182529742053,imageDocid:2972080996760720143,rds:PC_14783702150091750245|PROD_PC_14783702150091750245,gpcid:14783702150091750245,mid:576462847607785635,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5NzI3ODM5MTc4ODU5MTUyNjciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5NTIwNDMzMTgyNTI5NzQyMDUzIiwiaW1hZ2VEb2NpZCI6IjI5NzIwODA5OTY3NjA3MjAxNDMiLCJyZHMiOiJQQ18xNDc4MzcwMjE1MDA5MTc1MDI0NXxQUk9EX1BDXzE0NzgzNzAyMTUwMDkxNzUwMjQ1IiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6IjE0NzgzNzAyMTUwMDkxNzUwMjQ1IiwibWlkIjoiNTc2NDYyODQ3NjA3Nzg1NjM1IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5NzI3ODM5MTc4ODU5MTUyNjciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5NTIwNDMzMTgyNTI5NzQyMDUzIiwiaW1hZ2VEb2NpZCI6IjI5NzIwODA5OTY3NjA3MjAxNDMiLCJyZHMiOiJQQ18xNDc4MzcwMjE1MDA5MTc1MDI0NXxQUk9EX1BDXzE0NzgzNzAyMTUwMDkxNzUwMjQ1IiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6IjE0NzgzNzAyMTUwMDkxNzUwMjQ1IiwibWlkIjoiNTc2NDYyODQ3NjA3Nzg1NjM1IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "industrialbicycles",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b20cdbcbb38c68bc88efddbea142505d53.png",
+      "multiple_sources": true,
+      "price": "$549.99",
+      "extracted_price": 549.99,
+      "rating": 4.8,
+      "reviews": 261,
+      "snippet": "Quiet (42 user reviews)",
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpG-nvAlnizs3f-oSaRm2z_MjkI3HWz6bZ7AWSdrtWSLXwkwtn_xQrd6PNyuq9CJDwC4bVO2WCBZqY8_E-Astem-4_1xJJS9u0eEEbxV1KCo6YzNP5PXWO",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6LLsF3icDcndEoFAGADQJ1qhRGaMWWkiVDTTVjdNfxTatvZL6aG8j7fh3J7vJwdgfCkIGU2aN4MsRRBTcXTjEEGRjJKqFHheMVbQ27pe_W-JzVTRkwvTEX3hJy0GLl5R5USXcjqEp_tjL-7IIMfBHBMnbYA4R697dEDD_tyksm2-21pRjW2nSrFrTYm6CWp_EWoIc8hKJIWT3jAcpR1nmhb37uSgVrI_mPbM9oj1A2tbPg0"
+    },
+    {
+      "position": 8,
+      "title": "Wahoo KICKR Core with Cassette 12-Speed",
+      "product_id": "10049266810724247388",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10049266810724247388",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:10049266810724247388,headlineOfferDocid:14549992127099883787,imageDocid:5604903921504952558,rds:PC_7987491098537382491|PROD_PC_7987491098537382491,gpcid:7987491098537382491,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAwNDkyNjY4MTA3MjQyNDczODgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDU0OTk5MjEyNzA5OTg4Mzc4NyIsImltYWdlRG9jaWQiOiI1NjA0OTAzOTIxNTA0OTUyNTU4IiwicmRzIjoiUENfNzk4NzQ5MTA5ODUzNzM4MjQ5MXxQUk9EX1BDXzc5ODc0OTEwOTg1MzczODI0OTEiLCJxdWVyeSI6IldhaG9vK1dGQktUUjEyMyIsImdwY2lkIjoiNzk4NzQ5MTA5ODUzNzM4MjQ5MSIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAwNDkyNjY4MTA3MjQyNDczODgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDU0OTk5MjEyNzA5OTg4Mzc4NyIsImltYWdlRG9jaWQiOiI1NjA0OTAzOTIxNTA0OTUyNTU4IiwicmRzIjoiUENfNzk4NzQ5MTA5ODUzNzM4MjQ5MXxQUk9EX1BDXzc5ODc0OTEwOTg1MzczODI0OTEiLCJxdWVyeSI6IldhaG9vK1dGQktUUjEyMyIsImdwY2lkIjoiNzk4NzQ5MTA5ODUzNzM4MjQ5MSIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Garage Cycles",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b21dc6810494ee2b1e8d0f558be73fe628.png",
+      "multiple_sources": true,
+      "price": "$534.99",
+      "extracted_price": 534.99,
+      "old_price": "$600",
+      "extracted_old_price": 600,
+      "rating": 4.2,
+      "reviews": 4,
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjPipue06aYWllD6SP80X7TZviNDSdIn9Lf2_hpkR6P8VnqFE04XSanEPtP7rxmhBMIXn0dFsaDgwELJiC1HAly7JEBAHcmVMWtXdLpk76m7rEP3g8YcER9g",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-TGnYHicDcn_EkIwAADgJypSZ7jrOrKKw-3oUP902jQLM6wf3qrX6W3q-_f7fiopxWgpSsnxMAlZkpm8cm1OR1lIhue4a5Wx6oRgnG769f8sOyLmHid3xMSjVPXilDWNqyfIUHNwPD9Z5CbE42Zw0y6VqGMdGSnvd1Bd5UnBIZIIDO-2ckIv5yrZjYVLXzDw2XZxsJsJ-NCxD7hNw0zmJBA10FswQLSkxgnD2KQ_fYk9tw",
+      "tag": "10% OFF",
+      "extensions": [
+        "10% OFF"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 9,
+      "title": "wahoo fitness Wahoo KICKR CORE KOM Bundle (KICKR CORE & KICKR CLIMB)",
+      "product_id": "7537496791396606898",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7537496791396606898",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=productid:7537496791396606898,headlineOfferDocid:7537496791396606898,imageDocid:6321144752803906239,rds:PC_7654672653937271208|PROD_PC_7654672653937271208,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiNzUzNzQ5Njc5MTM5NjYwNjg5OCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1Mzc0OTY3OTEzOTY2MDY4OTgiLCJpbWFnZURvY2lkIjoiNjMyMTE0NDc1MjgwMzkwNjIzOSIsInJkcyI6IlBDXzc2NTQ2NzI2NTM5MzcyNzEyMDh8UFJPRF9QQ183NjU0NjcyNjUzOTM3MjcxMjA4IiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiNzUzNzQ5Njc5MTM5NjYwNjg5OCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1Mzc0OTY3OTEzOTY2MDY4OTgiLCJpbWFnZURvY2lkIjoiNjMyMTE0NDc1MjgwMzkwNjIzOSIsInJkcyI6IlBDXzc2NTQ2NzI2NTM5MzcyNzEyMDh8UFJPRF9QQ183NjU0NjcyNjUzOTM3MjcxMjA4IiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Conifer Bike Shop",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b2699044dcf1dea2204d3de686f239cbc3.png",
+      "price": "$999.99",
+      "extracted_price": 999.99,
+      "old_price": "$1,600",
+      "extracted_old_price": 1600,
+      "rating": 4.4,
+      "reviews": 179,
+      "snippet": "Realistic (28 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZkbO0RM_W3x6QoAsbvwCQP9UriLF6rHPzmYfoXu-mGYjdh_0YTSAlFy-b7oAsCTJH91wBlYtCWfuAkofguKHdwTDWcMcwuQ",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZySwEXicDcrbCoIwAADQL_ISgqEQsQyVytIybL1I27zlZcttLfuSfq2_qedzvp9aCMZdwygGPE5MFEQTaLD0ioubaLCOaW_wmjLWDNXysfibC_bECXBybdHBPEZ5Zr3shAKOnspLYuc8NjvfHsP43cOSXqTWB_BO6tyE6Ql0_qSh-T976SZ0ZmrVQeFlpQQtLSu5DYlK1xmOsJLJDyqSN1o",
+      "tag": "37% OFF",
+      "extensions": [
+        "37% OFF"
+      ]
+    },
+    {
+      "position": 10,
+      "title": "Wahoo Kickr 148 Insert Non-drive Side",
+      "product_id": "15454006962853949738",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15454006962853949738",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=productid:15454006962853949738,headlineOfferDocid:15454006962853949738,imageDocid:7453702745863457350,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiMTU0NTQwMDY5NjI4NTM5NDk3MzgiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTQ1NDAwNjk2Mjg1Mzk0OTczOCIsImltYWdlRG9jaWQiOiI3NDUzNzAyNzQ1ODYzNDU3MzUwIiwicmRzIjoiIiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiMTU0NTQwMDY5NjI4NTM5NDk3MzgiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTQ1NDAwNjk2Mjg1Mzk0OTczOCIsImltYWdlRG9jaWQiOiI3NDUzNzAyNzQ1ODYzNDU3MzUwIiwicmRzIjoiIiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "eBay",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b2bfaeed5737a079c5a6f39e7efee91072.png",
+      "price": "$20.00",
+      "extracted_price": 20.0,
+      "second_hand_condition": "pre-owned",
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQfpnVq9pVhif038gU3p42Kt3zPqSeezgb2fI_7q-jtGohSP-5SnfhkO7aouvjwz14dRGSBNQHPdkFsGPb75S5ko0YnG9sBwkb4EOUWSinvEIvSBa3xpw-KNA",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UruI-nicDclZCoJAAADQE7nkgilEKNgkgkuDRV_hMotKM2MzaXmqrtNt6v2-74cqJWRgGIi1j7dQqNNUwyydSFWrvtVbfjck5UL0jOyn3f-CMOt80JZYsPPkizPtsWlvSWULx0qVvRYTRGgljYWTmzdpgwKcwkJzIcN0zL2aP-dhWTdOdwIwyspj0Y0HCYrGc6E7cvPKgC-jZWycOK8usGdznMwwqu2XWLQ0C3_HeD7n"
+    },
+    {
+      "position": 11,
+      "title": "Wahoo Fitness Kickr Move Climb Bundle",
+      "product_id": "18193602619596429530",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18193602619596429530",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=productid:18193602619596429530,headlineOfferDocid:18193602619596429530,imageDocid:15898203074044391317,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiMTgxOTM2MDI2MTk1OTY0Mjk1MzAiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODE5MzYwMjYxOTU5NjQyOTUzMCIsImltYWdlRG9jaWQiOiIxNTg5ODIwMzA3NDA0NDM5MTMxNyIsInJkcyI6IiIsInF1ZXJ5IjoiV2Fob28rV0ZCS1RSMTIzIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiMTgxOTM2MDI2MTk1OTY0Mjk1MzAiLCJjYXRhbG9naWQiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODE5MzYwMjYxOTU5NjQyOTUzMCIsImltYWdlRG9jaWQiOiIxNTg5ODIwMzA3NDA0NDM5MTMxNyIsInJkcyI6IiIsInF1ZXJ5IjoiV2Fob28rV0ZCS1RSMTIzIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Brands Cycle & Fitness",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b29686f87a4a5e7b7669df039b936afe02.png",
+      "price": "$1,799.00",
+      "extracted_price": 1799.0,
+      "rating": null,
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6SCn1GTaIIk6ekvoza8bzq0k88TJ7ldRpyaSwi6hBJEPjfdikcxuXKamQ_ZYRL5y58OQBmckDhKS_45MacL4n9vtNhabieg",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5PLY9nicDclJDoIwAADAFwmSABYSY0QNYRFlOagXUtpKa6UUqSi8xK_5G53rfD9UKdm7uk4EeoxSETxTlTC0uldQMaShttF72krJRL3qlv9z1wl2fJTa-UYYfgGDgNuED-0EQTV1cw5AES7uOJMjzF_Mpl64O96umHH0fp4i2KTl5ZzF1miBQ-o1iG9plJemtYcoNoUzqITCipH6ByvONzE",
+      "delivery": "Free delivery by Tue"
+    },
+    {
+      "position": 12,
+      "title": "Wahoo ELEMNT BOLT GPS Bike Computer",
+      "product_id": "10776398223794014442",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10776398223794014442",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:10776398223794014442,headlineOfferDocid:14834241433340477803,imageDocid:6996042621820794727,rds:PC_10806510811503089684|PROD_PC_10806510811503089684,gpcid:10806510811503089684,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA3NzYzOTgyMjM3OTQwMTQ0NDIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDgzNDI0MTQzMzM0MDQ3NzgwMyIsImltYWdlRG9jaWQiOiI2OTk2MDQyNjIxODIwNzk0NzI3IiwicmRzIjoiUENfMTA4MDY1MTA4MTE1MDMwODk2ODR8UFJPRF9QQ18xMDgwNjUxMDgxMTUwMzA4OTY4NCIsInF1ZXJ5IjoiV2Fob28rV0ZCS1RSMTIzIiwiZ3BjaWQiOiIxMDgwNjUxMDgxMTUwMzA4OTY4NCIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA3NzYzOTgyMjM3OTQwMTQ0NDIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDgzNDI0MTQzMzM0MDQ3NzgwMyIsImltYWdlRG9jaWQiOiI2OTk2MDQyNjIxODIwNzk0NzI3IiwicmRzIjoiUENfMTA4MDY1MTA4MTE1MDMwODk2ODR8UFJPRF9QQ18xMDgwNjUxMDgxMTUwMzA4OTY4NCIsInF1ZXJ5IjoiV2Fob28rV0ZCS1RSMTIzIiwiZ3BjaWQiOiIxMDgwNjUxMDgxMTUwMzA4OTY4NCIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "eBay",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b27a1325d8d93e7781e90aed48eb85d30d.png",
+      "multiple_sources": true,
+      "price": "$99.00",
+      "extracted_price": 99.0,
+      "second_hand_condition": "pre-owned",
+      "rating": 4.6,
+      "reviews": 723,
+      "snippet": "Easy to use (104 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYiyFhrwCHuXlqJBnG8EzuCIlq47c9ANJSEkP5fp-Qbu_39WhTHXew4t7S_eyeohYgIAnrKVEexbAw0MZxj01wRP1Ljjq7n8_I9QDRzgHh",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UUFlkXicDclJDoIwAADAF7EFDEtiDCKyqITFKHghUioFsRQoKfgcf-VvdK7z_SBKyWgIAsRgWAiFJUcLLPPVSO-0BjzoXsKIOkJqXG369f8MMyh1ByRZvezRwCx3Stve32JHs9-T5bW9ogLdDPzEfoarB-GiYspl_YrObgqZQtUkhwvsUFZ5Jh4OFxvOhcnE021uRInFoXRsml7FWu7p0S5-Vy76AXPPOlU",
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 13,
+      "title": "Wahoo Kickr Climb Indoor Grade Simulator",
+      "product_id": "8634189218213319222",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8634189218213319222",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:8634189218213319222,headlineOfferDocid:6063664900141448597,imageDocid:17011749200890112980,rds:PC_14342561038440826780|PROD_PC_14342561038440826780,gpcid:14342561038440826780,mid:576462716876419063,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODYzNDE4OTIxODIxMzMxOTIyMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwNjM2NjQ5MDAxNDE0NDg1OTciLCJpbWFnZURvY2lkIjoiMTcwMTE3NDkyMDA4OTAxMTI5ODAiLCJyZHMiOiJQQ18xNDM0MjU2MTAzODQ0MDgyNjc4MHxQUk9EX1BDXzE0MzQyNTYxMDM4NDQwODI2NzgwIiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6IjE0MzQyNTYxMDM4NDQwODI2NzgwIiwibWlkIjoiNTc2NDYyNzE2ODc2NDE5MDYzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODYzNDE4OTIxODIxMzMxOTIyMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwNjM2NjQ5MDAxNDE0NDg1OTciLCJpbWFnZURvY2lkIjoiMTcwMTE3NDkyMDA4OTAxMTI5ODAiLCJyZHMiOiJQQ18xNDM0MjU2MTAzODQ0MDgyNjc4MHxQUk9EX1BDXzE0MzQyNTYxMDM4NDQwODI2NzgwIiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6IjE0MzQyNTYxMDM4NDQwODI2NzgwIiwibWlkIjoiNTc2NDYyNzE2ODc2NDE5MDYzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "Fara Cycling",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b2082cc07fb138b6d2af8b4b2bdbde4266.png",
+      "multiple_sources": true,
+      "price": "$805.42",
+      "extracted_price": 805.42,
+      "alternative_price": {
+        "price": "NOK 7,990",
+        "extracted_price": 7990,
+        "currency": "NOK"
+      },
+      "rating": 4.5,
+      "reviews": 521,
+      "snippet": "Realistic (139 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0sexRi-bMjEFeLEWd4L-4Oyb7aZE7ZG68ZCOePxL8v_Ymgn0QKD98jXKpHi9BPa8n_VcVSOkL6SWrNHNCv5El4XuLY_QzrWZ2g4-H6u7HMPWA8BDiTqmv",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kqllf3icDcnbCoIwAADQLzIlTGcQkZcUnLcMp76IzmGznEuXVB_V__Q3dV7P93MRgs9bWSYMTy8uSCuJhimrbha1oHiFx0GeLyPnlHX7--5_20PYGi5OlJk8T1Rqgt45EuigVoWSGr0avS4dvXQ1UFoRiZ8QLFUxdExJfNsAfe5zjxpmXANWZThLoyvUUjSFXmgtG-em5g9YVMl7QuW6UyVPe-heEKMDMG16vg_LD7nHPEc"
+    },
+    {
+      "position": 14,
+      "title": "Wahoo KICKR 142x12mm Adapter",
+      "product_id": "10605009125554690872",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10605009125554690872",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=Wahoo WFBKTR123&prds=catalogid:10605009125554690872,headlineOfferDocid:4657841384709239488,imageDocid:5928727108634909391,rds:PC_14098617445674016332|PROD_PC_14098617445674016332,gpcid:14098617445674016332,mid:576462685418326003,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA2MDUwMDkxMjU1NTQ2OTA4NzIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0NjU3ODQxMzg0NzA5MjM5NDg4IiwiaW1hZ2VEb2NpZCI6IjU5Mjg3MjcxMDg2MzQ5MDkzOTEiLCJyZHMiOiJQQ18xNDA5ODYxNzQ0NTY3NDAxNjMzMnxQUk9EX1BDXzE0MDk4NjE3NDQ1Njc0MDE2MzMyIiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6IjE0MDk4NjE3NDQ1Njc0MDE2MzMyIiwibWlkIjoiNTc2NDYyNjg1NDE4MzI2MDAzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkVHWUZhYnJWRjVubjVOb1BpN3VSeUEwIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA2MDUwMDkxMjU1NTQ2OTA4NzIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0NjU3ODQxMzg0NzA5MjM5NDg4IiwiaW1hZ2VEb2NpZCI6IjU5Mjg3MjcxMDg2MzQ5MDkzOTEiLCJyZHMiOiJQQ18xNDA5ODYxNzQ0NTY3NDAxNjMzMnxQUk9EX1BDXzE0MDk4NjE3NDQ1Njc0MDE2MzMyIiwicXVlcnkiOiJXYWhvbytXRkJLVFIxMjMiLCJncGNpZCI6IjE0MDk4NjE3NDQ1Njc0MDE2MzMyIiwibWlkIjoiNTc2NDYyNjg1NDE4MzI2MDAzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9",
+      "source": "eBay",
+      "source_icon": "https://serpapi.com/searches/6905660fb4ab72ee67aaa4ad/images/18ba1cced5e8d783c92580824168e7b281d2949253bdd7fe8d8fdb2adbc6558e.png",
+      "multiple_sources": true,
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "rating": 3.8,
+      "reviews": 299,
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSJVAfP4qgMG0buFGIQ2-a5X52vXgKY3BLAObxzritsBKWqoivf9DVzhW0WwzLysUgxhBCDbEf4L1L0PeP3SqNfn8YnL3ha8_r1fH8bJOY",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wCn3jnicDclJDoIwAADAF7FDAiTGgCgKFTBElpOhQFsOlqUVgd_4LH-jc53vh3A-MFuSWlpP68DbRuCQaiJmvOJdLdb9U2KkH4aO4v24-5_tRI3l12mQOSjRR3z1Zfg6-ZebKlRGYahzgcNSc4ETw2WbOs7cMB_7bkaWl20kl_P3BlZ2xwtxDx48Ih0oQE7aREvHCFGzpEAjlfmYFHQ2YRCXP_APOQM"
+    }
+  ],
+  "filters": [
+    {
+      "type": "Refine results",
+      "input_type": "link_with_icon",
+      "options": [
+        {
+          "text": "On sale",
+          "shoprs": "CAESBEoCGAEYBioPd2Fob28gd2Zia3RyMTIzMhMIBhIHT24gc2FsZRgCIgRKAhgBWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Wahoo+WFBKTR123+sale&shoprs=CAESBEoCGAEYBioPd2Fob28gd2Zia3RyMTIzMhMIBhIHT24gc2FsZRgCIgRKAhgBWP-9IGAC"
+        },
+        {
+          "text": "New",
+          "shoprs": "CAEYCioPd2Fob28gd2Zia3RyMTIzMgcIChIDTmV3WP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=new+Wahoo+WFBKTR123&shoprs=CAEYCioPd2Fob28gd2Zia3RyMTIzMgcIChIDTmV3WP-9IGAC"
+        },
+        {
+          "text": "Used",
+          "shoprs": "CAEYCioPd2Fob28gd2Zia3RyMTIzMggIChIEVXNlZFj_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=used+Wahoo+WFBKTR123&shoprs=CAEYCioPd2Fob28gd2Zia3RyMTIzMggIChIEVXNlZFj_vSBgAg"
+        },
+        {
+          "text": "Small business",
+          "shoprs": "CAESAmoAGBYqD3dhaG9vIHdmYmt0cjEyMzIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=wahoo+wfbktr123&shoprs=CAESAmoAGBYqD3dhaG9vIHdmYmt0cjEyMzIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAC"
+        }
+      ]
+    },
+    {
+      "type": "Category",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Bike Trainers",
+          "shoprs": "CAEYCSoPd2Fob28gd2Zia3RyMTIzMhEICRINQmlrZSBUcmFpbmVyc2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=bike+trainers+wahoo+wfbktr123&shoprs=CAEYCSoPd2Fob28gd2Zia3RyMTIzMhEICRINQmlrZSBUcmFpbmVyc2AC"
+        },
+        {
+          "text": "Bike Computers",
+          "shoprs": "CAEYCSoPd2Fob28gd2Zia3RyMTIzMhIICRIOQmlrZSBDb21wdXRlcnNgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=bike+computers+wahoo+wfbktr123&shoprs=CAEYCSoPd2Fob28gd2Zia3RyMTIzMhIICRIOQmlrZSBDb21wdXRlcnNgAg"
+        },
+        {
+          "text": "Exercise Bikes",
+          "shoprs": "CAEYCSoPd2Fob28gd2Zia3RyMTIzMhIICRIORXhlcmNpc2UgQmlrZXNgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=exercise+bikes+wahoo+wfbktr123&shoprs=CAEYCSoPd2Fob28gd2Zia3RyMTIzMhIICRIORXhlcmNpc2UgQmlrZXNgAg"
+        }
+      ]
+    },
+    {
+      "type": "Product Rating",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "4 and up",
+          "shoprs": "CAESBWIDCJADGB4qD3dhaG9vIHdmYmt0cjEyMzIVCB4SCDQgYW5kIHVwIgViAwiQA0AEYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Wahoo+WFBKTR123&shoprs=CAESBWIDCJADGB4qD3dhaG9vIHdmYmt0cjEyMzIVCB4SCDQgYW5kIHVwIgViAwiQA0AEYAI"
+        }
+      ]
+    },
+    {
+      "type": "Stores",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "REI",
+          "shoprs": "CAEYAioPd2Fob28gd2Zia3RyMTIzMgcIAhIDUkVJWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=rei+wahoo+wfbktr123&shoprs=CAEYAioPd2Fob28gd2Zia3RyMTIzMgcIAhIDUkVJWP-9IGAC"
+        },
+        {
+          "text": "eBay",
+          "shoprs": "CAEYAioPd2Fob28gd2Zia3RyMTIzMggIAhIEZUJheVj_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=ebay+wahoo+wfbktr123&shoprs=CAEYAioPd2Fob28gd2Zia3RyMTIzMggIAhIEZUJheVj_vSBgAg"
+        },
+        {
+          "text": "Backcountry.com",
+          "shoprs": "CAEYAioPd2Fob28gd2Zia3RyMTIzMhMIAhIPQmFja2NvdW50cnkuY29tWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=backcountry.com+wahoo+wfbktr123&shoprs=CAEYAioPd2Fob28gd2Zia3RyMTIzMhMIAhIPQmFja2NvdW50cnkuY29tWP-9IGAC"
+        },
+        {
+          "text": "Brands Cycle & Fitness",
+          "shoprs": "CAEYAioPd2Fob28gd2Zia3RyMTIzMhoIAhIWQnJhbmRzIEN5Y2xlICYgRml0bmVzc1j_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=brands+cycle+%26+fitness+wahoo+wfbktr123&shoprs=CAEYAioPd2Fob28gd2Zia3RyMTIzMhoIAhIWQnJhbmRzIEN5Y2xlICYgRml0bmVzc1j_vSBgAg"
+        },
+        {
+          "text": "Competitive Cyclist",
+          "shoprs": "CAEYAioPd2Fob28gd2Zia3RyMTIzMhcIAhITQ29tcGV0aXRpdmUgQ3ljbGlzdFj_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=competitive+cyclist+wahoo+wfbktr123&shoprs=CAEYAioPd2Fob28gd2Zia3RyMTIzMhcIAhITQ29tcGV0aXRpdmUgQ3ljbGlzdFj_vSBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "input_type": "price_range",
+      "options": [
+        {
+          "text": "Under $350",
+          "shoprs": "CAESDRILEQAAAICT3LRBGAEYBSoPd2Fob28gd2Zia3RyMTIzMiMIBRIKVW5kZXIgJDM1MBgCIg0SCxEAAACAk9y0QRgBKgIYAVj_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Wahoo+WFBKTR123+under+%24350&shoprs=CAESDRILEQAAAICT3LRBGAEYBSoPd2Fob28gd2Zia3RyMTIzMiMIBRIKVW5kZXIgJDM1MBgCIg0SCxEAAACAk9y0QRgBKgIYAVj_vSBgAg"
+        },
+        {
+          "text": "$350 - $900",
+          "shoprs": "CAESFhIUCQAAAICT3LRBEQAAAIB00spBGAEYBSoPd2Fob28gd2Zia3RyMTIzMi0IBRILJDM1MCAtICQ5MDAYAiIWEhQJAAAAgJPctEERAAAAgHTSykEYASoCGAFY_70gYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Wahoo+WFBKTR123+between+%24350+and+%24900&shoprs=CAESFhIUCQAAAICT3LRBEQAAAIB00spBGAEYBSoPd2Fob28gd2Zia3RyMTIzMi0IBRILJDM1MCAtICQ5MDAYAiIWEhQJAAAAgJPctEERAAAAgHTSykEYASoCGAFY_70gYAI"
+        },
+        {
+          "text": "Over $900",
+          "shoprs": "CAESDRILCQAAAIB00spBGAEYBSoPd2Fob28gd2Zia3RyMTIzMiIIBRIJT3ZlciAkOTAwGAIiDRILCQAAAIB00spBGAEqAhgBWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Wahoo+WFBKTR123+over+%24900&shoprs=CAESDRILCQAAAIB00spBGAEYBSoPd2Fob28gd2Zia3RyMTIzMiIIBRIJT3ZlciAkOTAwGAIiDRILCQAAAIB00spBGAEqAhgBWP-9IGAC"
+        }
+      ]
+    },
+    {
+      "type": "Features",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Weather Resistant",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMiMIARIRV2VhdGhlciBSZXNpc3RhbnQ6DAiEt40CEPbhjQIwA1j_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=weather+resistant+wahoo+wfbktr123&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMiMIARIRV2VhdGhlciBSZXNpc3RhbnQ6DAiEt40CEPbhjQIwA1j_vSBgAg"
+        },
+        {
+          "text": "With Altimeter",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMiIIARIOV2l0aCBBbHRpbWV0ZXIYAjoMCIa3jQIQ-uGNAjADWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=wahoo+wfbktr123+with+altimeter&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMiIIARIOV2l0aCBBbHRpbWV0ZXIYAjoMCIa3jQIQ-uGNAjADWP-9IGAC"
+        },
+        {
+          "text": "With Maps",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMh0IARIJV2l0aCBNYXBzGAI6DAjt-Y4CEO75jgIwA1j_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=wahoo+wfbktr123+with+maps&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMh0IARIJV2l0aCBNYXBzGAI6DAjt-Y4CEO75jgIwA1j_vSBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Connectivity",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "ANT+",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMhYIARIEQU5UKzoMCPy2jQIQ_baNAjACWP-9IGAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=ant%2B+wahoo+wfbktr123&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMhYIARIEQU5UKzoMCPy2jQIQ_baNAjACWP-9IGAC"
+        },
+        {
+          "text": "Wi-Fi",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMhcIARIFV2ktRmk6DAj8to0CEP-2jQIwAlj_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=wi-fi+wahoo+wfbktr123&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMhcIARIFV2ktRmk6DAj8to0CEP-2jQIwAlj_vSBgAg"
+        }
+      ]
+    },
+    {
+      "type": "Free shipping",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Free shipping",
+          "shoprs": "CAESBFICEAEYGSoPd2Fob28gd2Zia3RyMTIzMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Wahoo+WFBKTR123+free+shipping&shoprs=CAESBFICEAEYGSoPd2Fob28gd2Zia3RyMTIzMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAC"
+        }
+      ]
+    },
+    {
+      "type": "Brand",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Wahoo Fitness",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMh0IARINV2Fob28gRml0bmVzczoKCIPzPBCY1D4wAVj_vSBgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=wahoo+fitness+wfbktr123&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMh0IARINV2Fob28gRml0bmVzczoKCIPzPBCY1D4wAVj_vSBgAg"
+        },
+        {
+          "text": "Best Club",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMhsIARIJQmVzdCBDbHViOgwIg_M8EMqX_N0DMAFY_70gYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=best+club+wahoo+wfbktr123&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMhsIARIJQmVzdCBDbHViOgwIg_M8EMqX_N0DMAFY_70gYAI"
+        }
+      ]
+    },
+    {
+      "type": "Carousel Filters",
+      "options": [
+        {
+          "text": "Bike Trainers",
+          "shoprs": "CAEYCSoPd2Fob28gd2Zia3RyMTIzMhEICRINQmlrZSBUcmFpbmVyc2AB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=bike+trainers+wahoo+wfbktr123&shoprs=CAEYCSoPd2Fob28gd2Zia3RyMTIzMhEICRINQmlrZSBUcmFpbmVyc2AB",
+          "input_type": "link"
+        },
+        {
+          "text": "On sale",
+          "shoprs": "CAESBEoCGAEYBioPd2Fob28gd2Zia3RyMTIzMhMIBhIHT24gc2FsZRgCIgRKAhgBWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Wahoo+WFBKTR123+sale&shoprs=CAESBEoCGAEYBioPd2Fob28gd2Zia3RyMTIzMhMIBhIHT24gc2FsZRgCIgRKAhgBWP-9IGAB",
+          "input_type": "link_with_icon"
+        },
+        {
+          "text": "Bike Computers",
+          "shoprs": "CAEYCSoPd2Fob28gd2Zia3RyMTIzMhIICRIOQmlrZSBDb21wdXRlcnNgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=bike+computers+wahoo+wfbktr123&shoprs=CAEYCSoPd2Fob28gd2Zia3RyMTIzMhIICRIOQmlrZSBDb21wdXRlcnNgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Exercise Bikes",
+          "shoprs": "CAEYCSoPd2Fob28gd2Zia3RyMTIzMhIICRIORXhlcmNpc2UgQmlrZXNgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=exercise+bikes+wahoo+wfbktr123&shoprs=CAEYCSoPd2Fob28gd2Zia3RyMTIzMhIICRIORXhlcmNpc2UgQmlrZXNgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "New",
+          "shoprs": "CAEYCioPd2Fob28gd2Zia3RyMTIzMgcIChIDTmV3WP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=new+Wahoo+WFBKTR123&shoprs=CAEYCioPd2Fob28gd2Zia3RyMTIzMgcIChIDTmV3WP-9IGAB",
+          "input_type": "link_with_icon"
+        },
+        {
+          "text": "Used",
+          "shoprs": "CAEYCioPd2Fob28gd2Zia3RyMTIzMggIChIEVXNlZFj_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=used+Wahoo+WFBKTR123&shoprs=CAEYCioPd2Fob28gd2Zia3RyMTIzMggIChIEVXNlZFj_vSBgAQ",
+          "input_type": "link_with_icon"
+        },
+        {
+          "text": "REI",
+          "shoprs": "CAEYAioPd2Fob28gd2Zia3RyMTIzMgcIAhIDUkVJWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=rei+wahoo+wfbktr123&shoprs=CAEYAioPd2Fob28gd2Zia3RyMTIzMgcIAhIDUkVJWP-9IGAB",
+          "input_type": "link"
+        },
+        {
+          "text": "Under $350",
+          "shoprs": "CAESDRILEQAAAICT3LRBGAEYBSoPd2Fob28gd2Zia3RyMTIzMiMIBRIKVW5kZXIgJDM1MBgCIg0SCxEAAACAk9y0QRgBKgIYAVj_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Wahoo+WFBKTR123+under+%24350&shoprs=CAESDRILEQAAAICT3LRBGAEYBSoPd2Fob28gd2Zia3RyMTIzMiMIBRIKVW5kZXIgJDM1MBgCIg0SCxEAAACAk9y0QRgBKgIYAVj_vSBgAQ",
+          "input_type": "price_range"
+        },
+        {
+          "text": "eBay",
+          "shoprs": "CAEYAioPd2Fob28gd2Zia3RyMTIzMggIAhIEZUJheVj_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=ebay+wahoo+wfbktr123&shoprs=CAEYAioPd2Fob28gd2Zia3RyMTIzMggIAhIEZUJheVj_vSBgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Backcountry.com",
+          "shoprs": "CAEYAioPd2Fob28gd2Zia3RyMTIzMhMIAhIPQmFja2NvdW50cnkuY29tWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=backcountry.com+wahoo+wfbktr123&shoprs=CAEYAioPd2Fob28gd2Zia3RyMTIzMhMIAhIPQmFja2NvdW50cnkuY29tWP-9IGAB",
+          "input_type": "link"
+        },
+        {
+          "text": "Indoor Cycle",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMhwIARIMSW5kb29yIEN5Y2xlOgoI2ZcrENyXKzACWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=indoor+cycle+wahoo+wfbktr123&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMhwIARIMSW5kb29yIEN5Y2xlOgoI2ZcrENyXKzACWP-9IGAB",
+          "input_type": "link"
+        },
+        {
+          "text": "Wireless",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMhoIARIIV2lyZWxlc3M6DAjsto0CEO-2jQIwAlj_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=wireless+wahoo+wfbktr123&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMhoIARIIV2lyZWxlc3M6DAjsto0CEO-2jQIwAlj_vSBgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Weather Resistant",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMiMIARIRV2VhdGhlciBSZXNpc3RhbnQ6DAiEt40CEPbhjQIwA1j_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=weather+resistant+wahoo+wfbktr123&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMiMIARIRV2VhdGhlciBSZXNpc3RhbnQ6DAiEt40CEPbhjQIwA1j_vSBgAQ",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "With Altimeter",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMiIIARIOV2l0aCBBbHRpbWV0ZXIYAjoMCIa3jQIQ-uGNAjADWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=wahoo+wfbktr123+with+altimeter&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMiIIARIOV2l0aCBBbHRpbWV0ZXIYAjoMCIa3jQIQ-uGNAjADWP-9IGAB",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "With Maps",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMh0IARIJV2l0aCBNYXBzGAI6DAjt-Y4CEO75jgIwA1j_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=wahoo+wfbktr123+with+maps&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMh0IARIJV2l0aCBNYXBzGAI6DAjt-Y4CEO75jgIwA1j_vSBgAQ",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "ANT+",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMhYIARIEQU5UKzoMCPy2jQIQ_baNAjACWP-9IGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=ant%2B+wahoo+wfbktr123&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMhYIARIEQU5UKzoMCPy2jQIQ_baNAjACWP-9IGAB",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "Wi-Fi",
+          "shoprs": "CAEYASoPd2Fob28gd2Zia3RyMTIzMhcIARIFV2ktRmk6DAj8to0CEP-2jQIwAlj_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=wi-fi+wahoo+wfbktr123&shoprs=CAEYASoPd2Fob28gd2Zia3RyMTIzMhcIARIFV2ktRmk6DAj8to0CEP-2jQIwAlj_vSBgAQ",
+          "input_type": "checkbox"
+        },
+        {
+          "text": "Small business",
+          "shoprs": "CAESAmoAGBYqD3dhaG9vIHdmYmt0cjEyMzIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=wahoo+wfbktr123&shoprs=CAESAmoAGBYqD3dhaG9vIHdmYmt0cjEyMzIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAB",
+          "input_type": "link_with_icon"
+        },
+        {
+          "text": "Free shipping",
+          "shoprs": "CAESBFICEAEYGSoPd2Fob28gd2Zia3RyMTIzMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Wahoo+WFBKTR123+free+shipping&shoprs=CAESBFICEAEYGSoPd2Fob28gd2Zia3RyMTIzMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAB",
+          "input_type": "link"
+        },
+        {
+          "text": "Brands Cycle & Fitness",
+          "shoprs": "CAEYAioPd2Fob28gd2Zia3RyMTIzMhoIAhIWQnJhbmRzIEN5Y2xlICYgRml0bmVzc1j_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=brands+cycle+%26+fitness+wahoo+wfbktr123&shoprs=CAEYAioPd2Fob28gd2Zia3RyMTIzMhoIAhIWQnJhbmRzIEN5Y2xlICYgRml0bmVzc1j_vSBgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Competitive Cyclist",
+          "shoprs": "CAEYAioPd2Fob28gd2Zia3RyMTIzMhcIAhITQ29tcGV0aXRpdmUgQ3ljbGlzdFj_vSBgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=competitive+cyclist+wahoo+wfbktr123&shoprs=CAEYAioPd2Fob28gd2Zia3RyMTIzMhcIAhITQ29tcGV0aXRpdmUgQ3ljbGlzdFj_vSBgAQ",
+          "input_type": "link"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Wahoo+WFBKTR123&start=10"
+  }
+}

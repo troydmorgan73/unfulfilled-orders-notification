@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "690577e1f30d13c06d2d9f69",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/646fd8bbd374579d/690577e1f30d13c06d2d9f69.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/646fd8bbd374579d/690577e1f30d13c06d2d9f69.json_with_pixel_position",
+    "created_at": "2025-11-01 03:00:49 UTC",
+    "processed_at": "2025-11-01 03:00:49 UTC",
+    "google_url": "https://www.google.com/search?q=%22Continental+Grand+Prix+TR+Tubeless+Tire%22+site%3Awww.backcountry.com&oq=%22Continental+Grand+Prix+TR+Tubeless+Tire%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/646fd8bbd374579d/690577e1f30d13c06d2d9f69.html",
+    "total_time_taken": 0.61
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Continental Grand Prix TR Tubeless Tire\" site:www.backcountry.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Continental Grand Prix TR Tubeless Tire\" site:www.backcountry.com",
+    "total_results": 0,
+    "time_taken_displayed": 0.13,
+    "organic_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query."
+}

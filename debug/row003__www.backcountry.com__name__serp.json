@@ -1,0 +1,57 @@
+{
+  "search_metadata": {
+    "id": "690577d13d8701b1144fb5ac",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d082ce7ad93400f1/690577d13d8701b1144fb5ac.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/d082ce7ad93400f1/690577d13d8701b1144fb5ac.json_with_pixel_position",
+    "created_at": "2025-11-01 03:00:33 UTC",
+    "processed_at": "2025-11-01 03:00:33 UTC",
+    "google_url": "https://www.google.com/search?q=%22Wahoo+KICKR+MOVE+Power+Trainer%22+site%3Awww.backcountry.com&oq=%22Wahoo+KICKR+MOVE+Power+Trainer%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d082ce7ad93400f1/690577d13d8701b1144fb5ac.html",
+    "total_time_taken": 1.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Wahoo KICKR MOVE Power Trainer\" site:www.backcountry.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Wahoo KICKR MOVE Power Trainer\" site:www.backcountry.com",
+    "total_results": 0,
+    "time_taken_displayed": 0.15,
+    "organic_results_state": "Fully empty"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "block_position": "right",
+      "link": "https://www.backcountry.com/b/wahoo-fitness-kickr-move-smart-trainer?CMP_SKU=WHAC02K&MER=0406&skid=WHAC02K-ONECOL-ONESIZ",
+      "rating": 4.4,
+      "reviews": 179,
+      "reviews_original": "179",
+      "thumbnail": "https://serpapi.com/searches/690577d13d8701b1144fb5ac/images/aae4c72a8447862e7fe303bbff25549a45a8ed42ad80d157a3936ae0bea1a2ca.webp"
+    },
+    {
+      "position": 2,
+      "block_position": "right",
+      "link": "https://www.rei.com/product/230069/wahoo-fitness-kickr-move-smart-trainer?sku=2300690001&CAWELAID=120217890017196988",
+      "rating": 4.4,
+      "reviews": 179,
+      "reviews_original": "179",
+      "thumbnail": "https://serpapi.com/searches/690577d13d8701b1144fb5ac/images/aae4c72a8447862e7fe303bbff25549abb7340c88409345da1f8059a66bc2701.webp"
+    },
+    {
+      "position": 3,
+      "block_position": "right",
+      "link": "https://www.competitivecyclist.com/b/wahoo-fitness-kickr-move-smart-trainer?skid=WHAC02K-ONECOL-ONESIZ&CMP_SKU=WHAC02K",
+      "rating": 4.4,
+      "reviews": 179,
+      "reviews_original": "179",
+      "thumbnail": "https://serpapi.com/searches/690577d13d8701b1144fb5ac/images/aae4c72a8447862e7fe303bbff25549a62fb049cdcbd70532d8f08ecda914c1f.webp"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Domain,URL,Platform,Name,Brand,GTIN,MPN,Price,Currency,Availability,Source
+www.backcountry.com,https://www.backcountry.com/garmin-edge-1050-gps-bike-computer,SFCC,Edge 1050 GPS Bike Computer,,,GRMF07I-BLA-ONESIZ,699.99,USD,https://schema.org/InStock,sfcc_jsonld
+www.excelsports.com,https://www.excelsports.com/garmin-edge-1050-gps-computer,Excel Custom,Edge 1050 GPS Computer,Garmin,753759336288,010-02890-00,,USD,,excel_custom_html
+mikesbikes.com,https://mikesbikes.com/products/garmin-edge-1050?_pos=1&_sid=74051528e&_ss=r,Shopify,,,,,,,,
+www.performancebike.com,https://www.performancebike.com/garmin-edge-1050-gps-cycling-computer-black-010-02890-00/p1565043,Magento/Custom,,,,,,,,

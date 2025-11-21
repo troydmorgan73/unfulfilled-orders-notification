@@ -1,0 +1,1101 @@
+{
+  "search_metadata": {
+    "id": "69057068cfa23065313fa418",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/08945f433b3b1980/69057068cfa23065313fa418.json",
+    "created_at": "2025-11-01 02:28:56 UTC",
+    "processed_at": "2025-11-01 02:28:56 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=Z3AFabKhNqTBkPIPudq46QU&q=%22753759349578%22&gl=us&hl=en&cs=1&async=catalogid:11716803554991446550,gpcid:9676811825614830559,headlineOfferDocid:13097729908357163716,rds:PC_9676811825614830559|PROD_PC_9676811825614830559,isp:true,query:%22753759349578%22,mid:576462814672739459,pvt:hg,_fmt:jspb",
+    "raw_html_file": "https://serpapi.com/searches/08945f433b3b1980/69057068cfa23065313fa418.html",
+    "prettify_html_file": "https://serpapi.com/searches/08945f433b3b1980/69057068cfa23065313fa418.prettify",
+    "total_time_taken": 2.6
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOiIiLCJyZHMiOiJQQ185Njc2ODExODI1NjE0ODMwNTU5fFBST0RfUENfOTY3NjgxMTgyNTYxNDgzMDU1OSIsInF1ZXJ5IjoiJTIyNzUzNzU5MzQ5NTc4JTIyIiwiZ3BjaWQiOiI5Njc2ODExODI1NjE0ODMwNTU5IiwibWlkIjoiNTc2NDYyODE0NjcyNzM5NDU5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSwvcxybqoqf4ZVe47hidrsGxHbTZtq_nnQrODWlF4s2JefRtymJVZCCljo_w38_oqSrHQe2rBpJIJldwO-nuRZPujd0mjjcJd5viF36TzcCrQ77OHRvN3t6A",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR7S8_4T-1elNhXcwRgw8e0qO15wCucDgZ7TjSFW3c3yRcb3BF94PpFIXCmSJcCcN8kb1Cr3u-xXfWHlhfT621NoA_3uE3H5HuWlR8zWOzwykzcvnpNdmGUyA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmfYpkEt8QgG4fGa8JOTmsryJESzQMrqVXkZ3AkKRV8YUOm02MrS0y26IoX6i5HKfHJh5Z3sBrGm1nkbe8wKzi6qgw7HY08GCPJbJiJ3VcP_GEugYjlluOP7Y",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAEb53bcZCQh8BsubHA3EUfgDutJf-lSLw13uMUXihccsCjhHo3ym_9affqrC_Kv48ALGKG4YMe4BTGuU2I1O_uSuJMRmQ210N7DKdR1PwXquwh6rARoeHlw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsL4hWnAsN2RujjKYl8C7yHM-isFxdqcjjuzxOUpCVw3eo-N20jai_t5TLxCup45fTQHNyf2oKHS7e-a4Y7HKFf4wjyaOQHyNc6kcT26ez91-82v0_ok5ra9w",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtBP6vEwzHI9yVQu6cljl-ob8bdXs-3t6AcQaRGstQvgT0xLNmz6TF_FMcNQRLDtidkFNqEIsLoVIyIBUNHCfErEpkZJks6mvk-TjIx6uEghI6QJRxLaK9",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQf1jhl_Vcb38U2P1Xf1tMG6Rz17t6fYHXeEL83zvLrspO1RQVypLJVNhhAXPqI48S-7LtVwQJ3yJhF0QY9B__6bdqbwp05XWFLMcyPrSqWY7w1ljwsfqB3xQ",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8bMRxVSlb8UA8KJs2waPrqPVQ97hbZ2kVooeoo99AC5H1bulVwnbe2cukbtFa_fEUJRsdYbJtNymyWajS-PNJesSVYeMHR8vI7nV5-xAAvr0yU4y0zoJ-",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvZWVD-j2guFmCOx7XmpQ7wMmA0L-7RxfQ0gOgYL65FKRmkNFZ4hTf5trSjo1zwBjHab-agc0TO_87Z6HDmtEnGSfGb_IX-UF7yn3moiqLq-OGjp1AGCqy",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSKr-DyLf_1mKF8_QrkhZM-3gl-VKbiQkglvtD1F09fQAqD_B1KgR-xscWbKLe2r56wRJstI_4zU4mRz98yXkPjvDeDFWnIAls1C2CUHnCCk1tQe1aVhu-M",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTxGimNTJWQhdP_l-Y1PpAgboOIpdP9l2h5c5DHBFM7hfxLxriRoXLWJmPczo9BtlqUi8O7CVutCCQaNwaFpuhbbrlohFbr4xTTwlUaXHknEj11ygD6cjAp",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSAezG54ycb-b0fj-a26vvU3lHM0-lvu45ZcQqBjyVMh2mFvWQ1d2N-lMHt1AtwVuSdJCPxcWzKpaJDOqMIjxM9v078qJnOdvA-s3ajjJB1tlUM8z-p3FoZ4A"
+    ],
+    "title": "Ray-Ban Meta Wayfarer",
+    "brand": "Ray-Ban",
+    "reviews": 3605,
+    "rating": 4.6,
+    "price_range": "$299-$409",
+    "stores": [
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.bestbuy.com/product/ray-ban-meta-wayfarer-large-gen-1-glasses-with-meta-ai-audio-photo-video-compatibility-green-lenses-shiny-black/BCKVZQ48SG/sku/6560299?utm_source=feed?extStoreId=1790",
+        "title": "Ray-Ban Meta - Wayfarer Large (Gen 1) glasses with Meta AI, Audio, Photo, Video Compatibility - Green Lenses - Shiny Black",
+        "rating": 4.5,
+        "reviews": 2505,
+        "payment_methods": "PayPal, Zip accepted",
+        "tag": "Nearby",
+        "details_and_offers": [
+          "In stock online and nearby",
+          "Free delivery by Nov 10",
+          "Free 15-day returns"
+        ],
+        "price": "$299.00",
+        "extracted_price": 299.0,
+        "shipping": "Free",
+        "total": "$299.00",
+        "extracted_total": 299.0
+      },
+      {
+        "name": "Bassol Optic",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.opticabassol.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.opticabassol.com/en-us/products/ray-ban-rw4008-wayfarer-601-71-53?srsltid=AfmBOorNcmq9-3QcO2BOMF4_444G59eDyEZlr1KsFm9XtzmqAo1_vWo0w9w",
+        "title": "Ray-Ban Meta RW4008 WAYFARER 601/71 53",
+        "rating": 4.5,
+        "reviews": 1092,
+        "payment_methods": "PayPal, Google Pay, Shop Pay & more accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $22.03",
+          "14-day returns"
+        ],
+        "price": "$295.00",
+        "extracted_price": 295.0,
+        "shipping": "+ $22.03",
+        "shipping_extracted": 22.03,
+        "total": "$317.03",
+        "extracted_total": 317.03
+      },
+      {
+        "name": "Ray-Ban",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ray-ban.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.ray-ban.com/usa/electronics/RW4006ray-ban%20%7C%20meta%20wayfarer-black/8056597874816",
+        "title": "(Gen 1) Ray-Ban Meta Black Frame Clear Lenses AI Glasses",
+        "rating": 4.8,
+        "reviews": 1700,
+        "payment_methods": "PayPal, Afterpay, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Tue - Thu",
+          "Free 45-day returns"
+        ],
+        "price": "$299.00",
+        "extracted_price": 299.0,
+        "shipping": "Free",
+        "total": "$299.00",
+        "extracted_total": 299.0
+      },
+      {
+        "name": "Meta",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.meta.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.meta.com/ai-glasses/wayfarer-shiny-black-plano-g15-green?srsltid=AfmBOorzZHqWUXodgYnqptLHlSp3CnJ2RbbPd6dxmUS9ViDAZTw71MVqCJg",
+        "title": "Ray-Ban Meta Wayfarer Glasses Large, Shiny Black, Plano G15 Green | Ultra-Wide Camera | Live in the Moment with Hands-Free Features",
+        "rating": 4.6,
+        "reviews": 396,
+        "payment_methods": "PayPal accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "price": "$299.00",
+        "extracted_price": 299.0,
+        "shipping": "Free",
+        "total": "$299.00",
+        "extracted_total": 299.0
+      },
+      {
+        "name": "Lenscrafters",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.lenscrafters.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.lenscrafters.com/lc-us/ray-ban/8056597874816",
+        "title": "Ray-Ban Unisex Eyeglasses Black Size: 53",
+        "rating": 4.8,
+        "reviews": 336,
+        "payment_methods": "PayPal, Afterpay, Klarna & more accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "price": "$299.00",
+        "extracted_price": 299.0,
+        "shipping": "Free",
+        "total": "$299.00",
+        "extracted_total": 299.0
+      }
+    ],
+    "stores_next_page_token": "vleF5Hica15aklmSk7o1KLFS1ykxT8E3tSRRITyxMi2xKLVoSXF-USbr4ty8fC4ATu4Pzw",
+    "about_the_product": {
+      "title": "META WAYFARER Sunglasses in Black and Clear/Graphite Green - | Ray-Ban\u00ae US",
+      "link": "https://www.ray-ban.com/usa/electronics/RW4006ray-ban%20%7C%20meta%20wayfarer-black/8056262326787",
+      "displayed_link": "ray-ban.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ray-ban.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+      "description": "Blending cutting-edge technology with timeless style, Meta's latest smart glasses are designed to complement your life. They're hands-free and fashion-forward. These aren\u2019t just wearables; they\u2019re intelligent accessories that fit effortlessly into your day, featuring a shiny Black Frame and G-15 Green lenses. With just a simple \u201cHey Meta,\u201d your voice becomes the key to instant translation, on-the-go search, QR scanning, and real-time assistance\u2014whether exploring a new city, capturing content, or managing your schedule. It\u2019s your assistant, built right into your frames. The ultra-wide 12 MP camera and five-microphone system let you capture the world exactly as you see and hear it, from candid moments to immersive video. Seamlessly livestream or switch between your phone and glasses camera during video calls for a uniquely personal perspective. Crafted with open-ear audio and enhanced directional sound, the listening experience is rich yet discreet\u2014even in lively or windy settings. Whether taking calls or tuning into your playlist, the sound stays yours alone. Effortless touch controls and intuitive voice commands let you snap photos, send messages, or manage media\u2014no need to reach for your phone. And with a compact charging case offering up to 32 hours of use, your glasses are ready wherever the day (or night) takes you. Enhance the experience with the Meta View app, which allows you to edit, add effects, and share your content easily\u2014all from one elegant interface. Innovation meets everyday luxury. Explore life through a new lens.",
+      "features": [
+        {
+          "title": "Highlights",
+          "value": "Polarized Lenses"
+        },
+        {
+          "title": "Department",
+          "value": "Unisex"
+        },
+        {
+          "title": "Lens Color",
+          "value": "Green, Gray, Brown, Clear"
+        },
+        {
+          "title": "Polarization",
+          "value": "Yes"
+        },
+        {
+          "title": "UV Protection",
+          "value": "100% UVA/UVB Protection"
+        },
+        {
+          "title": "Lens Type",
+          "value": "Polycarbonate, Polarized"
+        },
+        {
+          "title": "Clarity",
+          "value": "High"
+        },
+        {
+          "title": "Lens Tech",
+          "value": "Polarized"
+        },
+        {
+          "title": "Interchangeable Lenses",
+          "value": "No"
+        },
+        {
+          "title": "Lens Coating",
+          "value": "Anti-reflective"
+        },
+        {
+          "title": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "title": "Sport Perf",
+          "value": "Medium"
+        },
+        {
+          "title": "Face Shape",
+          "value": "Square"
+        },
+        {
+          "title": "Age Group",
+          "value": "Adult"
+        },
+        {
+          "title": "Frame Shape",
+          "value": "Wayfarer"
+        },
+        {
+          "title": "Frame Type",
+          "value": "Wayfarer"
+        },
+        {
+          "title": "Frame Material",
+          "value": "Plastic"
+        },
+        {
+          "title": "Frame Fit",
+          "value": "Standard"
+        },
+        {
+          "title": "Frame Size",
+          "value": "50-22-150"
+        },
+        {
+          "title": "Bridge Fit",
+          "value": "Standard"
+        },
+        {
+          "title": "Frame Weight",
+          "value": "Medium"
+        },
+        {
+          "title": "Hinges",
+          "value": "Standard hinges"
+        },
+        {
+          "title": "Temples",
+          "value": "Standard"
+        },
+        {
+          "title": "Activities",
+          "value": "Everyday Use"
+        },
+        {
+          "title": "Occasion",
+          "value": "Everyday Use"
+        },
+        {
+          "title": "Gift Recipient",
+          "value": "Friend"
+        },
+        {
+          "title": "Typical Users",
+          "value": "Fashion-conscious individuals"
+        },
+        {
+          "title": "Vision Needs",
+          "value": "Normal vision"
+        },
+        {
+          "title": "Style",
+          "value": "Classic"
+        },
+        {
+          "title": "Oversized",
+          "value": "No"
+        },
+        {
+          "title": "Theme",
+          "value": "Other"
+        },
+        {
+          "title": "Pattern",
+          "value": "Solid"
+        },
+        {
+          "title": "Decoration",
+          "value": "None"
+        },
+        {
+          "title": "Prod Age Style",
+          "value": "Classic"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "subtitle": "CRISP., https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL, 16, 16, 16, 16, , , 1, , , , , , , , 1, https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/#:~:text=Upgraded%20to%20a%2012MP,especially%20in%20well-lit%20environments., , Ray-Ban Meta Wayfarer Review, Upgraded to a 12MP ultrawide camera, the Ray-Ban Meta Glasses capture stunning photos with vibrant colors and impressive, , , 1, , 103, , , , , , , , , , , , , 64838, , 2, https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/, , , 1y, 14",
+        "items": [
+          {
+            "snippet": "The glasses did a good job of focusing on what I was looking at, but they also occasionally blurred the background in strange",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://au.pcmag.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://au.pcmag.com/wearables/102509/ray-ban-meta-smart-glasses",
+            "source": "PCMag",
+            "title": "Ray-Ban Meta Smart Glasses - Review 2023"
+          },
+          {
+            "pros": [
+              "Fantastic audio quality for music and calls",
+              "Good video stabilization"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.wired.com/review/review-ray-ban-meta-smart-glasses/",
+            "date": "1y",
+            "source": "WIRED",
+            "title": "Ray-Ban Meta Smart Glasses Review: Fine Audio and Video, Privacy Issues"
+          },
+          {
+            "snippet": "But these are extra cool because you can actually see the tech inside the frame.",
+            "timestamp": "From 2:24",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfgO_xZ2hW_9ho7CxBkKMLANniUTJ80MGrdFUmL148yzESUSIPxlQ1o9KDzbL_DeTyoawppA_fcdoiZcLzF_UzyT2aIs4r9QHG-v8BcYA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=aT77oNsb2k4&t=144",
+            "user": "SportRx",
+            "date": "Dec 2023",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Build quality feels high",
+              "Comfortable to wear",
+              "Design is impeccable"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/ray-ban-meta-smart-glasses-collection-review",
+            "date": "1y",
+            "source": "TechRadar",
+            "title": "Ray-Ban Meta Smart Glasses review: the best AI wearable, but still not perfect"
+          },
+          {
+            "pros": [
+              "Audio comes across crystal clear",
+              "Touch controls felt really easy to use"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.forbes.com/sites/forbes-personal-shopper/article/ray-ban-meta-smart-glasses-review/",
+            "date": "1y",
+            "source": "Forbes",
+            "title": "Ray-Ban Meta Smart Glasses Review 2024"
+          },
+          {
+            "snippet": "Sporting Ray-Ban's signature design, the Meta Glasses feature the iconic big-lens Wayfarer style.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Sporting Ray-Ban's signature design, the Meta Glasses feature the iconic big-lens Wayfarer style.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "to a 12MP ultrawide camera, the Ray-Ban Meta Glasses capture stunning photos with vibrant colors and impressive detail",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Upgraded to a 12MP ultrawide camera, the Ray-Ban Meta Glasses capture stunning photos with vibrant colors and impressive",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Upgraded to a 12MP ultrawide camera, the Ray-Ban Meta Glasses capture stunning photos with vibrant colors and impressive",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Sporting Ray-Ban's signature design, the Meta Glasses feature the iconic big-lens Wayfarer style.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "to a 12MP ultrawide camera, the Ray-Ban Meta Glasses capture stunning photos with vibrant colors and impressive detail",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Upgraded to a 12MP ultrawide camera, the Ray-Ban Meta Glasses capture stunning photos with vibrant colors and impressive",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Upgraded to a 12MP ultrawide camera, the Ray-Ban Meta Glasses capture stunning photos with vibrant colors and impressive",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Sporting Ray-Ban's signature design, the Meta Glasses feature the iconic big-lens Wayfarer style.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "to a 12MP ultrawide camera, the Ray-Ban Meta Glasses capture stunning photos with vibrant colors and impressive detail",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Upgraded to a 12MP ultrawide camera, the Ray-Ban Meta Glasses capture stunning photos with vibrant colors and impressive",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "The glasses' camera allows the volunteer to see what the wearer sees, enabling them to help with tasks like reading mail or",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yankodesign.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.yankodesign.com/2024/09/26/should-you-upgrade-to-the-new-ray-ban-meta-wayfarer-limited-edition-transparent-model/",
+            "source": "Yanko Design",
+            "title": "Should you upgrade to the new Ray-Ban Meta Wayfarer Limited-Edition Transparent Model?"
+          },
+          {
+            "snippet": "Sporting Ray-Ban's signature design, the Meta Glasses feature the iconic big-lens Wayfarer style.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "These camera-fitted glasses offer upgrades, boasting an improved 12MP camera, amplified audio output, new smart features, and",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Sporting Ray-Ban's signature design, the Meta Glasses feature the iconic big-lens Wayfarer style.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "These camera-fitted glasses offer upgrades, boasting an improved 12MP camera, amplified audio output, new smart features, and",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Sporting Ray-Ban's signature design, the Meta Glasses feature the iconic big-lens Wayfarer style.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "These camera-fitted glasses offer upgrades, boasting an improved 12MP camera, amplified audio output, new smart features, and",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          },
+          {
+            "snippet": "Sporting Ray-Ban's signature design, the Meta Glasses feature the iconic big-lens Wayfarer style.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.crisp-magazine.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.crisp-magazine.com/lifestyle/ray-ban-meta-wayfarer-review/",
+            "source": "CRISP.",
+            "title": "Ray-Ban Meta Wayfarer Review"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 149
+      },
+      {
+        "stars": 2,
+        "amount": 69
+      },
+      {
+        "stars": 3,
+        "amount": 139
+      },
+      {
+        "stars": 4,
+        "amount": 437
+      },
+      {
+        "stars": 5,
+        "amount": 2811
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQAp_Ll8_iCAjwNbWTRfdvesb1w0EwN-ezYMSGDR3m0Xs24RDzXtBSRErk6lyDFkxXp_ianWLCcI5k_bZvSkJJ4YY1EoXG9NA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_BV77fBtNxoJTJ0ov1Zx_NMMX7aVYhZRYDNbiXeQbCjKGOTKFKombCVwq9CEvoKf8MIapenFDeYHzoDL8RCKeASP0p9pM",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcROBot3EjOhTbPA50uJ92elKWIltG_Zv2WwkQ7_UAQndlNK-sZavIe66HotkEydfIjfWJCZiplHze8MPV0J0VCVXSDM9Cg9_Q",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTKYNSAsGa8LY42k9jeJToG1OkUb4S4iD7w0FGKJ8UREXAAEdLuTXCLo_E5Z6WTkfqIzcAZAqE0y_UJ_RXR3PC8lp1enWG6",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRy1PHXmpeLAnr0y2ORbIfDromTPkXRZSSCykZFkygM0QATXLkoGHxEdCvX8SgP4FTJfHh4fZeI4CBxdjxMnLr5y7Z8sDI8",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4KJKGgDV9vWl3Ou4pC8KYPOhicjFnqtJPQ2YZtdRG9jTOR8EerqCLKA4c2-BKo_7UjiVWU7bdFJdwmgMrw6ZToK93z0y1",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVHVIJfzPlCWO84rs4cY_54kD5RESfBHiBhrCv2zDrXrzjqL4umM1zsO9LqkAlP8qVPteuRZmjMuHu1SYVtcG0Otrf1fIj",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ1atjAXntdJBeF6Fy-CmmmgYNJKbxsnlP0GZYmANRt8TrrRkpaSTiQMKs28pev5Z-TdNnbwA85RV2XbOE3Eu2J-V3C7JCd0g",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQqWQdQujZ_uQ4An6DBBKhJgvAeEn_R_6yqdxGQNl8VRJJQOr7dwVLXV3lOxj9d12HurHPwTaV44K1Q3QyIAw0spkjVYWzDKQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_24GDy7WHXNF9Ly1iTFrNlW0XG7KnUNKTRAraCbknHde5jt6M8Vp74O7O8Z7QRZIeTEgH89M1O3391xJZBTGsEarrEMqQrA"
+    ],
+    "user_reviews": [
+      {
+        "title": "Meh.",
+        "text": "I've had these for almost 4 months now and here are my pros and cons.\n\nPro- camera on your face, headphones built in, translates other languages well, tells me what I'm looking at when I ask. The transition lenses are great and allows me to wear these anywhere at anytime.\n\nCons- They are quite heavy and hurt the nose after a while.\n\n-The camera quality is alright, but you cannot zoom in/out, do live feeds, or even view what your camera sees on the app. It's take a picture and what you get is what you get.\n\n-The microphone quality sucks. The sound quality between recording from your glasses vs. your phone is vast. Not recommended for concerts, which is one of the things I was excited to use them at.\n\n-Headphones aren't great. It's a lot of highs with little lows. The second to max volume isn't quite loud enough for street use, but max volume is screaming in your ears. I should have expected this since nothing goes in the ear. Also, they change volume automatically all the time, depending on how loud the surrounding noise is. I had to turn this feature off as it was very frustrating.\n\n-Touch controls are also not great. I will pause my music and have a 10 second conversation, then find myself often pressing \"play\" over and over trying to resume my music, until it either finally plays, or I give up and have to open the app and press play on my phone. This might be the most annoying issue for me.\n\nVideo is limited to a maximum of 3 minutes.\n\nVideo recording drains the battery so fast. You might get 15-20 minutes of footage from 100% full to dead.\n\n-Battery life in general isn't great. They can only last a few hours with minimal use before needing a charge.\n\n-If you lose the case, the glasses are useless. There is no way to change them without the specific charging case. I guess it's the same with most wireless ear buds these days, but I feel they could have snuck a usbc port somewhere on them.\n\nAll in all, I would hold off on getting these for at least this generation. It's a great idea and I'm glad the technology is now, but it's far from perfect.",
+        "user_name": "Dustin",
+        "source": "bestbuy.ca",
+        "rating": 2,
+        "date": "6 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3sMld7aGf8G9jTaDZlt5Dedwr4b4tmI0iAVFNsqZ9Z5pHjx2WbU12YKdX53Xv1_Mb_aA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Really Impressed",
+        "text": "I have been using Ray Ban sunglasses for many years and have been impressed that they are not only good at their job but seem to survive my casual handling. When I first saw these the combination of Ray Ban quality and satisfying my love of interactive gadgets was too good to miss.\n\nEverything these days needs an app and the first job with these was to download the app on my iPhone. Everything linked together OK and I was immediately reviewing surprisingly high quality audio from music on my iPhone. Then tried taking pictures. Again really easy but it took a while to work out the sequence of the glasses sending the picture to the Meta app on my phone which in turn sends them to my picture folder. I am still not totally convinced I totally understand as sometimes it happens nearly instantly and at other times takes a while.\n\nOne real surprise is that the quality of the pictures and video is amazing from the tiny lens. It is a really discrete way of recording photos but note that when it records it flashes a small light on the side of the frame so any subject will realise something is happening. I guess that I will still favour my phone for pictures as I can more easily frame what I am shooting but the AI in the specs results in pictures that are a lot better than I expected. The only snag for me is I tend to prefer to record in landscape but the pictures are always portrait as there is no logical way of turning the glasses 90 degrees. The glasses are also quick to use as it is just a case of tapping a button or I can say \"Hey Meta take a picture\".\n\nNow to actually using these as sunglasses. They do the job really well and are very comfortable for extended wear. They are so good that I have an appointment for an eye test as I now plan to get them fitted with prescription lenses so they become my daily wear.\n\nAn unexpected feature is being able to ask on line questions by saying something like \"Hey Meta what's the weather like today\" The only snag being that the glasses don't know where they are so one needs to add something like \"in London, UK\". The answers are quick and clear but there is a clear USA influence as temperatures are always given in Fahrenheit !!\n\nFinally charging. So far I have not used the glasses for long periods and think that I will still favour my iPhone for pictures and my EarPods for extended listening. Charging is however just a case of charging the case from any USB charger and then the glasses charge just by putting them in the case. I am still working on how long the power in the glasses will last but assume that for extensive use for music and pictures I will have to put them on the charger at some time so maybe not good to rely on them all day other than for \"looking\".",
+        "user_name": "AndyC",
+        "source": "johnlewis.com",
+        "rating": 5,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0qHAUCfNin--cPVfj6246OPh-nVw24quOT8wVycfIE4xs4FAiUrSI5cVlQnaRggxZ2qA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Beware dont buy",
+        "text": "These glasses are the epitome of a waste of money, not only have I gone through three pairs that have either broken cannot connect or will not charge and have the worst time trying to either exchange or return them because they are in such high popular demand that they cannot keep them in stock so once you get your defected pair and pay for it you have to wait another two weeks to a month in order for them to replace it with another pair that doesn\u2019t work I highly suggest going to either Oakley Maui gym or Shady rays. They are much better and if you\u2019re looking for AI glasses the Oakley\u2019s although they don\u2019t have the best frames, the technology seems to be working much Better",
+        "user_name": "Dont waste your money",
+        "source": "Target",
+        "rating": 1,
+        "date": "2 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2358aKqAaNSFQ5hF6xPlOvn87DN5KnKOx44Q1Mo0shqMt2_PfKLUO_SjSHZsbJyHEQWg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQAp_Ll8_iCAjwNbWTRfdvesb1w0EwN-ezYMSGDR3m0Xs24RDzXtBSRErk6lyDFkxXp_ianWLCcI5k_bZvSkJJ4YY1EoXG9NA",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_BV77fBtNxoJTJ0ov1Zx_NMMX7aVYhZRYDNbiXeQbCjKGOTKFKombCVwq9CEvoKf8MIapenFDeYHzoDL8RCKeASP0p9pM"
+        ]
+      },
+      {
+        "title": "Pretty cool sometimes",
+        "text": "I like them then I don\u2019t like them. I got transitions because wanted to use more. I don\u2019t like them on me when clear (look funny). But I like them when clear for function. I got them for first person in my airplane. No more GoPro strapped to my head. The easy of use tap the button forget and live in the moment really works well. The videos are awesome. Get my hat sometimes and sometimes hat denies it from taking the shot. Think I would have loved non transition but then loose the twilight and night use. I would buy again thinking of buying another just to have some that don\u2019t transition for when I know won\u2019t be out in the dark. Wish I could share video. Check out @l4_46 on tiktok for video. Thanks",
+        "user_name": "Timothy",
+        "source": "oculus.com",
+        "rating": 4,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0tORLI2lNFTm4mStYuEyZ5GgWh_c-5XLzUnW6nj_5HjzO7_mGhx6Gpk6cTWiEZXcfngw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcROBot3EjOhTbPA50uJ92elKWIltG_Zv2WwkQ7_UAQndlNK-sZavIe66HotkEydfIjfWJCZiplHze8MPV0J0VCVXSDM9Cg9_Q",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTKYNSAsGa8LY42k9jeJToG1OkUb4S4iD7w0FGKJ8UREXAAEdLuTXCLo_E5Z6WTkfqIzcAZAqE0y_UJ_RXR3PC8lp1enWG6",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRy1PHXmpeLAnr0y2ORbIfDromTPkXRZSSCykZFkygM0QATXLkoGHxEdCvX8SgP4FTJfHh4fZeI4CBxdjxMnLr5y7Z8sDI8",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4KJKGgDV9vWl3Ou4pC8KYPOhicjFnqtJPQ2YZtdRG9jTOR8EerqCLKA4c2-BKo_7UjiVWU7bdFJdwmgMrw6ZToK93z0y1",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVHVIJfzPlCWO84rs4cY_54kD5RESfBHiBhrCv2zDrXrzjqL4umM1zsO9LqkAlP8qVPteuRZmjMuHu1SYVtcG0Otrf1fIj"
+        ]
+      },
+      {
+        "title": "Worth every penny and exceeds the hype",
+        "text": "Work better than expected. A comfortable fit, stylish sunglasses with all the added extras. The simplicity of using them and the ease of natural photos create lovely moments captured on camera.\nSo good !!",
+        "user_name": "Matt",
+        "source": "o2.co.uk",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1GNPcy-GcFnnnGHHCNfJeQY7TfJIXi7TlwvBPbwdi_rcUATfn1Wl9Zs49tqg9fQ8ZSLg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ1atjAXntdJBeF6Fy-CmmmgYNJKbxsnlP0GZYmANRt8TrrRkpaSTiQMKs28pev5Z-TdNnbwA85RV2XbOE3Eu2J-V3C7JCd0g"
+        ]
+      },
+      {
+        "title": "Brilliant Tech",
+        "text": "Saw all the reviews on YouTube and instagram and was excited to try them out. I was not disappointed as they are so convenient and brilliant for content creation. I recently visited Amsterdam with my partner and the content I picked up whilst wearing them was much easier to capture than using my phone plus the picture and video quality is really great. Very happy with my purchase \u263a\ufe0f",
+        "user_name": "Dmobb",
+        "source": "very.co.uk",
+        "rating": 5,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3MI5w3eN542pqpvJflXEcVXOPOXbt19mJaS4110bKPJQE1FDXTdaAVniXrqJswNur8lQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQqWQdQujZ_uQ4An6DBBKhJgvAeEn_R_6yqdxGQNl8VRJJQOr7dwVLXV3lOxj9d12HurHPwTaV44K1Q3QyIAw0spkjVYWzDKQ"
+        ]
+      },
+      {
+        "title": "Cheap 12mp glasses that look worn down and beat after only a few uses",
+        "text": "The coating in the center delaminated within 60 days and target won\u2019t accept a refund. They gave contact info for meta guest relations and Marianne didn\u2019t reply to my email.",
+        "user_name": "Regina",
+        "source": "Target",
+        "rating": 1,
+        "date": "8 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3toPPNEW0OBdutWxCD_mbGWibnDTqIu-LUJg9HvwXbGFgdWuLlo27AA0Y94KnmpZKHVg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_24GDy7WHXNF9Ly1iTFrNlW0XG7KnUNKTRAraCbknHde5jt6M8Vp74O7O8Z7QRZIeTEgH89M1O3391xJZBTGsEarrEMqQrA"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "WORTH IT? Meta Ray-Ban Wayfarer GEN 2 Smart Glasses REVIEW",
+        "link": "https://www.youtube.com/watch?v=x-a4Oh5-aTM",
+        "source": "YouTube",
+        "channel": "Tech Fowler",
+        "duration": "14:04",
+        "thumbnail": "https://i.ytimg.com/vi/x-a4Oh5-aTM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nQwl05GE2Ns7QE0olMt-HQyVH7Cg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTpaOvjc99edNh583UfewO2BsgQqKhKFEhjug"
+      },
+      {
+        "title": "Testing The New Ray Ban Meta WAYFARER Smart Glasses (Perfect ...",
+        "link": "https://www.youtube.com/watch?v=ywwcuBSV_zg",
+        "source": "YouTube",
+        "channel": "Tylor Klipfel",
+        "duration": "11:21",
+        "thumbnail": "https://i.ytimg.com/vi/ywwcuBSV_zg/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m7IDwonu-PPfm0jewKpqLGps5IQg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRd5Gan7TypjbHIpy3KCa3g25e4E5Y1Kf3vMQ"
+      },
+      {
+        "title": "Ray-Ban Meta Glasses, Wayfarer unboxing",
+        "link": "https://www.youtube.com/watch?v=z_nJS0FQyjg",
+        "source": "YouTube",
+        "channel": "Rome Knows Tech",
+        "duration": "5:37",
+        "thumbnail": "https://i.ytimg.com/vi/z_nJS0FQyjg/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nUaz29ik11ZCvJ56P2g2ui4TD3Qg"
+      },
+      {
+        "title": "Meta Ray-Ban Display Vs Ray-Ban Meta Wayfarer- Side By Side ...",
+        "link": "https://www.youtube.com/watch?v=SB08r_YM7qM",
+        "source": "YouTube",
+        "channel": "Phones And Drones",
+        "duration": "9:23",
+        "thumbnail": "https://i.ytimg.com/vi/SB08r_YM7qM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mjQBtFWCzXx339kqAHUx2OTptBhQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQq4U6o_yypIJoRpnWS_AQ-zJyoQnWfXwLFPg"
+      },
+      {
+        "title": "Ray-Ban Meta! It\u2019s Perfect!",
+        "link": "https://www.youtube.com/watch?v=AXk5xzY0B74",
+        "source": "YouTube",
+        "channel": "Mark's Tech",
+        "duration": "20:44",
+        "thumbnail": "https://i.ytimg.com/vi/AXk5xzY0B74/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mQp1Uxpcmop9-A-MUOD4MYvG-Unw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQh2bphiSVtyryu7h7la14ZzAIzRgRmFSctww"
+      },
+      {
+        "title": "Meta RayBan Display: Sand vs. Black (Full Comparison)",
+        "link": "https://www.youtube.com/watch?v=seNuWor-Lmk",
+        "source": "YouTube",
+        "channel": "Jasmine Uniza",
+        "duration": "4:04",
+        "thumbnail": "https://i.ytimg.com/vi/seNuWor-Lmk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nNmASpUTWK2SsaV-aU_hs84B-NQg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSRL0zdzZqLuJB4JvKrQZs4-Q-FoBs-kgbI8w"
+      },
+      {
+        "title": "Meta Ray-Ban Display hands-on: best smart glasses I\u2019ve ever tried",
+        "link": "https://www.youtube.com/watch?v=5cVGKvl7Oek",
+        "source": "YouTube",
+        "channel": "The Verge",
+        "duration": "7:36",
+        "thumbnail": "https://i.ytimg.com/vi/5cVGKvl7Oek/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mgv01_twy5ASTgqizfyGIHhfjiqA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRrmjPof0m0DGvaJq-7WxKB_OCkzjKZRo4_4g"
+      },
+      {
+        "title": "Ray-Ban Meta Wayfarer Smart Glasses RW4006 Polarized Clip on\u2019s",
+        "link": "https://www.youtube.com/watch?v=nkmQek_YEww",
+        "source": "YouTube",
+        "channel": "Rome Knows Tech",
+        "duration": "4:42",
+        "thumbnail": "https://i.ytimg.com/vi/nkmQek_YEww/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lh4zTvwJKgOwGFxmJd-p9ubZqYkw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR17RFi-4N15wPgd4JrdhLOha_CU6OQnUgV1w"
+      },
+      {
+        "title": "Ray-Ban Meta Wayfarer | Standard vs Large Size Comparison",
+        "link": "https://www.youtube.com/watch?v=vqYspQx4E4E",
+        "source": "YouTube",
+        "channel": "Furious Technology",
+        "duration": "0:38",
+        "thumbnail": "https://i.ytimg.com/vi/vqYspQx4E4E/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k7CPLrRUEUmNoicsAg9JMHxHM4TQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS2oe1NZpMIFWu9Kv26Glmf6MieaeJPgrl0Tg"
+      },
+      {
+        "title": "The Meta Ray-Ban Gen 2 Glasses Might REPLACE Your New ...",
+        "link": "https://www.youtube.com/shorts/1Kj3fLV19Cw",
+        "source": "YouTube",
+        "channel": "Tech Fowler",
+        "duration": "1:51",
+        "thumbnail": "https://i.ytimg.com/vi/1Kj3fLV19Cw/oar2.jpg?sqp=-oaymwEGCJADEPQD&rs=AMzJL3lEuwOcd9Kqu2QIPD8JvmIHCLaIcg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRU5wa7O4HkPfGgcjaXIzheOQoE88aPV5jzjQ"
+      },
+      {
+        "title": "Are Meta Ray-Ban Wayfarers The PERFECT Eyewear For Your Face?",
+        "link": "https://www.youtube.com/watch?v=0LE83YAdpro",
+        "source": "YouTube",
+        "channel": "U Droid Mania",
+        "duration": "9:33",
+        "thumbnail": "https://i.ytimg.com/vi/0LE83YAdpro/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nPMBnLYjAH3ZCQR4tx_LVUyLVZog",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQFRcnzd8ZfRQlpETEaph3GO1u6pxwaHAa98Q"
+      },
+      {
+        "title": "How To Use Your Ray-Ban Meta Glasses! (Step By Step Guide)",
+        "link": "https://www.youtube.com/watch?v=hDZ3y3kzdFU",
+        "source": "YouTube",
+        "channel": "Simple Alpaca",
+        "duration": "11:49",
+        "thumbnail": "https://i.ytimg.com/vi/hDZ3y3kzdFU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3m5TN8teigH9ZXgT2Vp2EsHbCqE6g",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT9iB-1xMPGmr91D1yD-7xo68--eddMRoXayg"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "ray-ban's attention grabbing light feature",
+        "link": "https://www.facebook.com/groups/6646142678837731/posts/9995013030617329/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "4 months ago",
+        "items": [
+          {
+            "snippet": "With a 12mp wide-angle camera, five built-in microphones, open-ear speakers, and AI-powered object recognition, these smart glasses can describe surroundings, r",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9995013030617329/#:~:text=With%20a%2012mp%20wide%2Dangle%20camera%2C%20five%20built%2Din,these%20smart%20glasses%20can%20describe%20surroundings%2C%20r"
+          },
+          {
+            "snippet": "Photochromic option that darkens under the sun. Custom made to your prescription with precision.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9995013030617329/#:~:text=Photochromic%20option%20that%20darkens%20under%20the%20sun.%20Custom%20made%20to%20your%20prescription%20with%20precision."
+          },
+          {
+            "snippet": "\ud83d\udc53 The Ray-Ban Meta smart glasses are redefining wearable assistive technology--combining iconic Wayfarer style with powerful, hands-free features that support g",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9995013030617329/#:~:text=%F0%9F%91%93%20The%20Ray%2DBan%20Meta%20smart%20glasses%20are,with%20powerful%2C%20hands%2Dfree%20features%20that%20support%20g"
+          }
+        ]
+      },
+      {
+        "title": "Ray-Ban Meta glasses phone call issues with Samsung Note 20",
+        "link": "https://www.facebook.com/groups/6646142678837731/posts/9693337927451509/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "5 months ago",
+        "comments": 7,
+        "items": [
+          {
+            "snippet": "I have the same problem, it isn't connect either, but my Son just bought his and very easy connected to make a phone call , he has IPHONE",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9693337927451509/?comment_id=24074342655591130",
+            "top_answer": true
+          },
+          {
+            "snippet": "Reboot your phone and turn the glasses off using the small switch and back on once the phone is rebooted. This usually fixes this.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9693337927451509/?comment_id=9693425087442793"
+          },
+          {
+            "snippet": "With a 12mp wide-angle camera, five built-in microphones, open-ear speakers, and AI-powered object recognition, these smart glasses can describe surroundings, r",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9693337927451509/#:~:text=With%20a%2012mp%20wide%2Dangle%20camera%2C%20five%20built%2Din,these%20smart%20glasses%20can%20describe%20surroundings%2C%20r"
+          },
+          {
+            "snippet": "\ud83d\udc53 The ray-ban Meta smart glasses are redefining wearable assistive technology--combining iconic wayfarer style with powerful, hands-free features that support g",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9693337927451509/#:~:text=%F0%9F%91%93%20The%20ray%2Dban%20Meta%20smart%20glasses%20are,with%20powerful%2C%20hands%2Dfree%20features%20that%20support%20g"
+          },
+          {
+            "snippet": "With a quick glance at the in- lens display, you can accomplish everyday tasks--like checking messages, previewing photos, and collaborating with visual Meta AI",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9693337927451509/#:~:text=With%20a%20quick%20glance%20at%20the%20in%2D,photos%2C%20and%20collaborating%20with%20visual%20Meta%20AI"
+          }
+        ]
+      },
+      {
+        "title": "Is the tiny external battery for Ray-Ban Meta sunglasses worth backing?",
+        "link": "https://www.facebook.com/groups/6646142678837731/posts/9793644897420811/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "5 months ago",
+        "comments": 7,
+        "items": [
+          {
+            "snippet": "I would love to try. Where I can get it?",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9793644897420811/?comment_id=9794891230629511",
+            "top_answer": true
+          },
+          {
+            "snippet": "Too weight for yours ears",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9793644897420811/?comment_id=9793826034069364",
+            "votes": 2
+          },
+          {
+            "snippet": "\ud83d\udc53 Lightweight & stylish design -- perfect for everyday wear.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9793644897420811/#:~:text=%F0%9F%91%93%20Lightweight%20&%20stylish%20design%20%2D%2D%20perfect%20for%20everyday%20wear."
+          },
+          {
+            "snippet": "Ray-Ban Meta glasses have quickly become a staple accessory for me, almost like wearing a rolex.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9793644897420811/#:~:text=Ray%2DBan%20Meta%20glasses%20have%20quickly%20become%20a,for%20me%2C%20almost%20like%20wearing%20a%20rolex."
+          },
+          {
+            "snippet": "Ray-Ban Meta sunglasses with a camera, speakers, microphones, touchpad, wifi, bluetooth, 32gig of memory and a nice charging case.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9793644897420811/#:~:text=Ray%2DBan%20Meta%20sunglasses%20with%20a%20camera%2C%20speakers%2C,of%20memory%20and%20a%20nice%20charging%20case."
+          }
+        ]
+      },
+      {
+        "title": "Are META glasses battery life issues still a problem for long recording sessions?",
+        "link": "https://www.facebook.com/groups/6646142678837731/posts/9860457160739584/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "4 months ago",
+        "items": [
+          {
+            "snippet": "Here's what I liked and didn't like: Number one: I'm a big fan of the USB Type-C charging on the back of the glasses you could definitely use them all day long.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9860457160739584/#:~:text=Here's%20what%20I%20liked%20and%20didn't%20like:,could%20definitely%20use%20them%20all%20day%20long."
+          },
+          {
+            "snippet": "It fits on the bridge of the glasses with a USB-C cable attached to the arm, allowing you to charge the glasses infinitely.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9860457160739584/#:~:text=It%20fits%20on%20the%20bridge%20of%20the,allowing%20you%20to%20charge%20the%20glasses%20infinitely."
+          },
+          {
+            "snippet": "Not a fan of the gloss surface since it's a smudge magnet and imho makes the glasses look less premium.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9860457160739584/#:~:text=Not%20a%20fan%20of%20the%20gloss%20surface,imho%20makes%20the%20glasses%20look%20less%20premium."
+          }
+        ]
+      },
+      {
+        "title": "How to fix Meta glasses that won't charge or turn on after beach use?",
+        "link": "https://www.facebook.com/groups/6646142678837731/posts/9485962661522371/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "6 months ago",
+        "comments": 3,
+        "items": [
+          {
+            "snippet": "Question, while at the beach they were directly exposed to the sun all the time? Water? Direct heat, excessive sweat \ud83d\ude13 or water has been always an issue with this electronic.\n\nRed light indicate low battery \ud83e\udeab If they don\u2019t charge try resetting first the charging case or claim your warranty as a last resource.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9485962661522371/?comment_id=9486213614830609",
+            "top_answer": true
+          },
+          {
+            "snippet": "Clean contacts with alcohol and swab",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9485962661522371/?comment_id=9487428804709090"
+          },
+          {
+            "snippet": "Additionally, it would be nice if the glasses case came with a decent charging cable (or any cable), some better printed materials and the ability to connect to",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9485962661522371/#:~:text=Additionally%2C%20it%20would%20be%20nice%20if%20the,materials%20and%20the%20ability%20to%20connect%20to"
+          },
+          {
+            "snippet": "Charging case works but the glasses themselves don't light up, barely had them for 3 months, any advice ?",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9485962661522371/#:~:text=Charging%20case%20works%20but%20the%20glasses%20themselves,them%20for%203%20months%2C%20any%20advice%20?"
+          },
+          {
+            "snippet": "The glasses won't pair outside the case, won't turn on outside the case.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/9485962661522371/#:~:text=The%20glasses%20won't%20pair%20outside%20the%20case%2C%20won't%20turn%20on%20outside%20the%20case."
+          }
+        ]
+      },
+      {
+        "title": "Meta glasses blinking red light issue?",
+        "link": "https://www.facebook.com/groups/395416269682034/posts/776782171545440/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 months ago",
+        "comments": 12,
+        "items": [
+          {
+            "snippet": "Charging case works but the glasses themselves don't light up, barely had them for 3 months, any advice ?",
+            "link": "https://www.facebook.com/groups/395416269682034/posts/776782171545440/#:~:text=Charging%20case%20works%20but%20the%20glasses%20themselves,them%20for%203%20months%2C%20any%20advice%20?"
+          },
+          {
+            "snippet": "The glasses are fully seated in the case, clean contacts, and the case is connected to a strong USB- C charger.",
+            "link": "https://www.facebook.com/groups/395416269682034/posts/776782171545440/#:~:text=The%20glasses%20are%20fully%20seated%20in%20the,connected%20to%20a%20strong%20USB%2D%20C%20charger."
+          },
+          {
+            "snippet": "I love them, they work well, but a few days ago they stopped charging in the case.",
+            "link": "https://www.facebook.com/groups/395416269682034/posts/776782171545440/#:~:text=I%20love%20them%2C%20they%20work%20well%2C%20but,ago%20they%20stopped%20charging%20in%20the%20case."
+          }
+        ]
+      },
+      {
+        "title": "Why are my Ray-ban meta glasses not charging?",
+        "link": "https://www.facebook.com/groups/395416269682034/posts/766389712584686/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "3 months ago",
+        "comments": 24,
+        "items": [
+          {
+            "snippet": "You can also do a factory reset if you cannot connect to the app, by hitting the capture button 5 times then holding it down till it resets.",
+            "link": "https://www.facebook.com/groups/395416269682034/posts/766389712584686/?comment_id=769541798936144",
+            "top_answer": true
+          },
+          {
+            "snippet": "What about the on/off button? Call me slow or whatever but I didnt discover that button until mine wasn't charging. Found that button, turned it off and charged them in the case.",
+            "link": "https://www.facebook.com/groups/395416269682034/posts/766389712584686/?comment_id=768715962352061",
+            "votes": 1
+          },
+          {
+            "snippet": "After latest ``update'' the battery is not even lasting an entire day and it randomly shuts off and won't come back on until I put it on the charger.",
+            "link": "https://www.facebook.com/groups/395416269682034/posts/766389712584686/#:~:text=After%20latest%20%60%60update''%20the%20battery%20is%20not,until%20I%20put%20it%20on%20the%20charger."
+          },
+          {
+            "snippet": "However, the camera wasn't great for action shots and the battery didn't last long enough for my purposes.",
+            "link": "https://www.facebook.com/groups/395416269682034/posts/766389712584686/#:~:text=However%2C%20the%20camera%20wasn't%20great%20for%20action,didn't%20last%20long%20enough%20for%20my%20purposes."
+          },
+          {
+            "snippet": "So, the latest gen 2 has an improved camera and faster/darker transition lenses.",
+            "link": "https://www.facebook.com/groups/395416269682034/posts/766389712584686/#:~:text=So%2C%20the%20latest%20gen%202%20has%20an%20improved%20camera%20and%20faster/darker%20transition%20lenses."
+          }
+        ]
+      },
+      {
+        "title": "Why won't my Ray-Ban Meta Sunglasses turn on?",
+        "link": "https://www.facebook.com/groups/6646142678837731/posts/10004030123048953/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "4 months ago",
+        "comments": 6,
+        "items": [
+          {
+            "snippet": "When you tried the force reset did you have the arm closed against the glasses as this is part of the process and I'm sure it doesn't work if it is not done.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/10004030123048953/?comment_id=10004374446347854",
+            "top_answer": true
+          },
+          {
+            "snippet": "Additionally, it would be nice if the glasses case came with a decent charging cable (or any cable), some better printed materials and the ability to connect to",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/10004030123048953/#:~:text=Additionally%2C%20it%20would%20be%20nice%20if%20the,materials%20and%20the%20ability%20to%20connect%20to"
+          },
+          {
+            "snippet": "Charging case works but the glasses themselves don't light up, barely had them for 3 months, any advice ?",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/10004030123048953/#:~:text=Charging%20case%20works%20but%20the%20glasses%20themselves,them%20for%203%20months%2C%20any%20advice%20?"
+          },
+          {
+            "snippet": "The glasses won't pair outside the case, won't turn on outside the case.",
+            "link": "https://www.facebook.com/groups/6646142678837731/posts/10004030123048953/#:~:text=The%20glasses%20won't%20pair%20outside%20the%20case%2C%20won't%20turn%20on%20outside%20the%20case."
+          }
+        ]
+      },
+      {
+        "title": "How to fix a muffled microphone on Ray-Ban Meta Smart Glasses?",
+        "link": "https://www.facebook.com/groups/911543063821779/posts/1293843675591714/",
+        "source": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "3 months ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "Anyone figure this out mine and my co workers just started doing this a couple days ago. Seems like the update messed them up",
+            "link": "https://www.facebook.com/groups/911543063821779/posts/1293843675591714/?comment_id=1297076228601792",
+            "top_answer": true,
+            "votes": 1
+          },
+          {
+            "snippet": "I have the same problem, so I'm returning them and buying new ones. less than one month in use.",
+            "link": "https://www.facebook.com/groups/911543063821779/posts/1293843675591714/?comment_id=1294570105519071",
+            "votes": 1
+          },
+          {
+            "snippet": "So only my old phone which is on android 13 works properly, but android 14 hates these glasses and won't connect the bluetooth audio properly.",
+            "link": "https://www.facebook.com/groups/911543063821779/posts/1293843675591714/#:~:text=So%20only%20my%20old%20phone%20which%20is,and%20won't%20connect%20the%20bluetooth%20audio%20properly."
+          },
+          {
+            "snippet": "These seem like clear manufacturer defects, but here's the kicker: after the 12-month warranty, Meta and Ray-Ban provide ZERO support--paid or otherwise.",
+            "link": "https://www.facebook.com/groups/911543063821779/posts/1293843675591714/#:~:text=These%20seem%20like%20clear%20manufacturer%20defects%2C%20but,and%20Ray%2DBan%20provide%20ZERO%20support%2D%2Dpaid%20or%20otherwise."
+          },
+          {
+            "snippet": "When I accept phone calls, I can clearly hear the caller voice but the caller can barely hear my voice.",
+            "link": "https://www.facebook.com/groups/911543063821779/posts/1293843675591714/#:~:text=When%20I%20accept%20phone%20calls%2C%20I%20can,the%20caller%20can%20barely%20hear%20my%20voice."
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Ray Ban Wayfarer Sunglasses",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTDjxhWD7qywgshzg6GwipUNrVSuqGut2sSed0F94eDQ3AyU7lRI1R8gJi73aIMmot4Xxj2vVVM63-rJ_3_tjx4klOR8M_wjTcJydk0HsaTbCGfr2wQbnPw",
+        "price": "$119.99",
+        "extracted_price": 119.99,
+        "original_price": "$185",
+        "extracted_original_price": 185,
+        "reviews": 9000,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzIzODc3NTE3Mzc5NDc3MjIwMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI1MjA1NTMxNjYzOTUyMjYxMjgiLCJpbWFnZURvY2lkIjoiODk2ODMwMDg4MzUyNzg3Mzk0NCIsInJkcyI6IlBDXzEzODY3MDY3ODk0OTEzNDk4MjAyfFBST0RfUENfMTM4NjcwNjc4OTQ5MTM0OTgyMDIiLCJxdWVyeSI6IiUyMjc1Mzc1OTM0OTU3OCUyMiIsImdwY2lkIjoiMTM4NjcwNjc4OTQ5MTM0OTgyMDIiLCJtaWQiOiIxMzMwODgxNCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Ray Ban New Wayfarer Sunglasses",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQW33ia1d7iA4XlE8NBG4lmSxAjNuUo8OxXxCzJboZs2gEElEw6csVXXZNSvCwWRrfbjWtJkTdVpLLQU5MV4d4H3WEuPRYYWY7R6p0dge-qrfyzU7s4uBcNow",
+        "price": "$178.00",
+        "extracted_price": 178.0,
+        "reviews": 9000,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzgwMTY5MDE3MDYyNTgwNjkzMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU2ODQ1ODEyNTQzMzI2NzY1MjEiLCJpbWFnZURvY2lkIjoiODc0NzM2NDk4OTYwNTQyNzQ1MSIsInJkcyI6IlBDXzkyMTcwMTM4ODgyMTk0MTkxMTN8UFJPRF9QQ185MjE3MDEzODg4MjE5NDE5MTEzIiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6IjkyMTcwMTM4ODgyMTk0MTkxMTMiLCJtaWQiOiI1NzY0NjIzNDc0MDE2Nzc4OTMiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Ray-Ban Meta Wayfarer",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRDYlxpANYBpovTkkP6lNVA0ykJofJ0R9HNdkQQ_nciviJX35_-Mxq2bxfyjsS94sziVMwF8sqTIBB38rUp_2Jo-kjdje4n-Hcn7T6FpcI",
+        "price": "$459.00",
+        "extracted_price": 459.0,
+        "reviews": 57,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU5OTQ2ODYyNjYwNzIyMTMwNzgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0MDc0NjA3NDI1NTU1ODkyNTkxIiwiaW1hZ2VEb2NpZCI6IjEwNTM1MjM2NjEwODEzMDM4OTU2IiwicmRzIjoiUENfMTAzMzY4ODUzMDc4NDg3Mzc1ODd8UFJPRF9QQ18xMDMzNjg4NTMwNzg0ODczNzU4NyIsInF1ZXJ5IjoiJTIyNzUzNzU5MzQ5NTc4JTIyIiwiZ3BjaWQiOiI1MTgzMTM3MDE1NDIzNDY3NTk0IiwibWlkIjoiNTc2NDYyODY2Nzk4OTUzNTQzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Ray Ban Justin Sunglasses Men's",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRBZQefKxg9eNbDKkKCW-4YIx7y2PhPNBJp1SIEobdsStTMegDcdSmt_SfJ6Ef8uC5cAmeKkXmwUtwwE2fw1k42uljEFnnk4O9iww-vlWbCVB_TIUtn-VM",
+        "price": "$176.00",
+        "extracted_price": 176.0,
+        "reviews": 6000,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzU3OTgxMzU4Nzk3MTk3Mjc1OSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyODE5MTcyNDUyNTUwMTQzMTk3IiwiaW1hZ2VEb2NpZCI6Ijg5NDkxNjUyMjI4Njg0MjkzMTkiLCJyZHMiOiJQQ18xMjMwMTc4MjMyMDQ3NTU3NTg4M3xQUk9EX1BDXzEyMzAxNzgyMzIwNDc1NTc1ODgzIiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6IjEyMzAxNzgyMzIwNDc1NTc1ODgzIiwibWlkIjoiNTc2NDYyNzc3Nzc5OTY4OTI5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Ray Ban RB3716 Clubmaster Metal Sunglasses",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRdKqeJiQWar76qE9FCb5Hm7sIh9P3cLGopKdTZvK9Zl8qBr7vmpbKbiMmfLsSLKIhDslQxNvGUK75owoxkBQavdHMgEBrnSDb2I-F8i8wyMlNjXsfpCEV1",
+        "price": "$202.00",
+        "extracted_price": 202.0,
+        "reviews": 662,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzOTIyNzUyNjExMzQ5NDYzOTkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDEzODQzNDc3NjY4NTAwODQ3MSIsImltYWdlRG9jaWQiOiI2MzM3MzE2NzAyNTk5ODQ1MTY2IiwicmRzIjoiUENfMTczMTQwOTA2NTc3NDE2ODUzNTV8UFJPRF9QQ18xNzMxNDA5MDY1Nzc0MTY4NTM1NSIsInF1ZXJ5IjoiJTIyNzUzNzU5MzQ5NTc4JTIyIiwiZ3BjaWQiOiIxNzMxNDA5MDY1Nzc0MTY4NTM1NSIsIm1pZCI6IjU3NjQ2MjM1MDg0NjY1MTUzNyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Ray-Ban Wayfarer Reverse Sunglasses",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTOoZaubzuM3Il-FKVWqxGX5A6YtMW6ly18rs12OcLxlyXuRa4VHWNspHj4y5djLrcwWO9J2giT3OT-27HHXnpDReQVSZetzhEG0x1yGjYX46_uCjrwha7YJA",
+        "price": "$215.00",
+        "extracted_price": 215.0,
+        "reviews": 370,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NTQ2MjAzOTI2NzY2ODg5ODUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3MTEzMDgwNDA4NzQ4NjQ2NDc1IiwiaW1hZ2VEb2NpZCI6Ijg3OTI4MzQ0NzI4Mzg5NDYyNjciLCJyZHMiOiJQQ183MjY1NDk4MDQxNDg3MjY5NjcxfFBST0RfUENfNzI2NTQ5ODA0MTQ4NzI2OTY3MSIsInF1ZXJ5IjoiJTIyNzUzNzU5MzQ5NTc4JTIyIiwiZ3BjaWQiOiI3MjY1NDk4MDQxNDg3MjY5NjcxIiwibWlkIjoiNTc2NDYyODUxNzg5ODkwNTc1IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Lens Width",
+        "items": [
+          {
+            "name": "Any Lens Width",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOm51bGwsInJkcyI6IlBDXzk2NzY4MTE4MjU2MTQ4MzA1NTl8UFJPRF9QQ185Njc2ODExODI1NjE0ODMwNTU5IiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6Ijk2NzY4MTE4MjU2MTQ4MzA1NTkiLCJtaWQiOiI1NzY0NjI4MTQ2NzI3Mzk0NTkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWt0SDVBUkN0aWJiZUF3In0%3D"
+          },
+          {
+            "name": "50 mm",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOm51bGwsInJkcyI6IlBDXzk2NzY4MTE4MjU2MTQ4MzA1NTl8UFJPRF9QQ185Njc2ODExODI1NjE0ODMwNTU5IiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6Ijk2NzY4MTE4MjU2MTQ4MzA1NTkiLCJtaWQiOiI1NzY0NjI4MTQ2NzI3Mzk0NTkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWt0SDVBUkN0aWJiZUF4SU9DTXpobkFFWkFBQUFBQUFBU1VBIn0%3D"
+          },
+          {
+            "name": "53 mm",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOm51bGwsInJkcyI6IlBDXzk2NzY4MTE4MjU2MTQ4MzA1NTl8UFJPRF9QQ185Njc2ODExODI1NjE0ODMwNTU5IiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6Ijk2NzY4MTE4MjU2MTQ4MzA1NTkiLCJtaWQiOiI1NzY0NjI4MTQ2NzI3Mzk0NTkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWt0SDVBUkN0aWJiZUF4SU9DTXpobkFFWkFBQUFBQUNBU2tBIn0%3D"
+          }
+        ]
+      },
+      {
+        "title": "Color",
+        "items": [
+          {
+            "name": "Any Color",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOm51bGwsInJkcyI6IlBDXzk2NzY4MTE4MjU2MTQ4MzA1NTl8UFJPRF9QQ185Njc2ODExODI1NjE0ODMwNTU5IiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6Ijk2NzY4MTE4MjU2MTQ4MzA1NTkiLCJtaWQiOiI1NzY0NjI4MTQ2NzI3Mzk0NTkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiIn0%3D"
+          },
+          {
+            "name": "Black",
+            "selected": true,
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOm51bGwsInJkcyI6IlBDXzk2NzY4MTE4MjU2MTQ4MzA1NTl8UFJPRF9QQ185Njc2ODExODI1NjE0ODMwNTU5IiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6Ijk2NzY4MTE4MjU2MTQ4MzA1NTkiLCJtaWQiOiI1NzY0NjI4MTQ2NzI3Mzk0NTkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiIn0%3D"
+          },
+          {
+            "name": "Caramel",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOm51bGwsInJkcyI6IlBDXzk2NzY4MTE4MjU2MTQ4MzA1NTl8UFJPRF9QQ185Njc2ODExODI1NjE0ODMwNTU5IiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6Ijk2NzY4MTE4MjU2MTQ4MzA1NTkiLCJtaWQiOiI1NzY0NjI4MTQ2NzI3Mzk0NTkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWt0SDVBUkM0dTdiZUF3In0%3D"
+          },
+          {
+            "name": "Jeans",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOm51bGwsInJkcyI6IlBDXzk2NzY4MTE4MjU2MTQ4MzA1NTl8UFJPRF9QQ185Njc2ODExODI1NjE0ODMwNTU5IiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6Ijk2NzY4MTE4MjU2MTQ4MzA1NTkiLCJtaWQiOiI1NzY0NjI4MTQ2NzI3Mzk0NTkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWt0SDVBUkNZMkxqZUF3In0%3D"
+          },
+          {
+            "name": "Warm Stone",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOm51bGwsInJkcyI6IlBDXzk2NzY4MTE4MjU2MTQ4MzA1NTl8UFJPRF9QQ185Njc2ODExODI1NjE0ODMwNTU5IiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6Ijk2NzY4MTE4MjU2MTQ4MzA1NTkiLCJtaWQiOiI1NzY0NjI4MTQ2NzI3Mzk0NTkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWt0SDVBUkRsLXN6aEF3In0%3D"
+          },
+          {
+            "name": "Rebel Black",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOm51bGwsInJkcyI6IlBDXzk2NzY4MTE4MjU2MTQ4MzA1NTl8UFJPRF9QQ185Njc2ODExODI1NjE0ODMwNTU5IiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6Ijk2NzY4MTE4MjU2MTQ4MzA1NTkiLCJtaWQiOiI1NzY0NjI4MTQ2NzI3Mzk0NTkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWt0SDVBUkRUaWQzMEJBIn0%3D"
+          },
+          {
+            "name": "Matte Black / Polarized Gradient Graphite Lens",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlozQUZhYktoTnFUQmtQSVB1ZHE0NlFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE3MTY4MDM1NTQ5OTE0NDY1NTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA5NzcyOTkwODM1NzE2MzcxNiIsImltYWdlRG9jaWQiOm51bGwsInJkcyI6IlBDXzk2NzY4MTE4MjU2MTQ4MzA1NTl8UFJPRF9QQ185Njc2ODExODI1NjE0ODMwNTU5IiwicXVlcnkiOiIlMjI3NTM3NTkzNDk1NzglMjIiLCJncGNpZCI6Ijk2NzY4MTE4MjU2MTQ4MzA1NTkiLCJtaWQiOiI1NzY0NjI4MTQ2NzI3Mzk0NTkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjoiRWdzSWt0SDVBUkN4NllYQ0JRIn0%3D"
+          }
+        ]
+      }
+    ]
+  },
+  "related_searches": [
+    {
+      "query": "unisex sunglasses",
+      "image": "http://t2.gstatic.com/images?q=tbn:ANd9GcSHoitOhuuDdfv9st6BqZS5Qq79d4seLGpV7Z-LlDt1d726YRur",
+      "link": "https://www.google.com/search?cs=1&q=unisex+sunglasses&gl=us&hl=en"
+    },
+    {
+      "query": "plastic sunglasses",
+      "image": "http://t0.gstatic.com/images?q=tbn:ANd9GcTE2BgPyTzkbiGplDgQpjZyi4Es4Qg-yNSkPKM22EVh2h8_cOwO",
+      "link": "https://www.google.com/search?cs=1&q=plastic+sunglasses&gl=us&hl=en"
+    },
+    {
+      "query": "ray-ban sunglasses",
+      "link": "https://www.google.com/search?cs=1&q=ray-ban+sunglasses&gl=us&hl=en"
+    },
+    {
+      "query": "ray-ban sunglasses on sale",
+      "link": "https://www.google.com/search?cs=1&q=ray-ban+sunglasses+on+sale&gl=us&hl=en"
+    }
+  ]
+}

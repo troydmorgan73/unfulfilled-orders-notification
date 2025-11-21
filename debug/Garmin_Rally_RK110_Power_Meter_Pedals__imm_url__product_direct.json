@@ -1,0 +1,237 @@
+{
+  "search_metadata": {
+    "id": "69056e8ea89e0202137b51a7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/390119adf148e275/69056e8ea89e0202137b51a7.json",
+    "created_at": "2025-11-01 02:21:02 UTC",
+    "processed_at": "2025-11-01 02:21:02 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=CWYFafnHAcm5p84Pw9vW4Ak&q=Garmin+Rally+RK110+Power+Meter+Pedals&gl=us&hl=en&cs=1&async=catalogid:3480078197944752049,gpcid:9964882114473085556,headlineOfferDocid:8299764722771184473,rds:PC_9964882114473085556|PROD_PC_9964882114473085556,imageDocid:3804959423127235700,isp:true,query:Garmin%20Rally%20RK110%20Power%20Meter%20Pedals,mid:576462866925921372,pvt:hg,_fmt:jspb",
+    "raw_html_file": "https://serpapi.com/searches/390119adf148e275/69056e8ea89e0202137b51a7.html",
+    "prettify_html_file": "https://serpapi.com/searches/390119adf148e275/69056e8ea89e0202137b51a7.prettify",
+    "total_time_taken": 1.04
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "eyJlaSI6IkNXWUZhZm5IQWNtNXA4NFB3OXZXNEFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzQ4MDA3ODE5Nzk0NDc1MjA0OSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjgyOTk3NjQ3MjI3NzExODQ0NzMiLCJpbWFnZURvY2lkIjoiMzgwNDk1OTQyMzEyNzIzNTcwMCIsInJkcyI6IlBDXzk5NjQ4ODIxMTQ0NzMwODU1NTZ8UFJPRF9QQ185OTY0ODgyMTE0NDczMDg1NTU2IiwicXVlcnkiOiJHYXJtaW4rUmFsbHkrUksxMTArUG93ZXIrTWV0ZXIrUGVkYWxzIiwiZ3BjaWQiOiI5OTY0ODgyMTE0NDczMDg1NTU2IiwibWlkIjoiNTc2NDYyODY2OTI1OTIxMzcyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiJ9"
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxOE5cxCzGVlyc1lyRWTYJiowSGZ9tuXuOom-3jmqHyArWdlfI5XDUTPSJGuF24johalzZWz6x-zWnZL2a57Q8OA6tskQ751AEe3JPg_8oFhVAFaFI3_P0",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSC2QmTB3QVfZpJOs97oUwJrOpoWEzcQxCxRSiISGzR15HvXswJFz5dJxzPDGE8b5TepKLZtV2gDRkoIcrkL4vzWdP0Zx6jP8KYu6UUcRSqa8FuSu580P_Ax84",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5wijMs0AU_GYqxZnMuQtilA5bOItIS7IPjKAKHe1VdcQtVURKiGuoUD1MqgDf8-9yx2XQbNr6rtLcrQZcp1__8hp6W9Und__YjbFkj8A2",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhUvxE0IZM0hWH4uuMJKGSAgHSN96vweBsjGWSBetwoOTyFbVQV_cCJ4GdSKF3v72JHzOMaK0yiHl69hmoPRE77VS3nSXjyjzA4oWoXH7oVVk4WOj87PEP",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRu6l_UUzv26NMQWBIVTWs9eQtZOzx2sQwNQkNQeQlaREQgeVHIh7HukSRwvR18LYHoAWE02QIXfhKys_q1eHyPVfaZUjMuwdJrn-Qw8N8",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQjGSNRCtk8oMDQ6Xpkqk_WnFKuZEuF8EPJ-TbUJEqbkrCuEWYgpeXe82Ras4ZxiMPJT6RQ2nbGX8hpOKyZX3fn6puBI9xnWkscG8fdeV2LEvdQIJUm5_mp",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQUFBhHT2B2wIh8u2mnbB2LrfS2gcVH2eyx9u_CPWeVXQOUJxx16LF_8FLIErdwQfI5oYprM4IRq8x1DCEtJQ493pATeolWtg58xcsox0zb5u8TI0Ur7hOp6w",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTSoeDJZqtvexsQ40tHkyyOrnCc_Txs5Z-9pcjNwB1I5o-c5V0_7CVGg4BymXzcpo9B0Ut9R-pGY-Pm3Sd8PbBneQzRcDj4qbAuJAZZOyQqlmOCQhNtJ2y1eA",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTBXC4x5OKKhVgguBt94hJHkRp7kT8MxLt6Ts11XgPlbV721K0u4QA7A8u4eajDLF7oxzFr50aKBIwtraXt3bGbp3I7jVnOTShzR9y_UIv",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR98KptodJJzc2KhbohcNHdofgMaiyx6CsKgVWeK0PLBzoXW4JZEC5EjNIaSQgcS9nmE8u472jn5rGU8AfBsz1MPEGVOBJjFJQIMGhlhjWVbOZ2MWCdDe51Lg",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSH0SbQiHxKJ51hL2UVCnAPeCIgoWzpIM4zcrk1umfBJGudrvh5HOGEil1gp3S3ebF4QIaDExdeKUuZFmFe7bPe01DeRNVidh9613RV0-bx",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTPOwHD2K17E4DX0cLgjdKrsL0Sl46VOnFMZoMxL98Dr_1rY-bXjRMSdP7aIo-uhbuNbNVqBN0l7jwAJsSaUqRYP5n_OdXAWhYx9mAm9awA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQI73fZGOKhMj15LUE7oMJ7MCs1NpgK5XP-CmhX46_WhIi8xx_6VeHzl6Vncd_rAtt8KP_P78-c1ZlZHhnuPDZGN5V1A9NgxtlwiT6ghycKMm15d8M98mACpQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT8z4TxBAfhg1K3rlx6O4uQJc-SGbCz-YKcnm2IIWfiUhjhLEDM_oU9sGNjFnKPvhZx9nQXt39lybG6s-5UD925cBjzhbLwo0xAvBQroEzJUp_rq424OoZmwxs"
+    ],
+    "title": "Garmin Rally RK110 Single-Sensing Power Meter Pedals",
+    "brand": "GARMIN",
+    "reviews": 2,
+    "rating": 5,
+    "price_range": "$750-$750",
+    "stores": [
+      {
+        "name": "Garmin - United States",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.garmin.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.garmin.com/en-US/p/1134231/pn/010-02875-01/?srsltid=AfmBOor9pTHynz4Gu5KO-TDXrsyPzlXlZZ3vathWdhrUi3vUYH-SKRjDnrM",
+        "title": "Garmin Rally RK110, Single-sensing Power Meter",
+        "rating": 4.6,
+        "reviews": 226,
+        "payment_methods": "PayPal, Google Pay, Klarna & more accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Tue - Wed",
+          "Free 30-day returns"
+        ],
+        "price": "$749.99",
+        "extracted_price": 749.99,
+        "shipping": "Free",
+        "total": "$749.99",
+        "extracted_total": 749.99
+      },
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.bestbuy.com/product/garmin-rally-rk110-single-sensing-power-meter-black/JXF9YFFYL2/sku/6645913?utm_source=feed",
+        "title": "Garmin - Rally RK110 Single-sensing Power Meter - Black",
+        "rating": 4.5,
+        "reviews": 2505,
+        "payment_methods": "PayPal, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Nov 10",
+          "Free 15-day returns"
+        ],
+        "price": "$749.99",
+        "extracted_price": 749.99,
+        "shipping": "Free",
+        "total": "$749.99",
+        "extracted_total": 749.99
+      },
+      {
+        "name": "REI",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.rei.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.rei.com/product/C05559/garmin-rally-rk110-single-sensing-power-meter-pedals?sku=C055590001&CAWELAID=120217890020553758",
+        "title": "Garmin Rally RK110 Single-Sensing Power Meter Pedals Black",
+        "rating": 4.8,
+        "reviews": 2226,
+        "payment_methods": "PayPal, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "90-day returns"
+        ],
+        "price": "$750.00",
+        "extracted_price": 750.0,
+        "shipping": "Free",
+        "total": "$750.00",
+        "extracted_total": 750.0
+      },
+      {
+        "name": "Condor Cycles",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.condorcycles.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.condorcycles.com/en-us/products/garmin-rally-rk110-single-sensing-power-meter-pedal?variant=56589503693184&srsltid=AfmBOorXJUXvdwshHOccD-gDwRtpvXOwrPmuRq0vtUVtmyV3uqpQU0Cj04k",
+        "title": "Garmin Rally RK110, Single-sensing Power Meter Pedal",
+        "rating": 4.9,
+        "reviews": 303,
+        "payment_methods": "PayPal, Google Pay, Klarna accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "30-day returns"
+        ],
+        "price": "$855.00",
+        "extracted_price": 855.0,
+        "shipping": "Free",
+        "total": "$855.00",
+        "extracted_total": 855.0
+      }
+    ],
+    "stores_next_page_token": "kOYSYHica15aklmSk3rTxD2xKDczTyEoMSenUiHI29DQQCE4My89J1U3ODWvGMhSCMgvTy1S8E0tAZIBqSmJOcVLivOLMlkW5-blcwEA4eAazg",
+    "about_the_product": {
+      "title": "Garmin Rally RK110 | Road Cycling Power Meter",
+      "link": "https://www.garmin.com/en-US/p/1134231/",
+      "displayed_link": "garmin.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.garmin.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+      "description": "Get precise power data for all your rides with the Garmin Rally RK110, a single-sensing power meter pedal that provides accurate readings and can be easily swapped between road and off-road pedal bodies. This pedal-based power meter installs like any other pedal and allows for quick transfer between bikes. The removable power sensor allows for use with either Rally 110 or 210 road or off-road pedal bodies. Get reliable power and cadence readings with this highly accurate power meter. It's compatible with your Look KEO cleats and can be easily upgraded to a dual-sensing system. The power sensor is highly responsive and accurate to within +/- 1%. It also features Pedal IQ smart calibration alerts to let you know when you need to calibrate. The pedal has up to 90 hours of ride time on a single charge.",
+      "features": [
+        {
+          "title": "Brand",
+          "value": "GARMIN"
+        },
+        {
+          "title": "Type",
+          "value": "Clipless"
+        },
+        {
+          "title": "Body Material",
+          "value": "Carbon"
+        },
+        {
+          "title": "Use",
+          "value": "Mountain Biking"
+        }
+      ]
+    },
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 0
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 0
+      },
+      {
+        "stars": 4,
+        "amount": 0
+      },
+      {
+        "stars": 5,
+        "amount": 2
+      }
+    ],
+    "user_reviews": [
+      {
+        "text": "Firma mówi sama za siebie. Jeśli ktoś się jeszcze zastanawia nad miernikiem mocy polecam, do osprzętu SRAM. KOMBINOWANIE z korbą jest nie opłacalne.",
+        "source": "eazymut.pl",
+        "rating": 5,
+        "date": "6 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK01YvjQFSK1hgeFycvauoL_0Vz2MdIsHlfJsO5O2k4c0DpM1OElgaFiDLVjgxzwV5tFFQ=w40-h40-c0x00000000-cc"
+      },
+      {
+        "text": "Wszystko w porządku, pomiar działa bez zarzutów.",
+        "source": "eazymut.pl",
+        "rating": 5,
+        "date": "5 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK01YvjQFSK1hgeFycvauoL_0Vz2MdIsHlfJsO5O2k4c0DpM1OElgaFiDLVjgxzwV5tFFQ=w40-h40-c0x00000000-cc"
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Garmin Rally RK Pedal Body Conversion Kit",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT6j0zWEDjY4GEQiR4YW5JwKXER9WgLH_f6BeUM5A-ZUzebiKmg7ORfiQkMhafpyQ-VTMH7QBiSQx-ICvujFaJc5_MgfL_H5K5CyEoFaNUewIIVXM0_d0Zw",
+        "price": "$249.99",
+        "extracted_price": 249.99,
+        "reviews": 3,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNXWUZhZm5IQWNtNXA4NFB3OXZXNEFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI5MDA2MDgwNjE2NTM0MzE1MzYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyNTYwMDM2NDU3NTgzNDAzNjUyIiwiaW1hZ2VEb2NpZCI6IjI2NDM3OTQ3ODI1NzEzMTA2MDYiLCJyZHMiOiJQQ18xMzYxMDA5ODg1NTA4NDU2MzQ4NXxQUk9EX1BDXzEzNjEwMDk4ODU1MDg0NTYzNDg1IiwicXVlcnkiOiJHYXJtaW4rUmFsbHkrUksxMTArUG93ZXIrTWV0ZXIrUGVkYWxzIiwiZ3BjaWQiOiIxMzYxMDA5ODg1NTA4NDU2MzQ4NSIsIm1pZCI6IjU3NjQ2MjY5MzA3NTUwNjA1NyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Garmin Rally 110/210 Pedal Body Conversion Kit",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQkPm5H1DOopcTH6xobnNxvjDdBV2XVtIihHxk5VBgkNxYS1fMY7p5FA_2SI09XyE1wL67D9-V2GYuE5ht5vyEdXYO29ymxmCiaPb35U3uxdtZZFRGxrPGRSQ",
+        "price": "$249.99",
+        "extracted_price": 249.99,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNXWUZhZm5IQWNtNXA4NFB3OXZXNEFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjY5NjEyODE4NTQ5MDQ4MzgyNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjcwNjA2MTE4MzAzNzk1OTY1ODgiLCJpbWFnZURvY2lkIjoiMTA0NTMzMzcxOTYyMDczNjgwMTAiLCJyZHMiOiIiLCJxdWVyeSI6Ikdhcm1pbitSYWxseStSSzExMCtQb3dlcitNZXRlcitQZWRhbHMiLCJncGNpZCI6IjQ0OTE5MTE1NzQ2MjE1NTc2NTgiLCJtaWQiOiI1NzY0NjI4NDYwNTg5NTc3OTIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Garmin Rally RK200 Dual-Sensing Power Meter Pedals",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR73FF_Hs25xFcxaGGxtigMVSFjvs95yApqPZUgf4B_6vJCYF9CdHPkK2O2e0ChYe_NFeeRZSwWi9UV8nK1xWhjsHWc6cQjWshs-xYSy6mvyw1psKGmXyjT",
+        "price": "$649.99",
+        "extracted_price": 649.99,
+        "reviews": 156,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNXWUZhZm5IQWNtNXA4NFB3OXZXNEFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzNjk3MTAzNDc0NTQyOTczMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg2ODIwMDEwMjA3MDc2NTI5MzUiLCJpbWFnZURvY2lkIjoiNjg2MDQzMDM5NjQ5MjU2OTE1OSIsInJkcyI6IlBDXzE3OTU1MzU1MjQ3MzcxODcyNjEyfFBST0RfUENfMTc5NTUzNTUyNDczNzE4NzI2MTIiLCJxdWVyeSI6Ikdhcm1pbitSYWxseStSSzExMCtQb3dlcitNZXRlcitQZWRhbHMiLCJncGNpZCI6IjE3OTU1MzU1MjQ3MzcxODcyNjEyIiwibWlkIjoiNTc2NDYyNDM0NjQxODU1MDc5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Garmin Rally RK100 Upgrade Pedal",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTuytt3P7jLXkoPHshgdL87YVCLI7X5b575bqSnY8uOrYLJTgycg5mjtp10cMxpd0tw89_jgmgT7stv8J0-g0oOeqwRyy6pFkN3vdTMy2vAqrZM-jXvzZxnVA",
+        "price": "$549.99",
+        "extracted_price": 549.99,
+        "reviews": 7,
+        "rating": 3.3,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNXWUZhZm5IQWNtNXA4NFB3OXZXNEFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY2MTE2MDYzOTk0ODA2MTc2MjYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTIzNzUzNTkxNjk2Mzk1NDg0OCIsImltYWdlRG9jaWQiOiIxNDIxMzU3ODQ5MzE5NTkzODA2IiwicmRzIjoiUENfMTY4OTA2NzE0NDM3NjA1OTY5MDF8UFJPRF9QQ18xNjg5MDY3MTQ0Mzc2MDU5NjkwMSIsInF1ZXJ5IjoiR2FybWluK1JhbGx5K1JLMTEwK1Bvd2VyK01ldGVyK1BlZGFscyIsImdwY2lkIjoiMTY4OTA2NzE0NDM3NjA1OTY5MDEiLCJtaWQiOiI1NzY0NjI4NTc5NjIzNTk4MjQiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Garmin Rally XC210 Dual Sensing Power Meter Pedals",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtqjwg_uAGndHER8orRjsb8-ePZjDGuoMGhT9XNtJ0v3IJGOUa8S_2NFUx5gqhopzGNK2c_9oHl_ZtAL__q8e7KzAIyiVqDi5q4ficNsWpKP7c9v0HuqRy1g",
+        "price": "$1,299.99",
+        "extracted_price": 1299.99,
+        "reviews": 4,
+        "rating": 5.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNXWUZhZm5IQWNtNXA4NFB3OXZXNEFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDY2NDI5NzMxNDE0ODg0NTc3NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYwMDE0NTQ2MzU4MTk0OTk5OTAiLCJpbWFnZURvY2lkIjoiMTY0MjA1Mzk4MDcyNDQyMjcwNTEiLCJyZHMiOiJQQ181NzYyNzE1NzkzNTc0NDkyMXxQUk9EX1BDXzU3NjI3MTU3OTM1NzQ0OTIxIiwicXVlcnkiOiJHYXJtaW4rUmFsbHkrUksxMTArUG93ZXIrTWV0ZXIrUGVkYWxzIiwiZ3BjaWQiOiI1NzYyNzE1NzkzNTc0NDkyMSIsIm1pZCI6IjU3NjQ2Mjg2NjkzOTgyNzk1NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Garmin Rally XC Pedal Body Conversion Kit",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSX3vyCTO7sDBktYVkgTlem4Fk3odIfaxQF_8daT_OPXg_VlGvmG90mlZv3z-RE2SYxCSpE52GzFt9jINS-gnhFrRSJVpjLZto8OEzg0zjsJe6EoIeyaAF68w",
+        "price": "$399.99",
+        "extracted_price": 399.99,
+        "reviews": 19,
+        "rating": 3.4,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkNXWUZhZm5IQWNtNXA4NFB3OXZXNEFrIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODE4Nzg4NTg0ODY2NDM4MDU5NyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NTg0NzQ3NjY5ODM1NDYwMTEiLCJpbWFnZURvY2lkIjoiMTI1ODA2NzkyNTAxODcwMTg1NjIiLCJyZHMiOiJQQ18yNjAzMDY0MDkzNTA1NDE1MzQzfFBST0RfUENfMjYwMzA2NDA5MzUwNTQxNTM0MyIsInF1ZXJ5IjoiR2FybWluK1JhbGx5K1JLMTEwK1Bvd2VyK01ldGVyK1BlZGFscyIsImdwY2lkIjoiMjYwMzA2NDA5MzUwNTQxNTM0MyIsIm1pZCI6IjU3NjQ2Mjg2NjkyNTkyMTM3MiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      }
+    ]
+  }
+}

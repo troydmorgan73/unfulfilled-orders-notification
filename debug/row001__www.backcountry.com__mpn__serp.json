@@ -1,0 +1,127 @@
+{
+  "search_metadata": {
+    "id": "690577b9f7e996006a8aba25",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/255cfa3133da834f/690577b9f7e996006a8aba25.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/255cfa3133da834f/690577b9f7e996006a8aba25.json_with_pixel_position",
+    "created_at": "2025-11-01 03:00:09 UTC",
+    "processed_at": "2025-11-01 03:00:09 UTC",
+    "google_url": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Awww.backcountry.com&oq=%2200.1918.773.000%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/255cfa3133da834f/690577b9f7e996006a8aba25.html",
+    "total_time_taken": 2.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"00.1918.773.000\" site:www.backcountry.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"00.1918.773.000\" site:www.backcountry.com",
+    "total_results": 1,
+    "time_taken_displayed": 0.46,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings?srsltid=AfmBOooJc1KsdfsxWcupgkabVMlThCqM7PRbtKXl71snLna0XCta4l5F",
+      "thumbnail": "https://serpapi.com/searches/690577b9f7e996006a8aba25/images/ea9d979782afab493d0fcc6d3f83244473d34a31e33bc06849146c50fc7e53ca.jpeg",
+      "original": "https://www.backcountry.com/images/items/large/ZIP/ZIPZ07R/FRSTGRD1.jpg",
+      "title": "858 NSW Carbon Centerlock Tubeless Wheel - Ceramic Bearings",
+      "source_name": "Backcountry"
+    },
+    {
+      "source": "https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings?srsltid=AfmBOopQbDM_UbEIfK_pwyEDRbDaE2UDrxvKu4coxlzCoasKB9ZBjOpt",
+      "thumbnail": "https://serpapi.com/searches/690577b9f7e996006a8aba25/images/ea9d979782afab4941f0cd6a648f06029a10ce93d9c7e3874779985c1d8388ca.jpeg",
+      "original": "https://www.backcountry.com/images/items/1200/ZIP/ZIPZ07R/RESTGRD1_D1.jpg",
+      "title": "858 NSW Carbon Centerlock Tubeless Wheel - Ceramic Bearings",
+      "source_name": "Backcountry"
+    },
+    {
+      "source": "https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings?srsltid=AfmBOopHaExGlhc8fwaSNXJODBKE1bMmuAsWIlV3rswyjc1ujpmZ5Cus",
+      "thumbnail": "https://serpapi.com/searches/690577b9f7e996006a8aba25/images/ea9d979782afab49d3c3235def9afd8dd3bd878289fcf6e5d21d62d27fa3d848.jpeg",
+      "original": "https://content.backcountry.com/promo_upload/bcs/2025/BC25_0052/Flyout.jpg",
+      "title": "Zipp 858 NSW Carbon Centerlock Tubeless Wheel - Ceramic ...",
+      "source_name": "Backcountry"
+    },
+    {
+      "source": "https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings?srsltid=AfmBOor0U-UoTLK8Yr29z_guf184eXqKhj1ms1AgtCbNKLisXuvFxPQd",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWlQjdPFYeF-pNmt0MF2jMNLniiGqINuau73qrpK0_0PUideNc6HC1Lww&s"
+    },
+    {
+      "source": "https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings?srsltid=AfmBOopimerKFqRzSUq7zM9P_xNbvvL5WnWtKeCFIfuMbCgmppF6O83m",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrDb92XarmHXdKLttG85g82zx4OXF95ZB4_8S83awPnEgpcO0uWNkn4u8&s"
+    },
+    {
+      "source": "https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings?srsltid=AfmBOoq-WuypKeFRjN4_g63Zk4qp1Tdz4IvjiXxxVqRgbRHKV1md9BQd",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0xLCSKYbGW_RtKyRuusFuFcb2iHgzT5eRQUZShIPnCRiydI7zYTnsxeg&s"
+    },
+    {
+      "source": "https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings?srsltid=AfmBOoozOBpakN6IX5LEPqkzmNpLvhxrakcDsSCJP8ZWypOea2vym4m5",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1vgc43GX_WvAQot8ZKZrrvMmq5KVGS7JG0csKjnshXVFjQDsDz-Zs60&s"
+    },
+    {
+      "source": "https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings?srsltid=AfmBOorPAEvU3HbiExoA8XCWO7KVhSXMpPmaG3kcFEfVkaSXhQ0KM887",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROey0PEuW1Qtl_7DkNi6Hb0QEBlqD16w5uZ5WF1O4yR0BN-mG7EGvwLek&s"
+    },
+    {
+      "source": "https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings?srsltid=AfmBOopUza7v2daOddVzfbwPNKrNlkC9Ni_qr58UK48EkXRRU_hj5sQO",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfpKRSI_9wfTK-0_xRF7cidQplNC3mDCXYn7C3AYsvwaPcjhMM0f936Xw&s"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Zipp 858 NSW Carbon Centerlock Tubeless Wheel",
+      "link": "https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings?srsltid=AfmBOor67Zen7fMBmEYlLT0p3KCow1G4xn9CnTn5bUN-gG3_aMDGP8SA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.backcountry.com/zipp-858-nsw-carbon-centerlock-tubeless-wheelset-ceramic-bearings%3Fsrsltid%3DAfmBOor67Zen7fMBmEYlLT0p3KCow1G4xn9CnTn5bUN-gG3_aMDGP8SA&ved=2ahUKEwjivM_x-s-QAxWtl2oFHceJDuMQFnoECBwQAQ",
+      "displayed_link": "https://www.backcountry.com › ... › Road Wheels",
+      "thumbnail": "https://serpapi.com/searches/690577b9f7e996006a8aba25/images/904f7a38a68565d5f3815e304ee80c9b2c1ac82525a88496efa5c0776bd24a15.jpeg",
+      "favicon": "https://serpapi.com/searches/690577b9f7e996006a8aba25/images/904f7a38a68565d5f3815e304ee80c9b8a02e3f944558168a23be92669f3cf06.png",
+      "snippet": "00.1918.772.000, 00.1918.773.000, 00.1918.773.001. Manufacturer Warranty. limited lifetime. Activity. cyling, triathlon, time trial. Show More. Aero-optimized ...",
+      "snippet_highlighted_words": [
+        "00.1918.773.000"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price_from": 1900.0,
+            "price_to": 2300.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$1,900.00 to $2,300.00",
+            "In stock",
+            "Free delivery",
+            "Free 30-day returns"
+          ]
+        }
+      },
+      "source": "Backcountry"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Awww.backcountry.com&oq=%2200.1918.773.000%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Awww.backcountry.com&oq=%2200.1918.773.000%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Awww.backcountry.com&oq=%2200.1918.773.000%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Awww.backcountry.com&oq=%2200.1918.773.000%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Awww.backcountry.com&oq=%2200.1918.773.000%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Awww.backcountry.com&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Awww.backcountry.com&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Awww.backcountry.com&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Awww.backcountry.com&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Awww.backcountry.com&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Awww.backcountry.com&start=40"
+    }
+  }
+}

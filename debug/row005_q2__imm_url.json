@@ -1,0 +1,634 @@
+{
+  "search_metadata": {
+    "id": "690570a1b9dbc4367df55785",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a46aded27cedda71/690570a1b9dbc4367df55785.json",
+    "created_at": "2025-11-01 02:29:53 UTC",
+    "processed_at": "2025-11-01 02:29:53 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=m3AFabTmOq-f0PEPmvWQ0Qg&q=Garmin+010-02890-00&gl=us&hl=en&cs=1&async=catalogid:5859877330509123640,gpcid:9720433616383348180,headlineOfferDocid:15076965064149994254,rds:PC_9720433616383348180|PROD_PC_9720433616383348180,imageDocid:11084151907530794452,isp:true,query:Garmin%20010-02890-00,mid:576462783922972407,pvt:a,_fmt:jspb",
+    "raw_html_file": "https://serpapi.com/searches/a46aded27cedda71/690570a1b9dbc4367df55785.html",
+    "prettify_html_file": "https://serpapi.com/searches/a46aded27cedda71/690570a1b9dbc4367df55785.prettify",
+    "total_time_taken": 1.59
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "eyJlaSI6Im0zQUZhYlRtT3EtZjBQRVBtdldRMFFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTg1OTg3NzMzMDUwOTEyMzY0MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1MDc2OTY1MDY0MTQ5OTk0MjU0IiwiaW1hZ2VEb2NpZCI6IjExMDg0MTUxOTA3NTMwNzk0NDUyIiwicmRzIjoiUENfOTcyMDQzMzYxNjM4MzM0ODE4MHxQUk9EX1BDXzk3MjA0MzM2MTYzODMzNDgxODAiLCJxdWVyeSI6Ikdhcm1pbiswMTAtMDI4OTAtMDAiLCJncGNpZCI6Ijk3MjA0MzM2MTYzODMzNDgxODAiLCJtaWQiOiI1NzY0NjI3ODM5MjI5NzI0MDciLCJwdnQiOiJhIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ=="
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTeiPufVwlb39CoTPSzBct7y5UhvFrRwXwM2lREAqM9JaWzfxM7wEAHmUjzYdqbEoMUw2CvmF_-nYC4aOSM7aFvZ6CgvAy-eTqiA_1Y5EHuUxa5KsbqFS75cg",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT6LWH9UDEO4HfJBHLex2o9Jt86dB6mNi9rEXkq3aUQqcjUUaKuizreSIQunjTqn3Hb6wFf-jBn0-tT1BLMQ5R1_N-ISGi7lJ2JR21w1To",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOMzlW2i16vVb_jsYAjXsgVE469Dgf5hTlfFUOQk4Mv0yvgKkJNcEUrj8iYGIgrjJJhaPHvJoeKz7dvdCudzYgpVpxOTODKRWh_sfFM2xjH4Pa7Rb69NWTzQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTPU3GoTKxlL4pXOJuZybm2UjzOAi0bQ9yE6-adOwb9vzs2Gq6YzV39Im6EQsl569OYcLYSkA3kldKL1Laqqpqh-kPt_nw-o-wddRd-CskD95WZpY7iRqVm6w",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ2Oqzu-QbCGASN3fkh36N3dt0YsFjdDRzxDtNM-aJ4Dw_M8AP2YkMUzlsS_oYCJjLr213m4F3xc9FWn3m0sF_bFU8ua-23vlplWueyUvxhi9JkOUuo4nuYEw",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS3rpB5_sKusrdlHNjAzIfBW9U6rLeIWHeXZKqGfbxJP309Gha4CkhPnSMDV-pO3fQlGMJ24PRzY63dSYEBMiAgmG4gMJlYzyho15yyY-w5Pj0H-d3_Mk9T",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3xXmuiRbo0F9A9JmxCLkVBp4InJp6RMomMu_Kpf0E0p6V7xLL1f4iNOnblFLKMYp54xeZ5pruMiDJnzoT-mrjqGsccCe5gCJyelQHyXF8sqyxb1JaBZjvmw",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRZJIaw1j5w4JIuxGm9Nj2M7cWxGBoK8CSzKwe829J08nkz91vKhwHkJ2eX3orVouYwGVZf3Lv5slt8qb_xcLOIRIpINdzhq3xbXr5wuaUX4eRBvvglHby4kQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRfGV_VY5D3sMRKyuH8fqXHj0AHoN6bl-YLWPHzbJYMZwl__ok3BsBACFMZoGM0mEuNvHj8wRyoaXefc3b8qRz4hJNoCQY3w0sLZKq890M",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRkb5IwFsGJBVIIZ8jI_K7glwKjJifGguU_BHMtHIhQdvJEK-2EfTxaPGat0Bx1Hx8E0oNSlKk7740uzgpuYWcnh0HKfVki6gSXxMIxzf-NFGJChMsyYYlo"
+    ],
+    "title": "Garmin Edge 1050 Computer",
+    "brand": "GARMIN",
+    "reviews": 1014,
+    "rating": 4.5,
+    "price_range": "$655-$835",
+    "stores": [
+      {
+        "name": "Garmin - United States",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.garmin.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.garmin.com/en-US/p/1196129/pn/010-02890-00/?srsltid=AfmBOorwUJj42Y7vwkpLwnq6Evd_hBH7HURq4dmfQL_2GflRVjw5wYRgiJo",
+        "title": "Garmin Edge 1050, Premium Cycling Computer",
+        "rating": 4.6,
+        "reviews": 226,
+        "payment_methods": "PayPal, Google Pay, Klarna & more accepted",
+        "tag": "Most popular",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Tue - Wed",
+          "Free 30-day returns"
+        ],
+        "price": "$699.99",
+        "extracted_price": 699.99,
+        "shipping": "Free",
+        "total": "$699.99",
+        "extracted_total": 699.99
+      },
+      {
+        "name": "REI",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.rei.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.rei.com/product/244194/garmin-edge-1050-bike-computer?sku=2441940001&store=142",
+        "title": "Garmin Edge 1050 Bike Computer Black",
+        "rating": 4.8,
+        "reviews": 2226,
+        "payment_methods": "PayPal, Klarna accepted",
+        "tag": "Nearby",
+        "details_and_offers": [
+          "In stock online and nearby",
+          "Free delivery",
+          "90-day returns"
+        ],
+        "price": "$700.00",
+        "extracted_price": 700.0,
+        "shipping": "Free",
+        "total": "$700.00",
+        "extracted_total": 700.0
+      },
+      {
+        "name": "Gambacicli US",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.gambacicli.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.gambacicli.com/en/garmin-edge-1050-gps-bike-computer.html",
+        "title": "Garmin Edge 1050 GPS Bike Computer",
+        "rating": 5.0,
+        "reviews": 166,
+        "payment_methods": "PayPal, Klarna accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between Nov 7\u2009\u2013\u200912 $21.56",
+          "14-day returns"
+        ],
+        "discount": "Usually $655",
+        "price": "$604.19",
+        "extracted_price": 604.19,
+        "original_price": "$604.19",
+        "extracted_original_price": 604.19,
+        "shipping": "+ $21.56",
+        "shipping_extracted": 21.56,
+        "total": "$625.76",
+        "extracted_total": 625.76
+      },
+      {
+        "name": "Best Buy",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bestbuy.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.bestbuy.com/product/garmin-edge-1050-3-5-gps-bike-computer-black/JXF9YF56J6/sku/6628942?utm_source=feed",
+        "title": "Garmin - Edge 1050 3.5\" GPS Bike Computer - Black",
+        "rating": 4.5,
+        "reviews": 2505,
+        "payment_methods": "PayPal, Zip accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Nov 10",
+          "Free 15-day returns"
+        ],
+        "price": "$699.99",
+        "extracted_price": 699.99,
+        "shipping": "Free",
+        "total": "$699.99",
+        "extracted_total": 699.99
+      },
+      {
+        "name": "DICK'S Sporting Goods",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dickssportinggoods.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.dickssportinggoods.com/p/garmin-edge-1050-cycling-computer-25gmnadg1050xxxxxmsc/25gmnadg1050xxxxxmsc?sku=26436416&srsltid=AfmBOop3T19huWMUDE3cHH6D3Ua-qn0j6seTcSksaQWUwdn9idqkUOQXEgY",
+        "title": "Garmin Edge 1050 Cycling Computer, Black",
+        "rating": 4.7,
+        "reviews": 452,
+        "payment_methods": "PayPal, Afterpay, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery",
+          "Free 90-day returns"
+        ],
+        "price": "$699.99",
+        "extracted_price": 699.99,
+        "shipping": "Free",
+        "total": "$699.99",
+        "extracted_total": 699.99
+      }
+    ],
+    "stores_next_page_token": "BdlUC3ica15aklmSk7rTPbEoNzNPwTUlPVXB0MDUQME5P7egtCS1aElxflEm6-LcvHwuAIPpEKk",
+    "about_the_product": {
+      "title": "Garmin Edge\u00ae 1050 | Premium Cycling Computer",
+      "link": "https://www.garmin.com/en-US/p/1196129/",
+      "displayed_link": "garmin.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.garmin.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+      "description": "The premium Edge 1050 cycling computer features a vivid color touchscreen display so you can see your maps and stats in stunning detail. And to make sure you never stop cycling, it has up to 20 hours of battery life in the most demanding use cases and up to 60 hours in battery saver mode. Get alerts for road hazards reported by fellow cyclists, and for group rides, see in-ride messaging, leaderboards and more when used with your compatible smartphone and the Garmin Connect app. When it's time to focus on individual training for a race or personal goal, Edge 1050 delivers. It works seamlessly with our free Garmin training plans for cyclists. Event adaptive training delivers personalized workouts that adapt to your performance, recovery and more when riding with your compatible power meter and heart rate monitor. A built-in speaker delivers clear workout and navigation prompts plus a bike bell so you can alert riders and pedestrians. This cycling computer also has Garmin Pay contactless payments (with a supported bank), making that post-ride latte a little sweeter."
+    },
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 49
+      },
+      {
+        "stars": 2,
+        "amount": 39
+      },
+      {
+        "stars": 3,
+        "amount": 31
+      },
+      {
+        "stars": 4,
+        "amount": 124
+      },
+      {
+        "stars": 5,
+        "amount": 771
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQtPVGOBeMAt6K82W96wSPjI_7sgm-LVR_g3iBYx_wnP7jPx3udF_CZyH-wBBdKkRKfPnAhJXqtrK0-EImpLpX2dDziBr8Q",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1uK35ve3hSV8heKIwkoJ739JckYOTTicX7LL7ccUZUc5gpW0SQV3GEP74NSwOG8S7md8ekjHEqQRQAskNC-ACuvCXUqRbmA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRrPaIZw2BkR-aZP0Qp7koZTvvs-cMCZZLCalY9RxXp3stz5e7JZBstK4fsnB3-vFZOZjBNKWCvwu4as7Cu7-Vii9Ytqu1Y",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8MhL6nydVeoUj0O9-MfrbVUeORY6zciupltQinj72ucgEB6-NOdk3lvSz19zt-giFVVQdXk47qRAzZT_ewRmocpPx0Zvz",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxCm0BAk7GijhaGhlgz3SLn3w4B6FwZasfpbrBcxBhI3JZxrm6mVUr9c5dblIFXaduzM_ag3Je1Ccvc8UUUmzaTiyHdH3S2Q",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRcpN5lJkvcsdy-tdLJSb2bzsrI8X3rPHNaFheLe77c_XaKBb1wICc2GwWoqWxmlChPtXAQrWjQ3JQkJJ6SEzuidu85d3GviA",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLPAh0KGIemh3j7Ol2iY6PDemEcxya4ospKUV5e19pTU89Ql3u0gvyFbJEKkEMvk1-lBS44MLesdg2w7vhK9lNhfHD9FKT",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSWc9NZjUOl_hhohDzVJQ63XGRqkknM_W_5_vTyYn9OMpi6Nv3Rvxi603YAcghBOjnBNckg5021eOTZ9vmgb4bvYefWK9_M",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSkzQfuN-cXUwXR5w3oh38fQAlD6MlkWmuWp7EyROFH5fA1noUUiF2jzv5K09BjNcxWf6IsDeFlSPgY61BFkfAgHCPWBYQB"
+    ],
+    "user_reviews": [
+      {
+        "title": "Best Edge Screen Ever!",
+        "text": "With me getting older, having a big, bright screen was a major requirement and the Edge 1050 delivers on that and more! I upgraded from a 1030 and the difference is night and day. The 1050 is not only brighter, but the responsiveness is like using a mobile phone. Some other likes and dislikes:\n\n- The bell is nice but I can\u2019t access easily with my older DI2 setup.\n\n- The community hazards is a good idea but needs more adoption in my area to be useful. I haven\u2019t had a hazard warn me of something I wouldn\u2019t have caught myself.\n\n- I like the new Real Time Stamina. Seems to accurately reflect my potential at any point of a ride.\n\n- Swiping up to get the widget glances is a nice touch.\n\n- Identifying high use streets and paths in the map is annoying. There needs to be a heat map like coloring to distinguish the roads most taken when just riding in an area you don\u2019t know.\n\n- Climbpro has rarely shown my accurate location on the hill. It seems to represent me being about 5-10% further along than I actually am (even with the highest location accuracy setting).\n\n- Battery life has been fine. Recent 40 mile ride used up about 20% of battery from full.\n\n- Setup was a nightmare. I still have so many problems loading ConnectIQ fields.\n\n4 stars overall, but can anticipate a 5 star device with upgrades to ConnectIQ usage, and some mapping / routing improvements.",
+        "user_name": "Kmilman",
+        "source": "garmin.com",
+        "rating": 4,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2axvcJPb72SKp93Obqm4Qe3eIyvcuq7iJ0LC3CXnl_qAdbnWGQgNcvcCH0liCJcCxqGg=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Mixed",
+        "text": "The Edge 1050 is a peculiar product. The fundamentals of the screen and battery life are great. That said, here are the issues:\n\nRoad hazard warning - This new Waze-like feature seems silly for bike riding. It busily dinged away announcing potholes galore, which was no help at all as I had no idea whether the reported pothole was a routine bump or a wheel eating ditch. The animal alert was even more confusing as I it might be telling me about a vicious dog who resides in the neighborhood or a perhaps alerting me that a squirrel had crossed the road three days ago. No idea which as I saw neither dogs nor squirrels.\n\nRadar defaults - I connected it to my Garmin Varia radar and the default audio alert clangs like crazy when a vehicle is about to pass. Moreover, it put the detected vehicles on the right side of the display, which makes sense for the UK, Australia, and Japan but is counter intuitive for the US and Europe. With all the clanging and dinging for potholes and radar alerts, my riding buddy said that I sounded like a pachinko parlor.\n\nWhen I got home from my first ride I spent an hour changing various defaults - radar alerts, disable road hazard warnings, disable auto-rerouting, disable sharp bend warnings, disable nutrition tracking, etc. What kind of product requires you to watch YouTube videos to verify your sanity in wanting to disable large parts of the product, including touted new features. Don\u2019t they know that the majority of users do not change defaults.\n\nMeanwhile, you are still required to use the touch swipe gesture to change pages, which is an essential activity. For me this was not reliable, even with bare fingers in dry conditions, and often required a second or sometimes a third attempt. I wonder how well it works with gloves or when wet from rain or sweat. Unfortunately, one of the few items that you apparently can not customize are the hardware buttons, as one of them (lap button) would be ideal to use as a next page button.\n\nOverall, a mixed product. I will probably keep it, especially as I have already invested time in customization, but it's no wonder that competitors like Wahoo and Hammerhead are trying to produce devices that are simpler to use.",
+        "user_name": "Riccardo",
+        "source": "REI",
+        "rating": 4,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK06p9uIkZOfxw1pzJw0fp8-gjGXz9GXAtEagCbiyA2OIc-gRrw7uu2zTv3kYihYNvnlXA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Great Cycling Computer",
+        "text": "I bought this on launch day having read online previews and I\u2019m not disappointed. Pinpoint GPS accuracy from Garmin Maps, uses the same Garmin Connect app as other models to download GPX files, with the added advantage of the upgraded software that warns of road features (sharp bends, junctions, pot holes). The information when going up steep hills is also very useful for timing gear changes\n\nI have paired this with the new Garmin radar and the two work extremely well together, it\u2019s great to get advance notice of vehicles approaching from behind, I find this especially useful on the single track roads I use.\n\nThe outfront holder sits rock solid on my handlebars and positions the unit perfectly to keep an eye on all data without taking your eyes off the road, the screen is visible in all conditions from bright sunlight to more shaded routes\n\nI am really pleased I waited for this unit to become available and paid the extra money for it, as well as pairing it with the radar",
+        "user_name": "REU236",
+        "source": "sigmasports.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK06p9uIkZOfxw1pzJw0fp8-gjGXz9GXAtEagCbiyA2OIc-gRrw7uu2zTv3kYihYNvnlXA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQtPVGOBeMAt6K82W96wSPjI_7sgm-LVR_g3iBYx_wnP7jPx3udF_CZyH-wBBdKkRKfPnAhJXqtrK0-EImpLpX2dDziBr8Q"
+        ]
+      },
+      {
+        "title": "Stopped working 1 week after purchase !!!!",
+        "text": "I love Garmin products and I have been using them for a while but this Edge 1050 was absolutely the only exception.. it kept freezing up while while biking, tried restarting it over and over literally 1 week after purchase. so not sure if the entire line has an issue or just mine was a lemon but I sent back within 30 day for hopefully full refund - I bought 1040\n\nstandard instead I haven't received yet. so hopefully better based on reviews.",
+        "user_name": "Jimmy101",
+        "source": "garmin.com",
+        "rating": 1,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK04FGXzmqNwVyJcxnhB4-XQay1nWHwTo-GwCgcZDCLDz3kh3xFys3lJszeKyDpC4PBQ3Q=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1uK35ve3hSV8heKIwkoJ739JckYOTTicX7LL7ccUZUc5gpW0SQV3GEP74NSwOG8S7md8ekjHEqQRQAskNC-ACuvCXUqRbmA"
+        ]
+      },
+      {
+        "title": "Garmin 1050 is absolutely fantastic",
+        "text": "The Garmin 1050 is absolutely fantastic for cycling enthusiasts like me. It's packed with metrics that track every ride-speed, distance, elevation, power, and more. Pairs seamlessly with my radar for extra safety, spotting cars in real time. Lightweight, super accurate, and the navigation's spot-on. Boosts my rides with data I can actually use to improve. Absolutely worth every penny-best cycling tool I've ever owned!\n\nMiguel Z",
+        "user_name": "Mike bike",
+        "source": "garmin.com",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2aKCxpXHWAr-ywfsjYerJY55VGVZK2uPHNitaweSNhgPDyFc7KVanq9a8Xzkm5gX3Qtg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRrPaIZw2BkR-aZP0Qp7koZTvvs-cMCZZLCalY9RxXp3stz5e7JZBstK4fsnB3-vFZOZjBNKWCvwu4as7Cu7-Vii9Ytqu1Y"
+        ]
+      },
+      {
+        "title": "Everything I hoped for",
+        "text": "Love my 1050! It does everything I wanted plus more. Ive got it set up to show me the gear I am riding in, my heart rate, powet mode my Specialized Levo S works is in etc. etc. Battery life is exceptional, it sends out a beacon text to my wife so she can tell when I start and where I am (I ride alone a lot), has a great crash notification feature (which works)\u2026. The list goes on. For me, worth the $. You wont be disappointed.",
+        "user_name": "Therealnickpark",
+        "source": "garmin.com",
+        "rating": 5,
+        "date": "8 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0IMlyN-ckv36LvFr2w0kW5BNgdwNj-wXL9KccWnkNrl2yrVqpJq__qYGvIzm9k6VCRAA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8MhL6nydVeoUj0O9-MfrbVUeORY6zciupltQinj72ucgEB6-NOdk3lvSz19zt-giFVVQdXk47qRAzZT_ewRmocpPx0Zvz"
+        ]
+      },
+      {
+        "title": "Fantastic cycling computer, highly recommended!",
+        "text": "Fantastic upgrade from Garmin 530. Much brighter screen, significantly bigger font for fields, true at-a-glance information. User interface is vastly improved and is much more intuitive to customize screens and functions. For training, the ability to scroll laps is a huge improvement and the display of lap information after saving a ride is AWESOME! Few purchases have made me smile so much!",
+        "user_name": "Jim in Colorado",
+        "source": "REI",
+        "rating": 5,
+        "date": "4 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3VsX6i3_NalKhXzZDyGnvedE5RmRsQEJgO0rtQetFz1K9vhmXQiNueGUMSHv3E732l8g=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxCm0BAk7GijhaGhlgz3SLn3w4B6FwZasfpbrBcxBhI3JZxrm6mVUr9c5dblIFXaduzM_ag3Je1Ccvc8UUUmzaTiyHdH3S2Q",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRcpN5lJkvcsdy-tdLJSb2bzsrI8X3rPHNaFheLe77c_XaKBb1wICc2GwWoqWxmlChPtXAQrWjQ3JQkJJ6SEzuidu85d3GviA",
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLPAh0KGIemh3j7Ol2iY6PDemEcxya4ospKUV5e19pTU89Ql3u0gvyFbJEKkEMvk1-lBS44MLesdg2w7vhK9lNhfHD9FKT",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSWc9NZjUOl_hhohDzVJQ63XGRqkknM_W_5_vTyYn9OMpi6Nv3Rvxi603YAcghBOjnBNckg5021eOTZ9vmgb4bvYefWK9_M",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSkzQfuN-cXUwXR5w3oh38fQAlD6MlkWmuWp7EyROFH5fA1noUUiF2jzv5K09BjNcxWf6IsDeFlSPgY61BFkfAgHCPWBYQB"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Garmin Edge 1050 In-Depth Review: Brilliance or Battery?",
+        "link": "https://www.youtube.com/watch?v=Nd11DIFGcZc",
+        "source": "YouTube",
+        "channel": "DC Rainmaker",
+        "duration": "21:13",
+        "thumbnail": "https://i.ytimg.com/vi/Nd11DIFGcZc/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mUgaReaWlE-qWHa2AM7oNJkQhPsA"
+      },
+      {
+        "title": "The Garmin Edge 1050 is PERFECT, but...",
+        "link": "https://www.youtube.com/watch?v=oA9l-aspXHI",
+        "source": "YouTube",
+        "channel": "David Arthur - Just Ride Bikes",
+        "duration": "17:42",
+        "thumbnail": "https://i.ytimg.com/vi/oA9l-aspXHI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kqjMx8u3UVjTscBLx0drbJJu32gw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR2MbjhSu4FS0pfzIcA3KPHgJqNHfRPCSzSZA"
+      },
+      {
+        "title": "Garmin Edge 1050 Setup & First Impressions",
+        "link": "https://www.youtube.com/watch?v=vSWrAiqNSaE",
+        "source": "YouTube",
+        "channel": "Clint Gibbs",
+        "duration": "9:49",
+        "thumbnail": "https://i.ytimg.com/vi/vSWrAiqNSaE/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mrP2fnyST-3kaG1biFHfgOLq0EYA"
+      },
+      {
+        "title": "Garmin Edge 1050: How to Use the Garmin Edge 1050 with a Smart ...",
+        "link": "https://www.youtube.com/watch?v=9AIjsZm7feg",
+        "source": "YouTube",
+        "channel": "SMART Bike Trainers",
+        "duration": "8:31",
+        "thumbnail": "https://i.ytimg.com/vi/9AIjsZm7feg/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k2vfVr_QsgivY1qC253_o3nYAXDA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT7EDhL5wa2TXIEn-MGCVbABRcHLGkbM86ypQ"
+      },
+      {
+        "title": "First Look At The Garmin Edge 1050!",
+        "link": "https://www.youtube.com/watch?v=mfJhjB3-KuI",
+        "source": "YouTube",
+        "channel": "CyclingTom",
+        "duration": "6:20",
+        "thumbnail": "https://i.ytimg.com/vi/mfJhjB3-KuI/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mDJDQSfcyEyIxMd4cyVupMFjF0cg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQSMubxxdiwvFigfYG9M_Rxwmd702O3XuiMzQ"
+      },
+      {
+        "title": "Garmin Edge 1050 First Impressions",
+        "link": "https://www.youtube.com/watch?v=YI7slOzBSpk",
+        "source": "YouTube",
+        "channel": "Moderate Cyclist",
+        "duration": "8:33",
+        "thumbnail": "https://i.ytimg.com/vi/YI7slOzBSpk/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kWzOcV9FxEMwX30hGq0W5FZ1bnXw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR5J-AanY0J8vsxdbKg7grhb-7gFU6zea1IvA"
+      },
+      {
+        "title": "Garmin EDGE 1050 Cycling GPS Review // BIG Screen and Battery ...",
+        "link": "https://www.youtube.com/watch?v=kY_-ZVqU0oo",
+        "source": "YouTube",
+        "channel": "Shane Miller - GPLama",
+        "duration": "30:22",
+        "thumbnail": "https://i.ytimg.com/vi/kY_-ZVqU0oo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lJcwIyZxFFQbOPBXvXMzwWvYx4UA"
+      },
+      {
+        "title": "Garmin Edge 1050 In-Depth Review // New Features, Accuracy ...",
+        "link": "https://www.youtube.com/watch?v=bPiLzeFi7x0",
+        "source": "YouTube",
+        "channel": "DesFit",
+        "duration": "19:10",
+        "thumbnail": "https://i.ytimg.com/vi/bPiLzeFi7x0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nOx0lGzlY_e7tNxr3prfRmhnOIJg"
+      },
+      {
+        "title": "Garmin Edge 1050 Pro Review: Where does this fit in?",
+        "link": "https://www.youtube.com/watch?v=uAMWWx-GA0I",
+        "source": "YouTube",
+        "channel": "Josh Lewis - Professional Triathlete",
+        "duration": "7:48",
+        "thumbnail": "https://i.ytimg.com/vi/uAMWWx-GA0I/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3krz2FPJ2ODerqGrVXYZfx5Mjo4Sg"
+      },
+      {
+        "title": "Garmin EDGE 1050 // Public Beta Preview Q4 2024",
+        "link": "https://www.youtube.com/watch?v=QPzyyTBEjLo",
+        "source": "YouTube",
+        "channel": "Shane Miller - GPLama",
+        "duration": "11:51",
+        "thumbnail": "https://i.ytimg.com/vi/QPzyyTBEjLo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nCAd016K6K609g8hc85mNjDMYvTg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTkUCzcNMBYdr0xaf7HpRtTUfdGjx8NlkhjmQ"
+      },
+      {
+        "title": "Garmin Edge 1050 or Wahoo Elemnt Ace \u2013 Should You Own One of ...",
+        "link": "https://www.youtube.com/watch?v=l4MyKeIL9q0",
+        "source": "YouTube",
+        "channel": "In The Know Cycling",
+        "duration": "20:39",
+        "thumbnail": "https://i.ytimg.com/vi/l4MyKeIL9q0/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nHEgikjwE6MPiRceUBp75CqxfMow",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSZVOtqi933Ehvh86skciGz7wncDEa8rl5HyQ"
+      },
+      {
+        "title": "Edge\u00ae 1050 Beyond the Basics: Make it YOUR Own!",
+        "link": "https://www.youtube.com/live/I80RtgliTto",
+        "source": "YouTube",
+        "channel": "Garmin Training",
+        "duration": "26:38",
+        "thumbnail": "https://i.ytimg.com/vi/I80RtgliTto/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3koaijmv4G4Mw27lEj5NBuCom3d9g"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Who already has the E1050 and what are the impressions? - Edge 1050 - Cycling",
+        "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/376331/who-already-has-the-e1050-and-what-are-the-impressions/1803336",
+        "source": "Garmin",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://forums.garmin.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a month ago",
+        "items": [
+          {
+            "snippet": "Browsing the features, the OS is very good and I loved it, was so fluid, fast and smooth, the screen is awesome and colorful, the bell is another stupid extra t",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/376331/who-already-has-the-e1050-and-what-are-the-impressions/1803336#:~:text=Browsing%20the%20features%2C%20the%20OS%20is%20very,the%20bell%20is%20another%20stupid%20extra%20t"
+          },
+          {
+            "snippet": "I did a 2hr zwift indoor ride and it sucked 10% of battery, I was not using demanding mode and just had my Hearth sensor and Power meter connected, other than t",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/376331/who-already-has-the-e1050-and-what-are-the-impressions/1803336#:~:text=I%20did%20a%202hr%20zwift%20indoor%20ride,and%20Power%20meter%20connected%2C%20other%20than%20t"
+          },
+          {
+            "snippet": "But not being able to use my earbuds on a ride with the Edge 1050 will certainly be a deal breaker for me.",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/376331/who-already-has-the-e1050-and-what-are-the-impressions/1803336#:~:text=But%20not%20being%20able%20to%20use%20my,certainly%20be%20a%20deal%20breaker%20for%20me."
+          }
+        ]
+      },
+      {
+        "title": "1040 vs 1050. \ud83e\udd79 help! : r/GarminEdge",
+        "link": "https://www.reddit.com/r/GarminEdge/comments/1ep70w3/1040_vs_1050_help/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "Summary, 1050 has more smart phone like screen than the MIP screen on 1040 (at cost of battery life, id agree doesnt really matter).",
+            "link": "https://www.reddit.com/r/GarminEdge/comments/1ep70w3/1040_vs_1050_help/#:~:text=Summary%2C%201050%20has%20more%20smart%20phone%20like,battery%20life%2C%20id%20agree%20doesnt%20really%20matter)."
+          },
+          {
+            "snippet": "I found the screen fairly hard to read on sunny days.",
+            "link": "https://www.reddit.com/r/GarminEdge/comments/1ep70w3/1040_vs_1050_help/#:~:text=I%20found%20the%20screen%20fairly%20hard%20to%20read%20on%20sunny%20days."
+          },
+          {
+            "snippet": "The battery lasts 20hrs, plenty for 95% of the world",
+            "link": "https://www.reddit.com/r/GarminEdge/comments/1ep70w3/1040_vs_1050_help/#:~:text=The%20battery%20lasts%2020hrs%2C%20plenty%20for%2095%25%20of%20the%20world"
+          }
+        ]
+      },
+      {
+        "title": "Garmin Edge 1050 has been officially announced. : r/GarminEdge",
+        "link": "https://www.reddit.com/r/GarminEdge/comments/1do3thr/garmin_edge_1050_has_been_officially_announced/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "The Device-To-Device-Transfer is somewhat hidden in menus but useful when you're in trouble e.g. mountains and/or bad weather.",
+            "link": "https://www.reddit.com/r/GarminEdge/comments/1do3thr/garmin_edge_1050_has_been_officially_announced/#:~:text=The%20Device%2DTo%2DDevice%2DTransfer%20is%20somewhat%20hidden%20in%20menus,in%20trouble%20e.g.%20mountains%20and/or%20bad%20weather."
+          },
+          {
+            "snippet": "But some of the new features are nice, like using your Edge unit as a bell (so that I could finally remove the bell from my road bike and won't have to yell ``b",
+            "link": "https://www.reddit.com/r/GarminEdge/comments/1do3thr/garmin_edge_1050_has_been_officially_announced/#:~:text=But%20some%20of%20the%20new%20features%20are,bike%20and%20won't%20have%20to%20yell%20%60%60b"
+          },
+          {
+            "snippet": "The dependencies to sync a GPX with a smartphone is long: Modern smartphone, network connection, maybe roaming, app, account and cloud.",
+            "link": "https://www.reddit.com/r/GarminEdge/comments/1do3thr/garmin_edge_1050_has_been_officially_announced/#:~:text=The%20dependencies%20to%20sync%20a%20GPX%20with,connection%2C%20maybe%20roaming%2C%20app%2C%20account%20and%20cloud."
+          }
+        ]
+      },
+      {
+        "title": "Who already has the E1050 and what are the impressions? - Edge 1050 - Cycling",
+        "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/376331/who-already-has-the-e1050-and-what-are-the-impressions",
+        "source": "Garmin",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://forums.garmin.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a month ago",
+        "items": [
+          {
+            "snippet": "When using a power delivery pack, the 1050 seemed to charge quite fast compared to older models.",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/376331/who-already-has-the-e1050-and-what-are-the-impressions#:~:text=When%20using%20a%20power%20delivery%20pack%2C%20the,charge%20quite%20fast%20compared%20to%20older%20models."
+          },
+          {
+            "snippet": "Plugged into my PC it charged slow (to be expected).",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/376331/who-already-has-the-e1050-and-what-are-the-impressions#:~:text=Plugged%20into%20my%20PC%20it%20charged%20slow%20(to%20be%20expected)."
+          },
+          {
+            "snippet": "The screen is the biggest selling point!!!!",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/376331/who-already-has-the-e1050-and-what-are-the-impressions#:~:text=The%20screen%20is%20the%20biggest%20selling%20point!!!!"
+          }
+        ]
+      },
+      {
+        "title": "No joint sale with REI this year? : r/Garmin",
+        "link": "https://www.reddit.com/r/Garmin/comments/1kkxfq9/no_joint_sale_with_rei_this_year/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "5 months ago",
+        "comments": 2,
+        "items": [
+          {
+            "snippet": "Garmin 1050 will be $599 starting on the 16th. Rei employee showed me the discounted price on his device.",
+            "link": "https://www.reddit.com/r/Garmin/comments/1kkxfq9/comment/msk6aai/",
+            "top_answer": true,
+            "votes": 2
+          },
+          {
+            "snippet": "Really? The anniversary sale page:  says Save $100 on Garmin inReach Mini 2 and all fenix 8 watches Not bike computers, and yeah, $100 doesn't go as far towards a Fenix as it used to, and yeah, the new inReach subscription models eat up that discount pretty fast, but there is Garmin gear in the sale.",
+            "link": "https://www.reddit.com/r/Garmin/comments/1kkxfq9/comment/mrxzbf6/",
+            "votes": 1
+          },
+          {
+            "snippet": "The bike computer has a bigger screen, and is designed to go in front of the handlebars where it's easy to see while riding.",
+            "link": "https://www.reddit.com/r/Garmin/comments/1kkxfq9/no_joint_sale_with_rei_this_year/#:~:text=The%20bike%20computer%20has%20a%20bigger%20screen%2C,where%20it's%20easy%20to%20see%20while%20riding."
+          }
+        ]
+      },
+      {
+        "title": "Garmin Edge 1040/1050 in winter? : r/fatbike",
+        "link": "https://www.reddit.com/r/fatbike/comments/1fnks4c/garmin_edge_10401050_in_winter/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a year ago",
+        "comments": 10,
+        "items": [
+          {
+            "snippet": "I use my 1040 in the winter while fat biking. It\u2019s performed fine down to 20F in Colorado.",
+            "link": "https://www.reddit.com/r/fatbike/comments/1fnks4c/comment/loiyt97/",
+            "top_answer": true,
+            "votes": 3
+          },
+          {
+            "snippet": "My 830 worked fine at -16F. Expect up to 50% battery life decrease. Keep in mind the touch screen doesn\u2019t agree with water on it so a locked screen with the manual buttons is a big upgrade on Garmin\u2019s part. I\u2019m going to upgrade for this specific reason",
+            "link": "https://www.reddit.com/r/fatbike/comments/1fnks4c/comment/loj0899/",
+            "votes": 3
+          },
+          {
+            "snippet": "Keep in mind the touch screen doesn't agree with water on it so a locked screen with the manual buttons is a big upgrade on Garmin's part.",
+            "link": "https://www.reddit.com/r/fatbike/comments/1fnks4c/garmin_edge_10401050_in_winter/#:~:text=Keep%20in%20mind%20the%20touch%20screen%20doesn't,is%20a%20big%20upgrade%20on%20Garmin's%20part."
+          },
+          {
+            "snippet": "I have had it shut down due to temperature just a handful of times, usually when I am out and it is below -30C sand in the -40s windchill.",
+            "link": "https://www.reddit.com/r/fatbike/comments/1fnks4c/garmin_edge_10401050_in_winter/#:~:text=I%20have%20had%20it%20shut%20down%20due,below%20%2D30C%20sand%20in%20the%20%2D40s%20windchill."
+          },
+          {
+            "snippet": "It's performed fine down to 20F in Colorado.",
+            "link": "https://www.reddit.com/r/fatbike/comments/1fnks4c/garmin_edge_10401050_in_winter/#:~:text=It's%20performed%20fine%20down%20to%2020F%20in%20Colorado."
+          }
+        ]
+      },
+      {
+        "title": "Garmin Edge 1050 has multiple ANT+ sensor dropouts - Edge 1050 - Cycling",
+        "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/379468/garmin-edge-1050-has-multiple-ant-sensor-dropouts",
+        "source": "Garmin",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://forums.garmin.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a month ago",
+        "items": [
+          {
+            "snippet": "WiFi (802.11b and 802.11g) can be safely configured on channels 1--6; channels 7--14 may start to interfere with ANT Wireless.",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/379468/garmin-edge-1050-has-multiple-ant-sensor-dropouts#:~:text=WiFi%20(802.11b%20and%20802.11g)%20can%20be%20safely,may%20start%20to%20interfere%20with%20ANT%20Wireless."
+          },
+          {
+            "snippet": "Garmin edge 1050 has multiple ant+ sensor dropouts - edge 1050 - cycling - Garmin forums",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/379468/garmin-edge-1050-has-multiple-ant-sensor-dropouts#:~:text=Garmin%20edge%201050%20has%20multiple%20ant+%20sensor,edge%201050%20%2D%20cycling%20%2D%20Garmin%20forums"
+          },
+          {
+            "snippet": "- I didn't get the dropouts on my first 2 exercise sessions with the unit.",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/379468/garmin-edge-1050-has-multiple-ant-sensor-dropouts#:~:text=%2D%20I%20didn't%20get%20the%20dropouts%20on,first%202%20exercise%20sessions%20with%20the%20unit."
+          }
+        ]
+      },
+      {
+        "title": "Garmin Edge 1050 Released - Page 11 - Equipment",
+        "link": "https://www.trainerroad.com/forum/t/garmin-edge-1050-released/94285?page=11",
+        "source": "TrainerRoad",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trainerroad.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "I do have an issue where occasionally the TP WOD doesn't show up on the Home Screen and I have to dig and find it in the Training menu, which is a PITA if your ",
+            "link": "https://www.trainerroad.com/forum/t/garmin-edge-1050-released/94285?page=11#:~:text=I%20do%20have%20an%20issue%20where%20occasionally,menu%2C%20which%20is%20a%20PITA%20if%20your"
+          },
+          {
+            "snippet": "anything past about 15mph the wind noise just blocks out all of the sound and renders all of the alerts useless.",
+            "link": "https://www.trainerroad.com/forum/t/garmin-edge-1050-released/94285?page=11#:~:text=anything%20past%20about%2015mph%20the%20wind%20noise,and%20renders%20all%20of%20the%20alerts%20useless."
+          },
+          {
+            "snippet": "The battery life is fantastic.",
+            "link": "https://www.trainerroad.com/forum/t/garmin-edge-1050-released/94285?page=11#:~:text=The%20battery%20life%20is%20fantastic."
+          }
+        ]
+      },
+      {
+        "title": "Navigating a course in the 1050 is unusable - Edge 1050 - Cycling",
+        "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/388678/navigating-a-course-in-the-1050-is-unusable",
+        "source": "Garmin",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://forums.garmin.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a month ago",
+        "items": [
+          {
+            "snippet": "Navigating a course in the 1050 is unusable - edge 1050 - cycling - garmin forums",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/388678/navigating-a-course-in-the-1050-is-unusable#:~:text=Navigating%20a%20course%20in%20the%201050%20is,edge%201050%20%2D%20cycling%20%2D%20garmin%20forums"
+          },
+          {
+            "snippet": "Navigating a course in the 1050 is unusable",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/388678/navigating-a-course-in-the-1050-is-unusable#:~:text=Navigating%20a%20course%20in%20the%201050%20is%20unusable"
+          },
+          {
+            "snippet": "When a long 70 mile course is loaded it slows the map drawing time to 2-3 minutes during which time the white map page is unresponsive until the map details are",
+            "link": "https://forums.garmin.com/sports-fitness/cycling/f/edge-1050/388678/navigating-a-course-in-the-1050-is-unusable#:~:text=When%20a%20long%2070%20mile%20course%20is,is%20unresponsive%20until%20the%20map%20details%20are"
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Garmin Edge Explore 2 Computer",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTUdQGbYwVqw0neTfWpj0foAAIemrhUO4WT4HDqBZsZh2Vat0cHfPOBglpVu6hWk476UqJTfQ9hrJ444-iOWrywimOOwtsQbLYc0PVKCh9zdMn39j5OYIZe",
+        "price": "$247.99",
+        "extracted_price": 247.99,
+        "original_price": "$300",
+        "extracted_original_price": 300,
+        "reviews": 1000,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im0zQUZhYlRtT3EtZjBQRVBtdldRMFFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTg0MTg0MTcwNDc0OTgyMjY1ODYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0ODA2NDkyNDk1MTU5MzQ4NDYiLCJpbWFnZURvY2lkIjoiODE0MjIyMjQ2MzU3MTg0NDU3OSIsInJkcyI6IlBDXzE0Nzc5MDIwNTYyNzY5ODI3MzU1fFBST0RfUENfMTQ3NzkwMjA1NjI3Njk4MjczNTUiLCJxdWVyeSI6Ikdhcm1pbiswMTAtMDI4OTAtMDAiLCJncGNpZCI6IjE0Nzc5MDIwNTYyNzY5ODI3MzU1IiwibWlkIjoiNTc2NDYyNzk0NjUxOTE1MzM1IiwicHZ0IjoiYSIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Garmin Edge 550 Computer",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS0AIQ6nXE-nyQy5ukhVlDOFMVx5nUMmbDVxgDhLdtB0eVEBJSSdRAuzx5kS3ZLONp-I22rM4eFflLPYNZcqoyg0xuThEO9QPEax6MQmkdZz-ophQQ2n-N-",
+        "price": "$499.99",
+        "extracted_price": 499.99,
+        "reviews": 64,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im0zQUZhYlRtT3EtZjBQRVBtdldRMFFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTI0Mjg4MDkyODQ2OTMyNzE0MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU0Nzk4OTkzNTQ0ODk1NDcyMjUiLCJpbWFnZURvY2lkIjoiMTgzNzA4Mjk3NTQ5ODk4NjA3NDAiLCJyZHMiOiJQQ18xNjIwNTk4MDAyMDE2ODAyNjIzMnxQUk9EX1BDXzE2MjA1OTgwMDIwMTY4MDI2MjMyIiwicXVlcnkiOiJHYXJtaW4rMDEwLTAyODkwLTAwIiwiZ3BjaWQiOiIxNjIwNTk4MDAyMDE2ODAyNjIzMiIsIm1pZCI6IjU3NjQ2Mjg2Njk2Mjk5NTMwMyIsInB2dCI6ImEiLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Garmin Enduro 3",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSBKI11OonHuJYGjYXAEFeR-N0pZTY27JxlC4oDlonhySVCoOsBpYXhS15U1Mgqn11i0VqbW4z37Q5My-wq-KirDqcY-rcQCO41d7EZxdEY4E9Hb3szU2gW",
+        "price": "$899.99",
+        "extracted_price": 899.99,
+        "reviews": 533,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im0zQUZhYlRtT3EtZjBQRVBtdldRMFFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzMwNjExMzM5NTU1MzUwNTM2NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ4ODQ3Nzc2NjM0NDU0NjgwNjMiLCJpbWFnZURvY2lkIjoiMzY2MzM0MzQ5Mjk1NDcyNzI4MiIsInJkcyI6IlBDXzEwMjY5NzIxMzE0NDM2NDExNjU4fFBST0RfUENfMTAyNjk3MjEzMTQ0MzY0MTE2NTgiLCJxdWVyeSI6Ikdhcm1pbiswMTAtMDI4OTAtMDAiLCJncGNpZCI6IjEwMjY5NzIxMzE0NDM2NDExNjU4IiwibWlkIjoiNTc2NDYyODIyMDU5NTQ5NDM0IiwicHZ0IjoiYSIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Garmin fenix 8 AMOLED Sapphire",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmdYfdyn9z_KiSk-aut5WfqHmwnY1fSQXkzIXyNpimKdOuFmbqsuYorY_lR3-khunzopzH8wDOfjhhTyqfYAaHu2I4_8tHvx3xxHiZQ-ZnhMpOylADSzvWyQ",
+        "price": "$1,199.99",
+        "extracted_price": 1199.99,
+        "reviews": 4000,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im0zQUZhYlRtT3EtZjBQRVBtdldRMFFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYyOTEzMjcwNTI2NTgyNzg1MjQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2NDk4MDUyMjg3NzIzMzY1Mzg5IiwiaW1hZ2VEb2NpZCI6Ijk1MTUzNDM0OTExNzM3MTc4MTQiLCJyZHMiOiJQQ184NTIzNzg2MDU3ODkyMzQzMDk4fFBST0RfUENfODUyMzc4NjA1Nzg5MjM0MzA5OCIsInF1ZXJ5IjoiR2FybWluKzAxMC0wMjg5MC0wMCIsImdwY2lkIjoiODUyMzc4NjA1Nzg5MjM0MzA5OCIsIm1pZCI6IjU3NjQ2Mjg1OTI3MDg1MzA2NCIsInB2dCI6ImEiLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "Garmin Instinct 2",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSnAlzclTzjtI-ceIEuTQYarxwyV3lQubfC0wNkwvfWdw9prOTsLk_89OUUhZn9igqZ_yBgtA0NyYOfbkN3wAmzYo7cHRtwzi09v1qXSE9pvtNRCDMvMPUb",
+        "price": "$449.99",
+        "extracted_price": 449.99,
+        "reviews": 4000,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im0zQUZhYlRtT3EtZjBQRVBtdldRMFFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY3ODUwMDg5OTU2ODg0MTcxOTgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyNzI0NjA5Njk5OTE3NTg5ODQ1IiwiaW1hZ2VEb2NpZCI6IjEyMTU4MDE5MjA2NzgzMTExNDE5IiwicmRzIjoiUENfOTk3NzAyMDQwMzI1MzY3MTM2MXxQUk9EX1BDXzk5NzcwMjA0MDMyNTM2NzEzNjEiLCJxdWVyeSI6Ikdhcm1pbiswMTAtMDI4OTAtMDAiLCJncGNpZCI6Ijk5NzcwMjA0MDMyNTM2NzEzNjEiLCJtaWQiOiI1NzY0NjI4NjU4MTYzMzMxMjQiLCJwdnQiOiJhIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Computer Garmin Edge 540",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPb5twfEf1qfhCasaRITFdKTiap6OdFeDkyWS94ZYB3Ezn1Gf2hpY5OJ9gqgRTN-j8U3wKZ3wl-ShjXpQBMLFtLblzu6WSs3BTLvCb-vmqtiJ9yBEut00T",
+        "price": "$349.99",
+        "extracted_price": 349.99,
+        "reviews": 1000,
+        "rating": 4.5,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im0zQUZhYlRtT3EtZjBQRVBtdldRMFFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ3NTY2MjczNzcxNjY4NzI5MjciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3MjQzOTQwNzUxMzAxMDE5Nzc5IiwiaW1hZ2VEb2NpZCI6IjEwOTYwNzgwMjU4OTM0NDQ1MTQyIiwicmRzIjoiUENfNzA0MDk1MzU3MjQ5NzI0OTIxMnxQUk9EX1BDXzcwNDA5NTM1NzI0OTcyNDkyMTIiLCJxdWVyeSI6Ikdhcm1pbiswMTAtMDI4OTAtMDAiLCJncGNpZCI6IjcwNDA5NTM1NzI0OTcyNDkyMTIiLCJtaWQiOiI1NzY0NjI3MDQ0NTA0NjkyNTkiLCJwdnQiOiJhIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      }
+    ]
+  }
+}

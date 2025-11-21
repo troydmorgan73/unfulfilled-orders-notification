@@ -1,0 +1,32 @@
+{
+  "search_metadata": {
+    "id": "6905794cbe918a55832204dd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/678805d9d0afbca3/6905794cbe918a55832204dd.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/678805d9d0afbca3/6905794cbe918a55832204dd.json_with_pixel_position",
+    "created_at": "2025-11-01 03:06:52 UTC",
+    "processed_at": "2025-11-01 03:06:52 UTC",
+    "google_url": "https://www.google.com/search?q=%22Zipp+00.1918.773.000%22+site%3Awww.excelsports.com&oq=%22Zipp+00.1918.773.000%22+site%3Awww.excelsports.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/678805d9d0afbca3/6905794cbe918a55832204dd.html",
+    "total_time_taken": 0.59
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Zipp 00.1918.773.000\" site:www.excelsports.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Zipp 00.1918.773.000\" site:www.excelsports.com",
+    "total_results": 0,
+    "time_taken_displayed": 0.12,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

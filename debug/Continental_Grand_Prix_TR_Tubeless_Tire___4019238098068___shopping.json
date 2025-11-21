@@ -1,0 +1,188 @@
+{
+  "search_metadata": {
+    "id": "690564c1b8b4a59eb53d4994",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3ebd2d880a0e96bd/690564c1b8b4a59eb53d4994.json",
+    "created_at": "2025-11-01 01:39:13 UTC",
+    "processed_at": "2025-11-01 01:39:13 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=%224019238098068%22&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/3ebd2d880a0e96bd/690564c1b8b4a59eb53d4994.html",
+    "total_time_taken": 8.42
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "\"4019238098068\"",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"4019238098068\"",
+    "shopping_results_state": "Fully empty"
+  },
+  "filters": [
+    {
+      "type": "Carousel Filters",
+      "options": [
+        {
+          "text": "On sale",
+          "shoprs": "CAESBEoCGAEYBioNNDAxOTIzODA5ODA2ODITCAYSB09uIHNhbGUYAiIESgIYAWAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=%224019238098068%22+sale&shoprs=CAESBEoCGAEYBioNNDAxOTIzODA5ODA2ODITCAYSB09uIHNhbGUYAiIESgIYAWAB",
+          "input_type": "link"
+        },
+        {
+          "text": "Walmart",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODILCAISB1dhbG1hcnRgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=walmart+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODILCAISB1dhbG1hcnRgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Shoes",
+          "shoprs": "CAEYCSoNNDAxOTIzODA5ODA2ODIJCAkSBVNob2VzYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=shoes+4019238098068&shoprs=CAEYCSoNNDAxOTIzODA5ODA2ODIJCAkSBVNob2VzYAE",
+          "input_type": "link"
+        },
+        {
+          "text": "Under $60",
+          "shoprs": "CAESDRILEQAAAAA4nIxBGAEYBSoNNDAxOTIzODA5ODA2ODIiCAUSCVVuZGVyICQ2MBgCIg0SCxEAAAAAOJyMQRgBKgIYAWAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=%224019238098068%22+under+%2460&shoprs=CAESDRILEQAAAAA4nIxBGAEYBSoNNDAxOTIzODA5ODA2ODIiCAUSCVVuZGVyICQ2MBgCIg0SCxEAAAAAOJyMQRgBKgIYAWAB",
+          "input_type": "link"
+        },
+        {
+          "text": "eBay",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIICAISBGVCYXlgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=ebay+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIICAISBGVCYXlgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Jenson USA",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIOCAISCkplbnNvbiBVU0FgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=jenson+usa+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIOCAISCkplbnNvbiBVU0FgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Backcountry.com",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODITCAISD0JhY2tjb3VudHJ5LmNvbWAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=backcountry.com+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODITCAISD0JhY2tjb3VudHJ5LmNvbWAB",
+          "input_type": "link"
+        },
+        {
+          "text": "Small business",
+          "shoprs": "CAESAmoAGBYqDTQwMTkyMzgwOTgwNjgyHAgWEg5TbWFsbCBidXNpbmVzcyICagAqBBABGAFgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=4019238098068&shoprs=CAESAmoAGBYqDTQwMTkyMzgwOTgwNjgyHAgWEg5TbWFsbCBidXNpbmVzcyICagAqBBABGAFgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Free shipping",
+          "shoprs": "CAESBFICEAEYGSoNNDAxOTIzODA5ODA2ODIXCBkSDUZyZWUgc2hpcHBpbmciBFICEAFgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=%224019238098068%22+free+shipping&shoprs=CAESBFICEAEYGSoNNDAxOTIzODA5ODA2ODIXCBkSDUZyZWUgc2hpcHBpbmciBFICEAFgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Competitive Cyclist",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIXCAISE0NvbXBldGl0aXZlIEN5Y2xpc3RgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=competitive+cyclist+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIXCAISE0NvbXBldGl0aXZlIEN5Y2xpc3RgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "REI",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIHCAISA1JFSWAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=rei+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIHCAISA1JFSWAB",
+          "input_type": "link"
+        },
+        {
+          "text": "Performance Bicycle",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIXCAISE1BlcmZvcm1hbmNlIEJpY3ljbGVgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=performance+bicycle+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIXCAISE1BlcmZvcm1hbmNlIEJpY3ljbGVgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Bikeinn.com",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIPCAISC0Jpa2Vpbm4uY29tYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=bikeinn.com+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIPCAISC0Jpa2Vpbm4uY29tYAE",
+          "input_type": "link"
+        },
+        {
+          "text": "Vittoria Official Store",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIbCAISF1ZpdHRvcmlhIE9mZmljaWFsIFN0b3JlYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=vittoria+official+store+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIbCAISF1ZpdHRvcmlhIE9mZmljaWFsIFN0b3JlYAE",
+          "input_type": "link"
+        },
+        {
+          "text": "Seacoast Ebikes",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODITCAISD1NlYWNvYXN0IEViaWtlc2AB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=seacoast+ebikes+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODITCAISD1NlYWNvYXN0IEViaWtlc2AB",
+          "input_type": "link"
+        },
+        {
+          "text": "Pedal Power",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIPCAISC1BlZGFsIFBvd2VyYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=pedal+power+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIPCAISC1BlZGFsIFBvd2VyYAE",
+          "input_type": "link"
+        },
+        {
+          "text": "BikeTiresDirect.com",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIXCAISE0Jpa2VUaXJlc0RpcmVjdC5jb21gAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=biketiresdirect.com+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIXCAISE0Jpa2VUaXJlc0RpcmVjdC5jb21gAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Gambacicli US",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIRCAISDUdhbWJhY2ljbGkgVVNgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=gambacicli+us+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIRCAISDUdhbWJhY2ljbGkgVVNgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "The Bikesmiths",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODISCAISDlRoZSBCaWtlc21pdGhzYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=the+bikesmiths+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODISCAISDlRoZSBCaWtlc21pdGhzYAE",
+          "input_type": "link"
+        },
+        {
+          "text": "Now Bikes",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODINCAISCU5vdyBCaWtlc2AB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=now+bikes+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODINCAISCU5vdyBCaWtlc2AB",
+          "input_type": "link"
+        },
+        {
+          "text": "Just Ride L.A.",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODISCAISDkp1c3QgUmlkZSBMLkEuYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=just+ride+l.a.+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODISCAISDkp1c3QgUmlkZSBMLkEuYAE",
+          "input_type": "link"
+        },
+        {
+          "text": "Bike-Discount US",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIUCAISEEJpa2UtRGlzY291bnQgVVNgAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=bike-discount+us+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIUCAISEEJpa2UtRGlzY291bnQgVVNgAQ",
+          "input_type": "link"
+        },
+        {
+          "text": "Bike Mart",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODINCAISCUJpa2UgTWFydGAB",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=bike+mart+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODINCAISCUJpa2UgTWFydGAB",
+          "input_type": "link"
+        },
+        {
+          "text": "City Bicycle Company",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIYCAISFENpdHkgQmljeWNsZSBDb21wYW55YAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=city+bicycle+company+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIYCAISFENpdHkgQmljeWNsZSBDb21wYW55YAE",
+          "input_type": "link"
+        },
+        {
+          "text": "Great Western Ebikes",
+          "shoprs": "CAEYAioNNDAxOTIzODA5ODA2ODIYCAISFEdyZWF0IFdlc3Rlcm4gRWJpa2VzYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=great+western+ebikes+4019238098068&shoprs=CAEYAioNNDAxOTIzODA5ODA2ODIYCAISFEdyZWF0IFdlc3Rlcm4gRWJpa2VzYAE",
+          "input_type": "link"
+        },
+        {
+          "text": "Continental",
+          "shoprs": "CAEYASoNNDAxOTIzODA5ODA2ODIbCAESC0NvbnRpbmVudGFsOgoIg_M8EO7kPjABYAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=continental+4019238098068&shoprs=CAEYASoNNDAxOTIzODA5ODA2ODIbCAESC0NvbnRpbmVudGFsOgoIg_M8EO7kPjABYAE",
+          "input_type": "link"
+        }
+      ]
+    }
+  ],
+  "error": "Google hasn't returned any results for this query."
+}

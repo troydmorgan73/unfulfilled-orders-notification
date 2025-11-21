@@ -1,0 +1,32 @@
+{
+  "search_metadata": {
+    "id": "690577e93f79f502040f136e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8b2c3d1651aaf9ad/690577e93f79f502040f136e.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8b2c3d1651aaf9ad/690577e93f79f502040f136e.json_with_pixel_position",
+    "created_at": "2025-11-01 03:00:57 UTC",
+    "processed_at": "2025-11-01 03:00:57 UTC",
+    "google_url": "https://www.google.com/search?q=%22010-02890-00%22+site%3Awww.backcountry.com&oq=%22010-02890-00%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8b2c3d1651aaf9ad/690577e93f79f502040f136e.html",
+    "total_time_taken": 4.88
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"010-02890-00\" site:www.backcountry.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"010-02890-00\" site:www.backcountry.com",
+    "total_results": 0,
+    "time_taken_displayed": 0.13,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

@@ -1,0 +1,79 @@
+{
+  "search_metadata": {
+    "id": "6905795ce171b94e23b60954",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fb1c4e02f2e27ce6/6905795ce171b94e23b60954.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/fb1c4e02f2e27ce6/6905795ce171b94e23b60954.json_with_pixel_position",
+    "created_at": "2025-11-01 03:07:08 UTC",
+    "processed_at": "2025-11-01 03:07:08 UTC",
+    "google_url": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Amikesbikes.com&oq=%2200.1918.773.000%22+site%3Amikesbikes.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/fb1c4e02f2e27ce6/6905795ce171b94e23b60954.html",
+    "total_time_taken": 0.68
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"00.1918.773.000\" site:mikesbikes.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"00.1918.773.000\" site:mikesbikes.com",
+    "total_results": 1,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Zipp 858 NSW Disc Brake Wheels",
+      "link": "https://mikesbikes.com/products/zipp-858-nsw-disc-brake-wheels?srsltid=AfmBOopgVmbOZWHumFLI_kJxtWZcyaiSo4kAN6ZCj1D181fH2HgrrgAF",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mikesbikes.com/products/zipp-858-nsw-disc-brake-wheels%3Fsrsltid%3DAfmBOopgVmbOZWHumFLI_kJxtWZcyaiSo4kAN6ZCj1D181fH2HgrrgAF&ved=2ahUKEwjWjvS4_M-QAxW7ITQIHcMhIqoQFnoECCEQAQ",
+      "displayed_link": "https://mikesbikes.com › products › zipp-858-nsw-disc-b...",
+      "thumbnail": "https://serpapi.com/searches/6905795ce171b94e23b60954/images/ff9f5bbd15dc0a95827184c9139a4d89ab4d7b003191501ba3c9e91dd7982bd0.jpeg",
+      "favicon": "https://serpapi.com/searches/6905795ce171b94e23b60954/images/ff9f5bbd15dc0a95827184c9139a4d896ff8ec091f433080180d69828b44857f.png",
+      "snippet": "... 00.1918.773.000\",\"requires_shipping\":true,\"taxable\":true,\"featured_image\":{\"id\":36788389281861,\"product_id\":7610438910021,\"position\":2,\"created_at\":\"2025-05 ...",
+      "snippet_highlighted_words": [
+        "00.1918.773.000"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 2300.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$2,300.00",
+            "In stock",
+            "Free delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "source": "Mike's Bikes"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Amikesbikes.com&oq=%2200.1918.773.000%22+site%3Amikesbikes.com&hl=en&gl=us&num=10&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Amikesbikes.com&oq=%2200.1918.773.000%22+site%3Amikesbikes.com&hl=en&gl=us&num=10&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Amikesbikes.com&oq=%2200.1918.773.000%22+site%3Amikesbikes.com&hl=en&gl=us&num=10&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Amikesbikes.com&oq=%2200.1918.773.000%22+site%3Amikesbikes.com&hl=en&gl=us&num=10&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=%2200.1918.773.000%22+site%3Amikesbikes.com&oq=%2200.1918.773.000%22+site%3Amikesbikes.com&hl=en&gl=us&num=10&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Amikesbikes.com&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Amikesbikes.com&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Amikesbikes.com&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Amikesbikes.com&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Amikesbikes.com&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%2200.1918.773.000%22+site%3Amikesbikes.com&start=40"
+    }
+  }
+}

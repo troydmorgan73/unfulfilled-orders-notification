@@ -1,0 +1,1457 @@
+{
+  "search_metadata": {
+    "id": "69057062792d68c37f06b504",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3c664f52485ac181/69057062792d68c37f06b504.json",
+    "created_at": "2025-11-01 02:28:50 UTC",
+    "processed_at": "2025-11-01 02:28:50 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=YHAFafagCLrR5OUPvY-B2QY&q=Zipp+00.1918.773.000&gl=us&hl=en&cs=1&async=catalogid:12053000914850920575,gpcid:1945441511458348424,headlineOfferDocid:11088511790045915767,rds:PC_1945441511458348424|PROD_PC_1945441511458348424,imageDocid:12628621190732290006,isp:true,query:Zipp%2000.1918.773.000,mid:576462666534829722,pvt:hg,_fmt:jspb",
+    "raw_html_file": "https://serpapi.com/searches/3c664f52485ac181/69057062792d68c37f06b504.html",
+    "prettify_html_file": "https://serpapi.com/searches/3c664f52485ac181/69057062792d68c37f06b504.prettify",
+    "total_time_taken": 1.58
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwNTMwMDA5MTQ4NTA5MjA1NzUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTA4ODUxMTc5MDA0NTkxNTc2NyIsImltYWdlRG9jaWQiOiIxMjYyODYyMTE5MDczMjI5MDAwNiIsInJkcyI6IlBDXzE5NDU0NDE1MTE0NTgzNDg0MjR8UFJPRF9QQ18xOTQ1NDQxNTExNDU4MzQ4NDI0IiwicXVlcnkiOiJaaXBwKzAwLjE5MTguNzczLjAwMCIsImdwY2lkIjoiMTk0NTQ0MTUxMTQ1ODM0ODQyNCIsIm1pZCI6IjU3NjQ2MjY2NjUzNDgyOTcyMiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ=="
+  },
+  "product_results": {
+    "thumbnails": [
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSVDqWaJnCGpnQ3CwEYhPDwyWUGmWrkzbsrBPLnRIUy7W3FPOXE0gdynsdTMqxABCSYfXFhIlk",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRUsgXsrpEDtyrVYi5nhKNfx4t5l8sO7BHZrkOPZbpkUniJrIjVtlcgIgxEnTpZPlbWPrB9yYv6jiQ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHVSotHiz8oYgoXy9TzJ3nUZfRKYtR1-_I9xzTfa3TBWMiqXLNSA_5nRs16_7e2q5sfbWQuitU",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRId9pZciL8akqldpUM3jenCUjR6VW3Xvwm2lvnvowjDkAjVZ5_Xc5MdidYowcut5VaJNvR8MQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSmPZBx7KnGIjxro-0ofd1dhUYry1nmm3uQwVrm6tk99x3KlRatHPQfBcyFydp4z_IMmJrz6Qzc",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQXSbH0jkCHe4NSfacrVuF-zclMBqOBX6sDi5kfJ8UCjbGq4V8-b7xThRO3YEyx6RQ_3-Ar41c",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpIl9cBhVhLLBGb5Fh8QY_kcuq6g8vopd02_uVBslI02WcQwKFg_5QQnM98lUvWSeQ_GJewMs",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwwGcISeAlGFqIRn6-tqMXMDP35FV3Z9aY0gERzYghjmuPUhOtAAHC3ECpkIE",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQBXEUfrkaLuNoCMOoWo4NG3IUp5AQWDfl7LPUQV5DLQDvg1EF4i4yieJ8ycg",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTY6-6FqYmm6GwGsB0pNeDfWChgWl5v6iCiFKfP9untNzOGIgO6Wd9xP6ggpu3WfEcNZRvfBcM"
+    ],
+    "title": "Zipp 303 S Tubeless Disc Brake Rear",
+    "brand": "Zipp",
+    "reviews": 246,
+    "rating": 4.7,
+    "price_range": "$553-$604",
+    "stores": [
+      {
+        "name": "Competitive Cyclist",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.competitivecyclist.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.competitivecyclist.com/b/zipp-303-s-carbon-disc-brake-wheel-tubeless?skid=ZIPZ04L-BLA-XDR12X&CMP_SKU=ZIPZ04L",
+        "title": "Zipp 303 S Carbon Disc Brake Wheel - Tubeless Black, XDR, 12x142mm",
+        "rating": 4.9,
+        "reviews": 4474,
+        "payment_methods": "PayPal, Apple Pay, Sezzle accepted",
+        "tag": "Best price",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $29",
+          "Free 30-day returns"
+        ],
+        "discount": "23% off",
+        "price": "$552.87",
+        "extracted_price": 552.87,
+        "original_price": "$727.00",
+        "extracted_original_price": 727.0,
+        "shipping": "+ $29.00",
+        "shipping_extracted": 29.0,
+        "total": "$581.87",
+        "extracted_total": 581.87
+      },
+      {
+        "name": "Backcountry.com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.backcountry.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.backcountry.com/b/zipp-303-s-carbon-disc-brake-wheel-tubeless?CMP_SKU=ZIPZ04L&MER=0406&skid=ZIPZ04L-BLA-XDR12X&srsltid=AfmBOop-3-efTOngpsamNT71sUAqn_z9pDKfzRqvgwNddAOVUPU-gr3goJc",
+        "title": "Zipp 303 S Carbon Disc Brake Wheel - Tubeless Black, XDR, 12x142mm",
+        "rating": 4.8,
+        "reviews": 15262,
+        "payment_methods": "PayPal, Apple Pay, Sezzle accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Nov 5\u2009\u2013\u200914",
+          "Free 30-day returns"
+        ],
+        "discount": "23% off",
+        "price": "$552.87",
+        "extracted_price": 552.87,
+        "original_price": "$727.00",
+        "extracted_original_price": 727.0,
+        "shipping": "Free",
+        "total": "$552.87",
+        "extracted_total": 552.87
+      },
+      {
+        "name": "Jenson USA",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.jensonusa.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.jensonusa.com/zipp-303-s-carbon-tubeless-wheel-4?loc=usa&srsltid=AfmBOoogjWrjVWncJCL1cWmGEqJJ9e1Uu11U8ooxcN2dFiSHFMKDQVBZC2M",
+        "title": "Zipp | 303 S Carbon Tubeless Wheel Rear 12x142mm, Center Lock, XDR Road BIke Wheels from Jenson USA",
+        "rating": 4.6,
+        "reviews": 25768,
+        "payment_methods": "PayPal, Apple Pay, Affirm accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Sun - Wed",
+          "90-day returns"
+        ],
+        "price": "$727.00",
+        "extracted_price": 727.0,
+        "shipping": "Free",
+        "total": "$727.00",
+        "extracted_total": 727.0
+      }
+    ],
+    "stores_next_page_token": "ZhcUk3ica15aklmSk3pTOSqzoEDB2MBYIVghpDQpNSe1uFjBJbM4WcGpKDE7VSEoNbFoSXF-USbz4ty8fC4APwkUJw",
+    "about_the_product": {
+      "title": "303 S Tubeless Disc-brake | WH-303-STLD-A1",
+      "link": "https://www.sram.com/en/zipp/models/wh-303-stld-a1",
+      "displayed_link": "sram.com",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sram.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+      "description": "Zipp 303 Carbon Road Wheels will provide you with speed, optimal aerodynamics and a stiff and responsive ride quality for all the roads ahead. The Zipp 303 S Carbon Tubeless Disc Centrelock Rear Wheel will provide you with the speed you crave. With a 45mm rim depth, this wheel is ideal for every terrain. Featuring a wider internal width, this wheel offers greater performance and ride quality in every way. This wheel will make your bike more versatile than ever, on every road surface, without compromising on speed. This wheel is tubeless for disc-brake bikes, allowing the ability to run wide tyres at lower pressures for race-ready speed on or off the pavement. This wheel gains speed through increased efficiency, as it has reduced wind resistance, rolling resistance, rider fatigue and weight. This is a ground breaking wheel. Fastest with 28mm, fits wide gravel tires as well XDR driver body Lower tire pressures and larger volume provides a compliant ride with fewer vibrations.",
+      "features": [
+        {
+          "title": "Brand",
+          "value": "Zipp"
+        },
+        {
+          "title": "Model",
+          "value": "303 S"
+        },
+        {
+          "title": "Bike Category",
+          "value": "Bike Wheels"
+        },
+        {
+          "title": "Bike Subcategory",
+          "value": "Road"
+        },
+        {
+          "title": "Bike Compatibility",
+          "value": "Road Bike"
+        },
+        {
+          "title": "Frame Size",
+          "value": "700c"
+        },
+        {
+          "title": "Brake Type",
+          "value": "Disc"
+        },
+        {
+          "title": "Drivetrain",
+          "value": "SRAM, Shimano"
+        },
+        {
+          "title": "Rider Type",
+          "value": "Intermediate"
+        },
+        {
+          "title": "Skill Level",
+          "value": "Intermediate"
+        },
+        {
+          "title": "Age Range",
+          "value": "ADULT"
+        },
+        {
+          "title": "Tire Width",
+          "value": "25-50 mm"
+        },
+        {
+          "title": "Wheel Width",
+          "value": "23-27 mm (internal-external)"
+        },
+        {
+          "title": "Total Weight",
+          "value": "1530 g"
+        },
+        {
+          "title": "Wheel Weight",
+          "value": "1530 g"
+        },
+        {
+          "title": "Rim Material",
+          "value": "Carbon Fiber"
+        },
+        {
+          "title": "Hub Material",
+          "value": "Aluminum"
+        },
+        {
+          "title": "Spoke Material",
+          "value": "Aluminum"
+        },
+        {
+          "title": "Primary Use",
+          "value": "Racing"
+        },
+        {
+          "title": "Riding Style",
+          "value": "Road, Gravel"
+        },
+        {
+          "title": "Terrain",
+          "value": "Road, Gravel"
+        },
+        {
+          "title": "Secondary Use",
+          "value": "Gravel"
+        },
+        {
+          "title": "BMX",
+          "value": "No"
+        },
+        {
+          "title": "City Riding",
+          "value": "Yes"
+        },
+        {
+          "title": "Commuting",
+          "value": "Yes"
+        },
+        {
+          "title": "Mountain Biking",
+          "value": "No"
+        },
+        {
+          "title": "Off-Road",
+          "value": "Yes"
+        },
+        {
+          "title": "Racing",
+          "value": "Yes"
+        },
+        {
+          "title": "Road Cycling",
+          "value": "Yes"
+        },
+        {
+          "title": "Trail Riding",
+          "value": "No"
+        },
+        {
+          "title": "Installation Difficulty",
+          "value": "Easy"
+        },
+        {
+          "title": "Rim Color",
+          "value": "Black"
+        },
+        {
+          "title": "Component Color",
+          "value": "Black"
+        },
+        {
+          "title": "Design",
+          "value": "Tubeless, hookless rims"
+        },
+        {
+          "title": "Features",
+          "value": "Durable, Lightweight"
+        },
+        {
+          "title": "Innovation",
+          "value": "Tubeless"
+        },
+        {
+          "title": "Technology",
+          "value": "Tubeless"
+        },
+        {
+          "title": "Durability",
+          "value": "Excellent"
+        }
+      ]
+    },
+    "top_insights": [
+      {
+        "title": "Rim (Bead, Width, Material)",
+        "subtitle": "Tubeless",
+        "items": [
+          {
+            "key_point": "Lightweight",
+            "snippet": "Look good, light weight, pre taped for tubeless.\n\nMy only issue is that hookless tires are still not very ubiquitous. I finally got some Rene Herse tires but",
+            "user": "nbnz",
+            "date": "3y",
+            "source": "sigmasports.com"
+          },
+          {
+            "pros": [
+              "With an internal rim width of 23 mm, 28 mm tyres work best, with maximum",
+              "Tubeless tyres can be fitted to the rims with or without inner tubes. This"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mantel.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.mantel.com/fi/zipp-303-s-tubeless-disc-brake-road-bike-wheels",
+            "date": "3w",
+            "source": "Mantel",
+            "title": "Zipp 303 S Tubeless Disc Brake Road Bike Wheels"
+          },
+          {
+            "snippet": "and crucially inside the internal rim width is 23 mm and that design for the benefit of wide tires.",
+            "timestamp": "From 2:13",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPGe8lec1Pgq0Gd-1bPlBlVROJERCrQu8rq-w2MMZqfC4zMD_TSRD4bEYsrA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=W8NPbLqY4z8&t=133",
+            "user": "David Arthur - Just Ride Bikes",
+            "date": "Jul 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "um just no problems at all really and the benefits to the wider internal rim width is you get a really nice profile with wide tires.",
+            "timestamp": "From 13:26",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPGe8lec1Pgq0Gd-1bPlBlVROJERCrQu8rq-w2MMZqfC4zMD_TSRD4bEYsrA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=W8NPbLqY4z8&t=806",
+            "user": "David Arthur - Just Ride Bikes",
+            "date": "Jul 2020",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "Stiffness gives excellent tracking precision",
+              "Firm ride feel"
+            ],
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/zipp-303s-carbon-tubeless-disc-wheelset-review/",
+            "date": "5y",
+            "source": "Cyclingnews",
+            "title": "Zipp 303S Carbon Tubeless Disc wheelset review"
+          },
+          {
+            "snippet": "um so we've got no rim tapes required you can run them tubeless you can run them clincher.",
+            "timestamp": "From 4:34",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSkyK4Yd02tS_LM6Wm7HwkcGHgzQ-SgnMh40m24NAh8_MreHeR6wQ6ZwopQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=BIvYhqbD51E&t=274",
+            "user": "Charlie, Carbs and Cycling",
+            "date": "May 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "of tyre widths and the wider internal measurement makes it ideally suited for use with the rapidly popularised 28mm tyre",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/news/product-news/zipps-new-303-s-is-lighter-stronger-and-cheaper-454955",
+            "source": "Cycling Weekly",
+            "title": "Zipp's new 303 S is lighter, stronger and cheaper"
+          },
+          {
+            "snippet": "For the new 303S, Zipp's recommended tyre size for road use is 28mm, with a minimum recommendation of tyres with a stated",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/zipp-303s-wheels-2020-273241",
+            "source": "road.cc",
+            "title": "Review: Zipp 303S wheels 2020"
+          },
+          {
+            "snippet": "specifically for disc brakes has allowed Zipp more freedom to design the rim to be all about performance with no compromise",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/news/product-news/zipps-new-303-s-is-lighter-stronger-and-cheaper-454955",
+            "source": "Cycling Weekly",
+            "title": "Zipp's new 303 S is lighter, stronger and cheaper"
+          },
+          {
+            "snippet": "The internal rim depth on the 303S is 23mm, which whilst wider than most, is still narrower than the cavernous 25mm on the",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/reviews/zipp-303s-wheelset-review",
+            "source": "Cycling Weekly",
+            "title": "Zipp 303S wheelset review"
+          }
+        ]
+      },
+      {
+        "title": "Hub (Engagement, Freehub Body)",
+        "items": [
+          {
+            "snippet": "The 76/176 DB hubs, have centre lock disc rotor mounting, and finally now too a lock ring is included!",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclist.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclist.co.uk/reviews/zipp-303-s-versatility-and-speed-for-under-1000",
+            "source": "Cyclist",
+            "title": "Zipp 303 S: Versatility and speed for under \u00a31,000"
+          },
+          {
+            "snippet": "The new Zipp 303s feature Zipp's new 88 front hub and 188 rear hub.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://roadbikeaction.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://roadbikeaction.com/first-ride-2010-sram-force-and-zipp-303-wheels/",
+            "source": "Road Bike Action",
+            "title": "First Ride: 2010 SRAM Force And Zipp 303 Wheels \u2013 Road Bike Action"
+          },
+          {
+            "snippet": "the gear changes are nice and quick.",
+            "timestamp": "From 8:39",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5jasdQ-ahFLR2A5Sy52weFwb1UhOAW4oKeThu6ajADnHUAfxNz_t3--xW",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=QgevIZyR9Tw&t=519",
+            "user": "David Arthur - Just Ride Bikes",
+            "date": "Jun 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "but you hear that the hub sounds really good on these zips they're much quieter than Synchros maybe Synchros just want to make it a little bit louder.",
+            "timestamp": "From 9:07",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTHkkAAyeC3PilYPg1H8U5sEQy7Ux-Siz1EcLSRTo1ARzgwUHWY8VW6GXvk4Q",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=2MA3JlI3reA&t=547",
+            "user": "GC Performance",
+            "date": "Dec 2021",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "system the tool-free design makes it a snap the zip 76/176 hubs are still nice and smooth.",
+            "timestamp": "From 8:50",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS2_3uoQpOJMysfjA1d6B-vtw_4BYvUwj2ZGYlNjHjW14tReoFTQASzbpO3",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=XXIr2oOnFwI&t=530",
+            "user": "Gravel Cyclist",
+            "date": "Nov 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "The hubs were of average performance compared to the competition, with three-pawl hubs and relatively slow engagement.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/zipp-303s-wheels-2020-273241",
+            "source": "road.cc",
+            "title": "Review: Zipp 303S wheels 2020"
+          },
+          {
+            "snippet": "but the 22.7mm internal width and recommended lower tyre pressures heavily suggest a gravel bike or cyclocross intention as",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikeradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bikeradar.com/reviews/components/wheels/wheel-sets/zipp-303s-review",
+            "source": "BikeRadar",
+            "title": "Zipp 303S review - Wheelsets - Wheels"
+          },
+          {
+            "snippet": "but the 22.7mm internal width and recommended lower tyre pressures heavily suggest a gravel bike or cyclocross intention as",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikeradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bikeradar.com/reviews/components/wheels/wheel-sets/zipp-303s-review",
+            "source": "BikeRadar",
+            "title": "Zipp 303S review - Wheelsets - Wheels"
+          },
+          {
+            "snippet": "They're aerodynamically optimized for 28mm tires, and designed to let you run lower air pressure.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bikerumor.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://bikerumor.com/new-zipp-303-s-wheels-get-complete-redesign-wider-hookless-more-aero-less-expensive/",
+            "source": "Bikerumor",
+            "title": "New Zipp 303 S wheels get complete redesign: wider, hookless, more aero & less expensive"
+          }
+        ]
+      },
+      {
+        "title": "Weight",
+        "items": [
+          {
+            "snippet": "The wheelset weighs in at a reasonable 1,558g.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikeradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bikeradar.com/reviews/components/wheels/wheel-sets/zipp-303s-review",
+            "source": "BikeRadar",
+            "title": "Zipp 303S review - Wheelsets - Wheels"
+          },
+          {
+            "snippet": "um as a wheel set they weigh 1550 g that's split as 718.",
+            "timestamp": "From 0:21",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT57uQoIjPe6scy9o8fgTooaY4SLSlpA68ku9uuWU2tu_w9_DvZh0_hsZSwCw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=ZOGhEAB_EP0&t=21",
+            "user": "road.cc",
+            "date": "May 2020",
+            "source": "YouTube"
+          },
+          {
+            "pros": [
+              "At 1540 grams, the Zipp 303 S Tubeless Disc Brake is light enough for uphill"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mantel.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.mantel.com/be-en/zipp-303-s-tubeless-disc-brake-road-bike-wheels",
+            "date": "3w",
+            "source": "Mantel",
+            "title": "Zipp 303 S Tubeless Disc Brake Road Bike Wheels"
+          },
+          {
+            "snippet": "Our test wheelset came in almost exactly on the claimed weight of 1,540g.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/zipp-303s-wheels-2020-273241",
+            "source": "road.cc",
+            "title": "Review: Zipp 303S wheels 2020"
+          },
+          {
+            "snippet": "And it's 155g lighter than the 302 Disc, with the weight savings coming almost exclusively from the rims!",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bikerumor.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://bikerumor.com/new-zipp-303-s-wheels-get-complete-redesign-wider-hookless-more-aero-less-expensive/",
+            "source": "Bikerumor",
+            "title": "New Zipp 303 S wheels get complete redesign: wider, hookless, more aero & less expensive"
+          },
+          {
+            "snippet": "The 302 weighed in at 1643g on our scales whereas the new 303 S weighs in at 1555g (Zipp claim 1540g).",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/news/product-news/zipps-new-303-s-is-lighter-stronger-and-cheaper-454955",
+            "source": "Cycling Weekly",
+            "title": "Zipp's new 303 S is lighter, stronger and cheaper"
+          },
+          {
+            "snippet": "At just 1,625g for the pair, these wheels are light enough to climb with ease while remaining a go-to, all-round, day-to-day",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bicyclingaustralia.com.au&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://bicyclingaustralia.com.au/gear/zipp-303-the-perfect-gran-fondo-wheelset-bonus-redemption-offer/",
+            "source": "Bicycling Australia",
+            "title": "Zipp 303: The Perfect Gran Fondo Wheelset? + Bonus Redemption Offer"
+          }
+        ]
+      },
+      {
+        "title": "Durability (Rim, Hub, Spokes)",
+        "items": [
+          {
+            "snippet": "They're also stiff enough and durable enough for crits.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pezcyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://pezcyclingnews.com/technspec/pez-tech-zipp-303-tubular-wheels-hubs/",
+            "source": "PezCycling News",
+            "title": "PEZ-Tech: ZIPP 303 Tubular Wheels & Hubs"
+          },
+          {
+            "snippet": "We didn't pick up any rim damage from potholes and other impacts that we deliberately didn't avoid in the name of testing.",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/zipp-303s-carbon-tubeless-disc-wheelset-review/",
+            "source": "Cyclingnews",
+            "title": "Zipp 303S Carbon Tubeless Disc wheelset review"
+          },
+          {
+            "snippet": "The hubs, Zipp says, have improved seal quality, reacting to feedback that its bearings needed to perform better in countries",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclist.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclist.co.uk/reviews/zipp-303-s-versatility-and-speed-for-under-1000",
+            "source": "Cyclist",
+            "title": "Zipp 303 S: Versatility and speed for under \u00a31,000"
+          },
+          {
+            "pros": [
+              "The Zipp 76/176 hubs are virtually maintenance-free, very reliable and"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mantel.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.mantel.com/fi/zipp-303-s-tubeless-disc-brake-road-bike-wheels",
+            "date": "3w",
+            "source": "Mantel",
+            "title": "Zipp 303 S Tubeless Disc Brake Road Bike Wheels"
+          },
+          {
+            "snippet": "and durable i've had no issues with the bearings or the spoke tension in the wheels.",
+            "timestamp": "From 13:13",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPGe8lec1Pgq0Gd-1bPlBlVROJERCrQu8rq-w2MMZqfC4zMD_TSRD4bEYsrA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=W8NPbLqY4z8&t=793",
+            "user": "David Arthur - Just Ride Bikes",
+            "date": "Jul 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "and so far in my experience after a few weeks riding I've had no issues at all no noise from the bike at all one thing I don't really like is the cable routing.",
+            "timestamp": "From 3:46",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5jasdQ-ahFLR2A5Sy52weFwb1UhOAW4oKeThu6ajADnHUAfxNz_t3--xW",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=QgevIZyR9Tw&t=226",
+            "user": "David Arthur - Just Ride Bikes",
+            "date": "Jun 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "anything that is broken which is I mean it for what's already a fairly good value set of wheels or comparable to anything else on the market.",
+            "timestamp": "From 8:37",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT57uQoIjPe6scy9o8fgTooaY4SLSlpA68ku9uuWU2tu_w9_DvZh0_hsZSwCw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=ZOGhEAB_EP0&t=517",
+            "user": "road.cc",
+            "date": "May 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "Durability has been excellent after a bazillion rocks have flipped up and hit the sidewalls.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.feedthehabit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.feedthehabit.com/zipp-303-s-carbon-wheelset-review/",
+            "source": "FeedTheHabit.com",
+            "title": "Zipp 303 S Carbon Wheelset Review"
+          },
+          {
+            "snippet": "A first-class wheelset - these lose half a star because the hookless rim won't be for everyone",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/reviews/zipp-303s-wheelset-review",
+            "source": "Cycling Weekly",
+            "title": "Zipp 303S wheelset review"
+          },
+          {
+            "snippet": "Servicing the hubs should be a pain-free experience.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikeradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bikeradar.com/reviews/components/wheels/wheel-sets/zipp-303s-review",
+            "source": "BikeRadar",
+            "title": "Zipp 303S review - Wheelsets - Wheels"
+          },
+          {
+            "snippet": "more than 2,000km with the wheels, at no point during riding did I have any 'burp' or feeling that the tyre moved off the rim",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/zipp-303s-wheels-2020-273241",
+            "source": "road.cc",
+            "title": "Review: Zipp 303S wheels 2020"
+          }
+        ]
+      },
+      {
+        "title": "Spokes (Number, Tension)",
+        "items": [
+          {
+            "snippet": "24 bladed Sapim spokes per wheel are laced in a two-cross pattern.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikeradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bikeradar.com/reviews/components/wheels/wheel-sets/zipp-303s-review",
+            "source": "BikeRadar",
+            "title": "Zipp 303S review - Wheelsets - Wheels"
+          },
+          {
+            "snippet": "The rim profile starts V-shaped at the spoke bed and quickly transitions to more of a parallel U shape.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://intheknowcycling.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://intheknowcycling.com/zipp-303-s/",
+            "source": "In The Know Cycling",
+            "title": "ZIPP 303 S - BEST VALUE FOR TUBELESS ROAD DISC RIDERS"
+          },
+          {
+            "snippet": "But even low-pressure devotees might be surprised at how low the recommended pressures for the 303S wheelset are.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/zipp-303s-wheels-2020-273241",
+            "source": "road.cc",
+            "title": "Review: Zipp 303S wheels 2020"
+          },
+          {
+            "snippet": "Like the old 303s the new version feature Zipp's dimple surface design for improved aerodynamics.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://roadbikeaction.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://roadbikeaction.com/first-ride-2010-sram-force-and-zipp-303-wheels/",
+            "source": "Road Bike Action",
+            "title": "First Ride: 2010 SRAM Force And Zipp 303 Wheels \u2013 Road Bike Action"
+          },
+          {
+            "snippet": "and external nipples which is a really nice touch.",
+            "timestamp": "From 3:50",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPGe8lec1Pgq0Gd-1bPlBlVROJERCrQu8rq-w2MMZqfC4zMD_TSRD4bEYsrA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=W8NPbLqY4z8&t=230",
+            "user": "David Arthur - Just Ride Bikes",
+            "date": "Jul 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "stiffness lateral stiffness has been really good.",
+            "timestamp": "From 7:33",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT57uQoIjPe6scy9o8fgTooaY4SLSlpA68ku9uuWU2tu_w9_DvZh0_hsZSwCw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=ZOGhEAB_EP0&t=453",
+            "user": "road.cc",
+            "date": "May 2020",
+            "source": "YouTube"
+          },
+          {
+            "cons": [
+              "The 3-pawl body grips less quickly than, for example, a ratchet body"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mantel.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.mantel.com/en/zipp-303-s-tubeless-disc-brake-road-bike-wheels",
+            "date": "3w",
+            "source": "Mantel",
+            "title": "Zipp 303 S Tubeless Disc Brake Road Bike Wheels"
+          },
+          {
+            "snippet": "so 28 mm uh external and 24 mm internal.",
+            "timestamp": "From 7:22",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSbk7-9c-5NDGuQ1D4SEOe3GXD4gs2H2UDEgCFXnFxaz0_Sw2KfBdVi3UNAVQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=69K8cJ8ofEI&t=442",
+            "user": "Mapdec Cycle Works",
+            "date": "Jun 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "In addition to the added width, both wheelsets are tubeless-only and feature a hookless bead that greatly simplifies rim",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.feedthehabit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.feedthehabit.com/zipp-303-s-carbon-wheelset-review/",
+            "source": "FeedTheHabit.com",
+            "title": "Zipp 303 S Carbon Wheelset Review"
+          },
+          {
+            "snippet": "but the 22.7mm internal width and recommended lower tyre pressures heavily suggest a gravel bike or cyclocross intention as",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikeradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bikeradar.com/reviews/components/wheels/wheel-sets/zipp-303s-review",
+            "source": "BikeRadar",
+            "title": "Zipp 303S review - Wheelsets - Wheels"
+          },
+          {
+            "snippet": "but the 22.7mm internal width and recommended lower tyre pressures heavily suggest a gravel bike or cyclocross intention as",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikeradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bikeradar.com/reviews/components/wheels/wheel-sets/zipp-303s-review",
+            "source": "BikeRadar",
+            "title": "Zipp 303S review - Wheelsets - Wheels"
+          },
+          {
+            "snippet": "They're aerodynamically optimized for 28mm tires, and designed to let you run lower air pressure.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bikerumor.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://bikerumor.com/new-zipp-303-s-wheels-get-complete-redesign-wider-hookless-more-aero-less-expensive/",
+            "source": "Bikerumor",
+            "title": "New Zipp 303 S wheels get complete redesign: wider, hookless, more aero & less expensive"
+          },
+          {
+            "snippet": "and all-road wheel market with new technologies, high performance, a lifetime warranty and a price that you wouldn't expect",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/zipp-303s-wheels-2020-273241",
+            "source": "road.cc",
+            "title": "Review: Zipp 303S wheels 2020"
+          }
+        ]
+      },
+      {
+        "title": "Size (Tyre, Rim)",
+        "subtitle": "700",
+        "items": [
+          {
+            "snippet": "of tyre widths and the wider internal measurement makes it ideally suited for use with the rapidly popularised 28mm tyre",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/news/product-news/zipps-new-303-s-is-lighter-stronger-and-cheaper-454955",
+            "source": "Cycling Weekly",
+            "title": "Zipp's new 303 S is lighter, stronger and cheaper"
+          },
+          {
+            "snippet": "They measured 45.2mm deep with a 22.5mm inside and 27.5mm outside rim width.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://intheknowcycling.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://intheknowcycling.com/zipp-303-s/",
+            "source": "In The Know Cycling",
+            "title": "ZIPP 303 S - BEST VALUE FOR TUBELESS ROAD DISC RIDERS"
+          },
+          {
+            "cons": [
+              "Only the following tyres can be fitted to these hookless rims with an"
+            ],
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mantel.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.mantel.com/fi/zipp-303-s-tubeless-disc-brake-road-bike-wheels",
+            "date": "3w",
+            "source": "Mantel",
+            "title": "Zipp 303 S Tubeless Disc Brake Road Bike Wheels"
+          },
+          {
+            "snippet": "and very long valves because these rims are 45 mm deep.",
+            "timestamp": "From 3:27",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS2_3uoQpOJMysfjA1d6B-vtw_4BYvUwj2ZGYlNjHjW14tReoFTQASzbpO3",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=XXIr2oOnFwI&t=207",
+            "user": "Gravel Cyclist",
+            "date": "Nov 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "and crucially inside the internal rim width is 23 mm and that design for the benefit of wide tires.",
+            "timestamp": "From 2:13",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPGe8lec1Pgq0Gd-1bPlBlVROJERCrQu8rq-w2MMZqfC4zMD_TSRD4bEYsrA",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=W8NPbLqY4z8&t=133",
+            "user": "David Arthur - Just Ride Bikes",
+            "date": "Jul 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "and these are a similar size actually wider than a mountain bike rim.",
+            "timestamp": "From 6:16",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSbk7-9c-5NDGuQ1D4SEOe3GXD4gs2H2UDEgCFXnFxaz0_Sw2KfBdVi3UNAVQ",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=69K8cJ8ofEI&t=376",
+            "user": "Mapdec Cycle Works",
+            "date": "Jun 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "For the new 303S, Zipp's recommended tyre size for road use is 28mm, with a minimum recommendation of tyres with a stated",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/zipp-303s-wheels-2020-273241",
+            "source": "road.cc",
+            "title": "Review: Zipp 303S wheels 2020"
+          },
+          {
+            "snippet": "They're aerodynamically optimized for 28mm tires, and designed to let you run lower air pressure.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bikerumor.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://bikerumor.com/new-zipp-303-s-wheels-get-complete-redesign-wider-hookless-more-aero-less-expensive/",
+            "source": "Bikerumor",
+            "title": "New Zipp 303 S wheels get complete redesign: wider, hookless, more aero & less expensive"
+          },
+          {
+            "snippet": "but the 22.7mm internal width and recommended lower tyre pressures heavily suggest a gravel bike or cyclocross intention as",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikeradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bikeradar.com/reviews/components/wheels/wheel-sets/zipp-303s-review",
+            "source": "BikeRadar",
+            "title": "Zipp 303S review - Wheelsets - Wheels"
+          },
+          {
+            "snippet": "The internal rim depth on the 303S is 23mm, which whilst wider than most, is still narrower than the cavernous 25mm on the",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/reviews/zipp-303s-wheelset-review",
+            "source": "Cycling Weekly",
+            "title": "Zipp 303S wheelset review"
+          },
+          {
+            "snippet": "Firdly, developing the new 303 S rim specifically for disc brakes has allowed Zipp more freedom to design the rim to be all",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/news/product-news/zipps-new-303-s-is-lighter-stronger-and-cheaper-454955",
+            "source": "Cycling Weekly",
+            "title": "Zipp's new 303 S is lighter, stronger and cheaper"
+          }
+        ]
+      },
+      {
+        "title": "Performance",
+        "items": [
+          {
+            "snippet": "They have great acceleration and once going they hold their speed well.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://roadbikeaction.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://roadbikeaction.com/first-ride-2010-sram-force-and-zipp-303-wheels/",
+            "source": "Road Bike Action",
+            "title": "First Ride: 2010 SRAM Force And Zipp 303 Wheels \u2013 Road Bike Action"
+          },
+          {
+            "pros": [
+              "Impressively fast ride times",
+              "Performed admirably across both disciplines"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclist.co.uk&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclist.co.uk/reviews/zipp-303-s-wheels-tubeless-review",
+            "date": "5y",
+            "source": "Cyclist",
+            "title": "Zipp 303 S wheels: First ride review"
+          },
+          {
+            "snippet": "they've got a super stable and calm demeanor and soaks up rough roads extremely well and when you won't get a hustle on its willing with a good tone of speed.",
+            "timestamp": "From 4:15",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5jasdQ-ahFLR2A5Sy52weFwb1UhOAW4oKeThu6ajADnHUAfxNz_t3--xW",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=QgevIZyR9Tw&t=255",
+            "user": "David Arthur - Just Ride Bikes",
+            "date": "Jun 2020",
+            "source": "YouTube"
+          },
+          {
+            "snippet": "This is a zippy wheel that delivers snappy confidence-inspiring performance for those who like to go fast.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikeradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bikeradar.com/reviews/components/wheels/wheel-sets/zipp-303s-review",
+            "source": "BikeRadar",
+            "title": "Zipp 303S review - Wheelsets - Wheels"
+          },
+          {
+            "pros": [
+              "Fast to spin up",
+              "Provides a good aero boost"
+            ],
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.westernbikeworks.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.westernbikeworks.com/reviews/zipp-303-s-tubeless-carbon-disc-brake-wheelset",
+            "date": "3w",
+            "source": "Western Bike Works",
+            "title": "Zipp 303 S Tubeless Carbon Disc Brake Wheelset at WesternBikeworks"
+          },
+          {
+            "snippet": "Riding rougher roads and lanes was noticeably more comfortable and felt faster as a result.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/zipp-303s-wheels-2020-273241",
+            "source": "road.cc",
+            "title": "Review: Zipp 303S wheels 2020"
+          },
+          {
+            "snippet": "The hubs were of average performance compared to the competition, with three-pawl hubs and relatively slow engagement.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/zipp-303s-wheels-2020-273241",
+            "source": "road.cc",
+            "title": "Review: Zipp 303S wheels 2020"
+          }
+        ]
+      },
+      {
+        "title": "Other highlights",
+        "items": [
+          {
+            "snippet": "They are also plenty stiff laterally and in sprinting conditions as well as high speed cornering, they remain very stable.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pezcyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://pezcyclingnews.com/technspec/pez-test-zipp-303-clinchers/",
+            "source": "PezCycling News",
+            "title": "PEZ-Test: ZIPP 303 Clinchers - PezCycling News"
+          },
+          {
+            "pros": [
+              "Easy to mount and maintain",
+              "Cornering is confident and predictable"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikeradar.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.bikeradar.com/reviews/components/wheels/wheel-sets/zipp-303s-review",
+            "date": "3y",
+            "source": "BikeRadar",
+            "title": "Zipp 303S review - Wheelsets - Wheels"
+          },
+          {
+            "snippet": "And they have got serviceable hubs they're compatible with Shimano.",
+            "timestamp": "From 1:46",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSX3YTFyP1PJaW-Eqhi_wGet5IaeRAfS3Lrexhl0WnoPpW7z806mCg--9jN",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=F7-7lEXD9vk&t=106",
+            "user": "Simon Thomas - The Lake District Velo Guide",
+            "date": "Nov 2022",
+            "source": "YouTube"
+          },
+          {
+            "key_point": "Attractive",
+            "snippet": "Really lovely wheelset, from a top name. May not have all the fancy \"tech\" of Zipps higher end wheels, but come backed with the same warrany. Made in Taiwan, by",
+            "user": "OJ",
+            "date": "2y",
+            "source": "bikeinn.com"
+          },
+          {
+            "snippet": "The 303S is an extremely impressive and versatile wheelset, offering reasonable weight with on and off-road capabilities.",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://road.cc&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://road.cc/content/review/zipp-303s-wheels-2020-273241",
+            "source": "Road.cc",
+            "title": "Review: Zipp 303S wheels 2020 | road.cc"
+          },
+          {
+            "pros": [
+              "Joy to ride",
+              "A reasonable price",
+              "Quick to pick up the pace when surges dictated"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cyclingweekly.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingweekly.com/reviews/zipp-303s-wheelset-review",
+            "date": "4y",
+            "source": "Cycling Weekly",
+            "title": "Zipp 303S wheelset review"
+          },
+          {
+            "snippet": "in more places than the previous Firecrest, with better user-friendliness, versatility and warranty for almost half the price",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cyclingnews.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.cyclingnews.com/reviews/zipp-303s-carbon-tubeless-disc-wheelset-review/",
+            "source": "Cyclingnews",
+            "title": "Zipp 303S Carbon Tubeless Disc wheelset review"
+          },
+          {
+            "pros": [
+              "Responsiveness is stellar on all types of gravel and singletrack",
+              "Hookless bead"
+            ],
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.feedthehabit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.feedthehabit.com/zipp-303-s-carbon-wheelset-review/",
+            "date": "3y",
+            "source": "FeedTheHabit.com",
+            "title": "Zipp 303 S Carbon Wheelset Review"
+          },
+          {
+            "snippet": "Lateral stiffness also translates to good handling in these wheels and effective climbing for a wheelset of its weight.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://intheknowcycling.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://intheknowcycling.com/zipp-303-s/",
+            "source": "In The Know Cycling",
+            "title": "ZIPP 303 S - BEST VALUE FOR TUBELESS ROAD DISC RIDERS"
+          }
+        ]
+      }
+    ],
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 4
+      },
+      {
+        "stars": 2,
+        "amount": 12
+      },
+      {
+        "stars": 3,
+        "amount": 5
+      },
+      {
+        "stars": 4,
+        "amount": 19
+      },
+      {
+        "stars": 5,
+        "amount": 206
+      }
+    ],
+    "reviews_images": [
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFfUpuFyNEgIT3ZqoaTtv2o019uB28zHw-pR1Xxc3ZeBXySR4",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIHQf7QP0MimXqomd4T9xh8akV3QOSsFDrfArtbUSmi_BjfBTR",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR8vEsaMnHkKj3OwLCFUZZ4uc6AsSNTuRtnVGR3UB3e9UVrw4o",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ6l2KaFK9ltfjFpt_eGzkSVCZuPTB0GRV6KE_jw5tFb0e1_tRe",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQRYqeKI1-FmhIrhTKvDQbei20x7h7gBBSrIUD4VuhRgh5fF5A"
+    ],
+    "user_reviews": [
+      {
+        "title": "Freewheel? Wrong design!",
+        "text": "Actually a largely satisfactory wheelset - rolls well and behaves sufficiently stable even in crosswinds.\n\nBUT: Unfortunately, the freehub body is a complete misconstruction, as it is simply loosely attached to the axle without any fastening. As a result, it often slips off the axle together with the cassette when the wheel is removed. As the pawls are also not attached in any way, they usually end up on the ground as well. Extremely annoying at home, a potential worst-case scenario on the road - if one of the pawls gets lost, that's it. Inserting the pawls and the freehub body is also extremely fiddly. An absolute engineering fail, hence only 2 stars.",
+        "source": "bike24.be",
+        "rating": 2,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2wKi0DcKD7YpTlSRbBiaua05IhiJWtvWHBo-dMKxHH9oc79QzH0EzAqOREwrTj8xOGUA=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Great wheel but be careful when fitting valves.",
+        "text": "A lovely wheel that is of a high quality build quality and finish. The freehub is nice and quiet and nothing like as noisy as my previous wheels. The wheel does not catch the wind anywhere near as much as my previous wheel. The only slight improvement would be to provide a flat seating area for the tubeless valve clamp nut to seat and seal against. With the existing design it is possible to over tighten when trying to get the valve to seal creating high stress leading to cracks being created. I have read reviews where people have had issues with cracks starting in this area. So be careful not to overtighten the valve.",
+        "user_name": "FirstRiderOff",
+        "source": "sigmasports.com",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK34OBBXZjwybAi-_zWphHCwreGJz3QLeTBEXREl09mYHadlXb9tWBoazzpEDXR3e4Re9g=w40-h40-c0x00000000-cc"
+      },
+      {
+        "title": "Great wheel upgrade.",
+        "text": "I recently bought my first gravel bike and having ran the stock wheels (alloy rims) for about 4 weeks I felt an upgrade was in order.. The Zipp 303s are my first set of carbon wheels and I couldn\u2019t be happier with them! They\u2019re not the lightest around but they feel solid and are a massive improvement. The reduction in weight saw an immediate improvement on my Strava efforts. About 2 weeks after fitting these I did start to see some bad reviews on this wheel set which did concern me initially, however having done a 115km gravel epic on some very challenging terrain on the North Yorkshire moors any doubt was quickly removed! The bad reviews mainly mention the hub bearings however I think these are from previous versions (time will tell). They are very easy to set up tubeless and are fast rolling. They feel well built and handle corners well. They also look great and will not break the bank either. For a sub \u00a31000 wheel set they are a no brainier in my opinion.",
+        "user_name": "Howie351",
+        "source": "sigmasports.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1KTcdajWN055uQtUGQfXxDp_8LaI4TzAHr6PKP2LBAy8xrt3qqaNxeoXvQimkWSbqSDA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFfUpuFyNEgIT3ZqoaTtv2o019uB28zHw-pR1Xxc3ZeBXySR4"
+        ]
+      },
+      {
+        "title": "Zip 303 S upgrade",
+        "text": "Excellent Wheelset, so far appear lighter and faster and gives the bike a sportier look. Sigma Oakham did a great job. I\u2019ve been debating for about a year to upgrade and when they featured in the sale my mind was made up, hopeful they will prove as reliable for endurance events. My original C38 roval wheels which I do rate are now on my winter bike giving that an upgrade from the standard wheels.",
+        "user_name": "Michael",
+        "source": "sigmasports.com",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3SkA6ttJCpsvNUcRdO8JO_cUmnuNUKBIVistPAIKRQeDrQ9kUMAAWVApHLsEC0BvYVtQ=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIHQf7QP0MimXqomd4T9xh8akV3QOSsFDrfArtbUSmi_BjfBTR"
+        ]
+      },
+      {
+        "title": "Great value top quality wheels",
+        "text": "Got these as an upgrade to a Cervelo Aspero gravel bike. Shod with Panaracer Gravel King 38mm tyres and setup tubeless. Tyres installed easily and were holding pressure after 48 hours.\n\nFirst rides have impressed - these wheels are noticeably faster, especially on climbs and are still smooth on the rough stuff.\n\nGreat value for the quality and Zipp lifetime warranty.",
+        "user_name": "Bronzie",
+        "source": "sigmasports.com",
+        "rating": 5,
+        "date": "a year ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK30CXeLGyU03gAVFb0DIg8cJPmTICbEvp0O_zhyE1w-A8hECduPEW7nW4GeTuHWwAdWcg=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR8vEsaMnHkKj3OwLCFUZZ4uc6AsSNTuRtnVGR3UB3e9UVrw4o"
+        ]
+      },
+      {
+        "title": "Fast rolling",
+        "text": "I was a bit skeptical about hookless rims, but as these are for my gravel bike I would be running much lower pressures than the stated maximum. They have been performing brilliantly for the months I have been using them, the hubs are smooth and the freezing sound is a nice happy medium. Not too loud but not silent by any means. A bit of grease in there could make them almost silent if that's your preference. The inner rim width is perfect for high volume tyres, which went on the rims easy with no levers. Tubeless set up was easy. Great looking and performing wheels. Very happy. Only negative would be that the engagement isn't instant and can be feel a little sloppy compared the the 54t Ratchet on my dtswiss hubs, but it's not really a massive issue for me.",
+        "user_name": "Sam",
+        "source": "sigmasports.com",
+        "rating": 5,
+        "date": "2 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK2H3v1N9xCQBfw47zXGKFIFUV4IaMIc_j0ZRyLL5WXlSil59vrKF70ZkmkGB5hyTTv8FA=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ6l2KaFK9ltfjFpt_eGzkSVCZuPTB0GRV6KE_jw5tFb0e1_tRe"
+        ]
+      },
+      {
+        "title": "Great wheels, but not a perfect experience.",
+        "text": "Bought these wheels on a fabulous offer, ready for a new build.\n\nThet appeared perfect, so disposed of the packaging.\n\nHowever, when I came to build the bike I had noise in the rear hub.\n\nThere was play in the axle in the rear hub bearings. I would have returned, but had disposed of the box. I raised a ticket with Sigma, who are brill as usual.\n\nBut couldn't be bothered rigmerole of returning, so replaced the bearings with new NTN at my cost. The existing bearings were very poor quality, clearly out of tolerance, and showing signs of corrosion after only a couple of rides.\n\nOn the new quality bearings the Zipp 303s are now perfect.\n\nThe bike looks and rolls well.",
+        "user_name": "Andy",
+        "source": "sigmasports.com",
+        "rating": 4,
+        "date": "2 years ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0f-R9u1pj3cvLdiXY54IxnsfP6TjhOIh7Fc88qURU37ADSXZw8NpjFgeNOEPSwCXdkPw=w40-h40-c0x00000000-cc",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQRYqeKI1-FmhIrhTKvDQbei20x7h7gBBSrIUD4VuhRgh5fF5A"
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "Zipp 303 XPLR S Disc Brake Carbon Wheels",
+        "link": "https://www.biketiresdirect.com/product/zipp-303-xplr-s-disc-brake-carbon-wheels?v=rearxdr",
+        "source": "BikeTiresDirect",
+        "channel": "BikeTiresDirect",
+        "duration": "5:39",
+        "thumbnail": "https://i.ytimg.com/vi/Y0voV0wN8x4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mUfos8_JSMUeeoL2rrzZ4G3KrwFQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQgQ5yUP0nXyl8zPzrObVWGFIZOiHWAh8tTqQ"
+      },
+      {
+        "title": "ZIPP 303 SE...... WHAT IS THIS WHEEL? AND WHAT IS THE ...",
+        "link": "https://www.youtube.com/watch?v=2MA3JlI3reA",
+        "source": "YouTube",
+        "channel": "GC Performance",
+        "duration": "15:38",
+        "thumbnail": "https://i.ytimg.com/vi/2MA3JlI3reA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n6HdpnbMB4qeV5XMiqSrr9iaOspg"
+      },
+      {
+        "title": "Zipp 303 Firecrest and 303 S wheels long term tested",
+        "link": "https://www.youtube.com/watch?v=EA28TIq8EnQ",
+        "source": "YouTube",
+        "channel": "GuyKesTV",
+        "duration": "12:39",
+        "thumbnail": "https://i.ytimg.com/vi/EA28TIq8EnQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k0kAFTx-Il-wnbrZS113g547HWPQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ8c4d_PfKl0muxSHYX8WKsGfLSidDMrekjOA"
+      },
+      {
+        "title": "Faulty ZIPP 303s, what to check, and how to fix them.",
+        "link": "https://www.youtube.com/watch?v=URpbbmp26Iw",
+        "source": "YouTube",
+        "channel": "Mapdec Cycle Works",
+        "duration": "12:14",
+        "thumbnail": "https://i.ytimg.com/vi/URpbbmp26Iw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3k_JDQwA5KB4in1UUlinFXRoT9CLA"
+      },
+      {
+        "title": "ZIPP 303 S TL DISC BRAKE CENTER LOCK 12X142 Rear 12x100 ...",
+        "link": "https://www.youtube.com/watch?v=wfmqDUnhiVQ",
+        "source": "YouTube",
+        "channel": "arlene verdida",
+        "duration": "2:55",
+        "thumbnail": "https://i.ytimg.com/vi/wfmqDUnhiVQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n2yER03s25Y81hQAaNlb_zDuf1Ig"
+      },
+      {
+        "title": "Zipp\u2019s New 303 SW Tracks Tire Pressure - But That\u2019s Just the Start",
+        "link": "https://www.youtube.com/watch?v=o7v2XMLdFgg",
+        "source": "YouTube",
+        "channel": "outdoorbros",
+        "duration": "6:54",
+        "thumbnail": "https://i.ytimg.com/vi/o7v2XMLdFgg/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3kqdhAtWnGYK98n_CladT-Az_B7JQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQaAP2fnfw9mNb0IukfB8K_A04PMm1l4ZDqVg"
+      },
+      {
+        "title": "Zipp 303 XPLR S Disc Brake Carbon Wheels",
+        "link": "https://www.biketiresdirect.com/product/zipp-303-xplr-s-disc-brake-carbon-wheels?v=REARWHL",
+        "source": "Bike Tires Direct",
+        "channel": "BikeTiresDirect",
+        "duration": "5:39",
+        "thumbnail": "https://i.ytimg.com/vi/Y0voV0wN8x4/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mUfos8_JSMUeeoL2rrzZ4G3KrwFQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQgQ5yUP0nXyl8zPzrObVWGFIZOiHWAh8tTqQ"
+      },
+      {
+        "title": "Zipp 303 SW First Look // Carbon Wheels with Built-In Pressure ...",
+        "link": "https://www.youtube.com/watch?v=0VKHzp1hjMo",
+        "source": "YouTube",
+        "channel": "DesFit",
+        "duration": "7:08",
+        "thumbnail": "https://i.ytimg.com/vi/0VKHzp1hjMo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3nqdFLrOq6twH7_fXzOVma-6JrSeQ",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ8Az4e4zk7i_ie3inZ-3Oovyiv7pMj0RPtDg"
+      },
+      {
+        "title": "Zipp 303 S wheelset: Into the detail",
+        "link": "https://www.youtube.com/live/BIDSz760WGE",
+        "source": "YouTube",
+        "channel": "Cyclist",
+        "duration": "7:32",
+        "thumbnail": "https://i.ytimg.com/vi/BIDSz760WGE/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n1bpb_O8xS3zTOIcEzCUyUn-4UXg",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRTUVO5wrcOX3sxs6utrXwSYbN1b9marSrbTw"
+      },
+      {
+        "title": "Zipp 303 NSW Tubeless Disc wheelset - unboxing and setup",
+        "link": "https://www.youtube.com/watch?v=5DoSM7fT9NM",
+        "source": "YouTube",
+        "channel": "Ronald Kuba",
+        "duration": "14:14",
+        "thumbnail": "https://i.ytimg.com/vi/5DoSM7fT9NM/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mfMYHlT-C4j9M-N--S4FRembuh8A",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTKgqXU4VOO25ejGeLKhsP_lE4giVtZUMbwTg"
+      },
+      {
+        "title": "LIFETIME WARRANTY ZIPP 303 S TUBELESS DISC-BRAKE ...",
+        "link": "https://www.youtube.com/watch?v=P8YM7889LbA",
+        "source": "YouTube",
+        "channel": "arlene verdida",
+        "duration": "2:03",
+        "thumbnail": "https://i.ytimg.com/vi/P8YM7889LbA/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mflQusIIhuQntZuL0ipz4GprzOuA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTktyXSB4qJ5MEd-uVNfLs5BcD3nA1pW18isA"
+      },
+      {
+        "title": "Zipp 303 S Wheelset Release",
+        "link": "https://www.youtube.com/watch?v=rmc4kymjVVQ",
+        "source": "YouTube",
+        "channel": "Planet Cyclery",
+        "duration": "4:19",
+        "thumbnail": "https://i.ytimg.com/vi/rmc4kymjVVQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lx2ig24h4tawaw8sUZkHJR6LcY1w",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQOyUzaXHzC0czfQxJNCmWfSOl_JQ7_qlZnFw"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Upgrading stock alloy wheels: Zipp vs Elitewheels : r/cycling",
+        "link": "https://www.reddit.com/r/cycling/comments/1488yxa/upgrading_stock_alloy_wheels_zipp_vs_elitewheels/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago",
+        "items": [
+          {
+            "snippet": "Stiff, fast, super light at 1300g.",
+            "link": "https://www.reddit.com/r/cycling/comments/1488yxa/upgrading_stock_alloy_wheels_zipp_vs_elitewheels/#:~:text=Stiff%2C%20fast%2C%20super%20light%20at%201300g."
+          },
+          {
+            "snippet": "Hybrid ceramic bearings and carbon spokes at this price is unheard of.",
+            "link": "https://www.reddit.com/r/cycling/comments/1488yxa/upgrading_stock_alloy_wheels_zipp_vs_elitewheels/#:~:text=Hybrid%20ceramic%20bearings%20and%20carbon%20spokes%20at%20this%20price%20is%20unheard%20of."
+          },
+          {
+            "snippet": "Super stiff, pretty lightweight, and while my back wheel was defective Winspace sent me a whole new back wheel.",
+            "link": "https://www.reddit.com/r/cycling/comments/1488yxa/upgrading_stock_alloy_wheels_zipp_vs_elitewheels/#:~:text=Super%20stiff%2C%20pretty%20lightweight%2C%20and%20while%20my,sent%20me%20a%20whole%20new%20back%20wheel."
+          }
+        ]
+      },
+      {
+        "title": "Long Term Zipp 303s User Question (Zipp 303fc, Roval 38c)",
+        "link": "https://www.trainerroad.com/forum/t/long-term-zipp-303s-user-question-zipp-303fc-roval-38c/83960",
+        "source": "TrainerRoad",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trainerroad.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago",
+        "items": [
+          {
+            "snippet": "After approximately 200 hrs of riding the wheels are still perfect: no issues with the bearings or rims.",
+            "link": "https://www.trainerroad.com/forum/t/long-term-zipp-303s-user-question-zipp-303fc-roval-38c/83960#:~:text=After%20approximately%20200%20hrs%20of%20riding%20the,no%20issues%20with%20the%20bearings%20or%20rims."
+          },
+          {
+            "snippet": "Fantastic wheels, good hubs, good price and performs really well aerodynamically.",
+            "link": "https://www.trainerroad.com/forum/t/long-term-zipp-303s-user-question-zipp-303fc-roval-38c/83960#:~:text=Fantastic%20wheels%2C%20good%20hubs%2C%20good%20price%20and%20performs%20really%20well%20aerodynamically."
+          },
+          {
+            "snippet": "Installation is possible without tools, but the tyre is still reassuringly tight on the rim.",
+            "link": "https://www.trainerroad.com/forum/t/long-term-zipp-303s-user-question-zipp-303fc-roval-38c/83960#:~:text=Installation%20is%20possible%20without%20tools%2C%20but%20the,is%20still%20reassuringly%20tight%20on%20the%20rim."
+          }
+        ]
+      },
+      {
+        "title": "Should my new Zipp 303S come with a lot of cracks? : r/cycling",
+        "link": "https://www.reddit.com/r/cycling/comments/14a2g50/should_my_new_zipp_303s_come_with_a_lot_of_cracks/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago",
+        "comments": 12,
+        "items": [
+          {
+            "snippet": "no idea if that's normal, but personally i'd return them. I don't have anything like that on my carbon wheels from a much cheaper brand.",
+            "link": "https://www.reddit.com/r/cycling/comments/14a2g50/comment/jo88q5t/",
+            "top_answer": true,
+            "votes": 12
+          },
+          {
+            "snippet": "Definitely send whoever you bought them for a email.",
+            "link": "https://www.reddit.com/r/cycling/comments/14a2g50/comment/jo8cof1/",
+            "votes": 6
+          },
+          {
+            "snippet": "I've just unboxed my zipp 303s carbon wheelset, but I was so disappointed to find cracks and defects all over the wheels.",
+            "link": "https://www.reddit.com/r/cycling/comments/14a2g50/should_my_new_zipp_303s_come_with_a_lot_of_cracks/#:~:text=I've%20just%20unboxed%20my%20zipp%20303s%20carbon,cracks%20and%20defects%20all%20over%20the%20wheels."
+          },
+          {
+            "snippet": "Delamination at the rim bead is not good.",
+            "link": "https://www.reddit.com/r/cycling/comments/14a2g50/should_my_new_zipp_303s_come_with_a_lot_of_cracks/#:~:text=Delamination%20at%20the%20rim%20bead%20is%20not%20good."
+          },
+          {
+            "snippet": "Not the lightest but they are much cheaper than some alternatives.",
+            "link": "https://www.reddit.com/r/cycling/comments/14a2g50/should_my_new_zipp_303s_come_with_a_lot_of_cracks/#:~:text=Not%20the%20lightest%20but%20they%20are%20much%20cheaper%20than%20some%20alternatives."
+          }
+        ]
+      },
+      {
+        "title": "Zipp 303 Wheels + Tubeless Anxiety - advice please : r/cycling",
+        "link": "https://www.reddit.com/r/cycling/comments/1hw32w2/zipp_303_wheels_tubeless_anxiety_advice_please/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "9 months ago",
+        "items": [
+          {
+            "snippet": "Setting it up tubless was a breeze because the wheels are pre-taped so you just put the tires on and blow them up until you hear a loud pop from the bead seatin",
+            "link": "https://www.reddit.com/r/cycling/comments/1hw32w2/zipp_303_wheels_tubeless_anxiety_advice_please/#:~:text=Setting%20it%20up%20tubless%20was%20a%20breeze,a%20loud%20pop%20from%20the%20bead%20seatin"
+          },
+          {
+            "snippet": "I've never had any difficulty fitting GP 5000 (A)S TR tires to my 303 S wheels.",
+            "link": "https://www.reddit.com/r/cycling/comments/1hw32w2/zipp_303_wheels_tubeless_anxiety_advice_please/#:~:text=I've%20never%20had%20any%20difficulty%20fitting%20GP,TR%20tires%20to%20my%20303%20S%20wheels."
+          },
+          {
+            "snippet": "Changing the tube while out on a ride is a real issue with trying to refit the tire with the bead being incredibly tight",
+            "link": "https://www.reddit.com/r/cycling/comments/1hw32w2/zipp_303_wheels_tubeless_anxiety_advice_please/#:~:text=Changing%20the%20tube%20while%20out%20on%20a,tire%20with%20the%20bead%20being%20incredibly%20tight"
+          }
+        ]
+      },
+      {
+        "title": "Zipp 303s? : r/gravelcycling",
+        "link": "https://www.reddit.com/r/gravelcycling/comments/zzdsb1/zipp_303s/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago",
+        "comments": 8,
+        "items": [
+          {
+            "snippet": "Great for the money if you want a big brand name. I\u2019ve put a couple thousand miles on mine and you\u2019re dead on, cheap hubs are just lackluster. Low engagement is great for low resistance when coasting but, that dead space and CHONK when you catch the engagement leaves a lot to be desired. They have a high rider weight tolerance though. My vote is spend the extra money and get winspace hypers which have ceramic bearings and carbon spokes OR build a custom set of Light Bicycle wheels with your desired hole count, rim width/depth, spokes and hubs.",
+            "link": "https://www.reddit.com/r/gravelcycling/comments/zzdsb1/comment/j2b8x3w/",
+            "top_answer": true,
+            "votes": 2
+          },
+          {
+            "snippet": "I've always thought Zipps were great wheels, personally.",
+            "link": "https://www.reddit.com/r/gravelcycling/comments/zzdsb1/comment/j2c48ld/"
+          },
+          {
+            "snippet": "They have handled pretty much anything I have thrown at them and not given me much trouble at all.",
+            "link": "https://www.reddit.com/r/gravelcycling/comments/zzdsb1/zipp_303s/#:~:text=They%20have%20handled%20pretty%20much%20anything%20I,not%20given%20me%20much%20trouble%20at%20all."
+          },
+          {
+            "snippet": "Low engagement is great for low resistance when coasting but, that dead space and CHONK when you catch the engagement leaves a lot to be desired.",
+            "link": "https://www.reddit.com/r/gravelcycling/comments/zzdsb1/zipp_303s/#:~:text=Low%20engagement%20is%20great%20for%20low%20resistance,engagement%20leaves%20a%20lot%20to%20be%20desired."
+          },
+          {
+            "snippet": "Mine have been ridden hard and put away wet for over 3k km and they're still straight as an arrow.",
+            "link": "https://www.reddit.com/r/gravelcycling/comments/zzdsb1/zipp_303s/#:~:text=Mine%20have%20been%20ridden%20hard%20and%20put,and%20they're%20still%20straight%20as%20an%20arrow."
+          }
+        ]
+      },
+      {
+        "title": "Long Term Zipp 303s User Question (Zipp 303fc, Roval 38c)",
+        "link": "https://www.trainerroad.com/forum/t/long-term-zipp-303s-user-question-zipp-303fc-roval-38c/83960?page=2",
+        "source": "TrainerRoad",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trainerroad.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "2 years ago",
+        "items": [
+          {
+            "snippet": "I have the 303s and have to say overall I would be quite happy, they ride nice on the Road and also on Gravel (used with 40c Conti Terra Speeds , 30 Pirelli P Z",
+            "link": "https://www.trainerroad.com/forum/t/long-term-zipp-303s-user-question-zipp-303fc-roval-38c/83960?page=2#:~:text=I%20have%20the%20303s%20and%20have%20to,Terra%20Speeds%20%2C%2030%20Pirelli%20P%20Z"
+          },
+          {
+            "snippet": "But the Freehub Bearing disintegrated after around 1 Year of use, yeah the Going was sometimes Rough and some Rain and Mud riding.",
+            "link": "https://www.trainerroad.com/forum/t/long-term-zipp-303s-user-question-zipp-303fc-roval-38c/83960?page=2#:~:text=But%20the%20Freehub%20Bearing%20disintegrated%20after%20around,Rough%20and%20some%20Rain%20and%20Mud%20riding."
+          },
+          {
+            "snippet": "Any gust of wind was felt big time with the DTs, almost unnoticeable with the 303s.",
+            "link": "https://www.trainerroad.com/forum/t/long-term-zipp-303s-user-question-zipp-303fc-roval-38c/83960?page=2#:~:text=Any%20gust%20of%20wind%20was%20felt%20big,the%20DTs%2C%20almost%20unnoticeable%20with%20the%20303s."
+          }
+        ]
+      },
+      {
+        "title": "First new wheel day! ZIPP 303s : r/gravelcycling",
+        "link": "https://www.reddit.com/r/gravelcycling/comments/1e6n0r3/first_new_wheel_day_zipp_303s/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "a year ago",
+        "items": [
+          {
+            "snippet": "The ride quality feels so much smoother and it feels like there is less of a drag sensation, and you can really feel the improvement climbing.",
+            "link": "https://www.reddit.com/r/gravelcycling/comments/1e6n0r3/first_new_wheel_day_zipp_303s/#:~:text=The%20ride%20quality%20feels%20so%20much%20smoother,you%20can%20really%20feel%20the%20improvement%20climbing."
+          },
+          {
+            "snippet": "The hub is quieter (which I like).",
+            "link": "https://www.reddit.com/r/gravelcycling/comments/1e6n0r3/first_new_wheel_day_zipp_303s/#:~:text=The%20hub%20is%20quieter%20(which%20I%20like)."
+          },
+          {
+            "snippet": "Setting it up tubeless was actually decent, I just had to retape the rear wheel bc the tape that it comes with had some leaks.",
+            "link": "https://www.reddit.com/r/gravelcycling/comments/1e6n0r3/first_new_wheel_day_zipp_303s/#:~:text=Setting%20it%20up%20tubeless%20was%20actually%20decent%2C,that%20it%20comes%20with%20had%20some%20leaks."
+          }
+        ]
+      },
+      {
+        "title": "NWD: Just got back from first ride with the Zipp 303 S wheelset. I\u2019m in love : r/CanyonBikes",
+        "link": "https://www.reddit.com/r/CanyonBikes/comments/v3byj7/nwd_just_got_back_from_first_ride_with_the_zipp/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "3 years ago",
+        "items": [
+          {
+            "snippet": "It seems like a win-win; lighter and more aerodynamic, for a pretty good price!",
+            "link": "https://www.reddit.com/r/CanyonBikes/comments/v3byj7/nwd_just_got_back_from_first_ride_with_the_zipp/#:~:text=It%20seems%20like%20a%20win%2Dwin;%20lighter%20and%20more%20aerodynamic%2C%20for%20a%20pretty%20good%20price!"
+          },
+          {
+            "snippet": "The hub noise is much louder than the silent DT Swiss ones, but not obnoxious at all (quieter than my friend's Hunt wheels).",
+            "link": "https://www.reddit.com/r/CanyonBikes/comments/v3byj7/nwd_just_got_back_from_first_ride_with_the_zipp/#:~:text=The%20hub%20noise%20is%20much%20louder%20than,all%20(quieter%20than%20my%20friend's%20Hunt%20wheels)."
+          },
+          {
+            "snippet": "Each wheel is 200g lighter than each of the DT Swiss Endurance LN wheels that came with the bike.",
+            "link": "https://www.reddit.com/r/CanyonBikes/comments/v3byj7/nwd_just_got_back_from_first_ride_with_the_zipp/#:~:text=Each%20wheel%20is%20200g%20lighter%20than%20each,LN%20wheels%20that%20came%20with%20the%20bike."
+          }
+        ]
+      },
+      {
+        "title": "Zipp 303S vs 303 Firecrest : r/cycling",
+        "link": "https://www.reddit.com/r/cycling/comments/1hdxnou/zipp_303s_vs_303_firecrest/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "10 months ago",
+        "items": [
+          {
+            "snippet": "They ride great, are light weight, stay true, and have a great warranty.",
+            "link": "https://www.reddit.com/r/cycling/comments/1hdxnou/zipp_303s_vs_303_firecrest/#:~:text=They%20ride%20great%2C%20are%20light%20weight%2C%20stay%20true%2C%20and%20have%20a%20great%20warranty."
+          },
+          {
+            "snippet": "durable.",
+            "link": "https://www.reddit.com/r/cycling/comments/1hdxnou/zipp_303s_vs_303_firecrest/#null"
+          },
+          {
+            "snippet": "I've even crashed the bike in a race with no damage to the wheels beyond a couple small scratches (the bike frame broke).",
+            "link": "https://www.reddit.com/r/cycling/comments/1hdxnou/zipp_303s_vs_303_firecrest/#:~:text=I've%20even%20crashed%20the%20bike%20in%20a,couple%20small%20scratches%20(the%20bike%20frame%20broke)."
+          }
+        ]
+      }
+    ],
+    "more_options": [
+      {
+        "title": "Zipp 404 Firecrest Tubeless Disc Rear Wheel",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQo-a0JufWrOyKBQPBNDCLnsrZZUloGNey--XrRVTIDyUTC1-ax91GRnHhNKTI",
+        "price": "$1,029.00",
+        "extracted_price": 1029.0,
+        "reviews": 33,
+        "rating": 4.9,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI1NzA3MTkxODUzNzkzNDMzMCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc0OTU1OTM5MzQ4NDQ3NTI3MjQiLCJpbWFnZURvY2lkIjoiODcyOTIxNDczMzg5MjQ0Nzg2OSIsInJkcyI6IlBDXzE2Nzk4ODQ5MDI0MzM2MTQ0MjA4fFBST0RfUENfMTY3OTg4NDkwMjQzMzYxNDQyMDgiLCJxdWVyeSI6IlppcHArMDAuMTkxOC43NzMuMDAwIiwiZ3BjaWQiOiIxNjc5ODg0OTAyNDMzNjE0NDIwOCIsIm1pZCI6IjU3NjQ2Mjg5OTk1NTkzOTA1NSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Zipp 3ZERO MOTO Wheel",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS15OVVX3ZVrcFveuRA_TD-bg5AS8DWYF2EUgivBcHHyB7nk_AnJ38sswygC7c",
+        "price": "$439.20",
+        "extracted_price": 439.2,
+        "original_price": "$897",
+        "extracted_original_price": 897,
+        "reviews": 14,
+        "rating": 3.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE4MzcxMzE4MTkyNzQ5NDY4NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzODc4NjQxMTM1OTczNDAxNzM5IiwiaW1hZ2VEb2NpZCI6IjEzMzE0MjMyMjUxMjk4NTE2OSIsInJkcyI6IlBDXzExNzQxMjQxNzU3ODU0NjU5MTY2fFBST0RfUENfMTE3NDEyNDE3NTc4NTQ2NTkxNjYiLCJxdWVyeSI6IlppcHArMDAuMTkxOC43NzMuMDAwIiwiZ3BjaWQiOiIxMTc0MTI0MTc1Nzg1NDY1OTE2NiIsIm1pZCI6IjU3NjQ2MjYwMTQ3MTMzNjEwNyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "Zipp 303 SW Tubeless Disc Rear Wheel",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_yVT3Fl4sPV9o7dWL7Kl65idt7n4zNEp2lQmSp08idTg5CdddNPUIjftwR0s",
+        "price": "$1,150.00",
+        "extracted_price": 1150.0,
+        "reviews": 6,
+        "rating": 4.2,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODg1NTc3MzA0NDI4MjU0NDMzNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ3Nzk4NDI1MTAxMzIxNTIwNzYiLCJpbWFnZURvY2lkIjoiOTU0MDgyODg1NTg0MDY3MjQwNCIsInJkcyI6IlBDXzU4MTU4MjA4MzMxOTE5NjY0MDB8UFJPRF9QQ181ODE1ODIwODMzMTkxOTY2NDAwIiwicXVlcnkiOiJaaXBwKzAwLjE5MTguNzczLjAwMCIsImdwY2lkIjoiNTgxNTgyMDgzMzE5MTk2NjQwMCIsIm1pZCI6IjU3NjQ2Mjg2MTI0ODIwNDQ3MCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      },
+      {
+        "title": "404 Firecrest Carbon Wheel",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTWQJh9ifhedYfFnfGheBz_cOl3Ms32Qw1eEZPwizpDcVVKDor_5MujAWgP7DAlhbzKFdk44us",
+        "price": "$1,291.00",
+        "extracted_price": 1291.0,
+        "reviews": 25,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwNTMwMDA5MTQ4NTA5MjA1NzUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNzQ4NTIzNzUwNTM3MTE2MjQ2IiwiaW1hZ2VEb2NpZCI6IjYyMzgwODMzOTM4OTkxMzA4NyIsInJkcyI6IlBDXzE2Mzc2NDMyNjk1ODg3NTYzNjM5fFBST0RfUENfMTYzNzY0MzI2OTU4ODc1NjM2MzkiLCJxdWVyeSI6IlppcHArMDAuMTkxOC43NzMuMDAwIiwiZ3BjaWQiOiIxOTQ1NDQxNTExNDU4MzQ4NDI0IiwibWlkIjoiNTc2NDYyNjY2NTM0ODI5NzIyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsInB2ZiI6bnVsbH0%3D"
+      },
+      {
+        "title": "zipp 404 Firecrest Carbon Clincher Wheel",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9-TLrRrMpmEtR99JinLjlIUrT1N3Z52OeiIGXTnhksPxrwKGiFpW1q2IsonmIoprEdbyqF4o",
+        "price": "$350.00",
+        "extracted_price": 350.0,
+        "reviews": 25,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzNjA5OTY3NzA4MTUxMjkwMzQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1NDE0NTEwNTg2NTU3NDE4OTMxIiwiaW1hZ2VEb2NpZCI6IjE2MTc3NzQ4MjkwNTQ1Mjk5OTAiLCJyZHMiOiJQQ18xNjM3NjQzMjY5NTg4NzU2MzYzOXxQUk9EX1BDXzE2Mzc2NDMyNjk1ODg3NTYzNjM5IiwicXVlcnkiOiJaaXBwKzAwLjE5MTguNzczLjAwMCIsImdwY2lkIjoiMTYzNzY0MzI2OTU4ODc1NjM2MzkiLCJtaWQiOiI1NzY0NjIyMjMyOTg5MzQxNDAiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwicHZmIjpudWxsfQ%3D%3D"
+      },
+      {
+        "title": "Zipp Wheel 1Zero HiTop SW Tubeless Disc Brake Center Lock",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTukoIgs86xLQEE3KlE8-f6RcGFopbVb0K9SULT0FEBsBCioKQ6Sr8MROKBeGAZoQaWmkPBlUCC",
+        "price": "$1,075.00",
+        "extracted_price": 1075.0,
+        "reviews": 1,
+        "rating": 4.0,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODkxNDAyNDY3MDE1MTAxNzYzNCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkxODQzNDA1NDc5ODc5OTU4OSIsImltYWdlRG9jaWQiOiIxODQzMjQ4MDkxMjYxMDg0NTA1OCIsInJkcyI6IlBDXzEzMTM4NTAwODE3MTAxOTUwNDc5fFBST0RfUENfMTMxMzg1MDA4MTcxMDE5NTA0NzkiLCJxdWVyeSI6IlppcHArMDAuMTkxOC43NzMuMDAwIiwiZ3BjaWQiOiIxMzEzODUwMDgxNzEwMTk1MDQ3OSIsIm1pZCI6IjU3NjQ2Mjc4Mzk3NjA0NTM5NyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOm51bGx9"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Size",
+        "items": [
+          {
+            "name": "Any Size",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwNTMwMDA5MTQ4NTA5MjA1NzUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTA4ODUxMTc5MDA0NTkxNTc2NyIsImltYWdlRG9jaWQiOiIxMjYyODYyMTE5MDczMjI5MDAwNiIsInJkcyI6IlBDXzE5NDU0NDE1MTE0NTgzNDg0MjR8UFJPRF9QQ18xOTQ1NDQxNTExNDU4MzQ4NDI0IiwicXVlcnkiOiJaaXBwKzAwLjE5MTguNzczLjAwMCIsImdwY2lkIjoiMTk0NTQ0MTUxMTQ1ODM0ODQyNCIsIm1pZCI6IjU3NjQ2MjY2NjUzNDgyOTcyMiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiIifQ%3D%3D"
+          },
+          {
+            "name": "12x100mm / 700c",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwNTMwMDA5MTQ4NTA5MjA1NzUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTA4ODUxMTc5MDA0NTkxNTc2NyIsImltYWdlRG9jaWQiOiIxMjYyODYyMTE5MDczMjI5MDAwNiIsInJkcyI6IlBDXzE5NDU0NDE1MTE0NTgzNDg0MjR8UFJPRF9QQ18xOTQ1NDQxNTExNDU4MzQ4NDI0IiwicXVlcnkiOiJaaXBwKzAwLjE5MTguNzczLjAwMCIsImdwY2lkIjoiMTk0NTQ0MTUxMTQ1ODM0ODQyNCIsIm1pZCI6IjU3NjQ2MjY2NjUzNDgyOTcyMiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiJFZ3NJazlINUFSRDZ3SXo3QkEifQ%3D%3D"
+          },
+          {
+            "name": "12x142mm / 700c",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwNTMwMDA5MTQ4NTA5MjA1NzUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTA4ODUxMTc5MDA0NTkxNTc2NyIsImltYWdlRG9jaWQiOiIxMjYyODYyMTE5MDczMjI5MDAwNiIsInJkcyI6IlBDXzE5NDU0NDE1MTE0NTgzNDg0MjR8UFJPRF9QQ18xOTQ1NDQxNTExNDU4MzQ4NDI0IiwicXVlcnkiOiJaaXBwKzAwLjE5MTguNzczLjAwMCIsImdwY2lkIjoiMTk0NTQ0MTUxMTQ1ODM0ODQyNCIsIm1pZCI6IjU3NjQ2MjY2NjUzNDgyOTcyMiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiJFZ3NJazlINUFSRGJ6cjN0QkEifQ%3D%3D"
+          },
+          {
+            "name": "12x142mm / 700c Xdr",
+            "selected": true,
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IllIQUZhZmFnQ0xyUjVPVVB2WS1CMlFZIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwNTMwMDA5MTQ4NTA5MjA1NzUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTA4ODUxMTc5MDA0NTkxNTc2NyIsImltYWdlRG9jaWQiOiIxMjYyODYyMTE5MDczMjI5MDAwNiIsInJkcyI6IlBDXzE5NDU0NDE1MTE0NTgzNDg0MjR8UFJPRF9QQ18xOTQ1NDQxNTExNDU4MzQ4NDI0IiwicXVlcnkiOiJaaXBwKzAwLjE5MTguNzczLjAwMCIsImdwY2lkIjoiMTk0NTQ0MTUxMTQ1ODM0ODQyNCIsIm1pZCI6IjU3NjQ2MjY2NjUzNDgyOTcyMiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJwdmYiOiIifQ%3D%3D"
+          }
+        ]
+      }
+    ]
+  }
+}

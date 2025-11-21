@@ -1,0 +1,75 @@
+{
+  "search_metadata": {
+    "id": "690577e3bc3f0bc38437cadf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0aeb2afd350354e9/690577e3bc3f0bc38437cadf.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0aeb2afd350354e9/690577e3bc3f0bc38437cadf.json_with_pixel_position",
+    "created_at": "2025-11-01 03:00:51 UTC",
+    "processed_at": "2025-11-01 03:00:51 UTC",
+    "google_url": "https://www.google.com/search?q=%224019238098068%22+site%3Awww.excelsports.com&oq=%224019238098068%22+site%3Awww.excelsports.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0aeb2afd350354e9/690577e3bc3f0bc38437cadf.html",
+    "total_time_taken": 1.94
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"4019238098068\" site:www.excelsports.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"4019238098068\" site:www.excelsports.com",
+    "total_results": 1,
+    "time_taken_displayed": 0.13,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Continental Grand Prix TR Tubeless Tire",
+      "link": "https://www.excelsports.com/continental-grand-prix-tr-tubeless-tire?srsltid=AfmBOopr1waPFNXY4_dyK_MKRlb0OaJ4GP7n8PfDzg6ztBcMtpk1mxyQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.excelsports.com/continental-grand-prix-tr-tubeless-tire%3Fsrsltid%3DAfmBOopr1waPFNXY4_dyK_MKRlb0OaJ4GP7n8PfDzg6ztBcMtpk1mxyQ&ved=2ahUKEwjorK-F-8-QAxX2LbkGHQIgNDQQFnoECBkQAQ",
+      "displayed_link": "https://www.excelsports.com › continental-grand-prix-tr...",
+      "favicon": "https://serpapi.com/searches/690577e3bc3f0bc38437cadf/images/a2b62668c41e3ca6fb3612895718af36221f35640077ddac99677fdaf9afdbdb.png",
+      "snippet": "With an all-new 4-ply construction, it achieves the perfect mix of puncture resistance, low weight (345g for the 28c tire), and efficiency, ensuring ...",
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 79.95,
+            "currency": "$"
+          },
+          "extensions": [
+            "$79.95",
+            "In stock",
+            "$18.76 delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "source": "Excel Sports"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%224019238098068%22+site%3Awww.excelsports.com&oq=%224019238098068%22+site%3Awww.excelsports.com&hl=en&gl=us&num=10&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%224019238098068%22+site%3Awww.excelsports.com&oq=%224019238098068%22+site%3Awww.excelsports.com&hl=en&gl=us&num=10&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=%224019238098068%22+site%3Awww.excelsports.com&oq=%224019238098068%22+site%3Awww.excelsports.com&hl=en&gl=us&num=10&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=%224019238098068%22+site%3Awww.excelsports.com&oq=%224019238098068%22+site%3Awww.excelsports.com&hl=en&gl=us&num=10&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=%224019238098068%22+site%3Awww.excelsports.com&oq=%224019238098068%22+site%3Awww.excelsports.com&hl=en&gl=us&num=10&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%224019238098068%22+site%3Awww.excelsports.com&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%224019238098068%22+site%3Awww.excelsports.com&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%224019238098068%22+site%3Awww.excelsports.com&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%224019238098068%22+site%3Awww.excelsports.com&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%224019238098068%22+site%3Awww.excelsports.com&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%224019238098068%22+site%3Awww.excelsports.com&start=40"
+    }
+  }
+}

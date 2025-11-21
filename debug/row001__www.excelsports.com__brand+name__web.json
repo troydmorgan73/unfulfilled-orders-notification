@@ -1,0 +1,35 @@
+{
+  "search_metadata": {
+    "id": "6905794ef7ae8df81be26a60",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8fb7081c4677db96/6905794ef7ae8df81be26a60.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8fb7081c4677db96/6905794ef7ae8df81be26a60.json_with_pixel_position",
+    "created_at": "2025-11-01 03:06:54 UTC",
+    "processed_at": "2025-11-01 03:06:54 UTC",
+    "google_url": "https://www.google.com/search?q=%22Zipp+Zipp+858+NSW+Tubeless+Disc+Rear+Wheel%22+site%3Awww.excelsports.com&oq=%22Zipp+Zipp+858+NSW+Tubeless+Disc+Rear+Wheel%22+site%3Awww.excelsports.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8fb7081c4677db96/6905794ef7ae8df81be26a60.html",
+    "total_time_taken": 1.82
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Zipp Zipp 858 NSW Tubeless Disc Rear Wheel\" site:www.excelsports.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Zipp Zipp 858 NSW Tubeless Disc Rear Wheel\" site:www.excelsports.com",
+    "total_results": 0,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    },
+    "showing_results_for": "Zipp Zipp 858 NSW Tubeless Disc Rear Wheel site:www.excelsports.com",
+    "spelling_fix": "Zipp Zipp 858 NSW Tubeless Disc Rear Wheel site:www.excelsports.com",
+    "spelling_fix_type": "without quotes"
+  },
+  "error": "Google hasn't returned any results for this query."
+}

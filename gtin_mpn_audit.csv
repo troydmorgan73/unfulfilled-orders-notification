@@ -1,0 +1,6 @@
+Product_Name,GTIN,MPN,Brand,Product_Type,Model,Variant_Options,My_Price,CompetitorA_Name,CompetitorA_Title,CompetitorA_Price,Best_Offer_Source,Best_Offer_Title,Best_Offer_Price,Status,Last_Checked,Product_URL,Shopify_Tags,GTIN_Normalized,GTIN_Type,GTIN_Check_OK,GTIN_Note,MPN_LooksLike,Swap_Suspected
+Zipp 858 NSW Tubeless Disc Rear Wheel,710845892523,00.1918.773.000,Zipp,Tubeless Wheels,"Zipp, Tubeless Wheels, SRAM/Shimano, Zipp Wheels, wheels",SRAM/Shimano,2300,,,,,,,,,,"Zipp Wheels, wheels",710845892523,GTIN-12/UPC-A,YES,calc=3,NO,
+Garmin Rally RK110 Power Meter Pedals,753759349578,010-02875-01,Garmin,Power Meter Pedals,"Garmin, Power Meter Pedals",,749.99,,,,,,,,,,,753759349578,GTIN-12/UPC-A,YES,calc=8,YES,
+Wahoo KICKR MOVE Power Trainer,850048106017,WFBKTR123,Wahoo,Smart Trainers,"Wahoo, Smart Trainers, Bike Trainers / Rollers",,1349.99,,,,,,,,,,Bike Trainers / Rollers,850048106017,GTIN-12/UPC-A,YES,calc=7,YES,
+Continental Grand Prix TR Tubeless Tire,4019238098068,1507310000,Continental,Tubeless Tires,"Continental, Tubeless Tires, Black / 700x28c, Tires",Black / 700x28c,67.95,,,,,,,,,,Tires,4019238098068,GTIN-13/EAN-13,YES,calc=8,NO,
+Garmin Edge 1050 Cycling Computer,753759336288,010-02890-00,Garmin,Cycling Computers,"Garmin, Cycling Computers, Computers / Watches",,699.99,,,,,,,,,,Computers / Watches,753759336288,GTIN-12/UPC-A,YES,calc=8,YES,

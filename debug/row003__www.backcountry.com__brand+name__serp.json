@@ -1,0 +1,29 @@
+{
+  "search_metadata": {
+    "id": "690577cffda607617ded11dd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1e05695c2a2efc04/690577cffda607617ded11dd.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/1e05695c2a2efc04/690577cffda607617ded11dd.json_with_pixel_position",
+    "created_at": "2025-11-01 03:00:31 UTC",
+    "processed_at": "2025-11-01 03:00:31 UTC",
+    "google_url": "https://www.google.com/search?q=%22Wahoo+Wahoo+KICKR+MOVE+Power+Trainer%22+site%3Awww.backcountry.com&oq=%22Wahoo+Wahoo+KICKR+MOVE+Power+Trainer%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/1e05695c2a2efc04/690577cffda607617ded11dd.html",
+    "total_time_taken": 0.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Wahoo Wahoo KICKR MOVE Power Trainer\" site:www.backcountry.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Wahoo Wahoo KICKR MOVE Power Trainer\" site:www.backcountry.com",
+    "total_results": 0,
+    "time_taken_displayed": 0.13,
+    "organic_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query."
+}

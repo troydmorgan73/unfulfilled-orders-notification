@@ -1,0 +1,79 @@
+{
+  "search_metadata": {
+    "id": "690564bea3ce84ae18df5c6e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e356e8def3734dd0/690564bea3ce84ae18df5c6e.json",
+    "created_at": "2025-11-01 01:39:10 UTC",
+    "processed_at": "2025-11-01 01:39:10 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=%22850048106017%22&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/e356e8def3734dd0/690564bea3ce84ae18df5c6e.html",
+    "total_time_taken": 2.45
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "\"850048106017\"",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"850048106017\"",
+    "shopping_results_state": "Results for exact spelling"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Trainer Wahoo KICKR Move",
+      "product_id": "479729542769584570",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=479729542769584570",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=\"850048106017\"&prds=catalogid:479729542769584570,headlineOfferDocid:17585759994458536339,imageDocid:1162518923707268870,rds:PC_7654672653937271208|PROD_PC_7654672653937271208,gpcid:7654672653937271208,mid:576462758975438354,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6InYyUUZhZXIySk9YRDVPVVA5ZURJb0FzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDc5NzI5NTQyNzY5NTg0NTcwIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1ODU3NTk5OTQ0NTg1MzYzMzkiLCJpbWFnZURvY2lkIjoiMTE2MjUxODkyMzcwNzI2ODg3MCIsInJkcyI6IlBDXzc2NTQ2NzI2NTM5MzcyNzEyMDh8UFJPRF9QQ183NjU0NjcyNjUzOTM3MjcxMjA4IiwicXVlcnkiOiIlMjI4NTAwNDgxMDYwMTclMjIiLCJncGNpZCI6Ijc2NTQ2NzI2NTM5MzcyNzEyMDgiLCJtaWQiOiI1NzY0NjI3NTg5NzU0MzgzNTQiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InYyUUZhZXIySk9YRDVPVVA5ZURJb0FzIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDc5NzI5NTQyNzY5NTg0NTcwIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTc1ODU3NTk5OTQ0NTg1MzYzMzkiLCJpbWFnZURvY2lkIjoiMTE2MjUxODkyMzcwNzI2ODg3MCIsInJkcyI6IlBDXzc2NTQ2NzI2NTM5MzcyNzEyMDh8UFJPRF9QQ183NjU0NjcyNjUzOTM3MjcxMjA4IiwicXVlcnkiOiIlMjI4NTAwNDgxMDYwMTclMjIiLCJncGNpZCI6Ijc2NTQ2NzI2NTM5MzcyNzEyMDgiLCJtaWQiOiI1NzY0NjI3NTg5NzU0MzgzNTQiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIn0%3D",
+      "source": "Brands Cycle & Fitness",
+      "source_icon": "https://serpapi.com/searches/690564bea3ce84ae18df5c6e/images/1256ac350f1e68a8089b2480a517976b5aa7fdc424d89c0e6f9dd686ae1fa341.png",
+      "multiple_sources": true,
+      "price": "$1,249.00",
+      "extracted_price": 1249.0,
+      "old_price": "$1,349",
+      "extracted_old_price": 1349,
+      "rating": 4.4,
+      "reviews": 179,
+      "snippet": "Realistic (28 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3U8BEgcdbmPwWDqysAFOewUlSd4GEiHxhmjXAtL1o28E_UYp0bOVu1BM-9EpU0BV1uwkRuyhhWq6XCkWIyCHfE-lDlbY5lw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SCb9YXicDclJDoIwAADAF7G6BEiMYalgomI0bCdjW6RIgWJLan_i1_yNznW-HyIE455h1AN6KSZqrAk42HrDxV20SEdjb3AyMtYOzXba_M_zT9iN0WWROQFoEIb9WRbRpLi_S2uZ0StexqBN3qR_lr44WKPtgFtWMROm-WwFR80FLDOD3Jpld5kVIcW0LsOu2KsweQCNRhRWKyp_Fn02hw",
+      "tag": "7% OFF",
+      "extensions": [
+        "7% OFF"
+      ],
+      "delivery": "Free delivery by Tue"
+    },
+    {
+      "position": 2,
+      "title": "wahoo fitness Wahoo KICKR CORE KOM Bundle (KICKR CORE & KICKR CLIMB)",
+      "product_id": "7537496791396606898",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7537496791396606898",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=\"850048106017\"&prds=productid:7537496791396606898,headlineOfferDocid:7537496791396606898,imageDocid:6321144752803906239,rds:PC_7654672653937271208|PROD_PC_7654672653937271208,pvt:hg&hl=en&gl=us&udm=28",
+      "immersive_product_page_token": "eyJlaSI6InYyUUZhZXIySk9YRDVPVVA5ZURJb0FzIiwicHJvZHVjdGlkIjoiNzUzNzQ5Njc5MTM5NjYwNjg5OCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1Mzc0OTY3OTEzOTY2MDY4OTgiLCJpbWFnZURvY2lkIjoiNjMyMTE0NDc1MjgwMzkwNjIzOSIsInJkcyI6IlBDXzc2NTQ2NzI2NTM5MzcyNzEyMDh8UFJPRF9QQ183NjU0NjcyNjUzOTM3MjcxMjA4IiwicXVlcnkiOiIlMjI4NTAwNDgxMDYwMTclMjIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6InYyUUZhZXIySk9YRDVPVVA5ZURJb0FzIiwicHJvZHVjdGlkIjoiNzUzNzQ5Njc5MTM5NjYwNjg5OCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1Mzc0OTY3OTEzOTY2MDY4OTgiLCJpbWFnZURvY2lkIjoiNjMyMTE0NDc1MjgwMzkwNjIzOSIsInJkcyI6IlBDXzc2NTQ2NzI2NTM5MzcyNzEyMDh8UFJPRF9QQ183NjU0NjcyNjUzOTM3MjcxMjA4IiwicXVlcnkiOiIlMjI4NTAwNDgxMDYwMTclMjIiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ%3D%3D",
+      "source": "Conifer Bike Shop",
+      "source_icon": "https://serpapi.com/searches/690564bea3ce84ae18df5c6e/images/1256ac350f1e68a8089b2480a517976babbe33c768b26841350b39a33b247737.png",
+      "price": "$999.99",
+      "extracted_price": 999.99,
+      "old_price": "$1,600",
+      "extracted_old_price": 1600,
+      "rating": 4.4,
+      "reviews": 179,
+      "snippet": "Realistic (28 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZkbO0RM_W3x6QoAsbvwCQP9UriLF6rHPzmYfoXu-mGYjdh_0YTSAlFy-b7oAsCTJH91wBlYtCWfuAkofguKHdwTDWcMcwuQ",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZySwEXicDcrbCoIwAADQL_ISgqEQsQyVytIybL1I27zlZcttLfuSfq2_qedzvp9aCMZdwygGPE5MFEQTaLD0ioubaLCOaW_wmjLWDNXysfibC_bECXBybdHBPEZ5Zr3shAKOnspLYuc8NjvfHsP43cOSXqTWB_BO6tyE6Ql0_qSh-T976SZ0ZmrVQeFlpQQtLSu5DYlK1xmOsJLJDyqSN1o",
+      "tag": "37% OFF",
+      "extensions": [
+        "37% OFF"
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=%22850048106017%22&start=10"
+  }
+}

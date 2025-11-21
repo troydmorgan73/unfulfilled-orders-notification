@@ -1,0 +1,32 @@
+{
+  "search_metadata": {
+    "id": "6905795e7a3b052bf5412f81",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cc1a3d96d5779134/6905795e7a3b052bf5412f81.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/cc1a3d96d5779134/6905795e7a3b052bf5412f81.json_with_pixel_position",
+    "created_at": "2025-11-01 03:07:10 UTC",
+    "processed_at": "2025-11-01 03:07:10 UTC",
+    "google_url": "https://www.google.com/search?q=%22Zipp+00.1918.773.000%22+site%3Amikesbikes.com&oq=%22Zipp+00.1918.773.000%22+site%3Amikesbikes.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/cc1a3d96d5779134/6905795e7a3b052bf5412f81.html",
+    "total_time_taken": 1.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"Zipp 00.1918.773.000\" site:mikesbikes.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"Zipp 00.1918.773.000\" site:mikesbikes.com",
+    "total_results": 0,
+    "time_taken_displayed": 0.12,
+    "organic_results_state": "Fully empty",
+    "query_feedback": {
+      "title": "Your search did not match any documents"
+    }
+  },
+  "error": "Google hasn't returned any results for this query."
+}

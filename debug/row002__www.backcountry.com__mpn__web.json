@@ -1,0 +1,65 @@
+{
+  "search_metadata": {
+    "id": "690577c25989b9d986c43a34",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2a126d88b9ca5cc6/690577c25989b9d986c43a34.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/2a126d88b9ca5cc6/690577c25989b9d986c43a34.json_with_pixel_position",
+    "created_at": "2025-11-01 03:00:18 UTC",
+    "processed_at": "2025-11-01 03:00:18 UTC",
+    "google_url": "https://www.google.com/search?q=%22010-02875-01%22+site%3Awww.backcountry.com&oq=%22010-02875-01%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2a126d88b9ca5cc6/690577c25989b9d986c43a34.html",
+    "total_time_taken": 2.93
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "\"010-02875-01\" site:www.backcountry.com",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "\"010-02875-01\" site:www.backcountry.com",
+    "total_results": 1,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Garmin Rally RK110 Power Clipless Pedals - Bike",
+      "link": "https://www.backcountry.com/garmin-rally-rk110-power-clipless-pedals?srsltid=AfmBOortPCY08QWK_UKkEsY0XV1UlQ1MNh4occd9tzbbZfhem4WuFtaO",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.backcountry.com/garmin-rally-rk110-power-clipless-pedals%3Fsrsltid%3DAfmBOortPCY08QWK_UKkEsY0XV1UlQ1MNh4occd9tzbbZfhem4WuFtaO&ved=2ahUKEwiC3qX2-s-QAxVBK7kGHfcmD68QFnoECBcQAQ",
+      "displayed_link": "https://www.backcountry.com › garmin-rally-rk110-pow...",
+      "favicon": "https://serpapi.com/searches/690577c25989b9d986c43a34/images/6ae1ace0e65003af740c5c010b2d071761f87e890af231816d5288749ac2eaf6.png",
+      "snippet": "Manufacturer Part Number. 010-02875-01. Show More. Swap-ready precision with ... 010-02875-01. Reviews. Q&A. What do you think about this product? Write a ...",
+      "snippet_highlighted_words": [
+        "010-02875-01",
+        "010-02875-01"
+      ],
+      "source": "Backcountry"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=%22010-02875-01%22+site%3Awww.backcountry.com&oq=%22010-02875-01%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=%22010-02875-01%22+site%3Awww.backcountry.com&oq=%22010-02875-01%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=%22010-02875-01%22+site%3Awww.backcountry.com&oq=%22010-02875-01%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=%22010-02875-01%22+site%3Awww.backcountry.com&oq=%22010-02875-01%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=%22010-02875-01%22+site%3Awww.backcountry.com&oq=%22010-02875-01%22+site%3Awww.backcountry.com&hl=en&gl=us&num=10&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%22010-02875-01%22+site%3Awww.backcountry.com&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%22010-02875-01%22+site%3Awww.backcountry.com&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%22010-02875-01%22+site%3Awww.backcountry.com&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%22010-02875-01%22+site%3Awww.backcountry.com&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%22010-02875-01%22+site%3Awww.backcountry.com&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=%22010-02875-01%22+site%3Awww.backcountry.com&start=40"
+    }
+  }
+}
