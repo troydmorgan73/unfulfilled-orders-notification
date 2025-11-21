@@ -3,3 +3,4 @@ __pycache__/
 .env
 .DS_Store
 ra-automations-a8ca194cbcac.json
+api/local_price_test.py
