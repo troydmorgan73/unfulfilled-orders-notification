@@ -15,26 +15,7 @@ from datetime import datetime, timedelta
 # 🔧 MANUAL CONFIGURATION (PLUG VALUES HERE)
 # ==========================================
 
-# 1. Your Shopify Admin Token (shpat_...)
-SHOPIFY_ACCESS_TOKEN = "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"
 
-# 2. Your Shop URL Name (e.g. '05fd36-2')
-SHOP_NAME = "05fd36-2"
-
-# 3. The full URL of your Google Sheet
-GOOGLE_SHEET_URL = "https://docs.google.com/spreadsheets/d/1bczxQ0tGRfeBlY59ijnlll_F2S2LjYcgoI7S7ia4LjU/edit?usp=sharing"
-
-# 4. The exact name of the tab to write to
-SHEET_TAB_NAME = "Price_Change_Log"
-
-# 5. Path to your Google JSON key file (Save your JSON content to this file)
-GOOGLE_CREDS_FILE = "ra-automations-a8ca194cbcac.json"
-
-# 6. Your Slack Webhook URL (Paste it here to test alerts)
-#    If you don't have one yet, just leave it as an empty string ""
-SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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" 
-
-# ==========================================
 
 API_VERSION = '2024-07'
 GRAPHQL_URL = f"https://{SHOP_NAME}.myshopify.com/admin/api/{API_VERSION}/graphql.json"
